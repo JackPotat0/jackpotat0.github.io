@@ -197,7 +197,7 @@ A decent fairy tale with a somewhat elaborate world with a grander plot, multipl
 
 ---
 
-### INTERESTING titles
+### **INTERESTING titles**
 *May not appeal to a lot of people, but still worth to check out*
 
 #### Final Fantasy VIII (PC)
@@ -229,3 +229,81 @@ It is waaaay too short for the price, could have use another dungeon or two, Cas
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A | B | A+ | B |  |
 
+### The Legend of Zelda: The Minish Cap (GBA)
+Another cute Zelda game. Has big WW energy.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| B | C | A | B |  |
+
+---
+
+### **PRETTY nice but skippable**
+*Don't waste money or time on these unless you can afford to. Not very memorable in any way.*
+
+#### Tokyo Xanadu Ex+ (PC)
+I will always use this phrase to describe this game: *Budget Persona 4 - Made with Lots of Love*. Seeing what Falcom had achieved with Trails in the Sky I am even more confused why is this is so mid. Contains every anime trope but does nothing interesting for the entire game. Some characters even looks like they are adapted from Persona 3/4. The main plot could have been fine but the True Ending had to ruin it. Somehow it managed to create a worse version of Kairi from KH, as if Kairi is not bad enough (no hate for Kairi here, she's pretty cute but nothing more than that). Combat is quite shallow but is the best part about it, most mechanics are just "I Win Buttons", at least there is dodge roll. Bosses ranges between too easy or too annoying. 
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| B | C | A+ | B |  |
+
+
+#### Persona Q (3DS)
+Meh Persona fanfic. All the characters you love becomes one dimensional and used for "comedy" purpose. Has a decent original plot though. Etrian Odyssey gameplay is cool. Way too easy to exploit once you know it.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| B | C | A- | A |  |
+
+
+### EH
+*Would suggest to avert your eyes from and skip these*
+
+#### Kingdom Hearts 358/2 Days (DS) 
+Played this for the story only cuz Roxas is my boy, Xion is eh. Definitely nailed the mundane life, if that is what the devs intended. Actually has a coherent story within which is the only good thing. Combat has some potential but largely wasted, definitely can be remade.
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| B | B | C | B | Roxas |
+
+#### Kingdom Hearts Birth by Sleep (PSP)
+PSP version is probably the worst way to experience this half of a train wreck. Aqua is the only saving grace out of this game.
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| C | D | D | A+ | Aqua |
+
+
+### **WATCHED playthroughs**
+- Persona 5/ 5 Royal
+- Final Fantasy XII, XIII, XIII-2, XV
+- Nier Replicant
+- Kingdom Hearts ReCOM, DDD, 3
+- Persona 2: Eternal Punishment 
+- The World Ends With You
+
+### **NEXT UPS/ONGOING**
+- Okami HD
+ 
+### **DROPPED**
+- Bravely Default (Job system hurts my brain, love the OST though)
+- Rogue Galaxy (Generally clunky, boring dungeons and OST)
+- Final Fantasy VI (SNES) (on hold, just didn't grab me...?)
+- Star Ocean: First Departure (PSP) (combat is too barebones, lack of real control, yeah Sakuraba i just dont like you that much)
+
+### **INTERESTED IN**
+- Final Fantasy XIII-2
+- Radiant Historia
+- Paper Mario: The Thousand Year Door
+- Ys 8: Lacrimosa of Dana
+- Ys SEVEN
+- Ys Memories of Celceta
+- Tales of Vesperia, Destiny DC
+- Legend of Mana
+- Lunar Silver Star Story
+- Chrono Cross
+- Illusion of Gaia/SoulBlazer
+- Legend of Dragoon
+- Shadow Hearts
+- Nier Automata
+- Radiata Stories
+- Trails from Zero/Trails to Azure
