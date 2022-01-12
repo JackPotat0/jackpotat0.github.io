@@ -256,22 +256,26 @@ Meh Persona fanfic. All the characters you love becomes one dimensional and used
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | B | C | A- | A |  |
 
+---
 
 ### EH
 *Would suggest to avert your eyes from and skip these*
 
 #### Kingdom Hearts 358/2 Days (DS) 
 Played this for the story only cuz Roxas is my boy, Xion is eh. Definitely nailed the mundane life, if that is what the devs intended. Actually has a coherent story within which is the only good thing. Combat has some potential but largely wasted, definitely can be remade.
+
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | B | B | C | B | Roxas |
 
 #### Kingdom Hearts Birth by Sleep (PSP)
 PSP version is probably the worst way to experience this half of a train wreck. Aqua is the only saving grace out of this game.
+
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | C | D | D | A+ | Aqua |
 
+---
 
 ### **WATCHED playthroughs**
 - Persona 5/ 5 Royal
@@ -281,14 +285,14 @@ PSP version is probably the worst way to experience this half of a train wreck. 
 - Persona 2: Eternal Punishment 
 - The World Ends With You
 
-### **NEXT UPS/ONGOING**
-- Okami HD
- 
 ### **DROPPED**
 - Bravely Default (Job system hurts my brain, love the OST though)
 - Rogue Galaxy (Generally clunky, boring dungeons and OST)
 - Final Fantasy VI (SNES) (on hold, just didn't grab me...?)
 - Star Ocean: First Departure (PSP) (combat is too barebones, lack of real control, yeah Sakuraba i just dont like you that much)
+
+### **NEXT UPS/ONGOING**
+- Okami HD
 
 ### **INTERESTED IN**
 - Final Fantasy XIII-2
