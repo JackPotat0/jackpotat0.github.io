@@ -11,7 +11,7 @@ This game serves as my first experience to speedrunning. I found [Bl00dyBizkit's
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| C | D | S+ | A+ | Roxas |
+| C | D | S+ | S | Roxas |
 
 
 #### **Persona 4 (PS2/Golden PC)**
@@ -51,7 +51,7 @@ A simple story does not mean that it is not meaningful or bad. The main cast onl
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| A- | S+ | S | S | Vi/Kabbu/Leif |
+| A | S+ | S | S | Vi/Kabbu/Leif |
 
 
 #### **Trails in the Sky FC+SC (PSP)** (I consider as one story split into two games) 
@@ -61,7 +61,7 @@ A simple story does not mean that it is not meaningful or bad. The main cast onl
 - Banger OST. From jazz to rock to emotional harmonicas. Take your pick. 
 - Good combat system, though a bit easy to exploit
 - Maybe the best localization ever existed in video games. Truly the soul of this game. The game is carried largely by this. They turned anime cliche dialogue into magic. Everyone's lines are witty and to the point.
-- FC ending is just perfect. Every single detail.
+- The ending for both games are just perfect. Every single detail.
 - **Estelle is Bestelle**
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
@@ -92,7 +92,7 @@ A very theme driven game and successfully brings out the message of facing death
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| S+ | S | C | A+ | Yukari/Aigis |
+| S+ | S | C | A+ | Yukari/Aigis/FeMC(Kotone/Hamuko/Minako) |
 
 #### Kingdom Hearts 1 (PS2)
 A simple Hero's Journey, but a great one. Unlike the later KH games, the main plot is tied nicely with the Disney worlds, making Sora's journey necessary and important to his character. One of the best execution for "Friendship is Power" trope. It can be cheesy but it is good because it is not baseless. Combat is simple and effective but the camera... did not age too well.
@@ -109,7 +109,7 @@ Actually a better Zelda game than WW in terms of complexity and combat. Midna is
 | A- | A | A | A | Midna/Link | 
 
 #### The Legend of Zelda: Majora's Mask (N64)
-This game gets full marks in atmosphere and world crafting. Not a fan of non linear gameplay (had to follow the guide to clear it) but I appreciate it exists.
+This game gets full marks in atmosphere and world crafting. Not a fan of non linear gameplay (had to follow a guide to clear it) but I appreciate it exists.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -171,14 +171,14 @@ Decent story and characters. Probably my favourite FF combat system so far. Havi
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| S | A | A | S | Aerith/Tifa |
+| S | A | A | S+ | Aerith/Tifa |
 
 #### Terranigma (SNES)
 Truly an ARPG ahead of its time. Great OST to create the mysterious and sombre atmosphere. Slightly dark/bittersweet ending is a nice touch. Surprisingly having some decent cast. Ark is simply a better Crono from Chrono Trigger.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| A | B | A+ | S+ | Aerith/Tifa |
+| A | B | A+ | S+ |  |
 
 
 #### Trails in the Sky the 3rd (PC)
@@ -188,4 +188,43 @@ Spin off ish. Nice to see some detailed character back story and future moves. S
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A | S | S | A+ |  |
 
+### Odin Sphere (PS2) 
+A decent fairy tale with a somewhat elaborate world with a grander plot, multiple characters, everyone have arcs ranging from amazing to OK, decent OST. Combat can be clunky and alchemy can be a bit confusing. Also challenges resource management quite a bit due to very limited inventory.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| A+ | S | A | A | Gwendolyn/Mercedes/Cornelius |
+
+
+### INTERESTING titles
+*May not appeal to a lot of people, but still worth to check out*
+
+#### Final Fantasy VIII (PC)
+Plot: Mess, Characters (esp Squall and Rinoa): Beautiful, Gameplay: Mess, Music: Beautiful. Rated beautiful mess. Basically only Squall and Rinoa are the stars of this game. The important bits of other characters are either hidden in side quests or simply non existent. Seifer is such a wasted opportunity as a great rival to Squall. They could have done so much better with the story. Great OST, good use of motifs without making it repetitive like FFX. The gameplay... just nope. I used boosters in this game and did not regret a single bit.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| B | A+ | D | S+ | Squall |
+
+#### Super Mario RPG (SNES)
+Nice little game. 
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| C | C | A | A+ |  |
+
+
+#### Persona 2: Innocent Sin (PSP) 
+Weird game. I am so glad PSP version is that easy i never fused a single persona (read: never engaged with battle system). Story is fine but sure can get weird very fast. Sadly I didn't like the music as much as I wanted to. Liked how no one is crafted as waifu/husbando or into specific tropes and equally reveals their lovable and hatable points.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| A | A+ | C | A- | Lisa/Maya |
+
+#### Child of Light 
+It is waaaay too short for the price, could have use another dungeon or two, casual is a bit too easy but uh who would expect normal RPG gamer mode is named Expert. Nice combat system though can feel slow every battle. Nice little fairy tale but far weaker than Odin Sphere, half decent cast that has short stories tied into their quest but did not have any meaningful development in any way.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| A | B | A+ | B |  |
 
