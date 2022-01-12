@@ -1,7 +1,7 @@
 ## Video Games Collection
 
 I only got in touch with video games in my late teens so I didn't get to play too much of them. Moreover life is getting in my way slowly but surely.
-** Scores are ranked based on personal preference
+** Scores are ranked based on personal preferences
 
 ### **ALL TIME favourites**
 *The games that changed my gaming view (ruin other games) in one way or another. Feel free to debate with me on these games.*
@@ -19,11 +19,11 @@ My first Persona game. This game captures the feeling of living a (not so) simpl
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| A | S+ | A | S | Rise/Naoto/Yosuke |
+| S | S+ | A | S | Rise/Naoto/Yosuke |
 
 
 #### **Final Fantasy X (PC)** 
-My first Final Fantasy game. Absolutely love the characters, the world and the plot. It is an epic yet emotional journey and in the end you are really convinced that *This IS Tidus's story*. The first video game ending that made me almost cried real tears. But I suck at this game, can't even finish a guided speedrun. And yes the OST is definitely not the greatest FF OST despite having two of the best motifs in the series.
+My first Final Fantasy game. Absolutely love the characters, the world and the plot. It is an epic yet emotional journey and in the end you are really convinced that this IS Tidus's story. The first video game ending that made me almost cried real tears. But I suck at this game, can't even finish a guided speedrun. And yes the OST is definitely not the greatest FF OST despite having two of the best motifs in the series.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -39,7 +39,7 @@ My first Zelda game. The game aged like fine wine. It is overflowing with charm 
 
 
 #### **Tales of Berseria (PC)** 
-The plot is refreshing and engaging and heavily theme driven. Almost every main character ties heavily into the main plot from the beginning to the end and brings out the theme in various different angles. The story execution and the ending is next to perfect. My eyes are definitely sweating during the sequence. The cast also has strong personality and have fantastic interaction with each other. Completed most sidequests and I am normally a no-sidequest player. The things that drags it down are the bad dungeons(literal hallways) and less memorable OST. 
+The plot is refreshing and engaging and heavily theme/character driven. Almost every main character ties heavily into the main plot from the beginning to the end and brings out the theme in various different angles. The story execution and the ending is next to perfect. My eyes are definitely sweating during the sequence. The cast also has strong personality and have fantastic interaction with each other. Completed most sidequests and I am normally a no-sidequest player. The things that drags it down are the bad dungeons(literal hallways) and less memorable OST. 
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -160,14 +160,14 @@ very good game but metroidvania is not my type. Also not a fan of western atmosp
 | B | B | A | B |  |
 
 #### Tales of the Abyss (PS2)
-Great story, props to the scriptwriter for having the balls to write this kind of story. Luke's development is arguably one of the best in all of JRPGs. The other cast goes from decent to great(Anise can kindly fk off tho). The combat is a direct upgrade from Symphonia and is so so much better with the addition of Free Run. I loved the FoF mechanic. The pacing can be odd, way too many back and forth in between world maps. Guy is in the top 10 dudebros in JRPG history and no one can change my mind. Sadly its OST is all time low, only some important battle themes stand out, and the rest sounding too much like Symphonia or simply forgettable. Shoutouts to the anime, it is a fantastic adaptation and you should watch it.
+Great story, props to the scriptwriter for having the balls to write this kind of story. Luke's development is arguably one of the best in all of JRPGs. The other cast goes from decent to great (Anise can kindly fk off tho). The combat is a direct upgrade from Symphonia and is so so much better with the addition of Free Run. I loved the FoF mechanic. The pacing can be odd, way too many back and forth in between world maps. Guy is in the top 10 dudebros in JRPG history and no one can change my mind. Sadly its OST is all time low, only some important battle themes stand out, and the rest sounding too much like Symphonia or simply forgettable. Shoutouts to the anime, it is a fantastic adaptation and you should watch it.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | S+ | S | A+ | C | Luke/Guy/Jade |
 
 #### Final Fantasy VII (PS1)
-Decent story and characters. Probably my favourite FF combat system so far. Having an event driven plot makes the characters feel a bit lacking. And the translation is indeed trash as it is almost impossible to understand the main plot correctly without explanations online. 
+Decent story and characters. Probably my favourite FF combat system (materia system) so far. Having an event driven plot makes the characters feel a bit lacking. And the translation is indeed trash as it is almost impossible to understand the main plot correctly without explanations online. I highly recommend to emulate if you can accept the LEGO block models.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -182,14 +182,14 @@ Truly an ARPG ahead of its time. Great OST to create the mysterious and sombre a
 
 
 #### Trails in the Sky the 3rd (PC)
-Spin off ish. Nice to see some detailed character back story and future moves. Serviceable main plot compared to FC+SC. Kevin and Ries are great and all but didn't really hit as hard.
+A spin off ish game but not. Nice to see some detailed character back story and future moves. Serviceable main plot compared to FC+SC. Kevin and Ries are great and all but didn't really hit as hard.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A | S | S | A+ |  |
 
 #### Odin Sphere (PS2) 
-A decent fairy tale with a somewhat elaborate world with a grander plot, multiple characters, everyone have arcs ranging from amazing to OK, decent OST. Combat can be clunky and alchemy can be a bit confusing. Also challenges resource management quite a bit due to very limited inventory.
+A decent fairy tale with a somewhat elaborate world with a grander plot, multiple characters, everyone have arcs ranging from amazing to OK, decent OST. Combat can be clunky and alchemy can be a bit confusing. Also challenges resource management quite a bit due to very limited inventory. It features JP and English dub too, which is most rare in PS2 games.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -206,14 +206,6 @@ Plot: Mess, Characters (esp Squall and Rinoa): Beautiful, Gameplay: Mess, Music:
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | B | A+ | D | S+ | Squall |
-
-#### Super Mario RPG (SNES)
-Nice little game. 
-
-| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
-| ------------- | ------------- | --------- | ------------ | --------------- |
-| C | C | A | A+ |  |
-
 
 #### Persona 2: Innocent Sin (PSP) 
 Weird game. I am so glad PSP version is that easy i never fused a single persona (read: never engaged with battle system). Story is fine but sure can get weird very fast. Sadly I didn't like the music as much as I wanted to. Liked how no one is crafted as waifu/husbando or into specific tropes and equally reveals their lovable and hatable points.
@@ -242,7 +234,7 @@ Another cute Zelda game. Has big WW energy.
 *Don't waste money or time on these unless you can afford to. Not very memorable in any way.*
 
 #### Tokyo Xanadu Ex+ (PC)
-I will always use this phrase to describe this game: *Budget Persona 4 - Made with Lots of Love*. Seeing what Falcom had achieved with Trails in the Sky I am even more confused why is this is so mid. Contains every anime trope but does nothing interesting for the entire game. Some characters even looks like they are adapted from Persona 3/4. The main plot could have been fine but the True Ending had to ruin it. Somehow it managed to create a worse version of Kairi from KH, as if Kairi is not bad enough (no hate for Kairi here, she's pretty cute but nothing more than that). Combat is quite shallow but is the best part about it, most mechanics are just "I Win Buttons", at least there is dodge roll. Bosses ranges between too easy or too annoying. 
+I will always use this phrase to describe this game: *Budget Persona 4 - Made with Lots of Love*. Seeing what Falcom had achieved with Trails in the Sky I am even more confused why is this so mid. It contains every anime trope but does nothing interesting for the entire game. Some characters even looks like they are directly adapted from Persona 3/4. The main plot could have been fine but the True Ending had to ruin it. Somehow it managed to create another Kairi from KH, as if Kairi is not bad enough (no hate for Kairi here, she's pretty cute but nothing more than that). Combat is quite shallow and simple but is the best part about it, most mechanics are just "I Win Buttons", at least there is dodge roll. Bosses ranges between too easy or too annoying. 
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -250,15 +242,22 @@ I will always use this phrase to describe this game: *Budget Persona 4 - Made wi
 
 
 #### Persona Q (3DS)
-Meh Persona fanfic. All the characters you love becomes one dimensional and used for "comedy" purpose. Has a decent original plot though. Etrian Odyssey gameplay is cool. Way too easy to exploit once you know it.
+Meh Persona fanfic. All the characters you love become one dimensional and are used for "comedy" purpose. Has a decent original plot though. Etrian Odyssey gameplay is cool. Way too easy to exploit once you know it.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | B | C | A- | A |  |
 
+#### Super Mario RPG (SNES)
+Nice little game. 
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| C | C | A | A+ |  |
+
 ---
 
-### EH
+### **EH**
 *Would suggest to avert your eyes from and skip these*
 
 #### Kingdom Hearts 358/2 Days (DS) 
@@ -278,9 +277,9 @@ PSP version is probably the worst way to experience this half of a train wreck. 
 ---
 
 ### **WATCHED playthroughs**
-- Persona 5/ 5 Royal
+- Persona 5/ Persona 5 Royal (Yes I am the Persona fan that's never played P5)
 - Final Fantasy XII, XIII, XIII-2, XV
-- Nier Replicant
+- Nier Replicant ver.1.22
 - Kingdom Hearts ReCOM, DDD, 3
 - Persona 2: Eternal Punishment 
 - The World Ends With You
