@@ -23,7 +23,7 @@ My first Persona game. This game captures the feeling of living a (not so) simpl
 
 
 #### **Final Fantasy X (PC)** 
-My first Final Fantasy game. Absolutely love the characters, the world and the plot. It is an epic yet emotional journey and in the end you are really convinced that *This IS Tidus's story*. The first game that made me almost cried real tears. But I suck at this game, can't even finish a guided run. And yes the OST is definitely not the greatest FF OST despite having two of the best motifs in the series.
+My first Final Fantasy game. Absolutely love the characters, the world and the plot. It is an epic yet emotional journey and in the end you are really convinced that *This IS Tidus's story*. The first video game ending that made me almost cried real tears. But I suck at this game, can't even finish a guided speedrun. And yes the OST is definitely not the greatest FF OST despite having two of the best motifs in the series.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -39,7 +39,7 @@ My first Zelda game. The game aged like fine wine. It is overflowing with charm 
 
 
 #### **Tales of Berseria (PC)** 
-The plot is refreshing and engaging and heavily theme driven. Almost every main character ties heavily into the main plot from the beginning to the end and brings out the theme in various different angles. The story execution and the ending is next to perfect. The cast also has strong personality and have fantastic interaction with each other. Completed most sidequests and I am normally a no-sidequest player. The things that drags it down are the bad dungeons(literal hallways) and less memorable OST.
+The plot is refreshing and engaging and heavily theme driven. Almost every main character ties heavily into the main plot from the beginning to the end and brings out the theme in various different angles. The story execution and the ending is next to perfect. The cast also has strong personality and have fantastic interaction with each other. Completed most sidequests and I am normally a no-sidequest player. The things that drags it down are the bad dungeons(literal hallways) and less memorable OST. The ending is perfect and my eyes are definitely sweating during the sequence.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -47,7 +47,7 @@ The plot is refreshing and engaging and heavily theme driven. Almost every main 
 
 
 #### **Bug Fables: The Everlasting Sapling (PC)**
-A simple story does not mean that it is not meaningful or bad. The main cast only consists of three characters and the story is their adventure to obtain a treasure. But this gives substantial development and attachment for all three of them. Their conversation feels like real people are role playing the characters and NPCs. Paper Mario style gameplay is great, giving an easy way to wreck the game is great for turn based noob like me. The OST is definitely inspired from Mario and similiar genres, a composer that should be watched with great interest.
+A simple story does not mean that it is not meaningful or bad. The main cast only consists of three characters and the story is their adventure to obtain a treasure. But this gives substantial development and attachment for all three of them. Their conversation feels like real people are role playing the characters and NPCs. Paper Mario style gameplay is great, giving an easy way to wreck the game is great for turn based noob like me. The OST is definitely inspired from Mario and similiar genres, a composer that should be watched with great interest. Done some runs before.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -61,6 +61,7 @@ A simple story does not mean that it is not meaningful or bad. The main cast onl
 - Banger OST. From jazz to rock to emotional harmonicas. Take your pick. 
 - Good combat system, though a bit easy to exploit
 - Maybe the best localization ever existed in video games. Truly the soul of this game. The game is carried largely by this. They turned anime cliche dialogue into magic. Everyone's lines are witty and to the point.
+- FC ending is just perfect. Every single detail.
 - **Estelle is Bestelle**
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
@@ -101,7 +102,7 @@ A simple Hero's Journey, but a great one. Unlike the later KH games, the main pl
 | S | A | A | S | Sora | 
 
 #### The Legend of Zelda: Twilight Princess (GC)
-Actually a better Zelda game than WW in terms of complexity and combat. Midna is a great character and added a lot to the simple plot. Wolf Link is cool and my favourite Link in the series.
+Actually a better Zelda game than WW in terms of complexity and combat. Midna is a great character and added a lot to the simple plot. Wolf Link is cool and TP Link is my favourite Link in the series.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -145,7 +146,7 @@ It is a classic alright. Definitely prefer this over MM for linearity.
 
 
 #### Chrono Trigger (SNES)
-The game that 100% its reputation of all time JRPG classic. Many elements that are ahead of the time like non random encounters and character based sidequests. Highly polished and rich in content for the time. Jets of Time randomizer is sick.
+The game that 100% deserves its reputation of all time JRPG classic. Many elements that are ahead of the time like non random encounters and character based sidequests. Highly polished and rich in content for the time. Jets of Time randomizer is sick.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -159,7 +160,7 @@ very good game but metroidvania is not my type. Also not a fan of western atmosp
 | B | B | A | B |  |
 
 #### Tales of the Abyss (PS2)
-Great story, props to the scriptwriter for having the balls to write this kind of story. Luke's development is arguably one of the best in all of JRPGs. The other cast goes from decent to great(Anise can kindly fk off tho). The combat is a direct upgrade from Symphonia and is so so much better with the addition of Free Run. I loved the FoF mechanic. The pacing can be odd, way too many back and forth in between world maps. Guy is in the top 10 dudebros in JRPG history and no one can change my mind. Sadly its OST is all time low, only some important battle themes stand out, and the rest sounding too much like Symphonia or simply forgettable.
+Great story, props to the scriptwriter for having the balls to write this kind of story. Luke's development is arguably one of the best in all of JRPGs. The other cast goes from decent to great(Anise can kindly fk off tho). The combat is a direct upgrade from Symphonia and is so so much better with the addition of Free Run. I loved the FoF mechanic. The pacing can be odd, way too many back and forth in between world maps. Guy is in the top 10 dudebros in JRPG history and no one can change my mind. Sadly its OST is all time low, only some important battle themes stand out, and the rest sounding too much like Symphonia or simply forgettable. Shoutouts to the anime, it is a fantastic adaptation and you should watch it.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
