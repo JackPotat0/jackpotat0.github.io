@@ -39,7 +39,7 @@ My first Zelda game. The game aged like fine wine. It is overflowing with charm 
 
 
 #### **Tales of Berseria (PC)** 
-The plot is refreshing and engaging and heavily theme driven. Almost every main character ties heavily into the main plot from the beginning to the end and brings out the theme in various different angles. The story execution and the ending is next to perfect. The cast also has strong personality and have fantastic interaction with each other. Completed most sidequests and I am normally a no-sidequest player. The things that drags it down are the bad dungeons(literal hallways) and less memorable OST. The ending is perfect and my eyes are definitely sweating during the sequence.
+The plot is refreshing and engaging and heavily theme driven. Almost every main character ties heavily into the main plot from the beginning to the end and brings out the theme in various different angles. The story execution and the ending is next to perfect. My eyes are definitely sweating during the sequence. The cast also has strong personality and have fantastic interaction with each other. Completed most sidequests and I am normally a no-sidequest player. The things that drags it down are the bad dungeons(literal hallways) and less memorable OST. 
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -188,13 +188,14 @@ Spin off ish. Nice to see some detailed character back story and future moves. S
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A | S | S | A+ |  |
 
-### Odin Sphere (PS2) 
+#### Odin Sphere (PS2) 
 A decent fairy tale with a somewhat elaborate world with a grander plot, multiple characters, everyone have arcs ranging from amazing to OK, decent OST. Combat can be clunky and alchemy can be a bit confusing. Also challenges resource management quite a bit due to very limited inventory.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A+ | S | A | A | Gwendolyn/Mercedes/Cornelius |
 
+---
 
 ### INTERESTING titles
 *May not appeal to a lot of people, but still worth to check out*
@@ -221,8 +222,8 @@ Weird game. I am so glad PSP version is that easy i never fused a single persona
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A | A+ | C | A- | Lisa/Maya |
 
-#### Child of Light 
-It is waaaay too short for the price, could have use another dungeon or two, casual is a bit too easy but uh who would expect normal RPG gamer mode is named Expert. Nice combat system though can feel slow every battle. Nice little fairy tale but far weaker than Odin Sphere, half decent cast that has short stories tied into their quest but did not have any meaningful development in any way.
+#### Child of Light (PC)
+It is waaaay too short for the price, could have use another dungeon or two, Casual is a bit too easy but who would expect normal RPG gamer mode to be named Expert. Nice combat system though can feel slow every battle. Nice little fairy tale but far weaker than Odin Sphere, half decent cast that has short stories tied into their quest but did not have any meaningful development in any way.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
