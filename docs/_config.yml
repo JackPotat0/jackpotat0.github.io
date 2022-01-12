@@ -1,9 +1,18 @@
 title: "JackPotato"
+
 remote_theme: pmarsceill/just-the-docs
+
 color_scheme: "dark"
+
 # Aux links for the upper right navigation
 aux_links:
   "Twitch":
     - "//twitch.tv/jackpotat0"
   "GitHub Repo":
     - "//github.com/JackPotat0/jackpotat0.github.io"
+
+# Enable or disable the site search
+search_enabled: false
+
+# Enable or disable heading anchors
+heading_anchors: true
