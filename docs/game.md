@@ -7,7 +7,7 @@ I only got in touch with video games in my late teens so I didn't get to play to
 *The games that changed my gaming view (ruin other games) in one way or another. Feel free to debate with me on these games.*
 
 #### **Kingdom Hearts 2 Final Mix (PS2)**
-This game serves as my first experience to speedrunning. I found [Bl00dyBizkit's AGDQ2017 run](https://www.youtube.com/watch?v=PVjf3bc3Noo&t=4588s) when looking for Roxas strats and the rest is history, and this is still my favourite speedrun. I play the randomizer a lot and learnt some speedrun strats. Everything about combat in this game (aside from some questionable boss designs) is just perfect. 
+This game serves as my first experience to speedrunning. I found [Bl00dyBizkit's AGDQ2017 run](https://www.youtube.com/watch?v=PVjf3bc3Noo&t=4588s) when looking for Roxas strats and the rest is history. This is still my favourite speedrun of all time. I play the randomizer a lot and learnt some speedrun strats. Everything about combat in this game (aside from some questionable boss designs) is just perfect. 
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -23,7 +23,7 @@ My first Persona game. This game captures the feeling of living a (not so) simpl
 
 
 #### **Final Fantasy X (PC)** 
-My first Final Fantasy game. Absolutely love the characters, the world and the plot. It is an epic yet emotional journey and in the end you are really convinced that this IS Tidus's story. The first video game ending that made me almost cried real tears. But I suck at this game, can't even finish a guided speedrun. And yes the OST is definitely not the greatest FF OST despite having two of the best motifs in the series.
+My first Final Fantasy game. Absolutely love the characters, the world and the plot. It is an epic yet emotional journey and in the end you are really convinced that this IS Tidus's story. The first video game ending that made me almost cried real tears. But I suck at this game, can't even finish a guided speedrun. And yes the OST is definitely not the greatest FF OST despite having two of the best motifs in the series. Any and all FFX sequels do not exist.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -47,7 +47,7 @@ The plot is refreshing and engaging and heavily theme/character driven. Almost e
 
 
 #### **Bug Fables: The Everlasting Sapling (PC)**
-A simple story does not mean that it is not meaningful or bad. The main cast only consists of three characters and the story is their adventure to obtain a treasure. But this gives substantial development and attachment for all three of them. Their conversation feels like real people are role playing the characters and NPCs. Paper Mario style gameplay is great, giving an easy way to wreck the game is great for turn based noob like me. The OST is definitely inspired from Mario and similiar genres, a composer that should be watched with great interest. Done some runs before.
+A simple story does not mean that it is not meaningful or bad. The main cast only consists of three characters and the story is their adventure to obtain a treasure. But this gives substantial development and attachment for all three of them. Their conversation feels like real people are role playing the characters and NPCs. Paper Mario style gameplay is great, giving an easy way to wreck the game is great for turn based noob like me (All hail Weak Stomach). The OST is definitely inspired from Mario and similiar genres, a composer that should be watched with great interest. Done some runs before.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -74,7 +74,7 @@ A simple story does not mean that it is not meaningful or bad. The main cast onl
 *I would highly suggest you to give these a try.*
 
 #### Ys: Oath in Felghana
-Makes you wonder if you are playing bullet hell or an ARPG
+Makes you wonder if you are playing a bullet hell or an ARPG
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -85,7 +85,7 @@ Similiar to Ys:OiF, but you get to play with three characters on the same map, i
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| A- | A | A | A |  |
+| A- | A | A+ | A |  |
 
 #### Persona 3 FES (PS2) / Persona 3 Portable (PSP)
 A very theme driven game and successfully brings out the message of facing death and living in a compelling way. The OST though good is not my style. There are some glaring issues like imbalanced pacing, tedious dungeon climbing and questionable social links but still makes for a great experience. The four movies can be an acceptable way to experience the main plot as that is what makes this game shine.
@@ -113,7 +113,7 @@ This game gets full marks in atmosphere and world crafting. Not a fan of non lin
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| A- | S | A | B |  |
+| A- | S | B | B |  |
 
 #### To the Moon (PC)
 More like an interactive visual novel. An emotional story with a thick plot behind. 
@@ -142,7 +142,7 @@ It is a classic alright. Definitely prefer this over MM for linearity.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| B | B | S- | A |  |
+| B | B | A | A |  |
 
 
 #### Chrono Trigger (SNES)
@@ -178,7 +178,7 @@ Truly an ARPG ahead of its time. Great OST to create the mysterious and sombre a
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| A | B | A+ | S+ |  |
+| A | A- | A+ | S+ |  |
 
 
 #### Trails in the Sky the 3rd (PC)
@@ -242,7 +242,7 @@ I will always use this phrase to describe this game: *Budget Persona 4 - Made wi
 
 
 #### Persona Q (3DS)
-Meh Persona fanfic. All the characters you love become one dimensional and are used for "comedy" purpose. Has a decent original plot though. Etrian Odyssey gameplay is cool. Way too easy to exploit once you know it.
+Meh Persona fanfic. All the characters you love become one dimensional and are used for "comedy" purpose. Has a decent original plot though. Etrian Odyssey gameplay is cool. Way too easy to exploit once you know it (Poison/Light+Dark skills).
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
