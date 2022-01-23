@@ -195,6 +195,13 @@ A decent fairy tale with a somewhat elaborate world with a grander plot, multipl
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A+ | S | A | A | Gwendolyn/Mercedes/Cornelius |
 
+#### Okami HD (PC) 
+The Zelda game that is not named Zelda, feels a lot like Twilight Princess overall (wolf with a small sidekick and cleansing the world part). Running and jumping around as a cool wolf is fun. Beautiful Japanese artstyle. Brush gameplay is cool. Sadly the combat is jut about the same as TP - too many tools made the fights too easy. The puzzles are really quite easy but can stuck in some places similar to Wind Waker. The story is the simple save the world plot, but a lot goofier than I imagined. They really should have keep everything in one act instead of having multiple acts that shreds the hype. Boss reuse is pretty bad, not adding anything new even. Music is purely atmospheric.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| A | A | A- | B | Ammy the Furball |
+
 ---
 
 ### **INTERESTING titles**
