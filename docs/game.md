@@ -196,7 +196,7 @@ A decent fairy tale with a somewhat elaborate world with a grander plot, multipl
 | A+ | S | A | A | Gwendolyn/Mercedes/Cornelius |
 
 #### Okami HD (PC) 
-The Zelda game that is not named Zelda, feels a lot like Twilight Princess overall (wolf with a small sidekick and cleansing the world part). Running and jumping around as a cool wolf is fun. Beautiful Japanese artstyle. Brush gameplay is cool. Sadly the combat is jut about the same as TP - too many tools made the fights too easy. The puzzles are really quite easy but can stuck in some places similar to Wind Waker. The story is the simple save the world plot, but a lot goofier than I imagined. They really should have keep everything in one act instead of having multiple acts that shreds the hype. Boss reuse is pretty bad, not adding anything new even. Music is purely atmospheric.
+The Zelda game that is not named Zelda, feels a lot like Twilight Princess overall (wolf with a small sidekick and cleansing the world part). Running and jumping around as a cool wolf is fun. Beautiful Japanese artstyle. Brush gameplay is cool. Sadly the combat is just about the same as TP - too many tools made the fights too easy. The puzzles are really quite easy but can stuck in some places similar to Wind Waker, some parkours are pretty challenging IMO. The story is the simple save the world plot, but a lot goofier than I imagined. They really should have kept everything in one act instead of having multiple acts that shreds the hype. Boss reuse is pretty bad, not adding anything new even. Music is purely atmospheric. Derpy Ammy is pretty great.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -297,11 +297,10 @@ PSP version is probably the worst way to experience this half of a train wreck. 
 - Final Fantasy VI (SNES) (on hold, just didn't grab me...?)
 - Star Ocean: First Departure (PSP) (combat is too barebones, lack of real control, yeah Sakuraba i just dont like you that much)
 
-### **NEXT UPS/ONGOING**
-- Okami HD
+### **NEXT UP/ONGOING**
+- Final Fantasy IX
 
 ### **INTERESTED IN**
-- Final Fantasy XIII-2
 - Radiant Historia
 - Paper Mario: The Thousand Year Door
 - Ys 8: Lacrimosa of Dana
