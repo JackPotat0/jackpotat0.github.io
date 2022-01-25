@@ -316,3 +316,26 @@ PSP version is probably the worst way to experience this half of a train wreck. 
 - Nier Automata
 - Radiata Stories
 - Trails from Zero/Trails to Azure
+
+
+---
+### **Series Ranking**
+Based on overall enjoyment. Order may be different based on different aspects.
+
+#### **Final Fantasy**
+X > IX > VII > VIII
+
+#### **Tales of**
+Berseria > Abyss > Symphonia
+
+#### **Kingdom Hearts**
+2 > 1 >> Days > BBS
+
+#### **Persona**
+4 > 3 >>> Q
+
+#### **Ys**
+Origin ~> Felghana 
+
+#### **Zelda**
+The Wind Waker > Twilight Princess >> Minish Cap = Ocarina of Time > Majora's Mask
