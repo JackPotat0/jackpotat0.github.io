@@ -56,7 +56,7 @@ A simple story does not mean that it is not meaningful or bad. The main cast onl
 
 #### **Trails in the Sky FC+SC (PSP)** (I consider as one story split into two games) 
 - Elaborate world building
-- Great cast chemistry. Not just Estelle between others, but other party members among each other too. Makes you forget they are really not that unique outside their archetypes.
+- Great cast chemistry. Not just Estelle between others, but other party members among each other too. Makes you forget they are really not that unique within their archetypes.
 - Natural character growth. You spent about 80 hours with Estelle and seeing her growing from a naive girl to a matured and competent Bracer is simply inspiring.
 - Banger OST. From jazz to rock to emotional harmonicas. Take your pick. 
 - Good combat system, though a bit easy to exploit
