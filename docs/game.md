@@ -19,7 +19,7 @@ My first Persona game. This game captures the feeling of living a (not so) simpl
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| S | S+ | A | S | Rise/Naoto/Yosuke |
+| S | S+ | S- | S | Rise/Naoto/Yosuke |
 
 
 #### **Final Fantasy X (PC)** 
@@ -66,7 +66,21 @@ A simple story does not mean that it is not meaningful or bad. The main cast onl
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| S+ | S+ | S | S+ | Estelle/Joshua/Kloe |
+| S+ | S+ | S | S+ | Estelle/Joshua/Kloe | 
+
+
+#### **Final Fantasy IX (PS1)**
+I am struggling to decide whether to put this here or the next category. I had been blinded by the internet that this is not for me, and boy is that WRONG. This could easily be my favourite FF if I had played this before FFX (though FFX is still the better introductory FF imo). This is a really solid game without a lot to complain.
+
+It is interesting to see how the storytelling in the series evolved throughout FFVII to FFX. It fixed most issues in FFVIII story wise and set a great groundwork for FFX. Garnet/Dagger is written wonderfully and acts like a real 16 year old girl under the circumstances. Zidane is a refreshing protagonist as he is a largely developed character at the beginning and has a nice arc wrapping up his character near the end. The other characters also stayed as relevant for as long as possible (maybe not Amarant, he is definitely the weakest in the narative). **Vivi is precious and must be protected.** The theme of life and its purpose is quite timeless and thought provoking.
+
+I liked how everyone has a fixed role that cannot be changed. Getting new equipments is exciting with the weapon ability system. The slow load times and long animations are real but can be easily solved with emulator speedups (and I believe the battle theme is synced to the long battle loads). The world map is easy to navigate and the encounter rate is really acceptable. Quina is the first blue mage I used extensively (7=I don't like Cait Sith, 8=I don't do encounters after getting No-Enc from Diablos, 10=Kimahri and blue magic is just useless most of the time.). The only complaint about it is the Trance system with too much randomness.
+
+Soundrack wise I still prefer FFVII and FFVIII's OST slightly but still a win over FFX OST overall. And I like some dungeon music (Mount Gulug), which is a rare case for me. Melodies of Life is also a great motif and used with a lot of care.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| S | S | S- | S | Zidane/Garnet/Vivi |
 
 ---
 
@@ -167,7 +181,7 @@ Great story, props to the scriptwriter for having the balls to write this kind o
 | S+ | S | A+ | C | Luke/Guy/Jade |
 
 #### Final Fantasy VII (PS1)
-Decent story and characters. Probably my favourite FF combat system (materia system) so far. Having an event driven plot makes the characters feel a bit lacking. And the translation is indeed trash as it is almost impossible to understand the main plot correctly without explanations online. I highly recommend to emulate if you can accept the LEGO block models.
+Decent story and characters. Having an event driven plot makes the characters feel a bit lacking. And the translation is indeed trash as it is almost impossible to understand the main plot correctly without explanations online. I highly recommend to emulate if you can accept the LEGO block models.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
