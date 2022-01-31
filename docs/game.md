@@ -13,6 +13,7 @@ This game serves as my first experience to speedrunning. I found [Bl00dyBizkit's
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | C | D | S+ | S | Roxas |
 
+Best tracks: Darkness of the Unknown, Dearly Beloved, The Other Promise
 
 #### **Persona 4 (PS2/Golden PC)**
 My first Persona game. This game captures the feeling of living a (not so) simple student life in a small town and just hanging out with friends. The cast is very endearing and full of personality. Immediately started NG+ right after NG, almost 100% except fighting Margaret, learnt speedrun routes for P4G.
@@ -21,6 +22,7 @@ My first Persona game. This game captures the feeling of living a (not so) simpl
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | S | S+ | S- | S | Rise/Naoto/Yosuke |
 
+Best tracks: I'll Face Myself (Battle Version), Heartbeat Heartbreak, Snowflakes
 
 #### **Final Fantasy X (PC)** 
 My first Final Fantasy game. Absolutely love the characters, the world and the plot. It is an epic yet emotional journey and in the end you are really convinced that this IS Tidus's story. The first video game ending that made me almost cried real tears. But I suck at this game, can't even finish a guided speedrun. And yes the OST is definitely not the greatest FF OST despite having two of the best motifs in the series. Any and all FFX sequels do not exist.
@@ -29,6 +31,7 @@ My first Final Fantasy game. Absolutely love the characters, the world and the p
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | S+ | S+ | A | A | Tidus/Yuna |
 
+Best tracks: To Zanarkand, Suteki da ne, Assault
 
 #### **The Legend of Zelda: The Wind Waker (GC)** 
 My first Zelda game. The game aged like fine wine. It is overflowing with charm with its cutesy and colourful designs. The perfect introductory Zelda IMO. I also invested quite a lot of time in the randomizer to become semi proficient.
@@ -37,6 +40,7 @@ My first Zelda game. The game aged like fine wine. It is overflowing with charm 
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | B | A | S | A+ | Toon Link |
 
+Best tracks: Dragon Roost Island, Great Sea, Molgera
 
 #### **Tales of Berseria (PC)** 
 The plot is refreshing and engaging and heavily theme/character driven. Almost every main character ties heavily into the main plot from the beginning to the end and brings out the theme in various different angles. The story execution and the ending is next to perfect. My eyes are definitely sweating during the sequence. The cast also has strong personality and have fantastic interaction with each other. Completed most sidequests and I am normally a no-sidequest player. The things that drags it down are the bad dungeons(literal hallways) and less memorable OST. 
@@ -44,6 +48,8 @@ The plot is refreshing and engaging and heavily theme/character driven. Almost e
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | S+ | S+ | D | A- | Velvet/Eleanor |
+
+Best tracks: Shout Your Soul, True Will, Eleanor's Theme
 
 
 #### **Bug Fables: The Everlasting Sapling (PC)**
@@ -53,6 +59,7 @@ A simple story does not mean that it is not meaningful or bad. The main cast onl
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A | S+ | S | S | Vi/Kabbu/Leif |
 
+Best tracks: Team, This One's Stronger!, FIGHT!, Team, It's Getting Serious!
 
 #### **Trails in the Sky FC+SC (PSP)** (I consider as one story split into two games) 
 - Elaborate world building
@@ -68,6 +75,7 @@ A simple story does not mean that it is not meaningful or bad. The main cast onl
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | S+ | S+ | S | S+ | Estelle/Joshua/Kloe | 
 
+Best tracks: Confessions, Sophiscated Fight, Whereabouts of Stars, The Fate of the Fairies, Whereabouts of Hope, Shine of Aidios
 
 #### **Final Fantasy IX (PS1)**
 I am struggling to decide whether to put this here or the next category. I had been blinded by the internet that this is not for me, and boy is that WRONG. This could easily be my favourite FF if I had played this before FFX (though FFX is still the better introductory FF imo). This is a really solid game without a lot to complain.
@@ -82,6 +90,8 @@ Soundrack wise I still prefer FFVII and FFVIII's OST slightly but still a win ov
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | S | S | S- | S | Zidane/Garnet/Vivi |
 
+Best tracks: Battle 1, Freya's Theme, Rose of May
+
 ---
 
 ### **REALLY good**
@@ -94,12 +104,16 @@ Makes you wonder if you are playing a bullet hell or an ARPG
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | B | B | A | A |  |
 
+Best tracks: Chop!, The Boy who had Wings, Valenstein Castle
+
 #### Ys Origin
 Similiar to Ys:OiF, but you get to play with three characters on the same map, it can get repetitive but overall a major upgrade from it.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| A- | A | A+ | A |  |
+| A- | A | A+ | A+|  |
+
+Best tracks: Believing, Oboro, Tension
 
 #### Persona 3 FES (PS2) / Persona 3 Portable (PSP)
 A very theme driven game and successfully brings out the message of facing death and living in a compelling way. The OST though good is not my style. There are some glaring issues like imbalanced pacing, tedious dungeon climbing and questionable social links but still makes for a great experience. The four movies can be an acceptable way to experience the main plot as that is what makes this game shine.
@@ -108,12 +122,16 @@ A very theme driven game and successfully brings out the message of facing death
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | S+ | S | C | A+ | Yukari/Aigis/FeMC(Kotone/Hamuko/Minako) |
 
+Best tracks: Memories of You, Memories of the City, Sun
+
 #### Kingdom Hearts 1 (PS2)
 A simple Hero's Journey, but a great one. Unlike the later KH games, the main plot is tied nicely with the Disney worlds, making Sora's journey necessary and important to his character. One of the best execution for "Friendship is Power" trope. It can be cheesy but it is good because it is not baseless. Combat is simple and effective but the camera... did not age too well.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | S | A | A | S | Sora | 
+
+Best tracks: Dearly Beloved, Night of Fate, Traverse Town
 
 #### The Legend of Zelda: Twilight Princess (GC)
 Actually a better Zelda game than WW in terms of complexity and combat. Midna is a great character and added a lot to the simple plot. Wolf Link is cool and TP Link is my favourite Link in the series.
@@ -122,12 +140,16 @@ Actually a better Zelda game than WW in terms of complexity and combat. Midna is
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A- | A | A | A | Midna/Link | 
 
+Best tracks: Hyrule Field, Midna's Lament, Lake Hylia
+
 #### The Legend of Zelda: Majora's Mask (N64)
 This game gets full marks in atmosphere and world crafting. Not a fan of non linear gameplay (had to follow a guide to clear it) but I appreciate it exists.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A- | S | B | B |  |
+
+Best tracks: Deku Palace, Clock Town, Song of Healing
 
 #### To the Moon (PC)
 More like an interactive visual novel. An emotional story with a thick plot behind. 
@@ -150,6 +172,7 @@ The textbook RPG grand adventure. It contains every trope you have known and exp
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | S | A- | A- | A- | Lloyd/Raine |
 
+Best tracks: The End of a Thought, Force, A GLint of Light
 
 #### The Legend of Zelda: Ocarina of Time (N64)
 It is a classic alright. Definitely prefer this over MM for linearity.
@@ -158,6 +181,7 @@ It is a classic alright. Definitely prefer this over MM for linearity.
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | B | B | A | A |  |
 
+Best tracks: Song of Storms, Lost Wood, Title Theme
 
 #### Chrono Trigger (SNES)
 The game that 100% deserves its reputation of all time JRPG classic. Many elements that are ahead of the time like non random encounters and character based sidequests. Highly polished and rich in content for the time. Jets of Time randomizer is sick.
@@ -165,6 +189,8 @@ The game that 100% deserves its reputation of all time JRPG classic. Many elemen
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | B | A | S | S+ |  |
+
+Best tracks: Battle 1, Wind Scene, Corridors of Time
 
 #### Ori and the Blind Forest (PC)
 very good game but metroidvania is not my type. Also not a fan of western atmospheric OSTs, all thanks to Yoko Shimomura the Leitmotif Queen, influencing my music taste forever. 
@@ -180,12 +206,17 @@ Great story, props to the scriptwriter for having the balls to write this kind o
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | S+ | S | A+ | C | Luke/Guy/Jade |
 
+Best tracks: The Arrow Was Shot, Karma, Meaning of Life
+
+
 #### Final Fantasy VII (PS1)
 Decent story and characters. Having an event driven plot makes the characters feel a bit lacking. And the translation is indeed trash as it is almost impossible to understand the main plot correctly without explanations online. I highly recommend to emulate if you can accept the LEGO block models.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | S | A | A | S+ | Aerith/Tifa |
+
+Best tracks: Aerith's Theme, Tifa's Theme, Those Who Fight
 
 #### Terranigma (SNES)
 Truly an ARPG ahead of its time. Great OST to create the mysterious and sombre atmosphere. Slightly dark/bittersweet ending is a nice touch. Surprisingly having some decent cast. Ark is simply a better Crono from Chrono Trigger.
@@ -194,6 +225,7 @@ Truly an ARPG ahead of its time. Great OST to create the mysterious and sombre a
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A | A- | A+ | S+ |  |
 
+Best tracks: Light and Darkness, Underworld, Light Overworld
 
 #### Trails in the Sky the 3rd (PC)
 A spin off ish game but not. Nice to see some detailed character back story and future moves. Serviceable main plot compared to FC+SC. Kevin and Ries are great and all but didn't really hit as hard.
@@ -202,6 +234,8 @@ A spin off ish game but not. Nice to see some detailed character back story and 
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A | S | S | A+ |  |
 
+Best tracks: Fighting Right On, Cry for Your Eternity, Overdosing Heavenly Bliss 
+
 #### Odin Sphere (PS2) 
 A decent fairy tale with a somewhat elaborate world with a grander plot, multiple characters, everyone have arcs ranging from amazing to OK, decent OST. Combat can be clunky and alchemy can be a bit confusing. Also challenges resource management quite a bit due to very limited inventory. It features JP and English dub too, which is most rare in PS2 games.
 
@@ -209,12 +243,16 @@ A decent fairy tale with a somewhat elaborate world with a grander plot, multipl
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A+ | S | A | A | Gwendolyn/Mercedes/Cornelius |
 
+Best tracks: Battle in the Witch Forest 2, Attic Archive, Hope Followed by a Difficult Battle
+
 #### Okami HD (PC) 
 The Zelda game that is not named Zelda, feels a lot like Twilight Princess overall (wolf with a small sidekick and cleansing the world part). Running and jumping around as a cool wolf is fun. Beautiful Japanese artstyle. Brush gameplay is cool. Sadly the combat is just about the same as TP - too many tools made the fights too easy. The puzzles are really quite easy but can stuck in some places similar to Wind Waker, some parkours are pretty challenging IMO. The story is the simple save the world plot, but a lot goofier than I imagined. They really should have kept everything in one act instead of having multiple acts that shreds the hype. Boss reuse is pretty bad, not adding anything new even. Music is purely atmospheric. Derpy Ammy is pretty great.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A | A | A- | B | Ammy the Furball |
+
+Best tracks: Shinshu Field, Ryoshima Coast, Faith
 
 ---
 
@@ -228,12 +266,16 @@ Plot: Mess, Characters (esp Squall and Rinoa): Beautiful, Gameplay: Mess, Music:
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | B | A+ | D | S+ | Squall |
 
+Best tracks: The Oath, Eyes on Me, Man with a Machine Gun
+
 #### Persona 2: Innocent Sin (PSP) 
 Weird game. I am so glad PSP version is that easy i never fused a single persona (read: never engaged with battle system). Story is fine but sure can get weird very fast. Sadly I didn't like the music as much as I wanted to. Liked how no one is crafted as waifu/husbando or into specific tropes and equally reveals their lovable and hatable points.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A | A+ | C | A- | Lisa/Maya |
+
+Best tracks: Battle Theme, Maya Theme, Velvet Room
 
 #### Child of Light (PC)
 It is waaaay too short for the price, could have use another dungeon or two, Casual is a bit too easy but who would expect normal RPG gamer mode to be named Expert. Nice combat system though can feel slow every battle. Nice little fairy tale but far weaker than Odin Sphere, half decent cast that has short stories tied into their quest but did not have any meaningful development in any way.
@@ -269,12 +311,16 @@ Meh Persona fanfic. All the characters you love become one dimensional and are u
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | B | C | A- | A |  |
 
+Best tracks: Light the Fire Up in the Night
+
 #### Super Mario RPG (SNES)
 Nice little game. 
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | C | C | A | A+ |  |
+
+Best tracks: Fight Against Monsters, Fight Against an Armed Boss, Fight Against a Somewhat Stronger Monster
 
 ---
 
@@ -288,12 +334,16 @@ Played this for the story only cuz Roxas is my boy, Xion is eh. Definitely naile
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | B | B | C | B | Roxas |
 
+Best tracks: Another Side Battle, Deep Drive, Vector to the Heavens
+
 #### Kingdom Hearts Birth by Sleep (PSP)
 PSP version is probably the worst way to experience this half of a train wreck. Aqua is the only saving grace out of this game.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | C | D | D | A+ | Aqua |
+
+Best tracks: Dearly Beloved, Ventus Theme, Aqua's Theme 
 
 ---
 
