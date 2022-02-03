@@ -25,11 +25,11 @@ My first Persona game. This game captures the feeling of living a (not so) simpl
 Best tracks: I'll Face Myself (Battle Version), Heartbeat Heartbreak, Snowflakes
 
 #### **Final Fantasy X (PC)** 
-My first Final Fantasy game. Absolutely love the characters, the world and the plot. It is an epic yet emotional journey and in the end you are really convinced that this IS Tidus's story. The first video game ending that made me almost cried real tears. But I suck at this game, can't even finish a guided speedrun. And yes the OST is definitely not the greatest FF OST despite having two of the best motifs in the series. Any and all FFX sequels do not exist.
+My first Final Fantasy game. Absolutely love the characters, the world and the plot. It is an epic yet emotional journey and in the end you are really convinced that this IS Tidus's story. The first video game ending that made me almost cried real tears. But I suck at this game, can't even finish a guided speedrun. And yes the OST is definitely not the greatest FF OST despite having two of the best motifs in the series - it is not as cohesive as the other previous titles due to having multiple composers. **Any and all FFX sequels do not exist.**
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| S+ | S+ | A | A | Tidus/Yuna |
+| S+ | S+ | S- | A | Tidus/Yuna |
 
 Best tracks: To Zanarkand, Suteki da ne, Assault
 
@@ -84,13 +84,13 @@ It is interesting to see how the storytelling in the series evolved throughout F
 
 I liked how everyone has a fixed role that cannot be changed. Getting new equipments is exciting with the weapon ability system. The slow load times and long animations are real but can be easily solved with emulator speedups (and I believe the battle theme is synced to the long battle loads). The world map is easy to navigate and the encounter rate is really acceptable. Quina is the first blue mage I used extensively (7=I don't like Cait Sith, 8=I don't do encounters after getting No-Enc from Diablos, 10=Kimahri and blue magic is just useless most of the time.). The only complaint about it is the Trance system with too much randomness.
 
-Soundrack wise I still prefer FFVII and FFVIII's OST slightly but still a win over FFX OST overall. And I like some dungeon music (Mount Gulug), which is a rare case for me. Melodies of Life is also a great motif and used with a lot of care.
+Soundrack wise I still prefer FFVII and FFVIII's OST but still a win over FFX OST overall. And I like some dungeon music (Mount Gulug), which is a rare case for me. Melodies of Life is also a great motif and used with a lot of care.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | S | S | S- | S | Zidane/Garnet/Vivi |
 
-Best tracks: Battle 1, Freya's Theme, Rose of May
+Best tracks: Battle 1, Freya's Theme, Rose of May, Melodies of Life
 
 ---
 
@@ -260,7 +260,7 @@ Best tracks: Shinshu Field, Ryoshima Coast, Faith
 *May not appeal to a lot of people, but still worth to check out*
 
 #### Final Fantasy VIII (PC)
-Plot: Mess, Characters (esp Squall and Rinoa): Beautiful, Gameplay: Mess, Music: Beautiful. Rated beautiful mess. Basically only Squall and Rinoa are the stars of this game. The important bits of other characters are either hidden in side quests or simply non existent. Seifer is such a wasted opportunity as a great rival to Squall. They could have done so much better with the story. Great OST, good use of motifs without making it repetitive like FFX. The gameplay... just nope. I used boosters in this game and did not regret a single bit.
+Plot: Mess, Characters (especially Squall and Rinoa): Beautiful, Gameplay: Mess, Music: Beautiful. Rated beautiful mess. Basically only Squall and Rinoa are the stars of this game. The important bits of other characters are either hidden in side quests or simply non existent. Seifer is such a wasted opportunity as a great rival to Squall. They could have done so much better with the story. Great OST, good use of motifs without making it repetitive like FFX. The gameplay... just nope. I used boosters in this game and did not regret a single bit.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -297,7 +297,7 @@ Another cute Zelda game. Has big WW energy.
 *Don't waste money or time on these unless you can afford to. Not very memorable in any way.*
 
 #### Tokyo Xanadu Ex+ (PC)
-I will always use this phrase to describe this game: *Budget Persona 4 - Made with Lots of Love*. Seeing what Falcom had achieved with Trails in the Sky I am even more confused why is this so mid. It contains every anime trope but does nothing interesting for the entire game. Some characters even looks like they are directly adapted from Persona 3/4. The main plot could have been fine but the True Ending had to ruin it. Somehow it managed to create another Kairi from KH, as if Kairi is not bad enough (no hate for Kairi here, she's pretty cute but nothing more than that). Combat is quite shallow and simple but is the best part about it, most mechanics are just "I Win Buttons", at least there is dodge roll. Bosses ranges between too easy or too annoying. 
+I will always use this phrase to describe this game: *Budget Persona 4 - Made with Lots of Love*. Seeing what Falcom had achieved with Trails in the Sky I am even more confused why is this so mid. It contains every anime trope but does nothing interesting for the entire game. Some characters even looks like they are directly adapted from Persona 3/4, with the skin from Trails of Cold Steel. The main plot could have been fine but the True Ending had to ruin it. Somehow it managed to create another Kairi from KH, as if Kairi is not bad enough (no hate for Kairi here, she's pretty cute but nothing more than that). Combat is quite shallow and simple but is the best part about it, most mechanics are just "I Win Buttons (with too many X's)", at least there is dodge roll. Bosses ranges between too easy to too annoying. 
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -359,15 +359,14 @@ Best tracks: Dearly Beloved, Ventus Theme, Aqua's Theme
 - Bravely Default (Job system hurts my brain, love the OST though)
 - Rogue Galaxy (Generally clunky, boring dungeons and OST)
 - Final Fantasy VI (SNES) (on hold, just didn't grab me...?)
-- Star Ocean: First Departure (PSP) (combat is too barebones, lack of real control, yeah Sakuraba i just dont like you that much)
+- Star Ocean: First Departure (PSP) (combat is too barebones, lack of real control, yeah Sakuraba I just don't like you that much)
 
 ### **NEXT UP/ONGOING**
-- Final Fantasy IX
+- Ys VIII: Lacrimosa of Dana
 
 ### **INTERESTED IN**
 - Radiant Historia
 - Paper Mario: The Thousand Year Door
-- Ys 8: Lacrimosa of Dana
 - Ys SEVEN
 - Ys Memories of Celceta
 - Tales of Vesperia, Destiny DC
@@ -387,19 +386,23 @@ Best tracks: Dearly Beloved, Ventus Theme, Aqua's Theme
 Based on overall enjoyment. Order may be different based on different aspects.
 
 #### **Final Fantasy**
-X > IX > VII > VIII
+`X > IX > VII > VIII`
 
 #### **Tales of**
-Berseria > Abyss > Symphonia
+`Berseria > Abyss > Symphonia`
 
 #### **Kingdom Hearts**
-2 > 1 >> Days > BBS
+`2 > 1 >> Days > BBS`
 
 #### **Persona**
-4 > 3 >>> Q
+`4 > 3 >>> Q`
 
 #### **Ys**
-Origin ~> Felghana 
+`Origin > Felghana`
 
 #### **Zelda**
-The Wind Waker > Twilight Princess >> Minish Cap = Ocarina of Time > Majora's Mask
+`The Wind Waker > Twilight Princess >> Minish Cap = Ocarina of Time > Majora's Mask`
+
+#### **Trails**
+`Sky FC = Sky SC >> Sky 3rd`
+
