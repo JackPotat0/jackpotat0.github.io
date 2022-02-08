@@ -398,7 +398,7 @@ Based on overall enjoyment. Order may be different based on different aspects.
 `4 > 3 >>> Q`
 
 #### **Ys**
-`Origin > Felghana`
+`Lacrimosa of Dana > Origin > Felghana`
 
 #### **Zelda**
 `The Wind Waker > Twilight Princess >> Minish Cap = Ocarina of Time > Majora's Mask`
