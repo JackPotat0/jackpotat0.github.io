@@ -73,18 +73,18 @@ Best tracks: Team, This One's Stronger!, FIGHT!, Team, It's Getting Serious!
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| S+ | S+ | S | S+ | Estelle/Joshua/Kloe | 
+| S+ | S+ | S | S+ | Estelle/Joshua/Kloe/Anelace | 
 
 Best tracks: Confessions, Sophiscated Fight, Whereabouts of Stars, The Fate of the Fairies, Whereabouts of Hope, Shine of Aidios
 
 #### **Final Fantasy IX (PS1)**
-I am struggling to decide whether to put this here or the next category. I had been blinded by the internet that this is not for me, and boy is that WRONG. This could easily be my favourite FF if I had played this before FFX (though FFX is still the better introductory FF imo). This is a really solid game without a lot to complain.
+I am struggling to decide whether to put this here or the next category. I had been blinded by the internet that this is not for me, and is that WRONG. This could easily be my favourite FF if I had played this before FFX (though FFX is still the better introductory FF imo). This is a really solid game without a lot to complain.
 
-It is interesting to see how the storytelling in the series evolved throughout FFVII to FFX. It fixed most issues in FFVIII story wise and set a great groundwork for FFX. Garnet/Dagger is written wonderfully and acts like a real 16 year old girl under the circumstances. Zidane is a refreshing protagonist as he is a largely developed character at the beginning and has a nice arc wrapping up his character near the end. The other characters also stayed as relevant for as long as possible (maybe not Amarant, he is definitely the weakest in the narative). **Vivi is precious and must be protected.** The theme of life and its purpose is quite timeless and thought provoking.
+It is interesting to see how the storytelling in the series evolved throughout FFVII to FFX. It fixed most issues in FFVIII story wise and set a great groundwork for FFX. Garnet/Dagger is written wonderfully and acts like a real 16 year old girl under the circumstances. Zidane is a refreshing protagonist as he is a largely developed character at the beginning and has a nice arc wrapping up his character near the end. The other characters also stayed as relevant for as long as possible (maybe not Amarant, he is definitely the weakest in the narative, only act as a foil to Zidane's ideals). **Vivi is precious and must be protected.** The theme of life and its purpose is quite timeless and thought provoking.
 
-I liked how everyone has a fixed role that cannot be changed. Getting new equipments is exciting with the weapon ability system. The slow load times and long animations are real but can be easily solved with emulator speedups (and I believe the battle theme is synced to the long battle loads). The world map is easy to navigate and the encounter rate is really acceptable. Quina is the first blue mage I used extensively (7=I don't like Cait Sith, 8=I don't do encounters after getting No-Enc from Diablos, 10=Kimahri and blue magic is just useless most of the time.). The only complaint about it is the Trance system with too much randomness.
+I liked how everyone has a fixed role that cannot be changed. Getting new equipments is exciting with the weapon ability system. The slow load times and long animations are real but can be easily solved with emulator speedups (and I believe the battle theme is synced to the long battle loads). The world map is easy to navigate and the encounter rate is really acceptable. Quina is the first blue mage I used extensively (7=I don't like Cait Sith, 8=I don't do encounters after getting No-Enc from Diablos, 10=Kimahri and blue magic is just useless most of the time.). The only complaint about it is the Trance system with too much randomness (I didn't even see Eiko Trance once, at this point just remove it lol).
 
-Soundrack wise I still prefer FFVII and FFVIII's OST but still a win over FFX OST overall. And I like some dungeon music (Mount Gulug), which is a rare case for me. Melodies of Life is also a great motif and used with a lot of care.
+Soundtrack wise I still prefer FFVII and FFVIII's OST but still a slight win over FFX OST overall. And I like some dungeon music (Mount Gulug), which is a rare case for me. Melodies of Life is also a great motif and used with a lot of care, but the biggest mystery is why does Garnet's theme not contain this motif. Zidane's theme is only played once at a fairly irrelevant scene in the grand scheme of things (no *Some Place I'll Return to* motif too, could have do some things on the composition to match with Vivi's for plot reasons). Freya's theme and Beatrix's theme (Rose of May) have the best use cases.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -98,7 +98,7 @@ Best tracks: Battle 1, Freya's Theme, Rose of May, Melodies of Life
 *I would highly suggest you to give these a try.*
 
 #### Ys: Oath in Felghana
-Makes you wonder if you are playing a bullet hell or an ARPG
+Makes you wonder if you are playing a bullet hell or an ARPG. Chester 2 fight gave the same feeling as Roxas in KH2, overwhelming, epic and the great feeling of finally defeating him.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -107,7 +107,7 @@ Makes you wonder if you are playing a bullet hell or an ARPG
 Best tracks: Chop!, The Boy who had Wings, Valenstein Castle
 
 #### Ys Origin
-Similiar to Ys:OiF, but you get to play with three characters on the same map, it can get repetitive but overall a major upgrade from it.
+Similiar to Ys:OiF, but you get to play with three characters on the same map, it can get repetitive but overall a major upgrade from it. Some minor gripe is that you can cheese most fights with Yunica Phoenix once you get it, rendering melee moves almost useless. Toal gameplay is the best.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -147,7 +147,7 @@ This game gets full marks in atmosphere and world crafting. Not a fan of non lin
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| A- | S | B | B |  |
+| A- | A | B | B |  |
 
 Best tracks: Deku Palace, Clock Town, Song of Healing
 
@@ -225,7 +225,7 @@ Truly an ARPG ahead of its time. Great OST to create the mysterious and sombre a
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A | A- | A+ | S+ |  |
 
-Best tracks: Light and Darkness, Underworld, Light Overworld
+Best tracks: Light and Darkness, Dark Field, Light Overworld
 
 #### Trails in the Sky the 3rd (PC)
 A spin off ish game but not. Nice to see some detailed character back story and future moves. Serviceable main plot compared to FC+SC. Kevin and Ries are great and all but didn't really hit as hard.
@@ -312,15 +312,6 @@ Meh Persona fanfic. All the characters you love become one dimensional and are u
 | B | C | A- | A |  |
 
 Best tracks: Light the Fire Up in the Night
-
-#### Super Mario RPG (SNES)
-Nice little game. 
-
-| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
-| ------------- | ------------- | --------- | ------------ | --------------- |
-| C | C | A | A+ |  |
-
-Best tracks: Fight Against Monsters, Fight Against an Armed Boss, Fight Against a Somewhat Stronger Monster
 
 ---
 
