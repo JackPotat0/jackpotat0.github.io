@@ -92,12 +92,29 @@ Soundtrack wise I still prefer FFVII and FFVIII's OST but still a slight win ove
 
 Best tracks: Battle 1, Freya's Theme, Rose of May, Melodies of Life
 
+#### **Ys VIII: Lacrimosa of Dana (PC)**
+Ys series has come a long way.
+
+Story/plot: The plot is to provide the setting mostly as one should expect from Ys games. Events on the island is nothing too noteworthy, just to lead up to finding Dana. To be fair, Dana's backstory is also quite simple but it is presented so masterfully I never thought I will see this in a Ys game. The way her mystery unfolds is captivating and the truth is satisfying to watch.
+
+Characters: I enjoyed how they handled Adol - he is no longer a silent protagonist, just a very quiet dude. He does show a lot of personality throughout and it is great. The other cast other than Dana are just serviceable, works for the story and has little chemistry. Dana on the other hand is just fantastic. She is well established even we before we meet her. Her interactions with everyone is nice and just has a super positive energy. Design wise she has just the perfect balance of cute, cool and horny. Not the character with the most depth in the genre but definitely one of the best in the series. Why does she need to have blue hair and a name ending with -na...
+
+Gameplay: Full on action gameplay, Flash Guard and Move can be a bit too OP. Difficulty selection is great to serve everyone with different skill levels, one of the best entry points to ARPG probably. ARPG veterans need to set limits to properly enjoy the game. Island exploration is great fun. Bosses are mostly designed around the combat system, though there are some bosses that just break this rule, majority of them are well balanced. If you're comfortable blocking/dodging here, you will do well in 80% of the ARPGs. 
+
+Music: It's Falcom Music Band jdk. One expects the best and they did not disappoint here. Still maintains the metallic soul in Ys but blended with more modern sounds. I still cannot believe Iclucian Dance - the best field theme in the game is composed by Mitsuo Singa.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| A+ | A | S+ | S+ | Dana |
+
+Best tracks: Sunshine Coastline, Iclucian Dance, Dana
+
 ---
 
 ### **REALLY good**
 *I would highly suggest you to give these a try.*
 
-#### Ys: Oath in Felghana
+#### Ys: Oath in Felghana (PC)
 Makes you wonder if you are playing a bullet hell or an ARPG. Chester 2 fight gave the same feeling as Roxas in KH2, overwhelming, epic and the great feeling of finally defeating him.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
@@ -106,7 +123,7 @@ Makes you wonder if you are playing a bullet hell or an ARPG. Chester 2 fight ga
 
 Best tracks: Chop!, The Boy who had Wings, Valenstein Castle
 
-#### Ys Origin
+#### Ys Origin (PC)
 Similiar to Ys:OiF, but you get to play with three characters on the same map, it can get repetitive but overall a major upgrade from it. Some minor gripe is that you can cheese most fights with Yunica Phoenix once you get it, rendering melee moves almost useless. Toal gameplay is the best.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
@@ -297,12 +314,13 @@ Another cute Zelda game. Has big WW energy.
 *Don't waste money or time on these unless you can afford to. Not very memorable in any way.*
 
 #### Tokyo Xanadu Ex+ (PC)
-I will always use this phrase to describe this game: *Budget Persona 4 - Made with Lots of Love*. Seeing what Falcom had achieved with Trails in the Sky I am even more confused why is this so mid. It contains every anime trope but does nothing interesting for the entire game. Some characters even looks like they are directly adapted from Persona 3/4, with the skin from Trails of Cold Steel. The main plot could have been fine but the True Ending had to ruin it. Somehow it managed to create another Kairi from KH, as if Kairi is not bad enough (no hate for Kairi here, she's pretty cute but nothing more than that). Combat is quite shallow and simple but is the best part about it, most mechanics are just "I Win Buttons (with too many X's)", at least there is dodge roll. Bosses ranges between too easy to too annoying. 
+I will always use this phrase to describe this game: *Budget Persona 4 - Made with Lots of Love*. Seeing what Falcom had achieved with Trails in the Sky I am even more confused why is this so mid. It contains every anime trope but does nothing interesting for the entire game. Some characters even looks like they are directly adapted from Persona 3/4, with the skin from Trails of Cold Steel. The main plot could have been fine but the True Ending had to ruin it. Somehow it managed to create another Kairi from KH, as if Kairi is not bad enough (no hate for Kairi here, she's pretty cute but nothing more than that). Combat is quite shallow and simple but is the best part about it, most mechanics are just "I Win Buttons (with too many X's)", at least there is dodge roll. Bosses ranges between too easy to too annoying. Only buy this on >80% discount.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | B | C | A+ | B |  |
 
+Best Tracks: Night Falls, Possibility Flaps, Morimiya is Okay!
 
 #### Persona Q (3DS)
 Meh Persona fanfic. All the characters you love become one dimensional and are used for "comedy" purpose. Has a decent original plot though. Etrian Odyssey gameplay is cool. Way too easy to exploit once you know it (Poison/Light+Dark skills).
@@ -311,7 +329,7 @@ Meh Persona fanfic. All the characters you love become one dimensional and are u
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | B | C | A- | A |  |
 
-Best tracks: Light the Fire Up in the Night
+Best tracks: Light the Fire Up in the Night, Lazer Beam, Friends
 
 ---
 
@@ -360,19 +378,20 @@ Best tracks: Dearly Beloved, Ventus Theme, Aqua's Theme
 - Paper Mario: The Thousand Year Door
 - Ys SEVEN
 - Ys Memories of Celceta
-- Tales of Vesperia, Destiny DC
+- Tales of Vesperia
 - Legend of Mana
 - Lunar Silver Star Story
 - Chrono Cross
-- Illusion of Gaia/SoulBlazer
-- Legend of Dragoon
+- Illusion of Gaia
+- SoulBlazer
 - Shadow Hearts
 - Nier Automata
 - Radiata Stories
-- Trails from Zero/Trails to Azure
-
+- Trails from Zero
+- Trails to Azure
 
 ---
+
 ### **Series Ranking**
 Based on overall enjoyment. Order may be different based on different aspects.
 
