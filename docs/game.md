@@ -101,7 +101,7 @@ Characters: I enjoyed how they handled Adol - he is no longer a silent protagoni
 
 Gameplay: Full on action gameplay, Flash Guard and Move can be a bit too OP. Difficulty selection is great to serve everyone with different skill levels, one of the best entry points to ARPG probably. ARPG veterans need to set limits to properly enjoy the game. Island exploration is great fun. Bosses are mostly designed around the combat system, though there are some bosses that just break this rule, majority of them are well balanced. If you're comfortable blocking/dodging here, you will do well in 80% of the ARPGs. 
 
-Music: It's Falcom Music Band jdk. One expects the best and they did not disappoint here. Still maintains the metallic soul in Ys but blended with more modern sounds. I still cannot believe Iclucian Dance - the best field theme in the game is composed by Mitsuo Singa.
+Music: It's Falcom Sound Team jdk. One only expects the best from them and they did not disappoint here. They still maintain the metallic soul in Ys but blended with more modern sounds. I still cannot believe Iclucian Dance - the best field theme in the game is composed by Mitsuo Singa.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
