@@ -189,7 +189,7 @@ The textbook RPG grand adventure. It contains every trope you have known and exp
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | S | A- | A- | A- | Lloyd/Raine |
 
-Best tracks: The End of a Thought, Force, A GLint of Light
+Best tracks: The End of a Thought, Force, A Glint of Light
 
 #### The Legend of Zelda: Ocarina of Time (N64)
 It is a classic alright. Definitely prefer this over MM for linearity.
@@ -236,7 +236,7 @@ Decent story and characters. Having an event driven plot makes the characters fe
 Best tracks: Aerith's Theme, Tifa's Theme, Those Who Fight
 
 #### Terranigma (SNES)
-Truly an ARPG ahead of its time. Great OST to create the mysterious and sombre atmosphere. Slightly dark/bittersweet ending is a nice touch. Surprisingly having some decent cast. Ark is simply a better Crono from Chrono Trigger.
+Truly an ARPG ahead of its time. Great OST to create the mysterious and sombre atmosphere. Slightly dark/bittersweet ending is a nice touch. Surprisingly having some decent cast. Ark is simply a better Crono from Chrono Trigger. Technical limitations sometimes can hinder the combat system quite a bit.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -405,7 +405,7 @@ Based on overall enjoyment. Order may be different based on different aspects.
 `2 > 1 >> Days > BBS`
 
 #### **Persona**
-`4 > 3 >>> Q`
+`4 > 3 >> 2:IS >>> Q`
 
 #### **Ys**
 `Lacrimosa of Dana > Origin > Felghana`
