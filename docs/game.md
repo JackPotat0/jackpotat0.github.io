@@ -95,13 +95,19 @@ Best tracks: Battle 1, Freya's Theme, Rose of May, Melodies of Life
 #### **Ys VIII: Lacrimosa of Dana (PC)**
 Ys series has come a long way.
 
-Story/plot: The plot is to provide the setting mostly as one should expect from Ys games. Events on the island is nothing too noteworthy, just to lead up to finding Dana. To be fair, Dana's backstory is also quite simple but it is presented so masterfully I never thought I will see this in a Ys game. The way her mystery unfolds is captivating and the truth is satisfying to watch.
+Story/plot: The plot is to provide the setting mostly as one should expect from Ys games. Events on the island is nothing too noteworthy, just to lead up to finding Dana. But I still like how the survivors bonded under this extreme circumstance. To be fair, Dana's backstory is also quite simple but it is presented so masterfully I never thought I will see this in a Ys game. The way her mystery unfolds is captivating and the truth is satisfying to watch.
+<details>
+  <summary>Ending</summary>
+  
+  She literally Madoka'd herself. Script is 1:1 from PMMM last episode.
+  
+</details>
 
-Characters: I enjoyed how they handled Adol - he is no longer a silent protagonist, just a very quiet dude. He does show a lot of personality throughout and it is great. The other cast other than Dana are just serviceable, works for the story and has little chemistry. Dana on the other hand is just fantastic. She is well established even we before we meet her. Her interactions with everyone is nice and just has a super positive energy. Design wise she has just the perfect balance of cute, cool and horny. Not the character with the most depth in the genre but definitely one of the best in the series. Why does she need to have blue hair and a name ending with -na...
+Characters: I enjoyed how they handled Adol - he is no longer a silent protagonist, just a very quiet dude. He does show a lot of personality throughout and it is great. The other cast other than Dana are just serviceable, works for the story and has some chemistry. Dana on the other hand is just fantastic. She is well established even we before we meet her. Her interactions with everyone is nice and just has a super positive energy that is down to earth. Design wise she has just the perfect balance of cute, cool and horny. Not the character with the most depth in the genre but definitely one of the best in the series. Why does she need to have blue hair and a name ending with -na... Dana Forever!
 
-Gameplay: Full on action gameplay, Flash Guard and Move can be a bit too OP. Difficulty selection is great to serve everyone with different skill levels, one of the best entry points to ARPG probably. ARPG veterans need to set limits to properly enjoy the game. Island exploration is great fun. Bosses are mostly designed around the combat system, though there are some bosses that just break this rule, majority of them are well balanced. If you're comfortable blocking/dodging here, you will do well in 80% of the ARPGs. 
+Gameplay: Full on action gameplay, Flash Guard and Move can be a bit too OP. Difficulty selection is great to serve everyone with different skill levels, one of the best entry points to ARPG probably. ARPG veterans need to set limits to properly enjoy the game. Island exploration is great fun. Bosses are mostly designed around the combat system, though there are some bosses that just break this rule, majority of them are well balanced. I mean like 70% of them, not including final boss and final final boss. If you're comfortable blocking/dodging here, you will do well in 80% of the ARPGs. 
 
-Music: It's Falcom Sound Team jdk. One only expects the best from them and they did not disappoint here. They still maintain the metallic soul in Ys but blended with more modern sounds. I still cannot believe Iclucian Dance - the best field theme in the game is composed by Mitsuo Singa.
+Music: It's Falcom Sound Team jdk. One only expects the best from them and they did not disappoint here. They still maintain the metallic soul in Ys but blended with more modern sounds. I still cannot believe Iclucian Dance - the best field theme in the game is composed by Mitsuo Singa. Actually Singa did a phenominal job here.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
