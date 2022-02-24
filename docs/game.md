@@ -29,7 +29,7 @@ My first Final Fantasy game. Absolutely love the characters, the world and the p
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| S+ | S+ | S- | A | Tidus/Yuna |
+| S+ | S+ | S- | S | Tidus/Yuna |
 
 Best tracks: To Zanarkand, Suteki da ne, Assault
 
@@ -166,7 +166,7 @@ Actually a better Zelda game than WW in terms of complexity and combat. Midna is
 Best tracks: Hyrule Field, Midna's Lament, Lake Hylia
 
 #### The Legend of Zelda: Majora's Mask (N64)
-This game gets full marks in atmosphere and world crafting. Not a fan of non linear gameplay (had to follow a guide to clear it) but I appreciate it exists.
+This game gets full marks in atmosphere and world crafting. Not a fan of non linear gameplay (had to follow a guide from start to end to be able to clear it) but I appreciate it exists.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -377,7 +377,7 @@ Best tracks: Dearly Beloved, Ventus Theme, Aqua's Theme
 - Star Ocean: First Departure (PSP) (combat is too barebones, lack of real control, yeah Sakuraba I just don't like you that much)
 
 ### **NEXT UP/ONGOING**
-- Ys VIII: Lacrimosa of Dana
+- Lunar: Silver Star Story
 
 ### **INTERESTED IN**
 - Radiant Historia
@@ -386,7 +386,6 @@ Best tracks: Dearly Beloved, Ventus Theme, Aqua's Theme
 - Ys Memories of Celceta
 - Tales of Vesperia
 - Legend of Mana
-- Lunar Silver Star Story
 - Chrono Cross
 - Illusion of Gaia
 - SoulBlazer
