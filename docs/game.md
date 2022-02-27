@@ -109,6 +109,8 @@ Gameplay: Full on action gameplay, Flash Guard and Move can be a bit too OP. Dif
 
 Music: It's Falcom Sound Team jdk. One only expects the best from them and they did not disappoint here. They still maintain the metallic soul in Ys but blended with more modern sounds. I still cannot believe Iclucian Dance - the best field theme in the game is composed by Mitsuo Singa. Actually Singa did a phenominal job here.
 
+This is the first game I had officially completed to 100% !!
+
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A+ | A | S+ | S+ | Dana |
