@@ -380,6 +380,7 @@ Best tracks: Dearly Beloved, Ventus Theme, Aqua's Theme
 
 ### **NEXT UP/ONGOING**
 - Lunar: Silver Star Story
+First impressions: Feels like a cartoon with typical RPG settings. And the animated scenes are great.
 
 ### **INTERESTED IN**
 - Radiant Historia
