@@ -316,19 +316,21 @@ Another cute Zelda game. Has big WW energy.
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | B | C | A | B |  |
 
----
-
-### **PRETTY nice but skippable**
-*Don't waste money or time on these unless you can afford to. Not very memorable in any way.*
-
-#### Tokyo Xanadu Ex+ (PC)
+#### Tokyo Xanadu eX+ (PC)
 I will always use this phrase to describe this game: *Budget Persona 4 - Made with Lots of Love*. Seeing what Falcom had achieved with Trails in the Sky I am even more confused why is this so mid. It contains every anime trope but does nothing interesting for the entire game. Some characters even looks like they are directly adapted from Persona 3/4, with the skin from Trails of Cold Steel. The main plot could have been fine but the True Ending had to ruin it. Somehow it managed to create another Kairi from KH, as if Kairi is not bad enough (no hate for Kairi here, she's pretty cute but nothing more than that). Combat is quite shallow and simple but is the best part about it, most mechanics are just "I Win Buttons (with too many X's)", at least there is dodge roll. Bosses ranges between too easy to too annoying. Only buy this on >80% discount.
+
+Coming back from Ys VIII: Flash Roll in here is much more balanced and does not trivialize fights. X Drive is one of the better implementation of a "Limit Break" skill (*cough* Definitefly did not take any notes from KH2 *cough*)
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | B | C | A+ | B |  |
 
-Best Tracks: Night Falls, Possibility Flaps, Morimiya is Okay!
+Best Tracks: Believe It!, Possibility Flaps, Morimiya is Okay!
+
+---
+
+### **PRETTY nice but skippable**
+*Don't waste money or time on these unless you can afford to. Not very memorable in any way.*
 
 #### Persona Q (3DS)
 Meh Persona fanfic. All the characters you love become one dimensional and are used for "comedy" purpose. Has a decent original plot though. Etrian Odyssey gameplay is cool. Way too easy to exploit once you know it (Poison/Light+Dark skills).
@@ -379,7 +381,7 @@ Best tracks: Dearly Beloved, Ventus Theme, Aqua's Theme
 - Star Ocean: First Departure (PSP) (combat is too barebones, lack of real control, yeah Sakuraba I just don't like you that much)
 
 ### **NEXT UP/ONGOING**
-- Lunar: Silver Star Story
+- Lunar: Silver Star Story 
 First impressions: Feels like a cartoon with typical RPG settings. And the animated scenes are great.
 
 ### **INTERESTED IN**
