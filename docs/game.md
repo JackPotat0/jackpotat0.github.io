@@ -103,7 +103,7 @@ Story/plot: The plot is to provide the setting mostly as one should expect from 
   
 </details>
 
-Characters: I enjoyed how they handled Adol - he is no longer a silent protagonist, just a very quiet dude. He does show a lot of personality throughout and it is great. The other cast other than Dana are just serviceable, works for the story and has some chemistry. Dana on the other hand is just fantastic. She is well established even we before we meet her. Her interactions with everyone is nice and just has a super positive energy that is down to earth. Design wise she has just the perfect balance of cute, cool and horny. Not the character with the most depth in the genre but definitely one of the best in the series. Why does she need to have blue hair and a name ending with -na... Dana Forever!
+Characters: I enjoyed how they handled Adol - he is no longer a silent protagonist, just a very quiet dude. He does show a lot of personality throughout and it is great. The other cast other than Dana are just serviceable, works for the story and has some chemistry. Dana on the other hand is just fantastic. She is well established even we before we meet her. Her interactions with everyone is nice and just has a super positive energy that is down to earth. Design wise she has just the perfect balance of cute, cool and horny. Not the character with the most depth in the genre but definitely one of the best in the series. Why does she need to have blue hair and a name ending with -na... 
 
 Gameplay: Full on action gameplay, Flash Guard and Move can be a bit too OP. Difficulty selection is great to serve everyone with different skill levels, one of the best entry points to ARPG probably. ARPG veterans need to set limits to properly enjoy the game. Island exploration is great fun. Bosses are mostly designed around the combat system, though there are some bosses that just break this rule, majority of them are well balanced. I mean like 70% of them, not including final boss and final final boss. If you're comfortable blocking/dodging here, you will do well in 80% of the ARPGs. 
 
@@ -145,7 +145,7 @@ A very theme driven game and successfully brings out the message of facing death
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| S+ | S | C | A+ | Yukari/Aigis/FeMC(Kotone/Hamuko/Minako) |
+| S+ | S | C | A+ | Yukari/Aigis/FeMC |
 
 Best tracks: Memories of You, Memories of the City, Sun
 
@@ -323,7 +323,7 @@ Coming back from Ys VIII: Flash Roll in here is much more balanced and does not 
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| B | C | A+ | B |  |
+| B | C | A+ | A |  |
 
 Best Tracks: Believe It!, Possibility Flaps, Morimiya is Okay!
 
