@@ -253,7 +253,7 @@ Truly an ARPG ahead of its time. Great OST to create the mysterious and sombre a
 Best tracks: Light and Darkness, Dark Field, Light Overworld
 
 #### Trails in the Sky the 3rd (PC)
-A spin off ish game but not. Nice to see some detailed character back story and future moves. Serviceable main plot compared to FC+SC. Kevin and Ries are great and all but didn't really hit as hard.
+A spin off ish game but not. Nice to see some detailed character back story and future plans. Serviceable main plot compared to FC+SC. Kevin and Ries are great and all but didn't really hit as hard.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -317,9 +317,9 @@ Another cute Zelda game. Has big WW energy.
 | B | C | A | B |  |
 
 #### Tokyo Xanadu eX+ (PC)
-I will always use this phrase to describe this game: *Budget Persona 4 - Made with Lots of Love*. Seeing what Falcom had achieved with Trails in the Sky I am even more confused why is this so mid. It contains every anime trope but does nothing interesting for the entire game. Some characters even looks like they are directly adapted from Persona 3/4, with the skin from Trails of Cold Steel. The main plot could have been fine but the True Ending had to ruin it. Somehow it managed to create another Kairi from KH, as if Kairi is not bad enough (no hate for Kairi here, she's pretty cute but nothing more than that). Combat is quite shallow and simple but is the best part about it, most mechanics are just "I Win Buttons (with too many X's)", at least there is dodge roll. Bosses ranges between too easy to too annoying. Only buy this on >80% discount.
+I will always use this phrase to describe this game: *Budget Persona 4 - Made with Lots of Love*. Seeing what Falcom had achieved with Trails in the Sky I am even more confused why is this so mid. It contains every anime trope but does nothing interesting for the entire game. Some characters even looks like they are directly adapted from Persona 3/4, with the skin from Trails of Cold Steel. The main plot could have been fine but the True Ending had to ruin it. Somehow it managed to create another Kairi from KH, as if Kairi is not bad enough (no hate for Kairi here, she's pretty cute but nothing more than that). Combat is quite shallow and simple but is the best part about it, most mechanics are just "I Win Buttons (with too many X's)", at least there is dodge roll. Bosses ranges between too easy to too annoying. Only buy this on 80% discount.
 
-Coming back from Ys VIII: Flash Roll in here is much more balanced and does not trivialize fights. X Drive is one of the better implementation of a "Limit Break" skill (*cough* Definitefly did not take any notes from KH2 *cough*)
+Coming back from Ys VIII: Flash Roll in here is much more balanced and does not trivialize fights. X Drive is one of the better implementation of a "Limit Break" skill (*cough* Definitely did not take any notes from KH2 *cough*)
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -327,7 +327,7 @@ Coming back from Ys VIII: Flash Roll in here is much more balanced and does not 
 
 Best Tracks: Believe It!, Possibility Flaps, Morimiya is Okay!
 
-#### Lunar: Silver Start Story (PSX)
+#### Lunar: Silver Star Story (PSX)
 
 A cult classic within the JRPG circle. But I think it really needs that nostalgia and era factor to become a great game. It feels like the FMA:B of JRPGs, but without that extra kick that makes it a real classic.
 
@@ -400,7 +400,6 @@ Best tracks: Dearly Beloved, Ventus Theme, Aqua's Theme
 
 ### **NEXT UP/ONGOING**
 
-First impressions: Feels like a cartoon with typical RPG settings. And the animated scenes are great.
 
 ### **INTERESTED IN**
 - Radiant Historia
@@ -416,7 +415,8 @@ First impressions: Feels like a cartoon with typical RPG settings. And the anima
 - Nier Automata
 - Radiata Stories
 - Trails from Zero
-- Trails to Azure
+- Trails to Azure'
+- Ys: Ark of Napishtim (PS2)
 
 ---
 
@@ -436,7 +436,7 @@ Based on overall enjoyment. Order may be different based on different aspects.
 `4 > 3 >> 2:IS >>> Q`
 
 #### **Ys**
-`Lacrimosa of Dana > Origin > Felghana`
+`Lacrimosa of Dana >> Origin > Felghana`
 
 #### **Zelda**
 `The Wind Waker > Twilight Princess >> Minish Cap = Ocarina of Time > Majora's Mask`
