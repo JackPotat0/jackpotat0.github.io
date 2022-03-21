@@ -323,9 +323,27 @@ Coming back from Ys VIII: Flash Roll in here is much more balanced and does not 
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| B | C | A+ | A |  |
+| B | B | A+ | A |  |
 
 Best Tracks: Believe It!, Possibility Flaps, Morimiya is Okay!
+
+#### Lunar: Silver Start Story (PSX)
+
+A cult classic within the JRPG circle. But I think it really needs that nostalgia and era factor to become a great game. It feels like the FMA:B of JRPGs, but without that extra kick that makes it a real classic.
+
+Story: The most standard RPG story I have experienced so far. It can be summed up as "Hero saves the Damsel in Distress with power of love and friendship", there are 0 big twist a modern gamer cannot see coming too. But do note that this story is written in 1992, I think what makes it stand out at the time is that its structure and presentation feels more like late 90s (dont quote me on this). Tons of animated cutscenes and voice acting adds a lot to the story. What it does great is tying its theme tightly to the main plot (better than say FF7 imo), although it can feel forced. For a love story, your main party consists of three couples with different dynamics and really make its point across clearly and strongly. 
+
+Characters: The characters are pretty cliche but it should be spared for being an old game. Character development is decent and everyone have just enough of it. It would be nicer if Alex can show more personality because he showed quite some, even if it is typical protagonist personality. The banter between the party is the best part, adds a lot of life and quirkiness to them. 
+
+Gameplay: Very standard, old school turn based system without anything notable. The inventory system is quite annoying. A lot more enjoyable on emulator to dodge encounters. No random encounter is great as usual. Surprising difficulty spike in the final dungeon? It did exactly different things compared to other RPG of the same age which are linear world maps, saving anywhere and giving lots of free heals, which I am sure is a big surprise to people played on release. 
+
+Music: There are some bangers here and there. The battle theme is pretty catchy and addicting. The final boss not having a unique theme is a huge letdown. The main theme - Althena's Song is quite emotional too. But overall it is a OST just above average for me. 
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| B- | B | C | A |  |
+
+Best Tracks: Towards the Horizon, Wind's Nocturne, Fighting Spirits
 
 ---
 
@@ -381,7 +399,7 @@ Best tracks: Dearly Beloved, Ventus Theme, Aqua's Theme
 - Star Ocean: First Departure (PSP) (combat is too barebones, lack of real control, yeah Sakuraba I just don't like you that much)
 
 ### **NEXT UP/ONGOING**
-- Lunar: Silver Star Story 
+
 First impressions: Feels like a cartoon with typical RPG settings. And the animated scenes are great.
 
 ### **INTERESTED IN**
