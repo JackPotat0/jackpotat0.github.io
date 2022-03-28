@@ -399,7 +399,7 @@ Best tracks: Dearly Beloved, Ventus Theme, Aqua's Theme
 - Star Ocean: First Departure (PSP) (combat is too barebones, lack of real control, yeah Sakuraba I just don't like you that much)
 
 ### **NEXT UP/ONGOING**
-
+- I am Setsuna
 
 ### **INTERESTED IN**
 - Radiant Historia
