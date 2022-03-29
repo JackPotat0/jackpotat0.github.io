@@ -309,7 +309,7 @@ It is waaaay too short for the price, could have use another dungeon or two, Cas
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A | B | A+ | B |  |
 
-### The Legend of Zelda: The Minish Cap (GBA)
+#### The Legend of Zelda: The Minish Cap (GBA)
 Another cute Zelda game. Has big WW energy.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
@@ -326,6 +326,20 @@ Coming back from Ys VIII: Flash Roll in here is much more balanced and does not 
 | B | B | A+ | A |  |
 
 Best Tracks: Believe It!, Possibility Flaps, Morimiya is Okay!
+
+---
+
+### **PRETTY nice but skippable**
+*Don't waste money or time on these unless you can afford to. Not very memorable in any way.*
+
+#### Persona Q (3DS)
+Meh Persona fanfic. All the characters you love become one dimensional and are used for "comedy" purpose. Has a decent original plot though. Etrian Odyssey gameplay is cool. Way too easy to exploit once you know it (Poison/Light+Dark skills).
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| B | C | A- | A |  |
+
+Best tracks: Light the Fire Up in the Night, Lazer Beam, Friends
 
 #### Lunar: Silver Star Story (PSX)
 
@@ -344,20 +358,6 @@ Music: There are some bangers here and there. The battle theme is pretty catchy 
 | B- | B | C | A |  |
 
 Best Tracks: Towards the Horizon, Wind's Nocturne, Fighting Spirits
-
----
-
-### **PRETTY nice but skippable**
-*Don't waste money or time on these unless you can afford to. Not very memorable in any way.*
-
-#### Persona Q (3DS)
-Meh Persona fanfic. All the characters you love become one dimensional and are used for "comedy" purpose. Has a decent original plot though. Etrian Odyssey gameplay is cool. Way too easy to exploit once you know it (Poison/Light+Dark skills).
-
-| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
-| ------------- | ------------- | --------- | ------------ | --------------- |
-| B | C | A- | A |  |
-
-Best tracks: Light the Fire Up in the Night, Lazer Beam, Friends
 
 ---
 
@@ -399,7 +399,8 @@ Best tracks: Dearly Beloved, Ventus Theme, Aqua's Theme
 - Star Ocean: First Departure (PSP) (combat is too barebones, lack of real control, yeah Sakuraba I just don't like you that much)
 
 ### **NEXT UP/ONGOING**
-- I am Setsuna
+- I am Setsuna 
+First Impressions: No you cannot just remake Lunar+Chrono Trigger without something fresh. At least have some modern QoL like auto text scroll and faster walking speed. So far the premise lacks a strong basis and feels pretty flat overall, if you put it with something similar like FFX. Cardboard cutout characters with minimal arc does not really help too. The OST is gorgeous, in or outside the game, but the engineering is not really as good. Momentum system is a decent twist to the CT base system.
 
 ### **INTERESTED IN**
 - Radiant Historia
@@ -415,7 +416,7 @@ Best tracks: Dearly Beloved, Ventus Theme, Aqua's Theme
 - Nier Automata
 - Radiata Stories
 - Trails from Zero
-- Trails to Azure'
+- Trails to Azure
 - Ys: Ark of Napishtim (PS2)
 
 ---
