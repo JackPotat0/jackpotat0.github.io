@@ -382,6 +382,23 @@ PSP version is probably the worst way to experience this half of a train wreck. 
 
 Best tracks: Dearly Beloved, Ventus Theme, Aqua's Theme 
 
+#### I am Setsuna (PC)
+No. You cannot just remake Lunar+Chrono Trigger without something fresh. They remade CT, but they left out the soul of CT and everything that makes it great. In the end it becomes a very bad attempt at imitating CT which is almost embarassing.
+
+Story/Plot: Mostly a rehash of FFX. The plot felt pretty empty and flat as there are no enough background to the "pilgrimage" unlike FFX with elaborate world building. It almost felt random. There are simply not enough to keep anyone to care about the main plot on an emotional level. They tried to present the theme of "sacrifice", but fails to present it in a meaningful way, in other words, amateurish.
+
+Characters: The cast almost collected all the weaknesses in different casts in various JRPGs and put them together. Lack of relevancy after own arc (and their arcs are as generic as it gets!), no memorable exchanges, one beat personality, you name it. It is like Lunar SSS, but the cast is now boring. I tried very hard but it is impossible to be attached to any of the characters. Silent protagonist that gets no interesting options and just there for plot reasons, Setsuna a.k.a Mary Sue, the annoying kid, and a bunch of others. And I am sure the devs did not realize that looking like Auron does not automatically makes him cool like Auron.
+
+Gameplay: I get the devs wanted to create the authentic 90s experience, but you cannot just ignore some modern QoL like auto text scroll/cutscene skip and faster walking speed. Momentum system is a decent twist to the CT base system. The skill and equipment system can be a bit more streamlined. There are also many tools to make the game broken. The controls are sometimes unresponsive while moving.
+
+Music: One of my favourite OSTs of all time and listened to it religiously even before this playthrough. It fits the game's environment and vibe perfectly. Also perfect for listening on its own. But the engineering is not good. Some inappropriate usages and no looping at certain scenes really kills the mood. They did not fully exploit the potential in this OST when it could improve the auditory experience a lot more than this. There are also some questionable SFX choices that just ruin the song eg travelling with airship.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| C | D | B | S+ |  |
+
+Best Tracks: Rare, Winter Journey's Tale, Beyond the Snow
+
 ---
 
 ### **WATCHED playthroughs**
@@ -399,8 +416,7 @@ Best tracks: Dearly Beloved, Ventus Theme, Aqua's Theme
 - Star Ocean: First Departure (PSP) (combat is too barebones, lack of real control, yeah Sakuraba I just don't like you that much)
 
 ### **NEXT UP/ONGOING**
-- I am Setsuna 
-First Impressions: No you cannot just remake Lunar+Chrono Trigger without something fresh. At least have some modern QoL like auto text scroll and faster walking speed. So far the premise lacks a strong basis and feels pretty flat overall, if you put it with something similar like FFX. Cardboard cutout characters with minimal arc does not really help too. The OST is gorgeous, in or outside the game, but the engineering is not really as good. Momentum system is a decent twist to the CT base system.
+
 
 ### **INTERESTED IN**
 - Radiant Historia
@@ -412,6 +428,7 @@ First Impressions: No you cannot just remake Lunar+Chrono Trigger without someth
 - Chrono Cross
 - Illusion of Gaia
 - SoulBlazer
+- Granstream Saga
 - Shadow Hearts
 - Nier Automata
 - Radiata Stories
