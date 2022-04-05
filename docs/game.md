@@ -218,7 +218,7 @@ The game that 100% deserves its reputation of all time JRPG classic. Many elemen
 Best tracks: Battle 1, Wind Scene, Corridors of Time
 
 #### Ori and the Blind Forest (PC)
-very good game but metroidvania is not my type. Also not a fan of western atmospheric OSTs, all thanks to Yoko Shimomura the Leitmotif Queen, influencing my music taste forever. 
+Very good game but metroidvania is not my type. Also not a fan of western atmospheric OSTs, all thanks to Yoko Shimomura the Leitmotif Queen, influencing my music taste forever. 
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -289,7 +289,7 @@ Plot: Mess, Characters (especially Squall and Rinoa): Beautiful, Gameplay: Mess,
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| B | A+ | D | S+ | Squall |
+| B | A+ | D | S+ | Squall/Rinoa |
 
 Best tracks: The Oath, Eyes on Me, Man with a Machine Gun
 
@@ -342,7 +342,6 @@ Meh Persona fanfic. All the characters you love become one dimensional and are u
 Best tracks: Light the Fire Up in the Night, Lazer Beam, Friends
 
 #### Lunar: Silver Star Story (PSX)
-
 A cult classic within the JRPG circle. But I think it really needs that nostalgia and era factor to become a great game. It feels like the FMA:B of JRPGs, but without that extra kick that makes it a real classic.
 
 Story: The most standard RPG story I have experienced so far. It can be summed up as "Hero saves the Damsel in Distress with power of love and friendship", there are 0 big twist a modern gamer cannot see coming too. But do note that this story is written in 1992, I think what makes it stand out at the time is that its structure and presentation feels more like late 90s (dont quote me on this). Tons of animated cutscenes and voice acting adds a lot to the story. What it does great is tying its theme tightly to the main plot (better than say FF7 imo), although it can feel forced. For a love story, your main party consists of three couples with different dynamics and really make its point across clearly and strongly. 
@@ -383,21 +382,21 @@ PSP version is probably the worst way to experience this half of a train wreck. 
 Best tracks: Dearly Beloved, Ventus Theme, Aqua's Theme 
 
 #### I am Setsuna (PC)
-No. You cannot just remake Lunar+Chrono Trigger without something fresh. They remade CT, but they left out the soul of CT and everything that makes it great. In the end it becomes a very bad attempt at imitating CT which is almost embarassing.
+No. You cannot just remake Lunar+Chrono Trigger without something fresh. They remade CT, but they left out the soul of CT and everything that makes it great. In the end it becomes a very bad attempt at imitating CT which is almost embarassing. Even taking away the comparison, it is still a below-average JRPG. It is still worth to know the context of OST that I have been listening since forever though. ** When a game is bad at what it does, you start noticing all the petty things.
 
-Story/Plot: Mostly a rehash of FFX. The plot felt pretty empty and flat as there are no enough background to the "pilgrimage" unlike FFX with elaborate world building. It almost felt random. There are simply not enough to keep anyone to care about the main plot on an emotional level. They tried to present the theme of "sacrifice", but fails to present it in a meaningful way, in other words, amateurish.
+Story/Plot: Mostly a rehash of FFX. The plot felt pretty empty and flat as there are no enough background to the "pilgrimage" unlike FFX with elaborate world building. It almost felt random. There are simply not enough to keep me to care about the main plot on an emotional level. They tried to present the theme of "sacrifice", but fails to present it in a meaningful way, in other words, amateurish. To be fair the concept is not bad and can definitely shine but it fell into the wrong hands. The ending is a mess, it just comes up at nowhere and reveals more plot points that's never referenced before and expects player to care. But luckily for how little there is, the main quest is really short, so players can end this snorefest quicker.
 
-Characters: The cast almost collected all the weaknesses in different casts in various JRPGs and put them together. Lack of relevancy after own arc (and their arcs are as generic as it gets!), no memorable exchanges, one beat personality, you name it. It is like Lunar SSS, but the cast is now boring. I tried very hard but it is impossible to be attached to any of the characters. Silent protagonist that gets no interesting options and just there for plot reasons, Setsuna a.k.a Mary Sue, the annoying kid, and a bunch of others. And I am sure the devs did not realize that looking like Auron does not automatically makes him cool like Auron.
+Characters: The cast almost collected all the weaknesses in different casts in various JRPGs and put them together. Lack of relevancy after own arc (and their arcs are as generic as it gets!), no memorable exchanges, one beat personality, you name it. It is like Lunar SSS, but the cast is now boring. I tried very hard but it is impossible to be attached to any of the characters. We have: the silent protagonist that gets no interesting options and just there for plot reasons, Setsuna a.k.a Mary Sue, the plot dumper, the annoying kid, and a bunch of others. And I am sure the devs did not realize that looking like Auron does not automatically makes him cool like Auron.
 
-Gameplay: I get the devs wanted to create the authentic 90s experience, but you cannot just ignore some modern QoL like auto text scroll/cutscene skip and faster walking speed. Momentum system is a decent twist to the CT base system. The skill and equipment system can be a bit more streamlined. There are also many tools to make the game broken. The controls are sometimes unresponsive while moving.
+Gameplay: I get the devs wanted to create the authentic 90s experience, but you cannot just ignore some modern QoL like auto text scroll/cutscene skip (unless the dialogue is as good as Bug Fables/Trails) and faster walking speed. Momentum system is a decent twist to the CT base system. The skill and equipment system can be a bit more streamlined. There are also many tools to make the game broken. The controls are sometimes unresponsive while moving.
 
-Music: One of my favourite OSTs of all time and listened to it religiously even before this playthrough. It fits the game's environment and vibe perfectly. Also perfect for listening on its own. But the engineering is not good. Some inappropriate usages and no looping at certain scenes really kills the mood. They did not fully exploit the potential in this OST when it could improve the auditory experience a lot more than this. There are also some questionable SFX choices that just ruin the song eg travelling with airship.
+Music: One of my favourite OSTs of all time and listened to it religiously even before this playthrough. It fits the game's environment and vibe perfectly. Also perfect for listening on its own. But the engineering is not good. Some inappropriate usages and no looping/continuation at certain scenes really kills the mood. They did not fully exploit the potential in this OST when it could improve the auditory experience a lot more than this. There are also some questionable SFX choices that just ruin the song eg travelling with airship.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | C | D | B | S+ |  |
 
-Best Tracks: Rare, Winter Journey's Tale, Beyond the Snow
+Best Tracks: Rare, Beginning of the End, Beyond the Snow
 
 ---
 
@@ -416,11 +415,11 @@ Best Tracks: Rare, Winter Journey's Tale, Beyond the Snow
 - Star Ocean: First Departure (PSP) (combat is too barebones, lack of real control, yeah Sakuraba I just don't like you that much)
 
 ### **NEXT UP/ONGOING**
+- Ys: Ark of Napishtim (PS2)
 
 
 ### **INTERESTED IN**
 - Radiant Historia
-- Paper Mario: The Thousand Year Door
 - Ys SEVEN
 - Ys Memories of Celceta
 - Tales of Vesperia
@@ -428,15 +427,15 @@ Best Tracks: Rare, Winter Journey's Tale, Beyond the Snow
 - Chrono Cross
 - Illusion of Gaia
 - SoulBlazer
-- Granstream Saga
 - Shadow Hearts
 - Nier Automata
 - Radiata Stories
-- Trails from Zero
 - Trails to Azure
-- Ys: Ark of Napishtim (PS2)
+- Trails from Zero (Waiting for Steam release)
+- Paper Mario: The Thousand Year Door
 
 ---
+
 
 ### **Series Ranking**
 Based on overall enjoyment. Order may be different based on different aspects.
