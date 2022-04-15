@@ -248,7 +248,7 @@ Truly an ARPG ahead of its time. Great OST to create the mysterious and sombre a
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| A | A- | A+ | S+ |  |
+| A- | B | A+ | S+ |  |
 
 Best tracks: Light and Darkness, Dark Field, Light Overworld
 
@@ -330,7 +330,7 @@ Best Tracks: Believe It!, Possibility Flaps, Morimiya is Okay!
 ---
 
 ### **PRETTY nice but skippable**
-*Don't waste money or time on these unless you can afford to. Not very memorable in any way.*
+*Don't waste money or time on these unless you can afford to. Not very memorable in any way. Some badly aged classics also stays here.*
 
 #### Persona Q (3DS)
 Meh Persona fanfic. All the characters you love become one dimensional and are used for "comedy" purpose. Has a decent original plot though. Etrian Odyssey gameplay is cool. Way too easy to exploit once you know it (Poison/Light+Dark skills).
@@ -344,7 +344,7 @@ Best tracks: Light the Fire Up in the Night, Lazer Beam, Friends
 #### Lunar: Silver Star Story (PSX)
 A cult classic within the JRPG circle. But I think it really needs that nostalgia and era factor to become a great game. It feels like the FMA:B of JRPGs, but without that extra kick that makes it a real classic.
 
-Story: The most standard RPG story I have experienced so far. It can be summed up as "Hero saves the Damsel in Distress with power of love and friendship", there are 0 big twist a modern gamer cannot see coming too. But do note that this story is written in 1992, I think what makes it stand out at the time is that its structure and presentation feels more like late 90s (dont quote me on this). Tons of animated cutscenes and voice acting adds a lot to the story. What it does great is tying its theme tightly to the main plot (better than say FF7 imo), although it can feel forced. For a love story, your main party consists of three couples with different dynamics and really make its point across clearly and strongly. 
+Story: The most standard RPG story I have experienced so far. It can be summed up as "Hero saves the Damsel in Distress with power of love and friendship", there are 0 big twist a modern gamer cannot see coming too. But do note that this story is written in 1992, I think what makes it stand out at the time is that its structure and presentation feels more like late 90s (dont quote me on this). Tons of animated cutscenes and voice acting adds a lot to the story. What it does great is tying its theme tightly to the main plot, although it can feel forced. For a love story, your main party consists of three (more like 2.5) couples with different dynamics and really make its point across clearly and strongly. 
 
 Characters: The characters are pretty cliche but it should be spared for being an old game. Character development is decent and everyone have just enough of it. It would be nicer if Alex can show more personality because he showed quite some, even if it is typical protagonist personality. The banter between the party is the best part, adds a lot of life and quirkiness to them. 
 
@@ -360,7 +360,7 @@ Best Tracks: Towards the Horizon, Wind's Nocturne, Fighting Spirits
 
 ---
 
-### **EH**
+### **MEH**
 *Would suggest to avert your eyes from and skip these*
 
 #### Kingdom Hearts 358/2 Days (DS) 
@@ -398,6 +398,13 @@ Music: One of my favourite OSTs of all time and listened to it religiously even 
 
 Best Tracks: Rare, Beginning of the End, Beyond the Snow
 
+#### Illusion of Gaia (SNES)
+Quintet RPG is an acquired taste. Gameplay feels more Zelda than RPG, with traditional puzzles that are annoying and challenging in a fun way. It has the same vibe/weirdness as Terranigma. The plot is less structured than Terranigma, sometimes leaves me wondering why I am still playing it. The music is far not as magical as Terranigma for sure.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| C | C | B | B |  |
+
 ---
 
 ### **WATCHED playthroughs**
@@ -407,6 +414,7 @@ Best Tracks: Rare, Beginning of the End, Beyond the Snow
 - Kingdom Hearts ReCOM, DDD, 3
 - Persona 2: Eternal Punishment 
 - The World Ends With You
+- and more...
 
 ### **DROPPED**
 - Bravely Default (Job system hurts my brain, love the OST though)
@@ -415,8 +423,7 @@ Best Tracks: Rare, Beginning of the End, Beyond the Snow
 - Star Ocean: First Departure (PSP) (combat is too barebones, lack of real control, yeah Sakuraba I just don't like you that much)
 
 ### **NEXT UP/ONGOING**
-- Ys: Ark of Napishtim (PS2)
-
+- 
 
 ### **INTERESTED IN**
 - Radiant Historia
@@ -425,14 +432,14 @@ Best Tracks: Rare, Beginning of the End, Beyond the Snow
 - Tales of Vesperia
 - Legend of Mana
 - Chrono Cross
-- Illusion of Gaia
-- SoulBlazer
 - Shadow Hearts
 - Nier Automata
 - Radiata Stories
 - Trails to Azure
-- Trails from Zero (Waiting for Steam release)
+- Trails from Zero
 - Paper Mario: The Thousand Year Door
+- Ys: Ark of Napishtim
+- Zelda: A Link to the Past
 
 ---
 
