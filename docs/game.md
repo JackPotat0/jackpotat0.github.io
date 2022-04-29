@@ -117,6 +117,23 @@ This is the first game I had officially completed to 100% !!
 
 Best tracks: Sunshine Coastline, Iclucian Dance, Dana
 
+#### **Radiant Historia (DS)**
+One of the best definition of a solid game and well executed novel ideas put together. This game is going down into the history as one of the best DS games and JRPGs.
+
+Story/plot: Warring nations is used as the backdrop for time travelling as many decisions will need to be made, it could not be more appropriate than this. It really feels like you are paricipating in a war personally especially in the beginning chapters. In the end it is still the same old save the world plot but does not really affect the experience. The pacing is tight and the writer is good at setting up and subverting expectations. The story around time travelling is not that watertight at all so do not expect Steins;Gate out of this.
+
+Characters: Stocke is a really well done protagonist, good both as self insert or as an individual. Self inserting as a cool mercenary and strategist is not bad at all. The side cast are explored just enough like the main crew (Raynie, Marco, Rosch), still some are not that established. I think this can be spared as backstory is not as important when a war is at hand. The dynamic is pretty good, giving the comrade feeling around the party. 
+
+Gameplay: The best part of the game. The main gimmick revolves around travelling between two timelines to find solutions for the other timeline, requiring players to pay some attention to the main plot, though the hints sometimes are too obvious. No random encounters, suitably sized and field abilities makes for a fun dungeon experience. The combat system is also a highlight. Each battle requires careful thought even if you have a good strategy (I heard there are lots of ways to break it but never found on my own).
+
+Music: Ah yes it is Yoko Shimomura [insert fanboy screams here]. This is probably her shortest OST by far. Due to the game's structure, the music needs to be reusable enough in many cases and she nailed it as usual. You can hear a lot of KH style in it, with one track calling back to Legend of Mana (i think). Once a violin slut, always a violin slut.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| S- | A+ | S+ | S | Stocke/Raynie |
+
+Best tracks: The Edge of Green, The Garden where Celestites Lies, Where the Winds and Feathers Return
+
 ---
 
 ### **REALLY good**
@@ -319,7 +336,7 @@ Another cute Zelda game. Has big WW energy.
 #### Tokyo Xanadu eX+ (PC)
 I will always use this phrase to describe this game: *Budget Persona 4 - Made with Lots of Love*. Seeing what Falcom had achieved with Trails in the Sky I am even more confused why is this so mid. It contains every anime trope but does nothing interesting for the entire game. Some characters even looks like they are directly adapted from Persona 3/4, with the skin from Trails of Cold Steel. The main plot could have been fine but the True Ending had to ruin it. Somehow it managed to create another Kairi from KH, as if Kairi is not bad enough (no hate for Kairi here, she's pretty cute but nothing more than that). Combat is quite shallow and simple but is the best part about it, most mechanics are just "I Win Buttons (with too many X's)", at least there is dodge roll. Bosses ranges between too easy to too annoying. Only buy this on 80% discount.
 
-Coming back from Ys VIII: Flash Roll in here is much more balanced and does not trivialize fights. X Drive is one of the better implementation of a "Limit Break" skill (*cough* Definitely did not take any notes from KH2 *cough*)
+Coming back from Ys VIII: Flash Roll in here is much more balanced and does not trivialize fights. X Drive is one of the better implementation of a "Limit Break" skill (*cough* Definitely did not take any notes from KH2 summons *cough*)
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -388,7 +405,7 @@ Story/Plot: Mostly a rehash of FFX. The plot felt pretty empty and flat as there
 
 Characters: The cast almost collected all the weaknesses in different casts in various JRPGs and put them together. Lack of relevancy after own arc (and their arcs are as generic as it gets!), no memorable exchanges, one beat personality, you name it. It is like Lunar SSS, but the cast is now boring. I tried very hard but it is impossible to be attached to any of the characters. We have: the silent protagonist that gets no interesting options and just there for plot reasons, Setsuna a.k.a Mary Sue, the plot dumper, the annoying kid, and a bunch of others. And I am sure the devs did not realize that looking like Auron does not automatically makes him cool like Auron.
 
-Gameplay: I get the devs wanted to create the authentic 90s experience, but you cannot just ignore some modern QoL like auto text scroll/cutscene skip (unless the dialogue is as good as Bug Fables/Trails) and faster walking speed. Momentum system is a decent twist to the CT base system. The skill and equipment system can be a bit more streamlined. There are also many tools to make the game broken. The controls are sometimes unresponsive while moving.
+Gameplay: I get the devs wanted to create the authentic 90s experience, but you cannot just ignore some modern QoL like auto text scroll/cutscene skip (unless the dialogue is as good as Bug Fables/Trails) and faster walking speed. Momentum system is a decent twist to the CT base system. The skill and equipment system can be a bit more streamlined. The controls are sometimes unresponsive while moving.
 
 Music: One of my favourite OSTs of all time and listened to it religiously even before this playthrough. It fits the game's environment and vibe perfectly. Also perfect for listening on its own. But the engineering is not good. Some inappropriate usages and no looping/continuation at certain scenes really kills the mood. They did not fully exploit the potential in this OST when it could improve the auditory experience a lot more than this. There are also some questionable SFX choices that just ruin the song eg travelling with airship.
 
