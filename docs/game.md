@@ -4,28 +4,52 @@ I only got in touch with video games in my late teens so I didn't get to play to
 ** Scores are ranked based on personal preferences
 
 ### **ALL TIME favourites**
-*The games that changed my gaming view (ruin other games) in one way or another. Feel free to debate with me on these games.*
+*The games that changed my gaming view (ruin other games) in one way or another. Feel free to debate with me on these games. Just go play these already!!*
 
 #### **Kingdom Hearts 2 Final Mix (PS2)**
 This game serves as my first experience to speedrunning. I found [Bl00dyBizkit's AGDQ2017 run](https://www.youtube.com/watch?v=PVjf3bc3Noo&t=4588s) when looking for Roxas strats and the rest is history. This is still my favourite speedrun of all time. I play the randomizer a lot and learnt some speedrun strats. Everything about combat in this game (aside from some questionable boss designs) is just perfect. 
 
+Story/Plot: The prologue is amazing. In just a few hours you are connected to one of the best written character in the series, then it's all downhill from there. Disney worlds are meh, didnt really teach Sora anything personally. Nobody lore is alright. Organization XIII works just enough for evil corporation but nothing memorable. The ending execution is pretty good though. ~~They could have ended KH right there~~. The only three story beats in the game I cared are the prologue, battle with Roxas and the ending. 
+
+Characters: A huge mess. Sora loses the spunkiness in KH1 and just a good guy now. Kairi remains useless even when awake. Roxas is the only great character in this game. The way he faces his fate and coming to terms is pretty heart wrenching. Riku is actually OK, but his arc kind of ended in 358/2 Days. Axel is pretty fine but also more elaborated in Days. It is rather hard to connect with the new casts, villains or not. 
+
+Gameplay: Hands down the greatest ARPG combat system of all time in my heart. Combos are fluid and snappy. Camera is great. There are a ton of different mechanics that you can mix and match. Great difficulty settings. Fantastic bosses like Lingering Will and Sephiroth... and I can still go on. I doubt there will ever be another action game that feels better than this game.
+
+Music: One of Yoko Shimomura's magnum opus. Other than Disney world related track that I don't enjoy as much, the rest of the soundtrack is pretty much perfect. It also has one of the best Dearly Beloved. Sound engineering is great too, the use of silence is especially remarkable. 
+
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| C | D | S+ | S | Roxas |
+| C | D | S++ | S | Roxas |
 
 Best tracks: Darkness of the Unknown, Dearly Beloved, The Other Promise
 
 #### **Persona 4 (PS2/Golden PC)**
-My first Persona game. This game captures the feeling of living a (not so) simple student life in a small town and just hanging out with friends. The cast is very endearing and full of personality. Immediately started NG+ right after NG, almost 100% except fighting Margaret, learnt speedrun routes for P4G.
+My first Persona game. Immediately started NG+ right after NG, almost 100% except fighting Margaret, learnt speedrun routes for P4G.
+
+Story/Plot: The main plot itself is actually just fine. It manages to convey its theme but nothing groundbreaking. It excels at character centric arcs which takes up most of the game. This game captures the feeling of living a (not so) simple student life in a small town and just hanging out with friends. The Golden addition is nice just for more team bonding moments but the new plotline is really forgettable and adds nothing to the already complete story. 
+
+Characters: My favourite Persona cast. The cast is very endearing and full of personality. The team may be cliched but never one dimensional, although much are hidden in their social links, some of the SLs are still and will be the top SLs in the series (Kanji, Naoto, Yosuke). The other NPC social links are generally decent, but not a lot of them stand out amongst others (Good ones: Nanako, Dojima, Ai Ebihara, Kou, Death gandma, Naoki). Marie is just a bad character, the writers clearly have no clue how to write a tsundere yet tries to make it work. I just hate how she is shoehorned into the story and forced to be important just for no good reason. 
+
+Gameplay: Standard SMT-lite gameplay. Dungeon crawling is a bit better than P3 but still a tedious experience overall. There are quite a few QoLs that just helps the overall experience.
+
+Music: Really good. The 4 town themes just stuck with me ever since and probably will never leave my playlist, it just hits different when you are walking down the street in hot sunlight with *Your Affection* blasting in the headphones. Snowflakes sends chill down my spine when I first hear it. Nevermore is a decent motif. Just a really really solid soundtrack with J-Pop as the focus. 
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| S | S+ | S- | S | Rise/Naoto/Yosuke |
+| S | S+ | A+ | S | Rise/Naoto/Yosuke |
 
 Best tracks: I'll Face Myself (Battle Version), Heartbeat Heartbreak, Snowflakes
 
 #### **Final Fantasy X (PC)** 
-My first Final Fantasy game. Absolutely love the characters, the world and the plot. It is an epic yet emotional journey and in the end you are really convinced that this IS Tidus's story. The first video game ending that made me almost cried real tears. But I suck at this game, can't even finish a guided speedrun. And yes the OST is definitely not the greatest FF OST despite having two of the best motifs in the series - it is not as cohesive as the other previous titles due to having multiple composers. **Any and all FFX sequels do not exist.**
+My first Final Fantasy game. Absolutely love the characters, the world and the plot. But I suck at this game, can't even finish a guided speedrun. 
+
+Story/Plot: It is an epic yet emotional journey. In the end you are really convinced that this IS Tidus's story. The first video game ending that made me almost cried real tears. The romance is developed naturally and perfectly justified without being forceful. **Any and all FFX sequels do not exist.**
+
+Characters: This game has one of the best cast in gaming history. Everyone is likeable and carry some flaws and changes throughout the journey naturally. Tidus is a great protagonist and easy for us to see the world through him.
+
+Gameplay: Pretty slick turn based combat with more strategy planning than the reaction speed of ATB. I never engaged with it too much though. Sphere grid is still a unique progression system to handle linear and open job class even for today's standards. The minigames suck and the endgame is a grindfest that I never bothered with.
+
+Music: The OST is definitely not the greatest FF OST despite having two of the best motifs in the series (To Zanarkand and Suteki Da Ne) - it is not as cohesive as the other previous titles due to having multiple composers. Most tracks sounds incredible in game but for some reason they sounded weaker out of it. 
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -68,7 +92,7 @@ Best tracks: Team, This One's Stronger!, FIGHT!, Team, It's Getting Serious!
 - Banger OST. From jazz to rock to emotional harmonicas. Take your pick. 
 - Good combat system, though a bit easy to exploit
 - Maybe the best localization ever existed in video games. Truly the soul of this game. The game is carried largely by this. They turned anime cliche dialogue into magic. Everyone's lines are witty and to the point.
-- The ending for both games are just perfect. Every single detail.
+- The ending for both games are just perfect. EVERY SINGLE DETAIL.
 - **Estelle is Bestelle**
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
@@ -107,7 +131,7 @@ Characters: I enjoyed how they handled Adol - he is no longer a silent protagoni
 
 Gameplay: Full on action gameplay, Flash Guard and Move can be a bit too OP. Difficulty selection is great to serve everyone with different skill levels, one of the best entry points to ARPG probably. ARPG veterans need to set limits to properly enjoy the game. Island exploration is great fun. Bosses are mostly designed around the combat system, though there are some bosses that just break this rule, majority of them are well balanced. I mean like 70% of them, not including final boss and final final boss. If you're comfortable blocking/dodging here, you will do well in 80% of the ARPGs. 
 
-Music: It's Falcom Sound Team jdk. One only expects the best from them and they did not disappoint here. They still maintain the metallic soul in Ys but blended with more modern sounds. I still cannot believe Iclucian Dance - the best field theme in the game is composed by Mitsuo Singa. Actually Singa did a phenominal job here.
+Music: It's Falcom Sound Team jdk. One only expects the best from them and they did not disappoint here. They still maintain the metallic soul in Ys but blended with more modern sounds. I still cannot believe Iclucian Dance - the best field theme in the game is composed by Mitsuo Singa. Actually Singa did a phenomenal job here.
 
 This is the first game I had officially completed to 100% !!
 
@@ -120,11 +144,11 @@ Best tracks: Sunshine Coastline, Iclucian Dance, Dana
 #### **Radiant Historia (DS)**
 One of the best definition of a solid game and well executed novel ideas put together. This game is going down into the history as one of the best DS games and JRPGs.
 
-Story/plot: Warring nations is used as the backdrop for time travelling as many decisions will need to be made, it could not be more appropriate than this. It really feels like you are paricipating in a war personally especially in the beginning chapters. In the end it is still the same old save the world plot but does not really affect the experience. The pacing is tight and the writer is good at setting up and subverting expectations. The story around time travelling is not that watertight at all so do not expect Steins;Gate out of this.
+Story/plot: Warring nations is used as the backdrop for time travelling as many decisions will need to be made, it could not be more appropriate than this. It really feels like you are participating in a war personally especially in the beginning chapters. In the end it is still the same old save the world plot but does not really affect the experience. The pacing is tight and the writer is good at setting up and subverting expectations. The story around time travelling is not that watertight at all so do not expect Steins;Gate out of this.
 
-Characters: Stocke is a really well done protagonist, good both as self insert or as an individual. Self inserting as a cool mercenary and strategist is not bad at all. The side cast are explored just enough like the main crew (Raynie, Marco, Rosch), still some are not that established. I think this can be spared as backstory is not as important when a war is at hand. The dynamic is pretty good, giving the comrade feeling around the party. 
+Characters: Stocke is a really well done protagonist, good both as self insert or as an individual. Self inserting as a cool mercenary and strategist is not bad at all. The side cast are explored just enough like the main crew (Raynie, Marco, Rosch), still some are not that established (c'mon Gafka you can do better than this, even Raul has more character). I think this can be spared as backstory is not as important when a war is at hand. The dynamic is pretty good, giving the comrade feeling around the party. 
 
-Gameplay: The best part of the game. The main gimmick revolves around travelling between two timelines to find solutions for the other timeline, requiring players to pay some attention to the main plot, though the hints sometimes are too obvious. No random encounters, suitably sized and field abilities makes for a fun dungeon experience. The combat system is also a highlight. Each battle requires careful thought even if you have a good strategy (I heard there are lots of ways to break it but never found on my own).
+Gameplay: The best part of the game. The main gimmick revolves around travelling between two timelines to find solutions for the other timeline, requiring players to pay some attention to the main plot, though the hints sometimes are too obvious. No random encounters, suitably sized maps and field abilities make for a fun dungeon experience. The combat system is also a highlight. Each battle requires careful thought even if you have a good strategy (I heard there are lots of ways to break it but never found on my own, those are hidden in the sidequests).
 
 Music: Ah yes it is Yoko Shimomura [insert fanboy screams here]. This is probably her shortest OST by far. Due to the game's structure, the music needs to be reusable enough in many cases and she nailed it as usual. You can hear a lot of KH style in it, with one track calling back to Legend of Mana (i think). Once a violin slut, always a violin slut.
 
@@ -166,7 +190,7 @@ A very theme driven game and successfully brings out the message of facing death
 
 Best tracks: Memories of You, Memories of the City, Sun
 
-#### Kingdom Hearts 1 (PS2)
+#### Kingdom Hearts (PS2)
 A simple Hero's Journey, but a great one. Unlike the later KH games, the main plot is tied nicely with the Disney worlds, making Sora's journey necessary and important to his character. One of the best execution for "Friendship is Power" trope. It can be cheesy but it is good because it is not baseless. Combat is simple and effective but the camera... did not age too well.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
@@ -378,7 +402,7 @@ Best Tracks: Towards the Horizon, Wind's Nocturne, Fighting Spirits
 ---
 
 ### **MEH**
-*Would suggest to avert your eyes from and skip these*
+*I just don't like these*
 
 #### Kingdom Hearts 358/2 Days (DS) 
 Played this for the story only cuz Roxas is my boy, Xion is eh. Definitely nailed the mundane life, if that is what the devs intended. Actually has a coherent story within which is the only good thing. Combat has some potential but largely wasted, definitely can be remade.
@@ -420,7 +444,7 @@ Quintet RPG is an acquired taste. Gameplay feels more Zelda than RPG, with tradi
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| C | C | B | B |  |
+| C | C | B | C |  |
 
 ---
 
@@ -440,10 +464,9 @@ Quintet RPG is an acquired taste. Gameplay feels more Zelda than RPG, with tradi
 - Star Ocean: First Departure (PSP) (combat is too barebones, lack of real control, yeah Sakuraba I just don't like you that much)
 
 ### **NEXT UP/ONGOING**
-- 
+- Paper Mario: The Thousand Year Door
 
 ### **INTERESTED IN**
-- Radiant Historia
 - Ys SEVEN
 - Ys Memories of Celceta
 - Tales of Vesperia
@@ -454,7 +477,6 @@ Quintet RPG is an acquired taste. Gameplay feels more Zelda than RPG, with tradi
 - Radiata Stories
 - Trails to Azure
 - Trails from Zero
-- Paper Mario: The Thousand Year Door
 - Ys: Ark of Napishtim
 - Zelda: A Link to the Past
 
