@@ -19,7 +19,7 @@ Music: One of Yoko Shimomura's magnum opus. Other than Disney world related trac
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| C | D | S++ | S | Roxas |
+| C | D | S+ | S | Roxas |
 
 Best tracks: Darkness of the Unknown, Dearly Beloved, The Other Promise
 
@@ -368,10 +368,19 @@ Coming back from Ys VIII: Flash Roll in here is much more balanced and does not 
 
 Best Tracks: Believe It!, Possibility Flaps, Morimiya is Okay!
 
+#### Paper Mario: The Thousand Year Door (GC)
+Maybe I am not built for Mario games. The humour just fell flat on me and the story is already so simple as it is, there is not a lot to hook me in terms of story/characters. The music style just did not grab me, maybe is its instrumentation or composition i dont know, but it is not bad by all means. The battle theme really grew on me. The great thing is the combat which is the reason I completed this game. For dungeon design, there are a lot of sections relying on constant backtracking without the connectivity Zelda games offer and it can be mildly infuriating. And who the heck decided to add the realtime 30s minigame. I actually kind of enjoyed the Princess Peach sections, and this is where I realized Nintendo would have written princess characters for around 10 years when this game was released.
+
+I am just glad the existence of this game inspired the great game that is Bug Fables (perhaps referenced TTYD a bit too much, such as most basic field/combat skills, RBGY items, tournament arc and many more). Other than the less puzzle filled dungeon design and a smaller world, BF improved and polished everything else compared to TTYD. 
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| C | C | A+ | C |  |
+
 ---
 
 ### **PRETTY nice but skippable**
-*Don't waste money or time on these unless you can afford to. Not very memorable in any way. Some badly aged classics also stays here.*
+*Not a waste of time, but nothing notable either*
 
 #### Persona Q (3DS)
 Meh Persona fanfic. All the characters you love become one dimensional and are used for "comedy" purpose. Has a decent original plot though. Etrian Odyssey gameplay is cool. Way too easy to exploit once you know it (Poison/Light+Dark skills).
@@ -493,7 +502,7 @@ Based on overall enjoyment. Order may be different based on different aspects.
 `Berseria > Abyss > Symphonia`
 
 #### **Kingdom Hearts**
-`2 > 1 >> Days > BBS`
+`2FM > 1 >> Days > BBS`
 
 #### **Persona**
 `4 > 3 >> 2:IS >>> Q`
