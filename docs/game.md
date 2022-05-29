@@ -144,9 +144,9 @@ Best tracks: Sunshine Coastline, Iclucian Dance, Dana
 #### **Radiant Historia (DS)**
 One of the best definition of a solid game and well executed novel ideas put together. This game is going down into the history as one of the best DS games and JRPGs.
 
-Story/plot: Warring nations is used as the backdrop for time travelling as many decisions will need to be made, it could not be more appropriate than this. It really feels like you are participating in a war personally especially in the beginning chapters. In the end it is still the same old save the world plot but does not really affect the experience. The pacing is tight and the writer is good at setting up and subverting expectations. The story around time travelling is not that watertight at all so do not expect Steins;Gate out of this.
+Story/plot: Warring nations is used as the backdrop for time travelling as many decisions will need to be made, it could not be more appropriate than this. It really feels like you are participating in a war personally especially in the beginning chapters. The design of choices and the responses are brilliant, most of the time both options make sense and are equally valid, but you never know if something unknown may influence the result down the line, encouraging players to make a choice without worrying too much. In the end it is still the same old save the world plot but does not really affect the experience. The pacing is tight and the writer is good at setting up and subverting expectations. The lore around time travelling is not that watertight at all so do not expect Steins;Gate out of this.
 
-Characters: Stocke is a really well done protagonist, good both as self insert or as an individual. Self inserting as a cool mercenary and strategist is not bad at all. The side cast are explored just enough like the main crew (Raynie, Marco, Rosch), still some are not that established (c'mon Gafka you can do better than this, even Raul has more character). I think this can be spared as backstory is not as important when a war is at hand. The dynamic is pretty good, giving the comrade feeling around the party. 
+Characters: Stocke is a really well done protagonist. He presents himself like a standard JRPG protagonist but has enough quirks to make him different. The side cast are explored just enough like the main crew (Raynie, Marco, Rosch), still some are not that established (c'mon Gafka you can do better than this, even Raul has more character). I think this can be spared as backstory is not as important when a war is at hand. The dynamic is pretty good, giving the comrade feeling around the party. 
 
 Gameplay: The best part of the game. The main gimmick revolves around travelling between two timelines to find solutions for the other timeline, requiring players to pay some attention to the main plot, though the hints sometimes are too obvious. No random encounters, suitably sized maps and field abilities make for a fun dungeon experience. The combat system is also a highlight. Each battle requires careful thought even if you have a good strategy (I heard there are lots of ways to break it but never found on my own, those are hidden in the sidequests).
 
@@ -473,13 +473,12 @@ Quintet RPG is an acquired taste. Gameplay feels more Zelda than RPG, with tradi
 - Star Ocean: First Departure (PSP) (combat is too barebones, lack of real control, yeah Sakuraba I just don't like you that much)
 
 ### **NEXT UP/ONGOING**
-- Paper Mario: The Thousand Year Door
+- Legend of Mana
 
 ### **INTERESTED IN**
 - Ys SEVEN
 - Ys Memories of Celceta
 - Tales of Vesperia
-- Legend of Mana
 - Chrono Cross
 - Shadow Hearts
 - Nier Automata
