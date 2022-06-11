@@ -303,7 +303,7 @@ A spin off ish game but not. Nice to see some detailed character back story and 
 Best tracks: Fighting Right On, Cry for Your Eternity, Overdosing Heavenly Bliss 
 
 #### Odin Sphere (PS2) 
-A decent fairy tale with a somewhat elaborate world with a grander plot, multiple characters, everyone have arcs ranging from amazing to OK, decent OST. Combat can be clunky and alchemy can be a bit confusing. Also challenges resource management quite a bit due to very limited inventory. It features JP and English dub too, which is most rare in PS2 games.
+A decent fairy tale with a somewhat elaborate world with a grander plot, multiple characters, everyone have arcs ranging from amazing to OK, decent OST. Combat can be clunky (at least the hit effects is dang satisfying) and alchemy can be a bit confusing. Also challenges resource management quite a bit due to very limited inventory. It features JP and English dub too, which is most rare in PS2 games.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -360,7 +360,7 @@ Another cute Zelda game. Has big WW energy.
 #### Tokyo Xanadu eX+ (PC)
 I will always use this phrase to describe this game: *Budget Persona 4 - Made with Lots of Love*. Seeing what Falcom had achieved with Trails in the Sky I am even more confused why is this so mid. It contains every anime trope but does nothing interesting for the entire game. Some characters even looks like they are directly adapted from Persona 3/4, with the skin from Trails of Cold Steel. The main plot could have been fine but the True Ending had to ruin it. Somehow it managed to create another Kairi from KH, as if Kairi is not bad enough (no hate for Kairi here, she's pretty cute but nothing more than that). Combat is quite shallow and simple but is the best part about it, most mechanics are just "I Win Buttons (with too many X's)", at least there is dodge roll. Bosses ranges between too easy to too annoying. Only buy this on 80% discount.
 
-Coming back from Ys VIII: Flash Roll in here is much more balanced and does not trivialize fights. X Drive is one of the better implementation of a "Limit Break" skill (*cough* Definitely did not take any notes from KH2 summons *cough*)
+Coming back from Ys VIII: Flash Roll in here is much more balanced and does not trivialize fights. X Drive is one of the better implementation of a "Limit Break" skill 
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -369,7 +369,7 @@ Coming back from Ys VIII: Flash Roll in here is much more balanced and does not 
 Best Tracks: Believe It!, Possibility Flaps, Morimiya is Okay!
 
 #### Paper Mario: The Thousand Year Door (GC)
-Maybe I am not built for Mario games. The humour just fell flat on me and the story is already so simple as it is, there is not a lot to hook me in terms of story/characters. The music style just did not grab me, maybe is its instrumentation or composition i dont know, but it is not bad by all means. The battle theme really grew on me. The great thing is the combat which is the reason I completed this game. For dungeon design, there are a lot of sections relying on constant backtracking without the connectivity Zelda games offer and it can be mildly infuriating. And who the heck decided to add the realtime 30s minigame. I actually kind of enjoyed the Princess Peach sections, and this is where I realized Nintendo would have written princess characters for around 10 years when this game was released.
+Maybe I am not built for Mario games. The humour just fell flat on me and the story is already so simple as it is, there is not a lot to hook me in terms of story/characters. The music style just did not grab me, maybe is its instrumentation or composition i don't know, but it is not bad by all means. The battle theme really grew on me. The great thing is the combat which is the reason I completed this game. For dungeon design, there are a lot of sections relying on constant backtracking without the connectivity Zelda games offer and it can be mildly infuriating. And who the heck decided to add the realtime 30s minigame. I actually kind of enjoyed the Princess Peach sections, and this is where I realized Nintendo would have written princess characters for around 10 years when this game was released.
 
 I am just glad the existence of this game inspired the great game that is Bug Fables (perhaps referenced TTYD a bit too much, such as most basic field/combat skills, RBGY items, tournament arc and many more). Other than the less puzzle filled dungeon design and a smaller world, BF improved and polished everything else compared to TTYD. 
 
@@ -455,6 +455,15 @@ Quintet RPG is an acquired taste. Gameplay feels more Zelda than RPG, with tradi
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | C | C | B | C |  |
 
+#### Legend of Mana (PS1)
+It pains me to put this game here because I loved the art and music, but the gameplay and non linear story just puts me off so much. The story is more like an anthology than a coherent plot and you play as an observer (knowing this fact beforehand makes everything so much better). Quite a unique experience despite everything. The combat is way too unbearable, moving around and hitting things is a pain in itself. I don't know why the overworld movement cannot be used in combat instead of sliding left and right.  I just have to accept this game is not for me and move on.
+
+This is Yoko Shimomura's single best standalone OST. It captured the magical fantasy world like no other, not even her future self achieved this kind of raw sense of imagination. I will die on this hill.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| - | - | D | S+ |  |
+
 ---
 
 ### **WATCHED playthroughs**
@@ -473,7 +482,7 @@ Quintet RPG is an acquired taste. Gameplay feels more Zelda than RPG, with tradi
 - Star Ocean: First Departure (PSP) (combat is too barebones, lack of real control, yeah Sakuraba I just don't like you that much)
 
 ### **NEXT UP/ONGOING**
-- Legend of Mana
+
 
 ### **INTERESTED IN**
 - Ys SEVEN
@@ -501,7 +510,7 @@ Based on overall enjoyment. Order may be different based on different aspects.
 `Berseria > Abyss > Symphonia`
 
 #### **Kingdom Hearts**
-`2FM > 1 >> Days > BBS`
+`2FM > 1 >> Days >> BBS`
 
 #### **Persona**
 `4 > 3 >> 2:IS >>> Q`
