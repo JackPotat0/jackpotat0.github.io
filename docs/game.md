@@ -104,7 +104,7 @@ Best tracks: Confessions, Sophiscated Fight, Whereabouts of Stars, The Fate of t
 #### **Final Fantasy IX (PS1)**
 I am struggling to decide whether to put this here or the next category. I had been blinded by the internet that this is not for me, and is that WRONG. This could easily be my favourite FF if I had played this before FFX (though FFX is still the better introductory FF imo). This is a really solid game without a lot to complain.
 
-It is interesting to see how the storytelling in the series evolved throughout FFVII to FFX. It fixed most issues in FFVIII story wise and set a great groundwork for FFX. Garnet/Dagger is written wonderfully and acts like a real 16 year old girl under the circumstances. Zidane is a refreshing protagonist as he is a largely developed character at the beginning and has a nice arc wrapping up his character near the end. The other characters also stayed as relevant for as long as possible (maybe not Amarant, he is definitely the weakest in the narative, only act as a foil to Zidane's ideals). **Vivi is precious and must be protected.** The theme of life and its purpose is quite timeless and thought provoking.
+Garnet/Dagger is written wonderfully and acts like a real 16 year old girl under the circumstances. Zidane is a refreshing protagonist as he is a largely developed character at the beginning and has a nice arc wrapping up his character near the end. The other characters also stayed as relevant for as long as possible (maybe not Amarant, he is definitely the weakest in the narative, only act as a foil to Zidane's ideals). **Vivi is precious and must be protected.** The theme of life and its purpose is quite timeless and thought provoking.
 
 I liked how everyone has a fixed role that cannot be changed. Getting new equipments is exciting with the weapon ability system. The slow load times and long animations are real but can be easily solved with emulator speedups (and I believe the battle theme is synced to the long battle loads). The world map is easy to navigate and the encounter rate is really acceptable. Quina is the first blue mage I used extensively (7=I don't like Cait Sith, 8=I don't do encounters after getting No-Enc from Diablos, 10=Kimahri and blue magic is just useless most of the time.). The only complaint about it is the Trance system with too much randomness (I didn't even see Eiko Trance once, at this point just remove it lol).
 
@@ -142,7 +142,7 @@ This is the first game I had officially completed to 100% !!
 Best tracks: Sunshine Coastline, Iclucian Dance, Dana
 
 #### **Radiant Historia (DS)**
-One of the best definitions of a solid game and well executed novel ideas put together. This game is going down into the history as one of the best DS games and JRPGs.
+One of the best definitions of a solid game and well-executed, novel ideas put together. This game is going down into the history as one of the best DS games and JRPGs.
 
 Story/plot: Warring nations is used as the backdrop for time travelling as many decisions will need to be made, it could not be more appropriate than this. It really feels like you are participating in a war personally especially in the beginning chapters. The design of choices and the responses are brilliant, most of the time both options make sense and are equally valid, but you never know if something unknown may influence the result down the line, encouraging players to make a choice without worrying too much. In the end it is still the same old save the world plot but does not really affect the experience. The pacing is tight and the writer is good at setting up and subverting expectations. The lore around time travelling is not that watertight at all so do not expect Steins;Gate out of this.
 
@@ -436,7 +436,7 @@ No. You cannot just remake Lunar+Chrono Trigger without something fresh. They re
 
 Story/Plot: Mostly a rehash of FFX. The plot felt pretty empty and flat as there are no enough background to the "pilgrimage" unlike FFX with elaborate world building. It almost felt random. There are simply not enough to keep me to care about the main plot on an emotional level. They tried to present the theme of "sacrifice", but fails to present it in a meaningful way, in other words, amateurish. To be fair the concept is not bad and can definitely shine but it fell into the wrong hands. The ending is a mess, it just comes up at nowhere and reveals more plot points that's never referenced before and expects player to care. But luckily for how little there is, the main quest is really short, so players can end this snorefest quicker.
 
-Characters: The cast almost collected all the weaknesses in different casts in various JRPGs and put them together. Lack of relevancy after own arc (and their arcs are as generic as it gets!), no memorable exchanges, one beat personality, you name it. It is like Lunar SSS, but the cast is now boring. I tried very hard but it is impossible to be attached to any of the characters. We have: the silent protagonist that gets no interesting options and just there for plot reasons, Setsuna a.k.a Mary Sue, the plot dumper, the annoying kid, and a bunch of others. And I am sure the devs did not realize that looking like Auron does not automatically makes him cool like Auron.
+Characters: The cast almost collected all the weaknesses in different casts in various JRPGs and put them together. Lack of relevancy after own arc (and their arcs are as generic as it gets!), no memorable exchanges, one beat personality, you name it. It is like Lunar SSS, but the cast is now boring. I tried very hard but it is impossible to be attached to any of the characters. We have: the silent protagonist that gets no interesting options and just there for plot reasons, Setsuna a.k.a Mary Sue, the plot dumper, the annoying kid, and a bunch of others. A character looking like Auron does not automatically makes him cool like Auron.
 
 Gameplay: I get the devs wanted to create the authentic 90s experience, but you cannot just ignore some modern QoL like auto text scroll/cutscene skip (unless the dialogue is as good as Bug Fables/Trails) and faster walking speed. Momentum system is a decent twist to the CT base system. The skill and equipment system can be a bit more streamlined. The controls are sometimes unresponsive while moving.
 
@@ -482,7 +482,7 @@ This is Yoko Shimomura's single best standalone OST. It captured the magical fan
 - Star Ocean: First Departure (PSP) (combat is too barebones, lack of real control, yeah Sakuraba I just don't like you that much)
 
 ### **NEXT UP/ONGOING**
-
+- Zelda: A Link to the Past
 
 ### **INTERESTED IN**
 - Ys SEVEN
@@ -495,8 +495,9 @@ This is Yoko Shimomura's single best standalone OST. It captured the magical fan
 - Trails to Azure
 - Trails from Zero
 - Ys: Ark of Napishtim
-- Zelda: A Link to the Past
 - Xenogears
+- Lunar 2: Eternal Blue
+
 ---
 
 
