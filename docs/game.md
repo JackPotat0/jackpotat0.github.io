@@ -320,6 +320,13 @@ The Zelda game that is not named Zelda, feels a lot like Twilight Princess overa
 
 Best tracks: Shinshu Field, Ryoshima Coast, Faith
 
+#### The Legend of Zelda: A Link to the Past
+Now I can understand the old Zelda elitists. The dungeons are really fun challenges but not impossible to figure out with some effort. There are not a lot of handholding but just linear enough to know where to go next. The enemies are real threats unlike in GC Zeldas. The only downside is that some bosses are just SNES-unfair, practically impossible for first timers without doing extra content.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| C | C | A+ | A |  |
+
 ---
 
 ### **INTERESTING titles**
@@ -482,7 +489,6 @@ This is Yoko Shimomura's single best standalone OST. It captured the magical fan
 - Star Ocean: First Departure (PSP) (combat is too barebones, lack of real control, yeah Sakuraba I just don't like you that much)
 
 ### **NEXT UP/ONGOING**
-- Zelda: A Link to the Past
 
 ### **INTERESTED IN**
 - Ys SEVEN
@@ -514,13 +520,13 @@ Based on overall enjoyment. Order may be different based on different aspects.
 `2FM > 1 >> Days >> BBS`
 
 #### **Persona**
-`4 > 3 >> 2:IS >>> Q`
+`4 > 3 >> 2:IS > Q`
 
 #### **Ys**
 `Lacrimosa of Dana >> Origin > Felghana`
 
 #### **Zelda**
-`The Wind Waker > Twilight Princess >> Minish Cap = Ocarina of Time > Majora's Mask`
+`The Wind Waker > Twilight Princess > A Link to the Past > Minish Cap > Ocarina of Time > Majora's Mask`
 
 #### **Trails**
 `Sky FC = Sky SC >> Sky 3rd`
