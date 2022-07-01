@@ -13,9 +13,9 @@ Story/Plot: The prologue is amazing. In just a few hours you are connected to on
 
 Characters: A huge mess. Sora loses the spunkiness in KH1 and just a good guy now. Kairi remains useless even when awake. Roxas is the only great character in this game. The way he faces his fate and coming to terms is pretty heart wrenching. Riku is actually OK, but his arc kind of ended in 358/2 Days. Axel is pretty fine but also more elaborated in Days. It is rather hard to connect with the new casts, villains or not. 
 
-Gameplay: Hands down the greatest ARPG combat system of all time in my heart. Combos are fluid and snappy. Camera is great. There are a ton of different mechanics that you can mix and match. Great difficulty settings. Fantastic bosses like Lingering Will and Sephiroth... and I can still go on. I doubt there will ever be another action game that feels better than this game.
+Gameplay: Hands down the greatest ARPG combat system of all time. Combos are fluid and snappy. Camera is great. There are a ton of different mechanics that you can mix and match. Great difficulty settings. Fantastic bosses like Lingering Will and Sephiroth... and I can still go on. I doubt there will ever be another action game that feels better than this game.
 
-Music: One of Yoko Shimomura's magnum opus. Other than Disney world related track that I don't enjoy as much, the rest of the soundtrack is pretty much perfect. It also has one of the best Dearly Beloved. Sound engineering is great too, the use of silence is especially remarkable. 
+Music: One of Yoko Shimomura's magnum opus. Other than Disney world related tracks that I don't enjoy as much (which is like half of the OST), the rest of the soundtrack is pretty much perfect. It also has one of the best Dearly Beloved.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -28,7 +28,7 @@ My first Persona game. Immediately started NG+ right after NG, almost 100% excep
 
 Story/Plot: The main plot itself is actually just fine. It manages to convey its theme but nothing groundbreaking. It excels at character centric arcs which takes up most of the game. This game captures the feeling of living a (not so) simple student life in a small town and just hanging out with friends. The Golden addition is nice just for more team bonding moments but the new plotline is really forgettable and adds nothing to the already complete story. 
 
-Characters: My favourite Persona cast. The cast is very endearing and full of personality. The team may be cliched but never one dimensional, although much are hidden in their social links, some of the SLs are still and will be the top SLs in the series (Kanji, Naoto, Yosuke). The other NPC social links are generally decent, but not a lot of them stand out amongst others (Good ones: Nanako, Dojima, Ai Ebihara, Kou, Death gandma, Naoki). Marie is just a bad character, the writers clearly have no clue how to write a tsundere yet tries to make it work. I just hate how she is shoehorned into the story and forced to be important just for no good reason. 
+Characters: My favourite Persona cast. The cast is very endearing and full of personality. The team may be cliched but never one dimensional, although much are hidden in their social links, some of the SLs are still and will be the top SLs in the series (Kanji, Naoto, Yosuke). The other NPC social links are generally decent, but not a lot of them stand out amongst others (Nanako, Dojima, Ai Ebihara, Kou, Death grandma, Naoki). Marie is a character with some interesting concepts but awfully executed. I just hate how she is shoehorned into the story and forced to be important just for no good reason. 
 
 Gameplay: Standard SMT-lite gameplay. Dungeon crawling is a bit better than P3 but still a tedious experience overall. There are quite a few QoLs that just helps the overall experience.
 
@@ -285,7 +285,7 @@ Decent story and characters. Having an event driven plot makes the characters fe
 Best tracks: Aerith's Theme, Tifa's Theme, Those Who Fight
 
 #### Terranigma (SNES)
-Truly an ARPG ahead of its time. Great OST to create the mysterious and sombre atmosphere. Slightly dark/bittersweet ending is a nice touch. Surprisingly having some decent cast. Ark is simply a better Crono from Chrono Trigger. Technical limitations sometimes can hinder the combat system quite a bit.
+Truly an ARPG ahead of its time. Great OST to create the mysterious and sombre atmosphere. Slightly dark/bittersweet ending is a nice touch. Surprisingly having some decent cast. Ark is simply a better Crono from Chrono Trigger. Technical limitations (read:lag) sometimes can hinder the combat system quite a bit.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -415,6 +415,19 @@ Music: There are some bangers here and there. The battle theme is pretty catchy 
 
 Best Tracks: Towards the Horizon, Wind's Nocturne, Fighting Spirits
 
+#### Ys VI: Ark of Napishtim
+tldr: Non linear progression is cool, grinding is not cool, boss design is very inferior compared to Felghana and Origin. The game can feel very tedious to play though short due to more time spent on grinding instead of retrying bosses. Only recommended for true Ys fans.
+
+This game has the design philosophy of most retro games, with progression hidden out of the main path and the player has to work to discover for themselves. There are also a lot of optional and missable stuff too. This is not present in any of the future Ys games where key items and progress are just put in front of you. It is pretty amazing that the Teleport item is not even mandatory. 
+
+The level scaling is too strict. You really do 0 damage to anything that is slightly above your level and you are forced to grind up to the level floor. You are punished too much for being underleveled until running through dungeons becomes a problem, making the game very very grindy. Leveling equipments is probably required too. It's great that they balanced all of that in the Felghana and Origin. 
+
+Most bosses are just annoying in the first attempts, then boring when you know how to damage it. The ability to use items in battle makes the bosses feels much less brutal with this system, though comes with a cost of bloated HP. Ernst is pretty damn hard and annoying and does deserve the hype theme, actually he is the only exciting boss in the entire game. Dash jump is pretty unintuitive but interesting to use you know how, at least better than extended jumps in Felghana which is unintended. I am pretty sure this is where Dana's Light form is referenced with Adol's Yellow blade here.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| C | C | A- | A- |  |
+
 ---
 
 ### **MEH**
@@ -489,18 +502,17 @@ This is Yoko Shimomura's single best standalone OST. It captured the magical fan
 - Star Ocean: First Departure (PSP) (combat is too barebones, lack of real control, yeah Sakuraba I just don't like you that much)
 
 ### **NEXT UP/ONGOING**
+- Shadow Hearts
 
 ### **INTERESTED IN**
 - Ys SEVEN
 - Ys Memories of Celceta
 - Tales of Vesperia
 - Chrono Cross
-- Shadow Hearts
 - Nier Automata
 - Radiata Stories
 - Trails to Azure
 - Trails from Zero
-- Ys: Ark of Napishtim
 - Xenogears
 - Lunar 2: Eternal Blue
 
@@ -523,7 +535,7 @@ Based on overall enjoyment. Order may be different based on different aspects.
 `4 > 3 >> 2:IS > Q`
 
 #### **Ys**
-`Lacrimosa of Dana >> Origin > Felghana`
+`Lacrimosa of Dana >> Origin > Felghana > Napishtim`
 
 #### **Zelda**
 `The Wind Waker > Twilight Princess > A Link to the Past > Minish Cap > Ocarina of Time > Majora's Mask`
