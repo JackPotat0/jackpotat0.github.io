@@ -475,15 +475,6 @@ Quintet RPG is an acquired taste. Gameplay feels more Zelda than RPG, with tradi
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | C | C | B | C |  |
 
-#### Legend of Mana (PS1)
-It pains me to put this game here because I loved the art and music, but the gameplay and non linear story just puts me off so much. The story is more like an anthology than a coherent plot and you play as an observer (knowing this fact beforehand makes everything so much better). Quite a unique experience despite everything. The combat is way too unbearable, moving around and hitting things is a pain in itself. I don't know why the overworld movement cannot be used in combat instead of sliding left and right.  I just have to accept this game is not for me and move on.
-
-This is Yoko Shimomura's single best standalone OST. It captured the magical fantasy world like no other, not even her future self achieved this kind of raw sense of imagination. I will die on this hill.
-
-| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
-| ------------- | ------------- | --------- | ------------ | --------------- |
-| - | - | D | S+ |  |
-
 ---
 
 ### **WATCHED playthroughs**
@@ -500,6 +491,7 @@ This is Yoko Shimomura's single best standalone OST. It captured the magical fan
 - Rogue Galaxy (Generally clunky, boring dungeons and OST)
 - Final Fantasy VI (SNES) (on hold, just didn't grab me...?)
 - Star Ocean: First Departure (PSP) (combat is too barebones, lack of real control, yeah Sakuraba I just don't like you that much)
+- Legend of Mana (PS1) (Combat is too unbearable, non linear layout is too uncomfortable for me. This is Yoko Shimomura's single best standalone OST. It captured the magical fantasy world like no other, not even her future self achieved this kind of raw sense of imagination. I will die on this hill.)
 
 ### **NEXT UP/ONGOING**
 - Shadow Hearts
@@ -513,9 +505,13 @@ This is Yoko Shimomura's single best standalone OST. It captured the magical fan
 - Radiata Stories
 - Trails to Azure
 - Trails from Zero
+- Golden Sun
+
+#### **INTERESTED but maybe someday**
 - Xenogears
 - Lunar 2: Eternal Blue
-
+- Ys 1+2 Chronicles
+- Shadow Hearts Covenant
 ---
 
 
