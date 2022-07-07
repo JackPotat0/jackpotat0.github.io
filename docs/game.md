@@ -321,7 +321,7 @@ The Zelda game that is not named Zelda, feels a lot like Twilight Princess overa
 Best tracks: Shinshu Field, Ryoshima Coast, Faith
 
 #### The Legend of Zelda: A Link to the Past
-Now I can understand the old Zelda elitists. The dungeons are really fun challenges but not impossible to figure out with some effort. There are not a lot of handholding but just linear enough to know where to go next. The enemies are real threats unlike in GC Zeldas. The only downside is that some bosses are just SNES-unfair, practically impossible for first timers without doing extra content.
+Now I can understand the old Zelda elitists. The dungeons are really fun challenges but not impossible to figure out with some effort. There are not a lot of handholding but just linear enough to know where to go next. The enemies are real threats unlike in GC Zeldas. There are really creative dungeons too like the Skull Woods. The only downside is that some bosses are just SNES-unfair, practically impossible for first timers without doing extra content.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -384,6 +384,19 @@ I am just glad the existence of this game inspired the great game that is Bug Fa
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | C | C | A+ | C |  |
 
+#### Shadow Hearts (PS2)
+Story/Plot: I really cannot tell if there is any deep and powerful message under the goofy and cliche story underneath. Either the theme of the story just flew by me completely, or this is just a DMC-esque story used to create a specific creepy atmosphere and serve its gameplay.
+
+Characters: Yuri is pretty interesting, a very sincere and honest dude, both to himself and others. He almost feels like a prototype Noel from FFXIII-2. Alice is a bit boring of a princess archetype. The rest has some interesting quirks but nothing noteworthy. This game has its ways to do humour, like Margarete's skill is calling a phone Hououin Kyouma style then use a wacky item like toilet flush to enchant a target with Water spell??? (This sentence is really weird to type out). And her "I need some help here" followed by "Sore! (Take this)", like hey just decide if you want to be American or Japanese already. 
+
+Gameplay: Judgement Ring is really fun. I really wished there is some in-universe explanation for this system. In turn enemies can inflict status on the ring, which is really creative. But the skill system is just meh, spamming the strongest appropriate skill is always the best strategy. SP system is really cool as well, using up your "turns" to speed up a fight (but Yuri always has the most SP even after a fusion). There is that one dungeon that seals skills and items, that is NOT VERY COOL, especially banning a black and white mage from using skills is a very annoying and questionable move.
+
+Music: Very atmospheric and suitable for this horror setting, but not too nice to listen to. 
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| B | B | S- | C |  |
+
 ---
 
 ### **PRETTY nice but skippable**
@@ -427,6 +440,7 @@ Most bosses are just annoying in the first attempts, then boring when you know h
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | C | C | A- | A- |  |
+
 
 ---
 
@@ -506,12 +520,16 @@ Quintet RPG is an acquired taste. Gameplay feels more Zelda than RPG, with tradi
 - Trails to Azure
 - Trails from Zero
 - Golden Sun
+- Valkyrie Profile (PSX)
+- Dragon Quest 8
 
 #### **INTERESTED but maybe someday**
 - Xenogears
 - Lunar 2: Eternal Blue
 - Ys 1+2 Chronicles
 - Shadow Hearts Covenant
+
+
 ---
 
 
