@@ -385,9 +385,9 @@ I am just glad the existence of this game inspired the great game that is Bug Fa
 | C | C | A+ | C |  |
 
 #### Shadow Hearts (PS2)
-Story/Plot: I really cannot tell if there is any deep and powerful message under the goofy and cliche story underneath. Either the theme of the story just flew by me completely, or this is just a DMC-esque story used to create a specific creepy atmosphere and serve its gameplay.
+Story/Plot: I really cannot tell if there is any deep and powerful message under the goofy and cliche story underneath. Either the theme of the story just flew by me completely, or this is just a DMC-esque story used to create a specific creepy atmosphere and serve its gameplay. About the romance... sure it's there but not really compelling or anything.
 
-Characters: Yuri is pretty interesting, a very sincere and honest dude, both to himself and others. He almost feels like a prototype Noel from FFXIII-2. Alice is a bit boring of a princess archetype. Well actually they do have the Noel-Serah dynamic in FFXIII-2. The rest has some interesting quirks but nothing noteworthy. 
+Characters: Yuri is pretty interesting, a very sincere and honest dude, both to himself and others. He almost feels like a prototype Noel from FFXIII-2. Alice is a bit boring of a princess archetype. Well actually they do a little of Noel-Serah dynamic in FFXIII-2. The rest has some interesting quirks but nothing noteworthy. 
 
 This game has its ways to do humour, like Margarete's skill is calling a phone Hououin Kyouma style then use a wacky item like toilet flush to enchant a target with Water spell??? (This sentence is really weird to type out). And her "I need some help here" followed by "Sore! (Take this)", like hey just decide if you want to be American or Japanese already. 
 
@@ -507,10 +507,10 @@ Quintet RPG is an acquired taste. Gameplay feels more Zelda than RPG, with tradi
 - Rogue Galaxy (Generally clunky, boring dungeons and OST)
 - Final Fantasy VI (SNES) (on hold, just didn't grab me...?)
 - Star Ocean: First Departure (PSP) (combat is too barebones, lack of real control, yeah Sakuraba I just don't like you that much)
-- Legend of Mana (PS1) (Combat is too unbearable, non linear layout is too uncomfortable for me. This is Yoko Shimomura's single best standalone OST. It captured the magical fantasy world like no other, not even her future self achieved this kind of raw sense of imagination. I will die on this hill.)
+- Legend of Mana (PS1) (Combat is too unbearable, non linear layout is too uncomfortable for me. This is Yoko Shimomura's single best standalone OST. It captured the magical fantasy world like no other, not even her future works has this degree of raw sense of imagination. I will die on this hill.)
 
 ### **NEXT UP/ONGOING**
-- Shadow Hearts
+- Trails from Zero
 
 ### **INTERESTED IN**
 - Ys SEVEN
@@ -520,7 +520,6 @@ Quintet RPG is an acquired taste. Gameplay feels more Zelda than RPG, with tradi
 - Nier Automata
 - Radiata Stories
 - Trails to Azure
-- Trails from Zero
 - Golden Sun
 - Valkyrie Profile (PSX)
 - Dragon Quest 8
@@ -530,9 +529,9 @@ Quintet RPG is an acquired taste. Gameplay feels more Zelda than RPG, with tradi
 - Xenogears
 - Lunar 2: Eternal Blue
 - Ys 1+2 Chronicles
-- Shadow Hearts Covenant
 - Trails of Cold Steel
-
+- Final Fantasy VI 2nd attempt
+- Sakuna Rice and Ruin
 
 ---
 
