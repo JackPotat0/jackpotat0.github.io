@@ -511,6 +511,7 @@ Quintet RPG is an acquired taste. Gameplay feels more Zelda than RPG, with tradi
 
 ### **NEXT UP/ONGOING**
 - Trails from Zero
+- Valkyrie Profile
 
 ### **INTERESTED IN**
 - Ys SEVEN
@@ -521,7 +522,6 @@ Quintet RPG is an acquired taste. Gameplay feels more Zelda than RPG, with tradi
 - Radiata Stories
 - Trails to Azure
 - Golden Sun
-- Valkyrie Profile (PSX)
 - Dragon Quest 8
 - Persona 5 Royal
 
