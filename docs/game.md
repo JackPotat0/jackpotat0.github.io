@@ -327,6 +327,15 @@ Now I can understand the old Zelda elitists. The dungeons are really fun challen
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | C | C | A+ | A |  |
 
+#### Danganronpa: Trigger Happy Havoc
+Yeah it's a genre defining classic. Game is oozing with style and personality, from the art and presentation. The main plot is really solid without much to complain. Nonstop debate is a cool way to simulate a debate. Characterization could have been less tropy but it's whatever. It definitely suffers from the Madoka Effect where the shock value is completely lost due to its popularity.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| S | S- | S- | A+ | Kyoko |
+
+Best tracks: DANGANRONPA, Box 15, Discussion -HEAT UP- 
+
 ---
 
 ### **INTERESTING titles**
@@ -414,7 +423,7 @@ Meh Persona fanfic. All the characters you love become one dimensional and are u
 Best tracks: Light the Fire Up in the Night, Lazer Beam, Friends
 
 #### Lunar: Silver Star Story (PSX)
-A cult classic within the JRPG circle. But I think it really needs that nostalgia and era factor to become a great game. It feels like the FMA:B of JRPGs, but without that extra kick that makes it a real classic.
+A cult classic within the JRPG circle. But I think it really needs that nostalgia and era factor to become a great game. It feels like the FMA:B of JRPGs, but without that extra kick that makes it a real classic. Only recommended to JRPG fans for historical purposes.
 
 Story: The most standard RPG story I have experienced so far. It can be summed up as "Hero saves the Damsel in Distress with power of love and friendship", there are 0 big twist a modern gamer cannot see coming too. But do note that this story is written in 1992, I think what makes it stand out at the time is that its structure and presentation feels more like late 90s (dont quote me on this). Tons of animated cutscenes and voice acting adds a lot to the story. What it does great is tying its theme tightly to the main plot, although it can feel forced. For a love story, your main party consists of three (more like 2.5) couples with different dynamics and really make its point across clearly and strongly. 
 
@@ -532,6 +541,7 @@ Quintet RPG is an acquired taste. Gameplay feels more Zelda than RPG, with tradi
 - Trails of Cold Steel
 - Final Fantasy VI 2nd attempt
 - Sakuna Rice and Ruin
+- Final Fantasy Tactics
 
 ---
 
