@@ -328,7 +328,7 @@ Now I can understand the old Zelda elitists. The dungeons are really fun challen
 | C | C | A+ | A |  |
 
 #### Danganronpa: Trigger Happy Havoc
-Yeah it's a genre defining classic. Game is oozing with style and personality, from the art and presentation. The main plot is really solid without much to complain. Nonstop debate is a cool way to simulate a debate. Characterization could have been less tropy but it's whatever. It definitely suffers from the Madoka Effect where the shock value is completely lost due to its popularity.
+Yeah it's a genre defining classic, with endless supplies of hope and despair. Game is oozing with style and personality, from the art to the presentation. The main plot is really solid without much to complain. Class trial is a simply creative and brilliant gamification of a debate (Bullet time is pretty ass though). Characterization could have been less tropey but it's whatever. Makoto is not too interesting of a self insert but does have some redeeming traits (which I cant remember for the moment). It definitely suffers from the Madoka Effect where the shock value is completely lost due to its popularity. The music helped create the very specific vibe and made for a very immersive experience. BOX 15 is absolutely godly.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -516,7 +516,7 @@ Quintet RPG is an acquired taste. Gameplay feels more Zelda than RPG, with tradi
 - Rogue Galaxy (Generally clunky, boring dungeons and OST)
 - Final Fantasy VI (SNES) (on hold, just didn't grab me...?)
 - Star Ocean: First Departure (PSP) (combat is too barebones, lack of real control, yeah Sakuraba I just don't like you that much)
-- Legend of Mana (PS1) (Combat is too unbearable, non linear layout is too uncomfortable for me. This is Yoko Shimomura's single best standalone OST. It captured the magical fantasy world like no other, not even her future works has this degree of raw sense of imagination. I will die on this hill.)
+- Legend of Mana (PS1) (Combat is too unbearable, non linear layout is too uncomfortable for me. This is Yoko Shimomura's single best standalone OST. It captured the magical fantasy world like no other, not even her future works has this degree of raw imagination. I will die on this hill.)
 
 ### **NEXT UP/ONGOING**
 - Trails from Zero
