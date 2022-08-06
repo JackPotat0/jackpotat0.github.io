@@ -333,25 +333,25 @@ Yeah it's a genre defining classic, with endless supplies of hope and despair. G
 <details>
   <summary>Opinions</summary>
   
-  Makoto: Not too interesting of a self insert but does have some redeeming traits (which I cant remember for the moment). Liked him better than Hajime from D2 (so far).
+  Makoto: Not too interesting of a self insert but does have some redeeming traits (which I cant remember for the moment). Liked him better than Hajime from D2 (so far). 
   
-  Kyoko: Best girl. Kyoko smug gives me life. But she does not have too many interesting character growth.
+  Kyoko: Best girl. Kyoko smug gives me life. But she does not have too many interesting character growth. 
   
-  Toko: Archetype, maybe theres more idk
+  Toko: Archetype, maybe theres more idk 
   
-  Junko: Plot device. Next.
+  Junko: Plot device. Next. 
   
-  Celeste: Good character. Interesting dynamic of a realist having an improbable dream. Designed the most complicated case in the game imo.
+  Celeste: Good character. Interesting dynamic of a realist having an improbable dream. Designed the most complicated case in the game imo. 
   
-  Hina: Good and sane girl. Other than that one time she lost herself.
+  Hina: Good and sane girl. Other than that one time she lost herself. 
   
-  Sayaka: Totally nailed that she is the first killer and/or first death. Game is pushing too hard.
+  Sayaka: Totally nailed that she is the first killer and/or first death. Game is pushing too hard. 
   
-  Byakuya: Actually an interesting character with defining strengths, weakness and little growth. All in the hangouts though. Serves as an insert point for slightly smarter players.
+  Byakuya: Actually an interesting character with defining strengths, weakness and little growth. All in the hangouts though. Serves as an insert point for slightly smarter players. 
   
-  Chihiro: I didn't see that coming.
+  Chihiro: I didn't see that coming. 
   
-  Sakura: Probably the most upright and and respectable character. RIP.
+  Sakura: Probably the most upright and and respectable character. RIP. 
   
 </details>
 
