@@ -339,7 +339,7 @@ Yeah it's a genre defining classic, with endless supplies of hope and despair. G
   
   Toko: Archetype, maybe theres more idk
   
-  Junko: Plot device.
+  Junko: Plot device. Next.
   
   Celeste: Good character. Interesting dynamic of a realist having an improbable dream. Designed the most complicated case in the game imo.
   
@@ -347,11 +347,11 @@ Yeah it's a genre defining classic, with endless supplies of hope and despair. G
   
   Sayaka: Totally nailed that she is the first killer and/or first death. Game is pushing too hard.
   
-  Byakuya: Actually interesting character with defining strengths, weakness and little growth. All in the hangouts though. Serves as an insert point for slightly smarter players.
+  Byakuya: Actually an interesting character with defining strengths, weakness and little growth. All in the hangouts though. Serves as an insert point for slightly smarter players.
   
   Chihiro: I didn't see that coming.
   
-  Sakura: One of the most upright and and respectable character. RIP.
+  Sakura: Probably the most upright and and respectable character. RIP.
   
 </details>
 
