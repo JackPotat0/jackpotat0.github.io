@@ -328,7 +328,32 @@ Now I can understand the old Zelda elitists. The dungeons are really fun challen
 | C | C | A+ | A |  |
 
 #### Danganronpa: Trigger Happy Havoc
-Yeah it's a genre defining classic, with endless supplies of hope and despair. Game is oozing with style and personality, from the art to the presentation. The main plot is really solid without much to complain. Class trial is a simply creative and brilliant gamification of a debate (Bullet time is pretty ass though). Characterization could have been less tropey but it's whatever. Makoto is not too interesting of a self insert but does have some redeeming traits (which I cant remember for the moment). It definitely suffers from the Madoka Effect where the shock value is completely lost due to its popularity. The music helped create the very specific vibe and made for a very immersive experience. BOX 15 is absolutely godly.
+Yeah it's a genre defining classic, with endless supplies of hope and despair. Game is oozing with style and personality, from the art to the presentation. The main plot is really solid without much to complain. Class trial is a simply creative and brilliant gamification of a debate (Bullet time is pretty ass though). Characterization could have been less tropey but it's whatever. It definitely suffers from the Madoka Effect where the shock value is completely lost due to its popularity. The music helped create the very specific vibe and made for a very immersive experience. BOX 15 is absolutely godly.
+
+<details>
+  <summary>Opinions</summary>
+  
+  Makoto: Not too interesting of a self insert but does have some redeeming traits (which I cant remember for the moment). Liked him better than Hajime from D2 (so far).
+  
+  Kyoko: Best girl. Kyoko smug gives me life. But she does not have too many interesting character growth.
+  
+  Toko: Archetype, maybe theres more idk
+  
+  Junko: Plot device.
+  
+  Celeste: Good character. Interesting dynamic of a realist having an improbable dream. Designed the most complicated case in the game imo.
+  
+  Hina: Good and sane girl. Other than that one time she lost herself.
+  
+  Sayaka: Totally nailed that she is the first killer and/or first death. Game is pushing too hard.
+  
+  Byakuya: Actually interesting character with defining strengths, weakness and little growth. All in the hangouts though. Serves as an insert point for slightly smarter players.
+  
+  Chihiro: I didn't see that coming.
+  
+  Sakura: One of the most upright and and respectable character. RIP.
+  
+</details>
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
