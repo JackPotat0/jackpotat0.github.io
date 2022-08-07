@@ -333,9 +333,9 @@ Yeah it's a genre defining classic, with endless supplies of hope and despair. G
 <details>
   <summary>Opinions</summary>
   
-  Makoto: Not too interesting of a self insert but does have some redeeming traits (which I cant remember for the moment). Liked him better than Hajime from D2 (so far).  
+  <br>Makoto: Not too interesting of a self insert but does have some redeeming traits (which I cant remember for the moment). Liked him better than Hajime from D2 (so far).</br> 
     
-  Kyoko: Best girl. Kyoko smug gives me life. But she does not have too many interesting character growth. It's not that there isn't, but not eye catching enough.  
+  <br>Kyoko: Best girl. Kyoko smug gives me life. But she does not have too many interesting character growth. It's not that there isn't, but not eye catching enough.</br>
     
   Toko: Archetypical, maybe theres more idk. Masochists are creepy.  
    
