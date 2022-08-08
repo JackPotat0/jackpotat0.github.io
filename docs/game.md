@@ -333,7 +333,7 @@ Yeah it's a genre defining classic, with endless supplies of hope and despair. G
 <details>
   <summary>Makoto</summary>
   
-   Not too interesting of a self insert but does have some redeeming traits (which I cant remember for the moment). Liked him better than Hajime from D2 (so far).
+   Not too interesting of a self insert but does have some redeeming traits (which I cant remember for the moment). Liked him better than Hajime from D2 (so far), Makoto has more chill and is more laidback and naive(?).
   
 </details>
 
