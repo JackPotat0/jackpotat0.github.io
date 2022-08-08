@@ -331,27 +331,69 @@ Now I can understand the old Zelda elitists. The dungeons are really fun challen
 Yeah it's a genre defining classic, with endless supplies of hope and despair. Game is oozing with style and personality, from the art to the presentation. The main plot is really solid without much to complain. Class trial is a simply creative and brilliant gamification of a debate (Bullet time is pretty ass though). Characterization could have been less tropey but it's whatever. It definitely suffers from the Madoka Effect where the shock value is completely lost due to its popularity. The music helped create the very specific vibe and made for a very immersive experience. BOX 15 is absolutely godly.
 
 <details>
-  <summary>Opinions</summary>
+  <summary>Makoto</summary>
   
-  `Makoto: Not too interesting of a self insert but does have some redeeming traits (which I cant remember for the moment). Liked him better than Hajime from D2 (so far).
-    
-  <br>Kyoko: Best girl. Kyoko smug gives me life. But she does not have too many interesting character growth. It's not that there isn't, but not eye catching enough.</br>
-    
-  Toko: Archetypical, maybe theres more idk. Masochists are creepy.  
+   Not too interesting of a self insert but does have some redeeming traits (which I cant remember for the moment). Liked him better than Hajime from D2 (so far).
+  
+</details>
+
+<details>
+  <summary>Kyoko</summary>
+
+  Best girl. Kyoko smug gives me life. She has that irresistable confidence around her. But she does not have too many interesting character growth. It's not that there isn't, but not eye catching enough.
+ 
+</details>
+
+<details>
    
-  Junko: Plot device. Next.  
+<summary>Toko</summary>
+   
+  Archetypical, maybe theres more details in the hangouts. Masochists are creepy.  
+   
+</details>
+
+ <details>
+  <summary>Junko</summary>
+   
+  (Real Junko, not Mukuro) Plot device. Next.  
     
-  Celeste: Good character. Interesting internal dynamic of a realist having an improbable dream. The theme of lying is also quite well done. Designed the most complicated case in the game imo.  
+</details>
+
+ <details>
+  <summary>Celeste</summary>
+   
+  Good character. Interesting internal dynamic of a realist having an improbable dream. I liked her mysterious vibes. Designed the most complicated case in the game imo.  
     
-  Hina: Good and sane girl. Other than that one time she lost herself.  
+ </details>
+ <details>
+  <summary>Hina</summary>
+   
+  Good and sane girl. Other than that one time she lost herself.  
+  
+</details> 
+ <details>
+  <summary>Sayaka</summary>
+   
+  Totally nailed that she is the first killer and/or first death. Game is pushing too hard. She is kinda nice but too plain.
+  
+</details>
+  
+<details>
+  <summary>Byakuya</summary>
+   
+  Actually an interesting character with defining strengths, weakness and little growth. All in the hangouts though. Serves as an insert point for slightly smarter players.  
+</details>
+  
+<details>
+  <summary>Chihiro</summary>
+   
+  I didn't see that coming.  
+</details>
     
-  Sayaka: Totally nailed that she is the first killer and/or first death. Game is pushing too hard.  
-    
-  Byakuya: Actually an interesting character with defining strengths, weakness and little growth. All in the hangouts though. Serves as an insert point for slightly smarter players.  
-    
-  Chihiro: I didn't see that coming.  
-    
-  Sakura: Probably the most upright and and respectable character in the game. RIP.`
+ <details>
+  <summary>Sakura</summary>
+   
+  Probably the most upright and and respectable character in the game. The actual Ultimate Moral Compass. RIP.`
     
 </details>
 
