@@ -403,6 +403,24 @@ Yeah it's a genre defining classic, with endless supplies of hope and despair. G
 
 Best tracks: DANGANRONPA, Box 15, Discussion -HEAT UP- 
 
+
+#### Danganronpa 2: Goodbye Despair
+Who is drunk on hope and despair cuz I sure am.
+
+Story/Plot:
+
+Characters: They seems to be less tropey but less deep as well. It's like DR1 has tropey characters with unexpected depth and DR2 has well rounded characters with nothing really surprising. I guess I liked DR1's approach a bit better.
+
+Gameplay: The new additions are generally good. I especially liked the Agree shots and Rebuttal Showdown. It's great they reworked Bullet Time to be more enjoyable. Didn't really care about Logic Dive or Improved Hangmans Gambit. Spot Selection should have been there in the first game.
+
+Music: There is *Welcome to DANGAN Island* in this OST and it is automatically the best Danganronpa OST. I like the vibes in this one more than DR1 for sure. And stop making me wanting to have people murdered because Ikoroshia killed it once again as the investigation theme. They also fixed the music looping from the start during the investigation so all the better.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| S | A+ | S | S |  |
+
+Best tracks: Ikoroshia, Welcome to DANGAN Island, Beautiful Ruin (Summer Salt)
+
 ---
 
 ### **INTERESTING titles**
@@ -474,6 +492,23 @@ Music: Very atmospheric and suitable for this horror setting, but not too nice t
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | B | B | A+ | C |  |
+
+#### Valkyrie Profile (PS1)
+A very experimental game and a breath of fresh air into typical the typical JRPG scene. A one-of-a-kind experience we might not ever seen again. I expected to like this game a lot more but in the end it is just pretty good. However it deserves to be one of the JRPG classics due to its uniqueness.
+
+Story/Plot: The premise is that the player as a Death Goddess Lenneth and recruiting dead souls to fight a war in heaven (sounds like the perfect setting for gacha to me). The progression is sort of linear but not quite. It seems there are optional progression but isn't really all that important in the first playthrough. 
+
+Characters: There are some cool characters here and there like Janus and Jun. Since there are so many characters it is impossible to care about them all. I did not really get attached to anyone. The character sprites are really distinctive.
+
+Gameplay: **It shall be engraved upon your soul!... Divine Assault - Nibelung Valesti!** is one of the greatest voicelines in all of JRPGs (Lenneth's delivery is just godly, everything she says in battles are instant classics). Very very cool battle system. There are lots of mechanic but most are really negligible. I don't know why but all battles including boss battles ends in 1-2 turns. I love the 2d platformer dungeon exploration and more games should have that. The movement could be better but it is smooth enough. Sometimes the crystal can cause lag. Not sure what transferring ultimately does to the game's progression (Do I get game over if I don't transfer at least one member every chapter?). 
+
+Music: Sorry Motoi Sakuraba, it seems I can enjoy your music after all. The OST has a great identity and style. Even I enjoyed a lot of dungeons themes and there are tons of dungeons in the game. The emotional and melodic themes are all fitting too, just enough sadness without going too overboard.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| A+ | A | S | S- |  |
+
+Best tracks: Fighting the Shadowy Gods, Confidence in Domination, All is Twilight
 
 ---
 
