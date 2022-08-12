@@ -328,12 +328,12 @@ Now I can understand the old Zelda elitists. The dungeons are really fun challen
 | C | C | A+ | A |  |
 
 #### Danganronpa: Trigger Happy Havoc
-Yeah it's a genre defining classic, with endless supplies of hope and despair. Game is oozing with style and personality, from the art to the presentation. The main plot is really solid without much to complain. Class trial is a simply creative and brilliant gamification of a debate (Bullet time is pretty ass though). Characterization could have been less tropey but it's whatever. It definitely suffers from the Madoka Effect where the shock value is completely lost due to its popularity. The music helped create the very specific vibe and made for a very immersive experience. BOX 15 is absolutely godly.
+Yeah it's a genre defining classic, with endless supplies of hope and despair. Game is oozing with style and personality, from the art to the presentation. The main plot is really solid without much to complain. Class trial is a simply creative and brilliant gamification of a debate (Bullet time is pretty ass though). Characterization could have been less tropey but it's whatever. It definitely suffers from the Madoka Effect where the shock value is completely lost due to its popularity. The music helped create the very specific vibe and made for a very immersive experience. BOX 15 is absolutely godly. 
 
 <details>
   <summary>Makoto</summary>
   
-   Not too interesting of a self insert but does have some redeeming traits (which I cant remember for the moment). Liked him better than Hajime from D2 (so far), Makoto has more chill and is more laidback and naive(?).
+   Not too interesting of a self insert but does have some redeeming traits (which I cant remember for the moment). Liked him better than Hajime from D2 (so far), Makoto is more chill and laidback and naive(?). One interesting thing is that he can always somehow inspires the others, which lead to character growth to different degrees.
   
 </details>
 
@@ -348,7 +348,7 @@ Yeah it's a genre defining classic, with endless supplies of hope and despair. G
    
 <summary>Toko</summary>
    
-  Archetypical, maybe theres more details in the hangouts. Masochists are creepy.  
+  Archetypical, I guess she's ok from the hangouts. Masochists are creepy.  
    
 </details>
 
@@ -399,25 +399,70 @@ Yeah it's a genre defining classic, with endless supplies of hope and despair. G
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| S | S- | S- | A+ | Kyoko |
+| S- | S- | S- | A+ | Kyoko |
 
 Best tracks: DANGANRONPA, Box 15, Discussion -HEAT UP- 
 
 
 #### Danganronpa 2: Goodbye Despair
-Who is drunk on hope and despair cuz I sure am.
+Who is drunk on hope and despair cuz I sure am. It improved in almost every aspect of DR1.
 
-Story/Plot:
+Story/Plot: With all the groundwork set up in DR1, they get to expand on the themes of the series and they definitely nailed it. Hope and despair. Believe and suspect. Cold hard truths and blissful ignorance. Logic and luck. The dynamics between Hajime and Nagito is super well written and the events of the game clearly showed their clash of ideals. This entry also has a more engaging overarching plot that DR1 where you are mostly waiting for the next murder to happen in between, as compared to the mystery of Monomi and ... other chaotic factors. 
 
-Characters: They seems to be less tropey but less deep as well. It's like DR1 has tropey characters with unexpected depth and DR2 has well rounded characters with nothing really surprising. I guess I liked DR1's approach a bit better.
+Characters: They seems to be less tropey but less deep as well. It's like DR1 has tropey characters with unexpected depth and DR2 has well rounded characters with nothing really surprising. In DR2, you only get to learn about their background information in pieces and rarely changes their view.
 
-Gameplay: The new additions are generally good. I especially liked the Agree shots and Rebuttal Showdown. It's great they reworked Bullet Time to be more enjoyable. Didn't really care about Logic Dive or Improved Hangmans Gambit. Spot Selection should have been there in the first game.
+ <details>
+  <summary>Hajime</summary>
+  
+</details>
+ <details>
+  <summary>Nagito</summary>
+  This guy might be my favourite Danganronpa character of all time. Whoever created him deserves a raise.
+</details>
+ <details>
+  <summary>Chiaki</summary>
+  
+</details>
+ <details>
+  <summary>Sonia</summary>
+  
+</details>
+ <details>
+  <summary>Kazuichi</summary>
+  Actually the first character in DR that represents a dudebro. A very vanilla dudebro, nothing too much other than that.
+</details>
+ <details>
+  <summary>Peko</summary>
+  She is a badass. I tend to empathize more with character having difficulty in processing feelings. The backstory is a bit cliched but works.
+</details>
+ <details>
+  <summary>Byakuya</summary>
+  It seems that the Ultimate Impostor is just brushed over like that. A bit of a letdown. Now I think his inclusion is yet another nostalgia bait.
+</details>
+ <details>
+  <summary>Hiyoko</summary>
+  Her ultimate talent is only there to contrast with her actual personality, feels very forced to me. She remained exploitative and ass through the end. Easily the worst character after Teruteru.
+</details>
+ <details>
+  <summary>Ibuki</summary>
+  I actually suspected her to be one of the killers and definitely feel bad about this thought. She is killed in an unconscious state and not able to do anything against, which is just sad.
+</details>
+<details>
+  <summary>Mahiru</summary>
+  The team mom but never actually get to do a lot. She is too plain imo.
+</details>
+ <details>
+  <summary>Mikan</summary>
+  I knew she had major major mental issues the second I lay eyes on her. Stay away from crazy. I simply cannot sympathize with her especially after what she did.
+</details>
 
-Music: There is *Welcome to DANGAN Island* in this OST and it is automatically the best Danganronpa OST. I like the vibes in this one more than DR1 for sure. And stop making me wanting to have people murdered because Ikoroshia killed it once again as the investigation theme. They also fixed the music looping from the start during the investigation so all the better.
+Gameplay: I especially liked the Agree shots and Rebuttal Showdown. It's great they reworked Bullet Time to be more enjoyable. Didn't really care about Logic Dive or Improved Hangmans Gambit. Spot Selection should have been there in the first game.
+
+Music: There is *Welcome to DANGAN Island* in this OST and it is automatically the best Danganronpa OST. I like the vibes in this one more than DR1 for sure. And stop making me wanting to have people murdered because Ikoroshia killed it as the investigation theme. They also fixed the music looping from the start during the investigation so all the better.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| S | A+ | S | S |  |
+| S+ | S- | S | S |  |
 
 Best tracks: Ikoroshia, Welcome to DANGAN Island, Beautiful Ruin (Summer Salt)
 
@@ -494,7 +539,7 @@ Music: Very atmospheric and suitable for this horror setting, but not too nice t
 | B | B | A+ | C |  |
 
 #### Valkyrie Profile (PS1)
-A very experimental game and a breath of fresh air into typical the typical JRPG scene. A one-of-a-kind experience we might not ever seen again. I expected to like this game a lot more but in the end it is just pretty good. However it deserves to be one of the JRPG classics due to its uniqueness.
+A very experimental game and a breath of fresh air into the typical JRPG scene. A one-of-a-kind experience we might not ever seen again. I expected to like this game a lot more but in the end it is just pretty good. However it deserves to be one of the JRPG classics due to its uniqueness.
 
 Story/Plot: The premise is that the player as a Death Goddess Lenneth and recruiting dead souls to fight a war in heaven (sounds like the perfect setting for gacha to me). The progression is sort of linear but not quite. It seems there are optional progression but isn't really all that important in the first playthrough. 
 
