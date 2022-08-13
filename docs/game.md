@@ -158,6 +158,75 @@ Music: Ah yes it is Yoko Shimomura [insert fanboy screams here]. This is probabl
 
 Best tracks: The Edge of Green, The Garden where Celestites Lies, Where the Winds and Feathers Return
 
+#### **Danganronpa 2: Goodbye Despair**
+Who is drunk on hope and despair cuz I sure am. It improved in almost every aspect of DR1.
+
+Story/Plot: With all the groundwork set up in DR1, they get to expand on the themes of the series and they definitely nailed it. Hope and despair. Believe and suspect. Cold hard truths and blissful ignorance. Logic and luck. The dynamics between Hajime and Nagito is super well written and the events of the game clearly showed their clash of ideals. This entry also has a more engaging overarching plot that DR1 where you are mostly waiting for the next murder to happen in between, as compared to the mystery of Monomi and ... other chaotic factors. That ending sequence is just so well executed, with all the twists and connections from previous game tied together. I genuinely felt despair during it. It does get a bit like KH cheesiness near the end but who actually cares. If there is ever one Danganronpa game to analyse deeply, it is probably this one.
+
+Characters: They seems to be less tropey but less deep as well. It's like DR1 has tropey characters with unexpected depth and DR2 has well rounded characters with nothing really surprising. In DR2, you only get to learn about their background information in pieces and rarely changes their view. 
+
+ <details>
+  <summary>Hajime</summary>
+  I initially didn't like him as a protagonist because he feels very tense as compared to Makoto. But there is a huge significance to that, to show his lack of confidence and inferiority complex. Later on with the talentless student reveal further enhances that. And this fact let him become his own character than Makoto ever will be. During the last chapter he sort of becomes like Roxas (So Makoto is Sora? He sure acts like a pivot of Hope in this game). And that is probably the first time I really felt a sense of despair in the series.
+</details>
+ <details>
+  <summary>Nagito</summary>
+  This guy might be my favourite Danganronpa character of all time. The hope obsessed freak. Whoever created him deserves a raise. I really thought he is somehow Makoto (disguised as or going insane) or directly related to him for a long time (Nice choice of VA AND the character name, thanks director), since it is not all that surprising to have Makoto go to the other extreme in pursuing hope.
+    
+  It is hard to write a chaotic neutral character. He helps and confuses the class all at the same time. His ideal is certainly extreme and twisted, but not all incomprehensible. He died to prove his point - be the hope that destroys all despairs remaining on the island. At first I thought he looked down on the rest after the talentless Hajime reveal was simply because Hajime as the talentless one was leading on the other Ultimates (i don't think this is the most accurate explanation after watching the ending, but I don't think this is entirely wrong either). Either way his interaction with Hajime is always the highlight of the game. The hangout do flesh him out a tad bit more but there really could be more since he is integral to the main plot.
+  
+</details>
+ <details>
+  <summary>Chiaki</summary>
+  The traitor reveal is pretty shocking. She is a good character but I definitely felt like she is being carried by the plot execution than she is genuinely a great character. She is adorable and all but I still prefer stronger waifus in the end. She being the Ultimate Gamer is actually a really meta thing in the context of the game. 
+</details>
+ <details>
+  <summary>Sonia</summary>
+  She is cute and unintentionally funny. I like her design and EN voice, very classy but natural. No I don't want to know what she did with Gundham, why is she even so interested in him???
+</details>
+ <details>
+  <summary>Kazuichi</summary>
+  Actually the first character in DR that represents a dudebro. A very vanilla dudebro, nothing too much other than that.
+</details>
+ <details>
+  <summary>Peko</summary>
+  She is a badass. I tend to empathize more with character having difficulty in processing feelings. The backstory is a bit cliched but works.
+</details>
+ <details>
+  <summary>Byakuya</summary>
+  It seems that the Ultimate Impostor is just brushed over like that. A bit of a letdown. Now I think his inclusion is yet another nostalgia bait.
+</details>
+ <details>
+  <summary>Hiyoko</summary>
+  Her ultimate talent is only there to contrast with her actual personality, feels very forced to me. She remained exploitative and ass through the end. Easily the worst character after Teruteru.
+</details>
+ <details>
+  <summary>Ibuki</summary>
+  I actually suspected her to be one of the killers and definitely feel bad about this thought. She is killed in an unconscious state and not able to do anything against, which is just sad.
+</details>
+<details>
+  <summary>Mahiru</summary>
+  The team mom but never actually get to do a lot. She is too plain imo.
+</details>
+ <details>
+  <summary>Mikan</summary>
+  I knew she had major major mental issues the second I lay eyes on her. Stay away from crazy. I simply cannot sympathize with her especially after what she did.
+</details>
+ <details>
+  <summary>Junko (since Monokuma is there so you should know)</summary>
+  Now that it is more clear about her motive, that is only to obtain the ultimate despair, she is just another crazy Kefka/Joker style villian. And there is all to it.
+</details>
+
+Gameplay: I especially liked the Agree shots and Rebuttal Showdown. It's great they reworked Bullet Time to be more enjoyable. Didn't really care about Logic Dive or Improved Hangmans Gambit. Spot Selection should have been there in the first game.
+
+Music: There is *Welcome to DANGAN Island* in this OST and it is automatically the best Danganronpa OST. I like the vibes in this one more than DR1 for sure. And stop making me wanting to have people murdered because Ikoroshia killed it as the investigation theme. They also fixed the music looping from the start during the investigation so all the better.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| S+ | S- | S | S |  |
+
+Best tracks: Ikoroshia, Welcome to DANGAN Island, Beautiful Ruin (Summer Salt)
+
 ---
 
 ### **REALLY good**
@@ -333,7 +402,7 @@ Yeah it's a genre defining classic, with endless supplies of hope and despair. G
 <details>
   <summary>Makoto</summary>
   
-   Not too interesting of a self insert but does have some redeeming traits (which I cant remember for the moment). Liked him better than Hajime from D2 (so far), Makoto is more chill and laidback and naive(?). One interesting thing is that he can always somehow inspires the others, which lead to character growth to different degrees.
+   Not too interesting of a self insert but does have some redeeming traits (which I cant remember for the moment). One interesting thing is that he can always somehow inspires the others, which lead to character growth to different degrees.
   
 </details>
 
@@ -402,69 +471,6 @@ Yeah it's a genre defining classic, with endless supplies of hope and despair. G
 | S- | S- | S- | A+ | Kyoko |
 
 Best tracks: DANGANRONPA, Box 15, Discussion -HEAT UP- 
-
-
-#### Danganronpa 2: Goodbye Despair
-Who is drunk on hope and despair cuz I sure am. It improved in almost every aspect of DR1.
-
-Story/Plot: With all the groundwork set up in DR1, they get to expand on the themes of the series and they definitely nailed it. Hope and despair. Believe and suspect. Cold hard truths and blissful ignorance. Logic and luck. The dynamics between Hajime and Nagito is super well written and the events of the game clearly showed their clash of ideals. This entry also has a more engaging overarching plot that DR1 where you are mostly waiting for the next murder to happen in between, as compared to the mystery of Monomi and ... other chaotic factors. 
-
-Characters: They seems to be less tropey but less deep as well. It's like DR1 has tropey characters with unexpected depth and DR2 has well rounded characters with nothing really surprising. In DR2, you only get to learn about their background information in pieces and rarely changes their view.
-
- <details>
-  <summary>Hajime</summary>
-  
-</details>
- <details>
-  <summary>Nagito</summary>
-  This guy might be my favourite Danganronpa character of all time. Whoever created him deserves a raise.
-</details>
- <details>
-  <summary>Chiaki</summary>
-  
-</details>
- <details>
-  <summary>Sonia</summary>
-  
-</details>
- <details>
-  <summary>Kazuichi</summary>
-  Actually the first character in DR that represents a dudebro. A very vanilla dudebro, nothing too much other than that.
-</details>
- <details>
-  <summary>Peko</summary>
-  She is a badass. I tend to empathize more with character having difficulty in processing feelings. The backstory is a bit cliched but works.
-</details>
- <details>
-  <summary>Byakuya</summary>
-  It seems that the Ultimate Impostor is just brushed over like that. A bit of a letdown. Now I think his inclusion is yet another nostalgia bait.
-</details>
- <details>
-  <summary>Hiyoko</summary>
-  Her ultimate talent is only there to contrast with her actual personality, feels very forced to me. She remained exploitative and ass through the end. Easily the worst character after Teruteru.
-</details>
- <details>
-  <summary>Ibuki</summary>
-  I actually suspected her to be one of the killers and definitely feel bad about this thought. She is killed in an unconscious state and not able to do anything against, which is just sad.
-</details>
-<details>
-  <summary>Mahiru</summary>
-  The team mom but never actually get to do a lot. She is too plain imo.
-</details>
- <details>
-  <summary>Mikan</summary>
-  I knew she had major major mental issues the second I lay eyes on her. Stay away from crazy. I simply cannot sympathize with her especially after what she did.
-</details>
-
-Gameplay: I especially liked the Agree shots and Rebuttal Showdown. It's great they reworked Bullet Time to be more enjoyable. Didn't really care about Logic Dive or Improved Hangmans Gambit. Spot Selection should have been there in the first game.
-
-Music: There is *Welcome to DANGAN Island* in this OST and it is automatically the best Danganronpa OST. I like the vibes in this one more than DR1 for sure. And stop making me wanting to have people murdered because Ikoroshia killed it as the investigation theme. They also fixed the music looping from the start during the investigation so all the better.
-
-| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
-| ------------- | ------------- | --------- | ------------ | --------------- |
-| S+ | S- | S | S |  |
-
-Best tracks: Ikoroshia, Welcome to DANGAN Island, Beautiful Ruin (Summer Salt)
 
 ---
 
