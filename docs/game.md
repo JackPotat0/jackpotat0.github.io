@@ -161,17 +161,17 @@ Best tracks: The Edge of Green, The Garden where Celestites Lies, Where the Wind
 #### **Danganronpa 2: Goodbye Despair**
 Who is drunk on hope and despair cuz I sure am. It improved in almost every aspect of DR1.
 
-Story/Plot: With all the groundwork set up in DR1, they get to expand on the themes of the series and they definitely nailed it. Hope and despair. Believe and suspect. Cold hard truths and blissful ignorance. Logic and luck. The dynamics between Hajime and Nagito is super well written and the events of the game clearly showed their clash of ideals. This entry also has a more engaging overarching plot that DR1 where you are mostly waiting for the next murder to happen in between, as compared to the mystery of Monomi and ... other chaotic factors. That ending sequence is just so well executed, with all the twists and connections from previous game tied together. I genuinely felt despair during it. It does get a bit like KH cheesiness near the end but who actually cares. If there is ever one Danganronpa game to analyse deeply, it is probably this one.
+Story/Plot: With all the groundwork set up in DR1, they get to expand on the themes of the series and they definitely nailed it. Hope and despair. Believe and suspect. Cold hard truths and blissful ignorance. Logic and luck. The dynamics between Hajime and Nagito is super well written and the events of the game clearly showed their clash of ideals. This entry also has a more engaging overarching plot that DR1 where you are mostly waiting for the next murder to happen in between, as compared to the mystery of Monomi and ... other chaotic factors. That ending sequence is just so well executed, with all the twists and connections from previous game tied together. I genuinely felt despair during it. It does get a bit like KH cheesiness near the end but who actually cares. If there is ever one Danganronpa game worth a deep analysis, it is probably this one.
 
 Characters: They seems to be less tropey but less deep as well. It's like DR1 has tropey characters with unexpected depth and DR2 has well rounded characters with nothing really surprising. In DR2, you only get to learn about their background information in pieces and rarely changes their view. 
 
  <details>
   <summary>Hajime</summary>
-  I initially didn't like him as a protagonist because he feels very tense as compared to Makoto. But there is a huge significance to that, to show his lack of confidence and inferiority complex. Later on with the talentless student reveal further enhances that. And this fact let him become his own character than Makoto ever will be. During the last chapter he sort of becomes like Roxas (So Makoto is Sora? He sure acts like a pivot of Hope in this game). And that is probably the first time I really felt a sense of despair in the series.
+  I initially didn't like him as a protagonist because he feels very tense as compared to Makoto. But there is a huge significance to that, to show his lack of confidence and inferiority complex. Later on with the talentless student reveal further enhances that. This fact let him become his own character than Makoto ever will be. During the last chapter he sort of becomes like Roxas (So Makoto is Sora? He sure acts like the anime protagonist in this game) where he seems to be doomed no matter what, except he has a way out but not Roxas. And that is probably the first time I really felt a sense of despair in the series.
 </details>
  <details>
   <summary>Nagito</summary>
-  This guy might be my favourite Danganronpa character of all time. The hope obsessed freak. Whoever created him deserves a raise. I really thought he is somehow Makoto (disguised as or going insane) or directly related to him for a long time (Nice choice of VA AND the character name, thanks director), since it is not all that surprising to have Makoto go to the other extreme in pursuing hope.
+  This guy might be my favourite Danganronpa character of all time. The hope obsessed freak. Whoever created him deserves a raise. I really thought he is somehow Makoto (disguised as or went insane) or directly related to him for a long time (Nice choice of VA AND the character name, thanks director), since it is not all that surprising to have Makoto go to the other extreme in pursuing hope.
     
   It is hard to write a chaotic neutral character. He helps and confuses the class all at the same time. His ideal is certainly extreme and twisted, but not all incomprehensible. He died to prove his point - be the hope that destroys all despairs remaining on the island. At first I thought he looked down on the rest after the talentless Hajime reveal was simply because Hajime as the talentless one was leading on the other Ultimates (i don't think this is the most accurate explanation after watching the ending, but I don't think this is entirely wrong either). Either way his interaction with Hajime is always the highlight of the game. The hangout do flesh him out a tad bit more but there really could be more since he is integral to the main plot.
   
@@ -223,7 +223,7 @@ Music: There is *Welcome to DANGAN Island* in this OST and it is automatically t
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| S+ | S- | S | S |  |
+| S+ | S- | S | S | Hajime/Chiaki/Sonia |
 
 Best tracks: Ikoroshia, Welcome to DANGAN Island, Beautiful Ruin (Summer Salt)
 
@@ -242,7 +242,7 @@ Makes you wonder if you are playing a bullet hell or an ARPG. Chester 2 fight ga
 Best tracks: Chop!, The Boy who had Wings, Valenstein Castle
 
 #### Ys Origin (PC)
-Similiar to Ys:OiF, but you get to play with three characters on the same map, it can get repetitive but overall a major upgrade from it. Some minor gripe is that you can cheese most fights with Yunica Phoenix once you get it, rendering melee moves almost useless. Toal gameplay is the best.
+Similiar to Ys:OiF, but you get to play with three characters on the same map, it can get repetitive but overall a major upgrade from it. One minor gripe is that you can cheese most fights with Yunica Phoenix once you get it, rendering melee moves almost useless. Toal gameplay is the best.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -523,7 +523,7 @@ Best Tracks: Believe It!, Possibility Flaps, Morimiya is Okay!
 #### Paper Mario: The Thousand Year Door (GC)
 Maybe I am not built for Mario games. The humour just fell flat on me and the story is already so simple as it is, there is not a lot to hook me in terms of story/characters. The music style just did not grab me, maybe is its instrumentation or composition i don't know, but it is not bad by all means. The battle theme really grew on me. The great thing is the combat which is the reason I completed this game. For dungeon design, there are a lot of sections relying on constant backtracking without the connectivity Zelda games offer and it can be mildly infuriating. And who the heck decided to add the realtime 30s minigame. I actually kind of enjoyed the Princess Peach sections, and this is where I realized Nintendo would have written princess characters for around 10 years when this game was released.
 
-I am just glad the existence of this game inspired the great game that is Bug Fables (perhaps referenced TTYD a bit too much, such as most basic field/combat skills, RBGY items, tournament arc and many more). Other than the less puzzle filled dungeon design and a smaller world, BF improved and polished everything else compared to TTYD. 
+I am just glad the existence of this game inspired the great game that is Bug Fables (perhaps referenced TTYD a bit too much). Other than the less puzzle filled dungeon design and a smaller world, BF improved and polished everything else compared to TTYD. 
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -597,7 +597,7 @@ tldr: Non linear progression is cool, grinding is not cool, boss design is very 
 
 This game has the design philosophy of most retro games, with progression hidden out of the main path and the player has to work to discover for themselves. There are also a lot of optional and missable stuff too. This is not present in any of the future Ys games where key items and progress are just put in front of you. It is pretty amazing that the Teleport item is not even mandatory. 
 
-The level scaling is too strict. You really do 0 damage to anything that is slightly above your level and you are forced to grind up to the level floor. You are punished too much for being underleveled until running through dungeons becomes a problem, making the game very very grindy. Leveling equipments is probably required too. It's great that they balanced all of that in the Felghana and Origin. 
+The level scaling is too strict, even stricter than later games. You really do 0 damage to anything that is slightly above your level and you are forced to grind up to the level floor. You are punished too much for being underleveled until running through dungeons becomes a problem, making the game very very grindy. Leveling equipments is probably required too and those costs a lot. It's great that they balanced all of that in the Felghana and Origin. 
 
 Most bosses are just annoying in the first attempts, then boring when you know how to damage it. The ability to use items in battle makes the bosses feels much less brutal with this system, though comes with a cost of bloated HP. Ernst is pretty damn hard and annoying and does deserve the hype theme, actually he is the only exciting boss in the entire game. Dash jump is pretty unintuitive but interesting to use you know how, at least better than extended jumps in Felghana which is unintended. I am pretty sure this is where Dana's Light form is referenced with Adol's Yellow blade here.
 
@@ -695,6 +695,7 @@ Quintet RPG is an acquired taste. Gameplay feels more Zelda than RPG, with tradi
 - Final Fantasy VI 2nd attempt
 - Sakuna Rice and Ruin
 - Final Fantasy Tactics
+- Valkyrie Profile 2: Silmeria
 
 ---
 
@@ -722,4 +723,7 @@ Based on overall enjoyment. Order may be different based on different aspects.
 
 #### **Trails**
 `Sky FC = Sky SC >> Sky 3rd`
+
+#### **Danganronpa**
+`2 > 1 > V3`
 
