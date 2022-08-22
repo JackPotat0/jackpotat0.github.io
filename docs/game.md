@@ -163,6 +163,31 @@ Who is drunk on hope and despair cuz I sure am. It improved in almost every aspe
 
 Story/Plot: With all the groundwork set up in DR1, they get to expand on the themes of the series and they definitely nailed it. Hope and despair. Believe and suspect. Cold hard truths and blissful ignorance. Logic and luck. The dynamics between Hajime and Nagito is super well written and the events of the game clearly showed their clash of ideals. This entry also has a more engaging overarching plot that DR1 where you are mostly waiting for the next murder to happen in between, as compared to the mystery of Monomi and ... other chaotic factors. That ending sequence is just so well executed, with all the twists and connections from previous game tied together. I genuinely felt despair during it. It does get a bit like KH cheesiness near the end but who actually cares. If there is ever one Danganronpa game worth a deep analysis, it is probably this one.
 
+ <details>
+  <summary>2-1</summary>
+  Good riddance for Teruteru. Nagito actually started showing his true colours right here. I was actually a bit sad Byakuya can't carry us anymore.
+</details>
+ <details>
+  <summary>2-2</summary>
+  It's actually very easy once the fakeout is detected. A really cliche plotline but it serve its purpose well and managed to develop Fuyuhiko (though he is just alright)
+</details>
+ <details>
+  <summary>2-3</summary>
+  Too many things go unexplained even after the reveal (ultimate despairs have physical buff i guess). Its significance only ties to the endgame and does not really make a lot of sense at first. But it is a great hint to the endgame reveal that leads to an aha moment. People say Hiyoko's arc got cut short there and is bad, but isn't murdering a plain act to destroy potentials?
+</details>
+ <details>
+  <summary>2-4</summary>
+  Gundham... I don't even have a reason to start caring about him. I guess his character is just executed poorly. But the case itself is great and it is almost a perfect crime.
+</details>
+ <details>
+  <summary>2-5</summary>
+  The best case in the series. This is the game's climax and it delivered. Nagito's arc is hereby completed. Chiaki's reveal is heartbreaking. Also it wins as the most gruesome looking death (Well V3 has the worst but the state of the body is kindly concealed )
+</details>
+ <details>
+  <summary>2-6</summary>
+  "I am not Izuru Kamakura. I AM HAJIME HINATA!!" The execution and the presentation are all top notch. It is a bit cheesy but it is real hype.
+</details>
+
 Characters: They seems to be less tropey but less deep as well. It's like DR1 has tropey characters with unexpected depth and DR2 has well rounded characters with nothing really surprising. In DR2, you only get to learn about their background information in pieces and rarely changes their view. 
 
  <details>
@@ -172,7 +197,7 @@ Characters: They seems to be less tropey but less deep as well. It's like DR1 ha
  <details>
   <summary>Nagito</summary>
   This guy might be my favourite Danganronpa character of all time. The hope obsessed freak. Whoever created him deserves a raise. I really thought he is somehow Makoto (disguised as or went insane) or directly related to him for a long time (Nice choice of VA AND the character name, thanks director), since it is not all that surprising to have Makoto go to the other extreme in pursuing hope.
-    
+    <br>
   It is hard to write a chaotic neutral character. He helps and confuses the class all at the same time. His ideal is certainly extreme and twisted, but not all incomprehensible. He died to prove his point - be the hope that destroys all despairs remaining on the island. At first I thought he looked down on the rest after the talentless Hajime reveal was simply because Hajime as the talentless one was leading on the other Ultimates (i don't think this is the most accurate explanation after watching the ending, but I don't think this is entirely wrong either). Either way his interaction with Hajime is always the highlight of the game. The hangout do flesh him out a tad bit more but there really could be more since he is integral to the main plot.
   
 </details>
