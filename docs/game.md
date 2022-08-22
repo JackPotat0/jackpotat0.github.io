@@ -400,6 +400,32 @@ Now I can understand the old Zelda elitists. The dungeons are really fun challen
 Yeah it's a genre defining classic, with endless supplies of hope and despair. Game is oozing with style and personality, from the art to the presentation. The main plot is really solid without much to complain. Class trial is a simply creative and brilliant gamification of a debate (Bullet time is pretty ass though). Characterization could have been less tropey but it's whatever. It definitely suffers from the Madoka Effect where the shock value is completely lost due to its popularity. The music helped create the very specific vibe and made for a very immersive experience. BOX 15 is absolutely godly. 
 
 <details>
+  <summary>1-1</summary>
+  Pretty decent introductory case, simple and effective character arc for Sayaka and a nice warmup to the game's mechanics with a really easy murder.
+</details>
+<details>
+  <summary>1-2</summary>
+  Quite meh imo. One of my least favourite case in the game. I could not care less about Mondo or Taka. Chihiro is whatever too.
+</details>
+<details>
+  <summary>1-3</summary>
+  Celeste is immediately sus. But if it is enough to fool most of others it works. As observers it is easy to know she is weird but not for Makoto & co. It would be worse if Makoto somehow get an IQ boost here. Even if I know Celeste is the culprit without needing much hint, I still want to follow Makoto's steps to reach the conclusion. I would agree this whole thing can be executed a lot better. But I can get over with this and get the writer's intention.
+</details>
+<details>
+  <summary>1-4</summary>
+  Pretty good case too. Completed the arc for Hina and Sakura. Also gives Byakuya a chance to develop a bit. Cool stuff.
+</details>
+<details>
+  <summary>1-5</summary>
+  I cannot care about this Mukuro I barely know about. This case's entire purpose is the execution part and leading into Ch 6. Kyoko's backstory honestly is not all that impressing.
+</details>
+<details>
+  <summary>1-6</summary>
+  It is time for Makoto to become the anime protagonist. Good ending.
+</details>
+
+<br>
+<details>
   <summary>Makoto</summary>
   
    Not too interesting of a self insert but does have some redeeming traits (which I cant remember for the moment). One interesting thing is that he can always somehow inspires the others, which lead to character growth to different degrees.
@@ -431,7 +457,7 @@ Yeah it's a genre defining classic, with endless supplies of hope and despair. G
  <details>
   <summary>Celeste</summary>
    
-  Good character. Interesting internal dynamic of a realist having an improbable dream. I liked her mysterious vibes. Designed the most complicated case in the game imo.  
+  Good character. I liked her mysterious vibes. Her case isn't actually that complex but just enough to fool everyone not Byakuya or Kyoko (which would be successful if they aren't there)
     
  </details>
  <details>
@@ -672,7 +698,6 @@ Quintet RPG is an acquired taste. Gameplay feels more Zelda than RPG, with tradi
 - Legend of Mana (PS1) (Combat is too unbearable, non linear layout is too uncomfortable for me. This is Yoko Shimomura's single best standalone OST. It captured the magical fantasy world like no other, not even her future works has this degree of raw imagination. I will die on this hill.)
 
 ### **NEXT UP/ONGOING**
-- Trails from Zero
 - Valkyrie Profile
 
 ### **INTERESTED IN**
@@ -686,6 +711,7 @@ Quintet RPG is an acquired taste. Gameplay feels more Zelda than RPG, with tradi
 - Golden Sun
 - Dragon Quest 8
 - Persona 5 Royal
+- Trails from Zero
 
 #### **INTERESTED but maybe someday**
 - Xenogears
@@ -696,6 +722,7 @@ Quintet RPG is an acquired taste. Gameplay feels more Zelda than RPG, with tradi
 - Sakuna Rice and Ruin
 - Final Fantasy Tactics
 - Valkyrie Profile 2: Silmeria
+- Ys vs Sora no Kiseki
 
 ---
 
@@ -716,7 +743,7 @@ Based on overall enjoyment. Order may be different based on different aspects.
 `4 > 3 >> 2:IS > Q`
 
 #### **Ys**
-`Lacrimosa of Dana >> Origin > Felghana > Napishtim`
+`Lacrimosa of Dana >> Origin > Oath in Felghana > Ark of Napishtim`
 
 #### **Zelda**
 `The Wind Waker > Twilight Princess > A Link to the Past > Minish Cap > Ocarina of Time > Majora's Mask`
