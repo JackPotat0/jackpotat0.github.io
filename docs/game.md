@@ -524,7 +524,7 @@ Yeah it's a genre defining classic, with endless supplies of hope and despair. G
 Best tracks: DANGANRONPA, Box 15, Discussion -HEAT UP- 
 
 #### Danganronpa V3: Killing Harmony
-Story/Plot: I like the story structure where only selected few are focused instead of similar screentime for almost everyone. But generally I am conflicted about the whole plot and progression especially the ending. I only really enjoyed the first case and Shuichi's arc.
+Story/Plot: I like the story structure where only selected few are focused instead of similar screentime for almost everyone. But generally I am conflicted about the whole plot and progression especially the ending. I only really enjoyed the first case and Shuichi's arc. This time we can also see the face of MC on the side, fully defining him as his own character.
 
 <details>
   <summary>3-1</summary>
@@ -532,11 +532,11 @@ Story/Plot: I like the story structure where only selected few are focused inste
 </details>
 <details>
   <summary>3-2</summary>
-  What the heck is that motive???? Can you at least even try??? The murder operation is starting to get a bit Conan ridiculous from here on.
+  What the heck is that motive???? Can you at least even try??? Junko's action makes even more sense because there are real life parallels but not this one. The murder operation is starting to get a bit Conan ridiculous from here on.
 </details>
 <details>
   <summary>3-3</summary>
-  I was praying to not see a double kill and my disappointment was immeasurable when it happened. Kiyo is a creep with another rather outlandish motive. Dude could have graduated if not for the second murder.
+  I was hoping to not see a double kill and my disappointment was immeasurable when it happened. Kiyo is a creep with another rather outlandish motive. Dude could have graduated if not for the second murder.
 </details>
 <details>
   <summary>3-4</summary>
