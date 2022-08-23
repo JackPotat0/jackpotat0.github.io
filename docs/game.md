@@ -482,7 +482,7 @@ Yeah it's a genre defining classic, with endless supplies of hope and despair. G
  <details>
   <summary>Celeste</summary>
    
-  Good character. I liked her mysterious vibes. Her case isn't actually that complex but just enough to fool everyone not Byakuya or Kyoko (which would be successful if they aren't there)
+  Good character (with probably disappointing execution). I liked her mysterious vibes. 
     
  </details>
  <details>
@@ -522,6 +522,47 @@ Yeah it's a genre defining classic, with endless supplies of hope and despair. G
 | S- | S- | S- | A+ | Kyoko |
 
 Best tracks: DANGANRONPA, Box 15, Discussion -HEAT UP- 
+
+#### Danganronpa V3: Killing Harmony
+Story/Plot: I like the story structure where only selected few are focused instead of similar screentime for almost everyone. But generally I am conflicted about the whole plot and progression especially the ending. I only really enjoyed the first case and Shuichi's arc.
+
+<details>
+  <summary>3-1</summary>
+  The best opening chapter in the series. Kaede is super delightful, also gives Shuichi a character arc to begin with. I see this as 1-1 remake and unlike last time it is actually effective. Brilliant. 
+</details>
+<details>
+  <summary>3-2</summary>
+  What the heck is that motive???? Can you at least even try??? The murder operation is starting to get a bit Conan ridiculous from here on.
+</details>
+<details>
+  <summary>3-3</summary>
+  I was praying to not see a double kill and my disappointment was immeasurable when it happened. Kiyo is a creep with another rather outlandish motive. Dude could have graduated if not for the second murder.
+</details>
+<details>
+  <summary>3-4</summary>
+  I am sure this is all set up to make Gonta a murderer, and only for the shock value. I guess it had some effect on Kokichi but I am not sure. It does create a decent conflict between Shuichi and Kaito so it is not all bad I suppose.
+</details>
+<details>
+  <summary>3-5</summary>
+  Pretty good case but feels like copying 2-5 in concept and still not as great as 2-5. 
+</details>
+<details>
+  <summary>3-6</summary>
+  <b>"And I will avenge Kaede! I swear on her kindness and her love... and her grave that I will avenge her!"</b> and <b>"The pain in my heart is real! The pain I feel when I lose the people I love is real!"</b> got to me real good. Okay you want to end the series I get it. What did we do to deserve such a passive agressive ending? Also Shuichi is such a gigachad here.
+</details>
+
+
+Characters: Similiar to D2's approach but even more gimmicky. Focusing on a selected few means that if you hate some of them, the game becomes insufferable. Now my guy is done being the weakest or the outlier, instead the strongest asset in class trials. I liked Shuichi-Kaito-Maki as a trio, very sweet.
+
+Gameplay: I don't like any of the new addition or changes at all except Scrum Debate, way too many gimmicks and stray away from gamifying a debate into debating with minigames. Lying bullet is interesting but can get in the way of story (another proof that Shuichi is not a self insert), having 2 solutions is also a cool addition but can be ignored really easily.
+
+Music: It is not as good as D2. Finally we have a sad theme (Heartless Journey) for once though.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| A+ | A | A+ | A+ | Kaede/Shuichi/Maki |
+
+Best tracks: DANGANRONPA v3, Beautiful Lie, Discussion Space Edition
 
 ---
 
