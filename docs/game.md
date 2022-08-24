@@ -551,17 +551,19 @@ Story/Plot: I like the story structure where only selected few are focused inste
   <b>"And I will avenge Kaede! I swear on her kindness and her love... and her grave that I will avenge her!"</b> and <b>"The pain in my heart is real! The pain I feel when I lose the people I love is real!"</b> got to me real good. Okay you want to end the series I get it. But what did we do to deserve such a passive agressive ending? Also Shuichi is such a gigachad here.
 </details>
 
-
-Characters: Similiar to D2's approach but even more gimmicky. Focusing on a selected few means that if you hate some of them, the game becomes insufferable. My guy is done being the weakest or the outlier, instead the strongest asset in class trials. I liked Shuichi-Kaito-Maki as a trio, very sweet. 
+Characters: Similiar to D2's approach but even more gimmicky. Focusing on a selected few means that if you hate some of them, the game becomes insufferable. My guy is done being the weakest or the outlier, instead the strongest asset in class trials. I liked Shuichi-Kaito-Maki as a trio, very sweet. Judging from the number of notable mentions you can see I don't care about this cast that much.
 
 <details>
   <summary>Shuichi</summary>
+  My favourite protagonist, Hajime is still the best protag though. His arc is just solid and has a character on its own. I find myself sometimes disagreeing with what he does.
 </details>
 <details>
   <summary>Kaede</summary>
+  She wins as the series Best Girl (sorry Kyoko it is a very close match I swear). I just love when she is on screen. She has wonderful interactions with everyone, a very compelling motive and most importantly a strong agency compared to any character of the series. 
 </details>
 <details>
   <summary>Kaito</summary>
+  Actually one of the strongest portrayals of typical shounen protagonist because there is a competent rival aka Kokichi. Also generally positive for character development of others.
 </details>
 <details>
   <summary>Kokichi</summary>
@@ -569,6 +571,7 @@ Characters: Similiar to D2's approach but even more gimmicky. Focusing on a sele
 </details>
 <details>
   <summary>Maki</summary>
+  She cute. I don't think she is as bad as the fandom describes but there are definitely room for improvement.
 </details>
 <details>
   <summary>Kiibo</summary>
