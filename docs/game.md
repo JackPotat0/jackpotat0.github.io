@@ -548,11 +548,36 @@ Story/Plot: I like the story structure where only selected few are focused inste
 </details>
 <details>
   <summary>3-6</summary>
-  <b>"And I will avenge Kaede! I swear on her kindness and her love... and her grave that I will avenge her!"</b> and <b>"The pain in my heart is real! The pain I feel when I lose the people I love is real!"</b> got to me real good. Okay you want to end the series I get it. What did we do to deserve such a passive agressive ending? Also Shuichi is such a gigachad here.
+  <b>"And I will avenge Kaede! I swear on her kindness and her love... and her grave that I will avenge her!"</b> and <b>"The pain in my heart is real! The pain I feel when I lose the people I love is real!"</b> got to me real good. Okay you want to end the series I get it. But what did we do to deserve such a passive agressive ending? Also Shuichi is such a gigachad here.
 </details>
 
 
-Characters: Similiar to D2's approach but even more gimmicky. Focusing on a selected few means that if you hate some of them, the game becomes insufferable. Now my guy is done being the weakest or the outlier, instead the strongest asset in class trials. I liked Shuichi-Kaito-Maki as a trio, very sweet.
+Characters: Similiar to D2's approach but even more gimmicky. Focusing on a selected few means that if you hate some of them, the game becomes insufferable. My guy is done being the weakest or the outlier, instead the strongest asset in class trials. I liked Shuichi-Kaito-Maki as a trio, very sweet. 
+
+<details>
+  <summary>Shuichi</summary>
+</details>
+<details>
+  <summary>Kaede</summary>
+</details>
+<details>
+  <summary>Kaito</summary>
+</details>
+<details>
+  <summary>Kokichi</summary>
+  I understand and respect his role and importance in the story but I just cannot enjoy his character in any way. 
+</details>
+<details>
+  <summary>Maki</summary>
+</details>
+<details>
+  <summary>Kiibo</summary>
+  Funny guy haha. He could be so much more than he actually is. 
+</details>
+<details>
+  <summary>Kirumi</summary>
+  I expected great things. I expected Peko but improved. And it all goes down the drain. This is probably the most disappointing DR character out there. But shoutouts to trying to escape an execution. 
+</details>
 
 Gameplay: I don't like any of the new addition or changes at all except Scrum Debate, way too many gimmicks and stray away from gamifying a debate into debating with minigames. Lying bullet is interesting but can get in the way of story (another proof that Shuichi is not a self insert), having 2 solutions is also a cool addition but can be ignored really easily.
 
