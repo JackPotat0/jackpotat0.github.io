@@ -1,10 +1,9 @@
 ## Video Games Collection
 
-I only got in touch with video games in my late teens so I didn't get to play too much of them. Moreover life is getting in my way slowly but surely.
-** Scores are ranked based on personal preferences
+** Scores are ranked based on personal preferences. Very subjective.
 
 ### **ALL TIME favourites**
-*The games that changed my gaming view (ruin other games) in one way or another. Feel free to debate with me on these games. Just go play these already!!*
+*The games that changed my gaming view (ruin other games) in one way or another. Feel free to debate with me on these games.*
 
 #### **Kingdom Hearts 2 Final Mix (PS2)**
 This game serves as my first experience to speedrunning. I found [Bl00dyBizkit's AGDQ2017 run](https://www.youtube.com/watch?v=PVjf3bc3Noo&t=4588s) when looking for Roxas strats and the rest is history. This is still my favourite speedrun of all time. I play the randomizer a lot and learnt some speedrun strats. Everything about combat in this game (aside from some questionable boss designs) is just perfect. 
@@ -563,15 +562,15 @@ Characters: Similiar to D2's approach but even more gimmicky. Focusing on a sele
 </details>
 <details>
   <summary>Kaito</summary>
-  Actually one of the strongest portrayals of typical shounen protagonist because there is a competent rival aka Kokichi. Also generally positive for character development of others.
+  Actually one of the strongest portrayals of typical shounen protagonist dudebro because there is a competent rival and foil aka Kokichi. Also generally positive for character development of others.
 </details>
 <details>
   <summary>Kokichi</summary>
-  I understand and respect his role and importance in the story but I just cannot enjoy his character in any way. 
+  I respect his role and importance in the story but I just cannot enjoy his character in any way. 
 </details>
 <details>
   <summary>Maki</summary>
-  She cute. I don't think she is as bad as the fandom describes but there are definitely room for improvement.
+  She cute. I don't think she is as bad as the fandom describes but there are definitely lots of room for improvement.
 </details>
 <details>
   <summary>Kiibo</summary>
@@ -593,11 +592,21 @@ Music: It is not as good as D2. Finally we have a sad theme (Heartless Journey) 
 Best tracks: DANGANRONPA v3, Beautiful Lie, Discussion Space Edition
 
 #### Danganronpa Another Episode: Ultra Despair Girls
+I came for more Danganronpa, I almost left because of the antagonists, I stayed for funni Byakuya slander, then I was moved by wholesome friendship between two girls.
 
+Story/Plot:
+
+Characters:
+
+Gameplay:
+
+Music:
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | S | S | A+ | A+ | Komaru/Toko |
+
+Best tracks:
 
 ---
 
