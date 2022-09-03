@@ -592,6 +592,13 @@ Music: It is not as good as D2. Finally we have a sad theme (Heartless Journey) 
 
 Best tracks: DANGANRONPA v3, Beautiful Lie, Discussion Space Edition
 
+#### Danganronpa Another Episode: Ultra Despair Girls
+
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| S | S | A+ | A+ | Komaru/Toko |
+
 ---
 
 ### **INTERESTING titles**
@@ -775,20 +782,11 @@ Quintet RPG is an acquired taste. Gameplay feels more Zelda than RPG, with tradi
 
 ---
 
-### **WATCHED playthroughs**
-- Persona 5/ Persona 5 Royal (Yes I am the Persona fan that's never played P5)
-- Final Fantasy XII, XIII, XIII-2, XV
-- Nier Replicant ver.1.22
-- Kingdom Hearts ReCOM, DDD, 3
-- Persona 2: Eternal Punishment 
-- The World Ends With You
-- and more...
-
 ### **DROPPED**
 - Bravely Default (Job system hurts my brain, love the OST though)
 - Rogue Galaxy (Generally clunky, boring dungeons and OST)
 - Final Fantasy VI (SNES) (on hold, just didn't grab me...?)
-- Star Ocean: First Departure (PSP) (combat is too barebones, lack of real control, yeah Sakuraba I just don't like you that much)
+- Star Ocean: First Departure (PSP) (combat is too barebones, lack of real control, also Sakuraba I just don't like you that much)
 - Legend of Mana (PS1) (Combat is too unbearable, non linear layout is too uncomfortable for me. This is Yoko Shimomura's single best standalone OST. It captured the magical fantasy world like no other, not even her future works has this degree of raw imagination. I will die on this hill.)
 
 ### **NEXT UP/ONGOING**
@@ -817,6 +815,8 @@ Quintet RPG is an acquired taste. Gameplay feels more Zelda than RPG, with tradi
 - Final Fantasy Tactics
 - Valkyrie Profile 2: Silmeria
 - Ys vs Sora no Kiseki
+- Wild Arms
+- Suikoden
 
 ---
 
@@ -846,5 +846,5 @@ Based on overall enjoyment. Order may be different based on different aspects.
 `Sky FC = Sky SC >> Sky 3rd`
 
 #### **Danganronpa**
-`2 > 1 > V3`
+`2 > UDG > 1 > V3`
 
