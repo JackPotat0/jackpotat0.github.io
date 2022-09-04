@@ -596,17 +596,15 @@ I came for more Danganronpa, I almost left because of the antagonists, I stayed 
 
 Story/Plot: The setting is just a fever dream. The real meat is the interaction between Komaru and Toko, and their journey to become friends and helping each other grow. It is so cliche but the execution is almost flawless. The dynamics of different stages are handled realistically. It is very believable they become BFF in the end. They also made connections to DR2 without actually ruining anything which is a rare case.
 
-Characters: I cannot believe they manage to pull off Toko like this. At the start she obviously learnt her lessons in DR1 but there are still more to explore, the coolest part is her gimmicks are preserved and those become part of a compelling marrative. I have low opinions on DR1 Toko but that is completely changed after this game. Komaru is also wonderful. She is Makoto but not self insert. This alone make her so much better and interesting. She is THE cinnamon roll I pledge to protecc. She went through very similiar arc as Makoto but instead with the power of hope now it's the good old power of friendship. Seeing some cameos is pretty cool. Nagito's role pre DR2 is especially interesting and explains a lot of things. 
+Characters: Toko is just plain amazing here. At the start she obviously learnt her lessons in DR1 but there are still more to explore, the coolest part is her gimmicks are preserved and those become part of a compelling marrative. I have low opinions on DR1 Toko but that is completely changed after this game. Komaru is also wonderful. She is Makoto but not self insert. This alone make her so much better and interesting. She is THE cinnamon roll I pledge to protecc. She went through very similiar arc as Makoto but instead with the power of hope now it's the good old power of friendship. Seeing some cameos is pretty cool. Nagito's role pre DR2 is especially interesting and explains a lot of things. 
 
 Gameplay: This game is actually a puzzle shooter and not an action game. Once Komaru's controls click it's actually quite fun. It's Toko's control that is lackluster. Also all the bosses can be cheesed too easily with Toko's ults. But the main challenge is the puzzle part. Nice design to let player to choose whether to clear them perfectly or just rush through them.
 
-Music:
+Music: Discussion theme as final boss theme is positively funny. Otherwise a pretty standard Danganronpa feeling OST
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | S- | S | A+ | A+ | Komaru/Toko |
-
-Best tracks:
 
 ---
 
