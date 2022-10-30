@@ -433,7 +433,7 @@ Yeah it's a genre defining classic, with endless supplies of hope and despair. G
 </details>
 <details>
   <summary>1-3</summary>
-  Celeste is immediately sus. But if it is enough to fool most of others it works. As observers it is easy to know she is weird but not for Makoto & co. It would be worse if Makoto somehow get an IQ boost here. Even if I know Celeste is the culprit without needing much hint, I still want to follow Makoto's steps to reach the conclusion. I would agree this whole thing can be executed a lot better. But I can get over with this and get the writer's intention.
+  Celeste is immediately sus. But if it is enough to fool most of others it works (but why even attempt this when you know there are geniuses like Kyoko and Byakuya around??). As observers it is easy to know she is weird but not for Makoto & co. It would be worse if Makoto somehow get an IQ boost here. Even if I know Celeste is the culprit without needing much hint, I still want to follow Makoto's steps to reach the conclusion. I would agree this whole thing can be executed a lot better. But I can get over with this and get the writer's intention.
 </details>
 <details>
   <summary>1-4</summary>
@@ -452,14 +452,14 @@ Yeah it's a genre defining classic, with endless supplies of hope and despair. G
 <details>
   <summary>Makoto</summary>
   
-   Not too interesting of a self insert but does have some redeeming traits (which I cant remember for the moment). One interesting thing is that he can always somehow inspires the others, which lead to character growth to different degrees.
+   Not too interesting of a self insert but does have one redeeming trait - that is he can always somehow inspires the others, which lead to character growth to different degrees.
   
 </details>
 
 <details>
   <summary>Kyoko</summary>
 
-  Best girl. Kyoko smug gives me life. She has that irresistable confidence around her. But she does not have too many interesting character growth. It's not that there isn't, but not eye catching enough.
+  Best girl. Kyoko smug gives me life. She has that irresistable aura of confidence around her. But she does not have too many interesting character growth. It's not that there isn't, but not eye catching enough.
  
 </details>
 
@@ -527,7 +527,7 @@ Story/Plot: I like the story structure where only selected few are focused inste
 
 <details>
   <summary>3-1</summary>
-  The best opening chapter in the series. Kaede is super delightful, also gives Shuichi a character arc to begin with. I see this as 1-1 remake and unlike last time it is actually effective. Brilliant. 
+  The best opening chapter in the series. Kaede is super delightful, also gives Shuichi a character arc to begin with. I can see this as 1-1 remake and unlike last time it is actually effective. Brilliant. 
 </details>
 <details>
   <summary>3-2</summary>
@@ -583,7 +583,7 @@ Characters: Similiar to D2's approach but even more gimmicky. Focusing on a sele
 
 Gameplay: I don't like any of the new addition or changes at all except Scrum Debate, way too many gimmicks and stray away from gamifying a debate into debating with minigames. Lying bullet is interesting but can get in the way of story (another proof that Shuichi is not a self insert), having 2 solutions is also a cool addition but can be ignored really easily.
 
-Music: It is not as good as D2. Finally we have a sad theme (Heartless Journey) for once though.
+Music: It is not as good as D2. Finally we have a good sad theme (Heartless Journey) for once though.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -592,7 +592,7 @@ Music: It is not as good as D2. Finally we have a sad theme (Heartless Journey) 
 Best tracks: DANGANRONPA v3, Beautiful Lie, Discussion Space Edition
 
 #### Danganronpa Another Episode: Ultra Despair Girls
-I came for more Danganronpa, I almost left because of the antagonists, I stayed for funni Byakuya slander, then I was moved by wholesome friendship between two girls.
+I came for more Danganronpa, I almost left because of the antagonists, I stayed for funni Byakuya slander, then I was moved by the wholesome friendship between two girls.
 
 Story/Plot: The setting is just a fever dream. The real meat is the interaction between Komaru and Toko, and their journey to become friends and helping each other grow. It is so cliche but the execution is almost flawless. The dynamics of different stages are handled realistically. It is very believable they become BFF in the end. They also made connections to DR2 without actually ruining anything which is a rare case.
 
@@ -605,6 +605,23 @@ Music: Discussion theme as final boss theme is positively funny. Otherwise a pre
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | S- | S | A+ | A+ | Komaru/Toko |
+
+### Persona 5 Royal (PC)
+Trying to be a blind player when you know the story beats so well is ... hard yet interesting.
+
+Story/Plot: 
+
+Characters: (party and confidants)
+
+Gameplay: This game is one of, if not the most stylish game of the 2010s. Combat flows smoothly, I love how mastering inputs alone improves combat experience. Movement is fluid, dungeons are generally well thought and nicely designed. The only downside is that this game gives you way too many OP tools to trivialize the game (All ma- elemental skills in 2nd dungeon and easily accessible Growth 1 and Auto-Masuku before 3rd dungeon??? what is even happening) and with previous SMT game knowledge it becomes a slaughter on Normal difficulty (not using DLC too). I am too chicken to use Hard on my first playthough.
+
+Music: This is one of my gateways to video game music so definitely have special feelings for this OST. Beneath the Mask is possibly one of Meguro's greatest track. Way too many bangers to count. Take Over is officially the best battle theme in the Persona main games.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| A+ | S- | S+ | S+ | Morgana/Ann/Makoto/Kasumi |
+
+Best tracks: Beneath the Mask, Take Over, Throw Away Your Mask
 
 ---
 
@@ -630,7 +647,7 @@ Weird game. I am so glad PSP version is that easy i never fused a single persona
 Best tracks: Battle Theme, Maya Theme, Velvet Room
 
 #### Child of Light (PC)
-It is waaaay too short for the price, could have use another dungeon or two, Casual is a bit too easy but who would expect normal RPG gamer mode to be named Expert. Nice combat system though can feel slow every battle. Nice little fairy tale but far weaker than Odin Sphere, half decent cast that has short stories tied into their quest but did not have any meaningful development in any way.
+It is waaaay too short for the price, could have use another dungeon or two, Casual is a bit too easy but who would expect normal RPG gamer mode to be named Expert. Nice combat system though can feel slow every battle. Nice little fairy tale but far weaker than say Odin Sphere, half decent cast that has short stories tied into their quest but did not have any meaningful development in any way.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -797,7 +814,8 @@ Quintet RPG is an acquired taste. Gameplay feels more Zelda than RPG, with tradi
 - Legend of Mana (PS1) (Combat is too unbearable, non linear layout is too uncomfortable for me. This is Yoko Shimomura's single best standalone OST. It captured the magical fantasy world like no other, not even her future works has this degree of raw imagination. I will die on this hill.)
 
 ### **NEXT UP/ONGOING**
-- Valkyrie Profile
+- Persona 5 Royal
+- Code Vein
 
 ### **INTERESTED IN**
 - Ys SEVEN
@@ -809,7 +827,6 @@ Quintet RPG is an acquired taste. Gameplay feels more Zelda than RPG, with tradi
 - Trails to Azure
 - Golden Sun
 - Dragon Quest 8
-- Persona 5 Royal
 - Trails from Zero
 
 #### **INTERESTED but maybe someday**
@@ -841,7 +858,7 @@ Based on overall enjoyment. Order may be different based on different aspects.
 `2FM > 1 >> Days >> BBS`
 
 #### **Persona**
-`4 > 3 >> 2:IS > Q`
+`4 = 5 Royal > 3 >> 2:IS > Q`
 
 #### **Ys**
 `Lacrimosa of Dana >> Origin > Oath in Felghana > Ark of Napishtim`
