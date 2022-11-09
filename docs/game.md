@@ -609,11 +609,11 @@ Music: Discussion theme as final boss theme is positively funny. Otherwise a pre
 ### Persona 5 Royal (PC)
 Trying to be a blind player when you know the story beats so well is ... hard yet interesting.
 
-Story/Plot: 
+Story/Plot: If there is any shortcoming from this game it is probably the main plot. Simply put, the script takes on a much bigger question it can handle and handled it mediocrely. The villains are painted as absolute evil while they are supposed to reflect the real society which has many grey areas. Though I am not satisfied with its depth, I am happy they still handled the "easier and safer" alternative well i.e. making punishing evil fun and gratifying. 
 
-Characters: (party and confidants)
+Characters: The party dynamic is fine I guess. For some reason it is not as unique as P3 or has fantastic chemistry like P4, but I can see this being some people's favourite party. Also these guys definitely chat on the phone too much. The confidants aka SL has two very distinctive purposes, for non party members is all kinds of oppressed people in all walks of life. The side characters arc often involves a villain which has the same issue as above section. For the party members, mostly is their extension of their arc or get involved in their circle. Maruki's confidant is definitely one of the more interesting ones, remade Akechi link is also pretty fine so far.  
 
-Gameplay: This game is one of, if not the most stylish game of the 2010s. Combat flows smoothly, I love how mastering inputs alone improves combat experience. Movement is fluid, dungeons are generally well thought and nicely designed. The only downside is that this game gives you way too many OP tools to trivialize the game (All ma- elemental skills in 2nd dungeon and easily accessible Growth 1 and Auto-Masuku before 3rd dungeon??? what is even happening) and with previous SMT game knowledge it becomes a slaughter on Normal difficulty (not using DLC too). I am too chicken to use Hard on my first playthough.
+Gameplay: This game is one of, if not the most stylish game of the 2010s. Combat flows smoothly, I love how mastering inputs alone improves combat experience. Movement is fluid, dungeons are generally well thought and nicely designed. The only downside is that this game gives you way too many OP tools to trivialize the game (All ma- elemental skills in 2nd dungeon and Auto-Masuku before 3rd dungeon??? what is even happening) and with previous SMT game knowledge it becomes a slaughter on Normal difficulty (not using DLC too). I am too chicken to use Hard on my first playthough.
 
 Music: This is one of my gateways to video game music so definitely have special feelings for this OST. Beneath the Mask is possibly one of Meguro's greatest track. Way too many bangers to count. Take Over is officially the best battle theme in the Persona main games.
 
