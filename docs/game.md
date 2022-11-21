@@ -606,12 +606,12 @@ Music: Discussion theme as final boss theme is positively funny. Otherwise a pre
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | S- | S | A+ | A+ | Komaru/Toko |
 
-### Persona 5 Royal (PC)
+#### Persona 5 Royal (PC)
 Trying to be a blind player when you know the story beats so well is ... hard yet interesting.
 
-Story/Plot: If there is any shortcoming from this game it is probably the main plot. Simply put, the script takes on a much bigger question it can handle and handled it mediocrely. The villains are painted as absolute evil while they are supposed to reflect the real society which has many grey areas. Though I am not satisfied with its depth, I am happy they still handled the "easier and safer" alternative well i.e. making punishing evil fun and gratifying. 
+Story/Plot: If there is any shortcoming from this game it is probably the main plot. Simply put, the script takes on a much bigger question it can handle and handled it mediocrely. The villains are painted as absolute evil while they are supposed to reflect the real society which has many grey areas, Sae is one of the exception as she has a better build up. Though I am not satisfied with its depth, I am happy they still handled the "easier and safer" alternative well i.e. making punishing evil fun and gratifying. 
 
-Characters: The party dynamic is fine I guess. For some reason it is not as unique as P3 or has fantastic chemistry like P4, but I can see this being some people's favourite party. Also these guys definitely chat on the phone too much. The confidants aka SL has two very distinctive purposes, for non party members is all kinds of oppressed people in all walks of life. The side characters arc often involves a villain which has the same issue as above section. For the party members, mostly is their extension of their arc or get involved in their circle. Maruki's confidant is definitely one of the more interesting ones, remade Akechi link is also pretty fine so far.  
+Characters: The party dynamic is fine I guess. For some reason it is not as unique as P3 or has fantastic chemistry like P4, but I can see this being some people's favourite party. Also these guys definitely chat on the phone too much. The confidants aka SL has two very distinctive purposes, for non party members is all kinds of oppressed people in all walks of life. The side characters arc often involves a villain which has the same issue as above section. For the party members, mostly is their extension of their arc or get involved in their circle. Maruki's confidant is definitely one of the more interesting ones. Remade Akechi link is also pretty fine, but still has a long way to go as a compelling rival. Kasumi is handled a lot better than Marie, but there ae still a lot of traces of shoehorning.
 
 Gameplay: This game is one of, if not the most stylish game of the 2010s. Combat flows smoothly, I love how mastering inputs alone improves combat experience. Movement is fluid, dungeons are generally well thought and nicely designed. The only downside is that this game gives you way too many OP tools to trivialize the game (All ma- elemental skills in 2nd dungeon and Auto-Masuku before 3rd dungeon??? what is even happening) and with previous SMT game knowledge it becomes a slaughter on Normal difficulty (not using DLC too). I am too chicken to use Hard on my first playthough.
 
@@ -621,7 +621,7 @@ Music: This is one of my gateways to video game music so definitely have special
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A+ | S- | S+ | S+ | Morgana/Ann/Makoto/Kasumi |
 
-Best tracks: Beneath the Mask, Take Over, Throw Away Your Mask
+Best tracks: Beneath the Mask, Sunset Bridge, Blooming Villain, Take Over, Throw Away Your Mask, Ideal and the Real
 
 ---
 
