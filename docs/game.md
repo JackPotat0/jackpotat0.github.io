@@ -160,7 +160,7 @@ Best tracks: The Edge of Green, The Garden where Celestites Lies, Where the Wind
 #### **Danganronpa 2: Goodbye Despair**
 Who is drunk on hope and despair cuz I sure am. It improved in almost every aspect of DR1.
 
-Story/Plot: With all the groundwork set up in DR1, they get to expand on the themes of the series and they definitely nailed it. Hope and despair. Believe and suspect. Cold hard truths and blissful ignorance. Logic and luck. The dynamics between Hajime and Nagito is super well written and the events of the game clearly showed their clash of ideals. This entry also has a more engaging overarching plot that DR1 where you are mostly waiting for the next murder to happen in between, as compared to the mystery of Monomi and ... other chaotic factors. That ending sequence is just so well executed, with all the twists and connections from previous game tied together. I genuinely felt despair during it. It does get a bit like KH cheesiness near the end but who actually cares. If there is ever one Danganronpa game worth a deep analysis, it is probably this one.
+Story/Plot: With all the groundwork set up in DR1, they get to expand on the themes of the series and they definitely nailed it. Hope and despair. Believe and suspect. Cold hard truths and blissful ignorance. Logic and luck. The dynamics between Hajime and Nagito is super well written and the events of the game clearly showed their clash of ideals. This entry also has a more engaging overarching plot that DR1 where you are mostly waiting for the next murder to happen in between, as compared to the mystery of Monomi and ... other chaotic factors. That ending sequence is just so well executed, with all the twists and connections from previous game tied together. I genuinely felt despair during it. It does get a bit cheesy near the end but who actually cares. If there is ever one Danganronpa game worth a deep analysis, it is probably this one.
 
  <details>
   <summary>2-1</summary>
@@ -172,7 +172,7 @@ Story/Plot: With all the groundwork set up in DR1, they get to expand on the the
 </details>
  <details>
   <summary>2-3</summary>
-  Too many things go unexplained even after the reveal (ultimate despairs have physical buff i guess). Its significance only ties to the endgame and does not really make a lot of sense at first. But it is a great hint to the endgame reveal that leads to an aha moment. People say Hiyoko's arc got cut short there and is bad, but isn't murdering a plain act to destroy potentials?
+  Too many things go unexplained even after the reveal (ultimate despairs have physical buff i guess). Its significance only ties to the endgame and does not really make a lot of sense at first. But it is a great hint to the endgame reveal that leads to an aha moment. People say Hiyoko's arc got cut short there and is bad, but I think that is precisely the irony.
 </details>
  <details>
   <summary>2-4</summary>
@@ -202,7 +202,7 @@ Characters: They seems to be less tropey but less deep as well. It's like DR1 ha
 </details>
  <details>
   <summary>Chiaki</summary>
-  The traitor reveal is pretty shocking. She is a good character but I definitely felt like she is being carried by the plot execution than she is genuinely a great character. She is adorable and all but I still prefer stronger waifus in the end. She being the Ultimate Gamer is actually a really meta thing in the context of the game. 
+  The traitor reveal is pretty shocking. She is a good character but I definitely felt like she is being carried by the plot execution than she is genuinely a great character. She is adorable and all but I still prefer stronger waifus in the end. She being the Ultimate Gamer is actually a really meta thing in the context of the game. You are not part of the game. 
 </details>
  <details>
   <summary>Sonia</summary>
@@ -210,7 +210,7 @@ Characters: They seems to be less tropey but less deep as well. It's like DR1 ha
 </details>
  <details>
   <summary>Kazuichi</summary>
-  Actually the first character in DR that represents a dudebro. A very vanilla dudebro, nothing too much other than that.
+  Actually the first character in DR that represents a dudebro (Hagakure ain't it). A very vanilla dudebro, nothing too much other than that.
 </details>
  <details>
   <summary>Peko</summary>
@@ -594,7 +594,7 @@ Best tracks: DANGANRONPA v3, Beautiful Lie, Discussion Space Edition
 #### Danganronpa Another Episode: Ultra Despair Girls
 I came for more Danganronpa, I almost left because of the antagonists, I stayed for funni Byakuya slander, then I was moved by the wholesome friendship between two girls.
 
-Story/Plot: The setting is just a fever dream. The real meat is the interaction between Komaru and Toko, and their journey to become friends and helping each other grow. It is so cliche but the execution is almost flawless. The dynamics of different stages are handled realistically. It is very believable they become BFF in the end. They also made connections to DR2 without actually ruining anything which is a rare case.
+Story/Plot: The setting is just a fever dream. The real meat is the interaction between Komaru and Toko, and their journey to become friends and helping each other grow. It is so cliche but the execution is almost flawless. The dynamics of different stages are handled realistically. It is very believable they become BFF in the end. They also made connections to DR2 without actually ruining anything which is a rare case for a prequel.
 
 Characters: Toko is just plain amazing here. At the start she obviously learnt her lessons in DR1 but there are still more to explore, the coolest part is her gimmicks are preserved and those become part of a compelling marrative. I have low opinions on DR1 Toko but that is completely changed after this game. Komaru is also wonderful. She is Makoto but not self insert. This alone make her so much better and interesting. She is THE cinnamon roll I pledge to protecc. She went through very similiar arc as Makoto but instead with the power of hope now it's the good old power of friendship. Seeing some cameos is pretty cool. Nagito's role pre DR2 is especially interesting and explains a lot of things. 
 
@@ -609,9 +609,9 @@ Music: Discussion theme as final boss theme is positively funny. Otherwise a pre
 #### Persona 5 Royal (PC)
 Trying to be a blind player when you know the story beats so well is ... hard yet interesting.
 
-Story/Plot: If there is any shortcoming from this game it is probably the main plot. Simply put, the script takes on a much bigger question it can handle and handled it mediocrely. The villains are painted as absolute evil while they are supposed to reflect the real society which has many grey areas, Sae is one of the exception as she has a better build up. Though I am not satisfied with its depth, I am happy they still handled the "easier and safer" alternative well i.e. making punishing evil fun and gratifying. 
+Story/Plot: If there is any shortcoming from this game it is probably the main plot. Simply put, the script takes on a much bigger question it can handle and handled it mediocrely. The villains are painted as absolute evil while they are supposed to reflect the real society which has many grey areas, Sae is one of the exception as she has a better build up. Though I am not satisfied with its depth, I am happy they still handled the "easier and safer" alternative well i.e. making punishing evil fun and gratifying. Another big theme is about being "rebellious", which has no major issue, it is just the topic is not investigated from many different angles through party members, like P3 did on the themes of living and death and P4 did on the theme of true self.
 
-Characters: The party dynamic is fine I guess. For some reason it is not as unique as P3 or has fantastic chemistry like P4, but I can see this being some people's favourite party. Also these guys definitely chat on the phone too much. The confidants aka SL has two very distinctive purposes, for non party members is all kinds of oppressed people in all walks of life. The side characters arc often involves a villain which has the same issue as above section. For the party members, mostly is their extension of their arc or get involved in their circle. Maruki's confidant is definitely one of the more interesting ones. Remade Akechi link is also pretty fine, but still has a long way to go as a compelling rival. Kasumi is handled a lot better than Marie, but there ae still a lot of traces of shoehorning.
+Characters: The party dynamic is fine I guess. For some reason it is not as unique as P3 or has fantastic chemistry like P4, but I can see this being some people's favourite party. Also these guys definitely chat on the phone too much. The confidants aka SL has two very distinctive purposes, for non party members is all kinds of oppressed people in all walks of life. The side characters arc often involves a villain which has the same issue as above section. For the party members, mostly is their extension of their arc or get involved in their circle. Maruki's confidant is definitely one of the more interesting ones. Remade Akechi link is also pretty fine, but still not quite enough to be a compelling rival. Kasumi is handled a lot better than Marie, but there ae still a lot of traces of shoehorning.
 
 Gameplay: This game is one of, if not the most stylish game of the 2010s. Combat flows smoothly, I love how mastering inputs alone improves combat experience. Movement is fluid, dungeons are generally well thought and nicely designed. The only downside is that this game gives you way too many OP tools to trivialize the game (All ma- elemental skills in 2nd dungeon and Auto-Masuku before 3rd dungeon??? what is even happening) and with previous SMT game knowledge it becomes a slaughter on Normal difficulty (not using DLC too). I am too chicken to use Hard on my first playthough.
 
@@ -619,7 +619,7 @@ Music: This is one of my gateways to video game music so definitely have special
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| A+ | S- | S+ | S+ | Morgana/Ann/Makoto/Kasumi |
+| A- | S- | S+ | S+ | Morgana/Ann/Makoto/Kasumi |
 
 Best tracks: Beneath the Mask, Sunset Bridge, Blooming Villain, Take Over, Throw Away Your Mask, Ideal and the Real
 
@@ -729,7 +729,7 @@ Best tracks: Light the Fire Up in the Night, Lazer Beam, Friends
 #### Lunar: Silver Star Story (PSX)
 A cult classic within the JRPG circle. But I think it really needs that nostalgia and era factor to become a great game. It feels like the FMA:B of JRPGs, but without that extra kick that makes it a real classic. Only recommended to JRPG fans for historical purposes.
 
-Story: The most standard RPG story I have experienced so far. It can be summed up as "Hero saves the Damsel in Distress with power of love and friendship", there are 0 big twist a modern gamer cannot see coming too. But do note that this story is written in 1992, I think what makes it stand out at the time is that its structure and presentation feels more like late 90s (dont quote me on this). Tons of animated cutscenes and voice acting adds a lot to the story. What it does great is tying its theme tightly to the main plot, although it can feel forced. For a love story, your main party consists of three (more like 2.5) couples with different dynamics and really make its point across clearly and strongly. 
+Story: The most standard RPG story I have experienced so far. It can be summed up as "Hero saves the Damsel in Distress with power of love and friendship", there are 0 big twist too (Wow that weird looking dude who acts like your ally is definitely not a villian). But do note that this story is written in 1992. Tons of animated cutscenes and voice acting adds a lot to the story. What it does great is tying its theme tightly to the main plot, although it can feel forced. For a love story, your main party consists of three (more like 2.5) couples with different dynamics and really make its point across clearly and strongly. 
 
 Characters: The characters are pretty cliche but it should be spared for being an old game. Character development is decent and everyone have just enough of it. It would be nicer if Alex can show more personality because he showed quite some, even if it is typical protagonist personality. The banter between the party is the best part, adds a lot of life and quirkiness to them. 
 
