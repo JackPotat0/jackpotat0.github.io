@@ -621,7 +621,7 @@ Music: This is one of my gateways to video game music so definitely have special
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| A- | S- | S+ | S+ | Morgana/Ann/Makoto/Kasumi |
+| A- | A+ | S+ | S+ | Morgana/Ann/Makoto/Kasumi |
 
 Best tracks: Beneath the Mask, Sunset Bridge, Blooming Villain, Take Over, Throw Away Your Mask, Ideal and the Real
 
@@ -791,7 +791,7 @@ Characters: The cast almost collected all the weaknesses in different casts in v
 
 Gameplay: I get the devs wanted to create the authentic 90s experience, but you cannot just ignore some modern QoL like auto text scroll/cutscene skip (unless the dialogue is as good as Bug Fables/Trails) and faster walking speed. Momentum system is a decent twist to the CT base system. The skill and equipment system can be a bit more streamlined. The controls are sometimes unresponsive while moving.
 
-Music: One of my favourite OSTs of all time and listened to it religiously even before this playthrough. It fits the game's environment and vibe perfectly. Also perfect for listening on its own. But the engineering is not good. Some inappropriate usages and no looping/continuation at certain scenes really kills the mood. They did not fully exploit the potential in this OST when it could improve the auditory experience a lot more than this. There are also some questionable SFX choices that just ruin the song eg travelling with airship.
+Music: One of my favourite OSTs of all time and listened to it religiously even before this playthrough. It fits the game's environment and vibe perfectly. Also perfect for listening on its own. But the engineering is not good. Some inappropriate usages and no looping/continuation at certain scenes really kills the mood. They did not fully exploit the potential in this OST when it could improve the auditory experience a lot more than this. There are also some questionable SFX choices that just ruin the song eg travelling in airship.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -816,7 +816,7 @@ Quintet RPG is an acquired taste. Gameplay feels more Zelda than RPG, with tradi
 - Legend of Mana (PS1) (Combat is too unbearable, non linear layout is too uncomfortable for me. This is Yoko Shimomura's single best standalone OST. It captured the magical fantasy world like no other, not even her future works has this degree of raw imagination. I will die on this hill.)
 
 ### **NEXT UP/ONGOING**
-- Persona 5 Royal
+- Trails from Zero
 - Code Vein
 
 ### **INTERESTED IN**
@@ -829,10 +829,10 @@ Quintet RPG is an acquired taste. Gameplay feels more Zelda than RPG, with tradi
 - Trails to Azure
 - Golden Sun
 - Dragon Quest 8
-- Trails from Zero
+
 
 #### **INTERESTED but maybe someday**
-- Xenogears
+- Xenogears/Xenosaga
 - Lunar 2: Eternal Blue
 - Ys 1+2 Chronicles
 - Trails of Cold Steel
@@ -869,7 +869,7 @@ Based on overall enjoyment. Order may be different based on different aspects.
 `The Wind Waker > Twilight Princess > A Link to the Past > Minish Cap > Ocarina of Time > Majora's Mask`
 
 #### **Trails**
-`Sky FC = Sky SC >> Sky 3rd`
+`Sky FC = Sky SC > Sky 3rd`
 
 #### **Danganronpa**
 `2 > UDG > 1 > V3`
