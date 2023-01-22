@@ -254,20 +254,22 @@ Best tracks: Ikoroshia, Welcome to DANGAN Island, Beautiful Ruin (Summer Salt)
 #### **Trails from Zero (PC)**
 It is worth the wait.
 
-Story/plot: 
+Story/plot: With the buildup in Sky arc, Crossbell is shaped to be the perfect stage for a perfect shitstorm. All the politics hit too real in the modern world. The story of passionate and just people struggling in a corrupted world is just done so so well. Good thing this DOES NOT end on a cliffhanger, but many plot threads still left unfinished for Azure (this is some high quality sequel bait that doesn't trip your feelings but you still want to play the next anyway, I guess this model is not as profitable as ending it on a dramatic cliffhanger). The conclusion to that Sky side plot is also great. Not involving Ouroboros is a smart move, but the new villain is not really that good either.
 
-Characters: 
+Characters: The SSS feel like real people. They only have certain quirks on a very surface level which only represents a little of their real character, like real people. Lloyd grew on me over time, wish he can get a canon ship so he doesnt need to be romantically dense. I like Elie a lot but I can agree that she got the shortest end of the stick in terms of characterisation. ~~Lloyd x Elie forever!! Leave Elie to me if you don't want her Lloyd~~ She is the first character in the game to impress me as I did not expect to see a politically aware character in a video game. Her feeling of powerlessness against the tide resonated with me. I did not expect to like Tio but her humour and writing is up to my taste, probably the first "kuudere loli" archetype I really enjoyed (and there is a great reason for her being like this, bonus points). People are saying Randy is a great character too, guess I will have to wait until Azure to find out. KeA... is alright. It feels more like *ha Bright family you have a daughter, we SSS have a daughter too reeee*.
 
-Gameplay: 
+The other cast are just as fleshed out, especially all the other allies of justice. The antagonists are honestly a bit weak compared to them but enough to serve their purposes. I was a bit scared Estelle will lost her charm but seems the writing team pinned her character nicely. I definitely did not fanboy all over when Estelle & Joshua appears and stalked them at any given chance.
 
-Music: Two new composers definitely shake things up and added a lot of identity to this OST, maybe this OST is the more "Falcom"-ey one as compared to Sky's jazzy vibes (I need more Saki Momiyama but too bad she left after CSII). Way of Life motif is surprisingly addicting.
+Gameplay: I lost at the first boss fight, the kids die in 3 hits. The game can be ass at times and force you to retry with correct gears, but it has no weird difficulty spikes like in Sky SC. Generally good balancing, Combo Craft is a nice rework from Sky SC, adds a lot of identity. Max Advantage Preemptive speeds up mob fights a lot faster.
+
+Music: Two new composers definitely shake things up and added a lot of identity to this OST, maybe this OST is the more "Falcom"-ey one as compared to Sky's jazzy vibes (I need more Saki Momiyama but too bad she left after CSII). Way of Life motif is surprisingly addicting. Possibly has the best collection of battle themes in the series, on par with CS1.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| S | S | S | S+ | Lloyd/Elie/Tio/Randy |
+| S | S- | S | S+ | Lloyd/Elie/Tio/Randy |
 
 
-Best tracks: Inevitable Struggle, Formidable Enemy, Arc En Ciel
+Best tracks: Inevitable Struggle, Formidable Enemy, Zero No Kiseki
 
 ---
 
