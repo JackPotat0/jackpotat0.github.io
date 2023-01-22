@@ -889,7 +889,7 @@ Based on overall enjoyment. Order may be different based on different aspects.
 `The Wind Waker > Twilight Princess > A Link to the Past > Minish Cap > Ocarina of Time > Majora's Mask`
 
 #### **Trails**
-`Sky FC = Sky SC > Sky 3rd`
+`Sky FC = Sky SC > Zero > Sky 3rd`
 
 #### **Danganronpa**
 `2 > UDG > 1 > V3`
