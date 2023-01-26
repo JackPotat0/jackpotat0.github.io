@@ -89,7 +89,7 @@ Best tracks: Team, This One's Stronger!, FIGHT!, Team, It's Getting Serious!
 - Great cast chemistry. Not just Estelle between others, but other party members among each other too. Makes you forget they are really not that unique within their archetypes.
 - Natural character growth. You spent about 80 hours with Estelle and seeing her growing from a naive girl to a matured and competent Bracer is simply inspiring.
 - Banger OST. From jazz to rock to emotional harmonicas. Take your pick. 
-- Good combat system, though a bit easy to exploit
+- Good combat system
 - Maybe the best localization ever existed in video games. Truly the soul of this game. The game is carried largely by this. They turned anime cliche dialogue into magic. Everyone's lines are witty and to the point.
 - The ending for both games are just perfect. EVERY SINGLE DETAIL.
 - **Estelle is Bestelle**
@@ -176,7 +176,7 @@ Story/Plot: With all the groundwork set up in DR1, they get to expand on the the
 </details>
  <details>
   <summary>2-4</summary>
-  Gundham... I don't even have a reason to start caring about him. I guess his character is just executed poorly. But the case itself is great and it is almost a perfect crime.
+  Gundham... I don't even have a reason to start caring about him. I guess his character is just executed poorly. But the case itself is great and it is almost a perfect crime if not for one uncontrollable factor.
 </details>
  <details>
   <summary>2-5</summary>
@@ -252,21 +252,21 @@ Music: There is *Welcome to DANGAN Island* in this OST and it is automatically t
 Best tracks: Ikoroshia, Welcome to DANGAN Island, Beautiful Ruin (Summer Salt)
 
 #### **Trails from Zero (PC)**
-It is worth the wait.
+It is worth the wait. 
 
-Story/plot: With the buildup in Sky arc, Crossbell is shaped to be the perfect stage for a perfect shitstorm. All the politics hit too real in the modern world. The story of passionate and just people struggling in a corrupted world is just done so so well. Good thing this DOES NOT end on a cliffhanger, but many plot threads still left unfinished for Azure (this is some high quality sequel bait that doesn't trip your feelings but you still want to play the next anyway, I guess this model is not as profitable as ending it on a dramatic cliffhanger). The conclusion to that Sky side plot is also great. Not involving Ouroboros is a smart move, but the new villain is not really that good either. The overall plot is very grounded for the most part, which also means there are not too many dramatic moments to talk about. 
+Story/plot: The title is literally PERFECT for this game, this is all about the SSS's trails from zero to hero (The Legend of Heroes: Trails to Hero would be very goofy). Crossbell is shaped to be the perfect stage for a perfect shitstorm. All the politics hit too real in the modern world. The story of passionate and just people struggling in a corrupted world is just done so so well. Good thing this DOES NOT end on a cliffhanger, but many plot threads still left unfinished for Azure (this is some high quality sequel bait that doesn't trip your feelings but you still want to play the next anyway, I guess this model is not as profitable as ending it on a dramatic cliffhanger). The conclusion to that Sky side plot is also great. Not involving Ouroboros is a smart move, but the new villain is not really that good either. The overall plot is very grounded for the most part, which also means there are not too many dramatic moments to talk about, but with a lot to think about and analyse. 
 
-Characters: The SSS only have certain quirks on a very surface level which only represents a little of their real character. Lloyd grew on me over time, wish he can get a canon ship so he doesnt need to be romantically dense. I like Elie a lot but I can agree that she got the shortest end of the stick in terms of characterisation. ~~Lloyd x Elie forever!! Leave Elie to me if you don't want her Lloyd~~ She is the first character in the game to impress me as I did not expect to see a politically aware character in a video game. Her feeling of powerlessness against the tide resonated with me. I did not expect to like Tio but her humour and writing is up to my taste, I still don't know why I love her design, probably the first "kuudere loli" archetype I really enjoyed (and there is a great reason for her being like this, bonus points). People are saying Randy is a great character too, guess I will have to wait until Azure to find out. KeA... is alright, I dont't think she is necessary to become a motivation for SSS. It feels more like *ha Bright family you have a daughter, we SSS have a daughter too reeee*.
+Characters: The SSS only have certain quirks on a very surface level which only represents a little of their real character. Lloyd grew on me over time, the only frustrating thing is him being romantically dense. I like how his anime speeches gets dunked on in this game (maybe this will get old one day). I like Elie a lot but I can agree that she got the shortest end of the stick in terms of characterisation. ~~Lloyd x Elie forever!! Leave Elie to me if you don't want her Lloyd~~ She is the first character in the game to impress me as I did not expect to see a politically aware character in a video game. Her feeling of powerlessness against the tide resonated with me. I did not expect to like Tio but her humour and writing is up to my taste, I still don't know why I love her design, probably the first "kuudere loli" archetype I really enjoyed (and there is a great reason for her being like this, bonus points). People are saying Randy is a great character too, guess I will have to wait until Azure to find out. KeA... is alright, I dont't think she is necessary to become a motivation for SSS. It feels more like *ha Bright family you have a daughter, we SSS have a daughter too reeee*.
 
-The other cast are just as fleshed out, especially all the other allies of justice. The antagonists are honestly a bit weak compared to them but enough to serve their purposes. I was a bit scared Estelle will lose her charm but seems the writing team pinned her character nicely. I definitely did not fanboy all over when Estelle & Joshua appears and stalked them at any given chance.
+The other cast are just as fleshed out, especially all the other allies. The antagonists are honestly a bit weak compared to them but enough to serve their purposes. I was a bit scared Estelle will lose her charm but seems the writing team pinned her character nicely. I definitely did not fanboy all over when Estelle & Joshua appears and stalked them at any given chance.
 
-Gameplay: I lost at the first boss fight, the kids die in 3 hits. The game can be ass at times and force you to retry with correct gears, but it has no weird difficulty spikes like in Sky SC. Generally good balancing, Combo Craft is a nice rework from Sky SC, adds a lot of identity. Max Advantage Preemptive speeds up mob fights a lot faster.
+Gameplay: I lost at the first boss fight, the kids die in 3 hits. The game can be ass at times and force you to retry with correct gears, but it has no weird difficulty spikes like in Sky SC. Generally good balancing, Combo Craft is a nice rework from Sky SC, adds a lot of identity. Max Advantage Preemptive speeds up mob fights a lot faster. 
 
-Music: Two new composers definitely shake things up and added a lot of identity to this OST, maybe this OST is the more "Falcom"-ey one as compared to Sky's jazzy vibes (I need more Saki Momiyama but too bad she left after CSII). Way of Life motif is surprisingly addicting. Possibly has the best collection of battle themes in the series, on par with CS1.
+Music: Two new composers definitely shake things up and added a lot of identity to this OST, maybe this OST is the more "Falcom"-ey one as compared to Sky's jazzy vibes (I need more Saki Momiyama but too bad she left after CSII). Way of Life motif is very addicting. Possibly has the best collection of battle themes in the series (too bad Arrival Existence is nowhere close to masterpiece, else there would be no doubt).
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| S | S- | S | S | Lloyd/Elie/Tio/Randy |
+| S | S- | S | S+ | Lloyd/Elie/Tio/Randy |
 
 
 Best tracks: Inevitable Struggle, Formidable Enemy, Zero No Kiseki
@@ -574,7 +574,7 @@ Characters: Similiar to D2's approach but even more gimmicky. Focusing on a sele
 
 <details>
   <summary>Shuichi</summary>
-  My favourite protagonist, Hajime is still the best protag though. His arc is just solid and has a character on its own. I find myself sometimes disagreeing with what he does.
+  My favourite protagonist in the series, Hajime is still the best protag though. His arc is just solid and has a character on its own. I find myself sometimes disagreeing with what he does.
 </details>
 <details>
   <summary>Kaede</summary>
@@ -635,7 +635,7 @@ Third semester is better than I remembered. It being tacked on like an afterthou
 
 Characters: The party dynamic is fine I guess, the big shortcoming is that everyone are only mutual friends with MC but no deep relation with each other. It is not as unique as P3 or has fantastic chemistry like P4, but I can see this being some people's favourite party. Also these guys definitely chat on the phone too much. The confidants aka SL has two very distinctive purposes, for non party members is all kinds of oppressed people in all walks of life. The side characters arc often involves a villain which has the same issue as above section. For the party members, mostly is their extension of their arc or get involved in their circle, their growth in them feels somewhat trivial to me. Maruki's confidant is definitely one of the more interesting ones. Remade Akechi link is also pretty fine, but still not quite enough to be a compelling rival. Kasumi is handled a lot better than Marie, but there ae still a lot of traces of shoehorning.
 
-Gameplay: This game is one of, if not the most stylish game of the 2010s. Combat flows smoothly, I love how mastering inputs alone improves combat experience. Movement is fluid, dungeons are generally well thought and nicely designed. The only downside is that this game gives you way too many OP tools to trivialize the game (All ma- elemental skills in 2nd dungeon and Auto-Masuku before 3rd dungeon??? what is even happening) and with previous SMT game knowledge it becomes a slaughter on Normal difficulty (not using DLC too). I am too chicken to use Hard on my first playthough.
+Gameplay: This game is one of, if not the most stylish game of the 2010s. Combat flows smoothly, I love how mastering inputs alone improves combat experience. Every other RPG menu feels so clunky after coming out of this one. Movement is fluid, dungeons are generally well thought and nicely designed. The only downside is that this game gives you way too many OP tools to trivialize the game (All ma- elemental skills in 2nd dungeon and Auto-Masuku before 3rd dungeon??? what is even happening) and with previous SMT game knowledge it becomes a slaughter on Normal difficulty (not using DLC too). I am too chicken to use Hard on my first playthough.
 
 Music: This is one of my gateways to video game music so definitely have special feelings for this OST. Beneath the Mask is possibly one of Meguro's greatest track. Way too many bangers to count. Take Over is officially the best battle theme in the Persona main games.
 
@@ -686,6 +686,8 @@ Another cute Zelda game. Has big WW energy.
 I will always use this phrase to describe this game: *Budget Persona 4 - Made with Lots of Love*. Seeing what Falcom had achieved with Trails in the Sky I am even more confused why is this so mid. It contains every anime trope but does nothing interesting for the entire game. Some characters even looks like they are directly adapted from Persona 3/4, with the skin from Trails of Cold Steel. The main plot could have been fine but the True Ending had to ruin it. Somehow it managed to create another Kairi from KH, as if Kairi is not bad enough (no hate for Kairi here, she's pretty cute but nothing more than that). Combat is quite shallow and simple but is the best part about it, most mechanics are just "I Win Buttons (with too many X's)", at least there is dodge roll. Bosses ranges between too easy to too annoying. Only buy this on 80% discount.
 
 Coming back from Ys VIII: Flash Roll in here is much more balanced and does not trivialize fights. X Drive is one of the better implementation of a "Limit Break" skill 
+
+Coming back from Trails from Zero: So this game is just a cheap copy of Zero. Kou is discount Lloyd and Asuka is discount Elie, Yuuki is playable Jona, Sora is Chie ripoff, Rion is Rise ripoff (maybe there is Trails equivalent), Shio is 1:1 Agate, Jun looks like kid Wazy, Wazy probably has secret identity like him. Mitsuki is Mitsuru ripoff. Now everything makes sense.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -836,7 +838,6 @@ Quintet RPG is an acquired taste. Gameplay feels more Zelda than RPG, with tradi
 - Legend of Mana (PS1) (Combat is too unbearable, non linear layout is too uncomfortable for me. This is Yoko Shimomura's single best standalone OST. It captured the magical fantasy world like no other, not even her future works has this degree of raw imagination. I will die on this hill.)
 
 ### **NEXT UP/ONGOING**
-- Trails from Zero
 - Code Vein
 
 ### **INTERESTED IN**
@@ -859,7 +860,6 @@ Quintet RPG is an acquired taste. Gameplay feels more Zelda than RPG, with tradi
 - Final Fantasy VI 2nd attempt
 - Sakuna Rice and Ruin
 - Final Fantasy Tactics
-- Valkyrie Profile 2: Silmeria
 - Ys vs Sora no Kiseki
 - Wild Arms
 - Suikoden
