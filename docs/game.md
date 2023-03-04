@@ -850,6 +850,7 @@ Quintet RPG is an acquired taste. Gameplay feels more Zelda than RPG, with tradi
 - Trails to Azure
 - Golden Sun
 - Dragon Quest 8
+- Hi-Fi Rush
 
 
 #### **INTERESTED but maybe someday**
