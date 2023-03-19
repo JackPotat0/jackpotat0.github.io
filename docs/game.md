@@ -48,7 +48,7 @@ Characters: This game has one of the best cast in gaming history. Everyone is li
 
 Gameplay: Pretty slick turn based combat with more strategy planning than the reaction speed of ATB. I never engaged with it too much though. Sphere grid is still a unique progression system to handle linear and open job class even for today's standards. The minigames suck and the endgame is a grindfest that I never bothered with.
 
-Music: The OST is definitely not the greatest FF OST despite having two of the best motifs in the series (To Zanarkand and Suteki Da Ne) - it is not as cohesive as the other previous titles due to having multiple composers. Most tracks sounds incredible in game but for some reason they sounded weaker out of it. 
+Music: The OST is definitely not the greatest FF OST despite having two of the best motifs in the series (To Zanarkand and Suteki Da Ne) - it is not as cohesive as the other previous titles due to having multiple composers (which all three are amazing btw). Most tracks sounds incredible in game but for some reason they sounded weaker out of it. 
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -445,7 +445,8 @@ Yeah it's a genre defining classic, with endless supplies of hope and despair. G
 
 <details>
   <summary>1-1</summary>
-  Pretty decent introductory case, simple and effective character arc for Sayaka and a nice warmup to the game's mechanics with a really easy murder.
+  Pretty decent introductory case, simple and effective character arc for Sayaka and a nice warmup to the game's mechanics with a really easy murder. </br>
+  [2nd playthough] This case is really well executed. Other than too easy solve I cannot find anywhere to complain.
 </details>
 <details>
   <summary>1-2</summary>
@@ -454,6 +455,8 @@ Yeah it's a genre defining classic, with endless supplies of hope and despair. G
 <details>
   <summary>1-3</summary>
   Celeste is immediately sus. But if it is enough to fool most of others it works (but why even attempt this when you know there are geniuses like Kyoko and Byakuya around??). As observers it is easy to know she is weird but not for Makoto & co. It would be worse if Makoto somehow get an IQ boost here. Even if I know Celeste is the culprit without needing much hint, I still want to follow Makoto's steps to reach the conclusion. I would agree this whole thing can be executed a lot better. But I can get over with this and get the writer's intention.
+  </br>
+  [2nd playthough] Watching Celeste's plan fall apart in the trial just makes me wonder why does she even try? 
 </details>
 <details>
   <summary>1-4</summary>
@@ -462,78 +465,57 @@ Yeah it's a genre defining classic, with endless supplies of hope and despair. G
 <details>
   <summary>1-5</summary>
   I cannot care about this Mukuro I barely know about. This case's entire purpose is the execution part and leading into Ch 6. Kyoko's backstory honestly is not all that impressing.
+  </br>
+  [2nd playthough] I should commend that the writer keep the feelings grounded and did not overdramatize this.
 </details>
 <details>
   <summary>1-6</summary>
   It is time for Makoto to become the anime protagonist. Good ending.
+  </br>
+  [2nd playthough] This is most probably my favourite surviving cast as a whole.
 </details>
 
 <br>
 <details>
   <summary>Makoto</summary>
-  
-   Not too interesting of a self insert but does have one redeeming trait - that is he can always somehow inspires the others, which lead to character growth to different degrees.
-  
+   Not too interesting of a self insert but does have one redeeming trait compared to other DR protagonists - that is he can always somehow inspires the others, which lead to character growth to different degrees.
 </details>
-
 <details>
   <summary>Kyoko</summary>
-
   Best girl. Kyoko smug gives me life. She has that irresistable aura of confidence around her. But she does not have too many interesting character growth. It's not that there isn't, but not eye catching enough.
- 
 </details>
-
 <details>
-   
 <summary>Toko</summary>
-   
-  Archetypical, I guess she's ok from the hangouts. Masochists are creepy.  
-   
+  Archetypical, I guess she's ok from the hangouts. Masochists are creepy.     
 </details>
-
  <details>
-  <summary>Junko</summary>
-   
-  (Real Junko, not Mukuro) Plot device. Next.  
-    
+  <summary>Junko</summary> 
+  Mukuro: I am fine with her gyaru mode hanging around a bit more. Real Junko: Plot device. Next.  
 </details>
-
  <details>
   <summary>Celeste</summary>
-   
-  Good character (with probably disappointing execution). I liked her mysterious vibes. 
-    
+  Good character (with ~~probably~~ positively disappointing execution). I liked her mysterious vibes.  
  </details>
  <details>
-  <summary>Hina</summary>
-   
-  Good and sane girl. Other than that one time she lost herself.  
-  
+  <summary>Hina</summary>  
+  Good and sane girl. Other than that one time she lost herself. 
 </details> 
  <details>
   <summary>Sayaka</summary>
-   
   Totally nailed that she is the first killer and/or first death. Game is pushing too hard. She is kinda nice but too plain.
-  
 </details>
-  
 <details>
   <summary>Byakuya</summary>
    
   Actually an interesting character with defining strengths, weakness and little growth. All in the hangouts though. Serves as an insert point for slightly smarter players.  
 </details>
-  
 <details>
   <summary>Chihiro</summary>
-   
   I didn't see that coming.  
 </details>
-    
- <details>
-  <summary>Sakura</summary>
-   
-  Probably the most upright and and respectable character in the game. The actual Ultimate Moral Compass. RIP.`
-    
+<details>
+	<summary>Sakura</summary>
+	Probably the most upright and and respectable character in the game. The actual Ultimate Moral Compass. RIP.`
 </details>
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
@@ -578,7 +560,7 @@ Characters: Similiar to D2's approach but even more gimmicky. Focusing on a sele
 </details>
 <details>
   <summary>Kaede</summary>
-  She wins as the series Best Girl (sorry Kyoko it is a very close match I swear). I just love when she is on screen. She has wonderful interactions with everyone, a very compelling motive and most importantly a strong agency compared to any character of the series. 
+  She wins as the series Best Girl (sorry Kyoko it is a very close match I swear). I just love when she is on screen. She has wonderful interactions with everyone, a very compelling motive and most importantly a strong agency only paralled by a handful of characters. 
 </details>
 <details>
   <summary>Kaito</summary>
@@ -631,9 +613,9 @@ Trying to be a blind player when you know the story beats so well is ... hard ye
 
 Story/Plot: If there is any shortcoming from this game it is probably the main plot. Simply put, the script takes on a much bigger question it can handle and handled it mediocrely. The villains are painted as absolute evil with no humanity whatsoever, Sae is one of the exception as she has a better build up. Though I am not satisfied with its depth, I am happy they still handled the "easier and safer" alternative well i.e. making punishing evil fun and gratifying. Another big theme is about being "rebellious", which has no major issue or surprises, it is just the topic is not approached from many different angles through party members, like P3 did on the themes of living and death and P4 did on the theme of true self.
 
-Third semester is better than I remembered. It being tacked on like an afterthought certainly ruins its execution a bit but the presentation is still great despite all that. Akechi finally becomes a real character (ironic huh) and fleshed out through interactions, goes from C tier character to A- tier easily. It is so sad this is the best arc yet still nowhere close to the bests in previous games.
+Third semester is better than I remembered. It being tacked on like an afterthought certainly ruins its execution a bit but the presentation is still great despite all that. Akechi finally becomes a real character (ironic huh) and fleshed out through interactions, goes from C tier character to B+ tier easily. It is so sad this is the best arc yet still nowhere close to the bests in previous games.
 
-Characters: The party dynamic is fine I guess, the big shortcoming is that everyone are only mutual friends with MC but no deep relation with each other. It is not as unique as P3 or has fantastic chemistry like P4, but I can see this being some people's favourite party. Also these guys definitely chat on the phone too much. The confidants aka SL has two very distinctive purposes, for non party members is all kinds of oppressed people in all walks of life. The side characters arc often involves a villain which has the same issue as above section. For the party members, mostly is their extension of their arc or get involved in their circle, their growth in them feels somewhat trivial to me. Maruki's confidant is definitely one of the more interesting ones. Remade Akechi link is also pretty fine, but still not quite enough to be a compelling rival. Kasumi is handled a lot better than Marie, but there ae still a lot of traces of shoehorning.
+Characters: The party dynamic is fine I guess, the big shortcoming is that everyone are only mutual friends with MC but no deep relationship with each other. It is not as unique as P3 or has fantastic chemistry like P4, but I can see this being some people's favourite party. Also these guys definitely chat on the phone too much. The confidants aka SL has two very distinctive purposes, for non party members is all kinds of oppressed people in all walks of life. The side characters arc often involves a villain which has the same issue as above section. For the party members, mostly is their extension of their arc or get involved in their circle, their growth in them feels somewhat trivial to me. Maruki's confidant is definitely one of the more interesting ones. Remade Akechi link is also pretty fine, but still not quite enough to be a compelling rival. Kasumi is handled a lot better than Marie, but there ae still a lot of traces of shoehorning.
 
 Gameplay: This game is one of, if not the most stylish game of the 2010s. Combat flows smoothly, I love how mastering inputs alone improves combat experience. Every other RPG menu feels so clunky after coming out of this one. Movement is fluid, dungeons are generally well thought and nicely designed. The only downside is that this game gives you way too many OP tools to trivialize the game (All ma- elemental skills in 2nd dungeon and Auto-Masuku before 3rd dungeon??? what is even happening) and with previous SMT game knowledge it becomes a slaughter on Normal difficulty (not using DLC too). I am too chicken to use Hard on my first playthough.
 
@@ -644,6 +626,8 @@ Music: This is one of my gateways to video game music so definitely have special
 | A- | A+ | S+ | S+ | Morgana/Ann/Makoto/Kasumi |
 
 Best tracks: Beneath the Mask, Sunset Bridge, Blooming Villain, Take Over, Throw Away Your Mask, Ideal and the Real
+
+
 
 ---
 
@@ -736,6 +720,23 @@ Music: Sorry Motoi Sakuraba, it seems I can enjoy your music after all. The OST 
 
 Best tracks: Fighting the Shadowy Gods, Confidence in Domination, All is Twilight
 
+#### Chrono Cross (PSX)
+Definitely mixed feelings about this one. The main disappointment is that the sequel to one of the most refined video games is a very experimental game that feels nothing like it. Not sure if this is a huge waste of potential or just an unpolished gem that already reaches some of the great heights (mostly OST).
+
+Story/Plot: Your typical RPG story, something's weird going on, and so happens someone's trying to destroy the world and such. It's pretty hard to get attached to the main plot especially after Kid is gone. And you found out that the previous heroes' efforts are sort of wasted, when I already don't feel like caring about anyone other than Serge... Great stuff. But rationally speaking, it is an interesting concept that good endings might have unwanted consequences. A lot of the end game plot should have been shown before as breadcrumbs instead of throwing it all together. Generally, the concept is there, but it left too many blanks and becomes a bit incohesive and didnt really manage to deal the emotional punch, or maybe this is the intention?
+
+Characters: The protagonist is silent, even the character description has nothing to say other than he is a silent protagonist. Kid so far looks like the only developed character with motivation and personality. And you have a bunch of other tag alongs which are just there for necessary reasons or not. Some side stories like Karsh and Riddel is nice.
+
+Gameplay: The basic battle system is pretty fun, but its execution could have been better. Looks confusing at first but completely clear on the second look (no in game tutorial and looking up online). Very unique take on skills/magic and MP systems. The issue is that the progression feels VERY weak, I don't feel like getting stronger at all. While I think the levelling mechanic is kinda smart, it really takes away the sense of levelling up. Also it does not encourage you to use stronger skills, which is really weird. Equipment upgrades are far and few. All this combined and the gameplay feels stale over time.
+
+Music: This is definitely one of my favourite OSTs of all time. The OST probably deserved a better game to go along. It is tempting to just say the music here is superior to CT (they are at least equally great for sure). Maybe it's recency bias I prefer the OST in CC over CT, but we will see in a few years. The OST is THE standard JRPG OST, it may sound generic to some, yes, but because it is so influential. Mitsuda nailed the tropical sounds perfectly. References to Chrono Trigger OST is fantastic. Unstolen Jewel is so beautiful, it ranks right under **Dearly Beloved**, same as **Song of the Ancients** and **To Zanarkand** as of writing. Still not a fan of the battle theme, at least the boss theme and final boss theme is quite decent.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| B- | B- | A | S+ |  |
+
+Best tracks: Scars of Time, Magical Dreamers - Unstolen Jewel, The Girl who Stole the Stars
+
 ---
 
 ### **PRETTY nice but skippable**
@@ -753,7 +754,7 @@ Best tracks: Light the Fire Up in the Night, Lazer Beam, Friends
 #### Lunar: Silver Star Story (PSX)
 A cult classic within the JRPG circle. But I think it really needs that nostalgia and era factor to become a great game. It feels like the FMA:B of JRPGs, but without that extra kick that makes it a real classic. Only recommended to JRPG fans for historical purposes.
 
-Story: The most standard RPG story I have experienced so far. It can be summed up as "Hero saves the Damsel in Distress with power of love and friendship", there are 0 big twist too (Wow that weird looking dude who acts like your ally is definitely not a villian). But do note that this story is written in 1992. Tons of animated cutscenes and voice acting adds a lot to the story. What it does great is tying its theme tightly to the main plot, although it can feel forced. For a love story, your main party consists of three (more like 2.5) couples with different dynamics and really make its point across clearly and strongly. 
+Story: The most standard RPG story I have experienced so far. It can be summed up as "Hero saves the Damsel in Distress with power of love and friendship", there are no big twist too (Wow that weird looking dude who acts like your ally is definitely not a villian). Tons of animated cutscenes and voice acting adds a lot to the story. What it does great is tying its theme tightly to the main plot, although it can feel forced. For a love story, your main party consists of three (more like 2.5) couples with different dynamics and really make its point across clearly and strongly. 
 
 Characters: The characters are pretty cliche but it should be spared for being an old game. Character development is decent and everyone have just enough of it. It would be nicer if Alex can show more personality because he showed quite some, even if it is typical protagonist personality. The banter between the party is the best part, adds a lot of life and quirkiness to them. 
 
@@ -813,7 +814,7 @@ Characters: The cast almost collected all the weaknesses in different casts in v
 
 Gameplay: I get the devs wanted to create the authentic 90s experience, but you cannot just ignore some modern QoL like auto text scroll/cutscene skip (unless the dialogue is as good as Bug Fables/Trails) and faster walking speed. Momentum system is a decent twist to the CT base system. The skill and equipment system can be a bit more streamlined. The controls are sometimes unresponsive while moving.
 
-Music: One of my favourite OSTs of all time and listened to it religiously even before this playthrough. It fits the game's environment and vibe perfectly. Also perfect for listening on its own. But the engineering is not good. Some inappropriate usages and no looping/continuation at certain scenes really kills the mood. They did not fully exploit the potential in this OST when it could improve the auditory experience a lot more than this. There are also some questionable SFX choices that just ruin the song eg travelling in airship.
+Music: One of my favourite OSTs of all time and listened to it religiously even before this playthrough. It fits the game's environment and vibe perfectly. Also perfect for listening on its own. But the engineering is not good. Some inappropriate usages and no looping/continuation at certain scenes really kills the mood. They did not fully utilize the potential in this OST when it could improve the auditory experience a lot more than this. There are also some questionable SFX choices that just ruin the song eg travelling in airship.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -822,7 +823,7 @@ Music: One of my favourite OSTs of all time and listened to it religiously even 
 Best Tracks: Rare, Beginning of the End, Beyond the Snow
 
 #### Illusion of Gaia (SNES)
-Quintet RPG is an acquired taste. Gameplay feels more Zelda than RPG, with traditional puzzles that are annoying and challenging in a fun way. It has the same vibe/weirdness as Terranigma. The plot is less structured than Terranigma, sometimes leaves me wondering why I am still playing it. The music is far not as magical as Terranigma for sure.
+Quintet RPG is an acquired taste, I thought I am OK with it after Terranigma but I was wrong. Gameplay feels more Zelda than RPG, with traditional puzzles that are annoying and challenging in a fun way. It has the same vibe/weirdness as Terranigma. The plot is less structured than Terranigma, sometimes leaves me wondering why I am still playing it. The music is far not as magical as Terranigma for sure.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -844,7 +845,6 @@ Quintet RPG is an acquired taste. Gameplay feels more Zelda than RPG, with tradi
 - Ys SEVEN
 - Ys Memories of Celceta
 - Tales of Vesperia
-- Chrono Cross
 - Nier Automata
 - Radiata Stories
 - Trails to Azure
