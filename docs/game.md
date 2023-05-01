@@ -3,7 +3,7 @@
 ** Scores are ranked based on personal preferences. Very subjective.
 
 ### **ALL TIME favourites**
-*The games that changed my gaming view (ruin other games) in one way or another. Feel free to debate with me on these games.*
+*The games that changed my gaming view (i.e. ruin other games) in one way or another. Feel free to debate with me on these games.*
 
 #### **Kingdom Hearts 2 Final Mix (PS2)**
 This game serves as my first experience to speedrunning. I found [Bl00dyBizkit's AGDQ2017 run](https://www.youtube.com/watch?v=PVjf3bc3Noo&t=4588s) when looking for Roxas strats and the rest is history. This is still my favourite speedrun of all time. I play the randomizer a lot and learnt some speedrun strats. Everything about combat in this game (aside from some questionable boss designs) is just perfect. 
@@ -379,7 +379,7 @@ Very good game but metroidvania is not my type. Also not a fan of western atmosp
 | B | B | A | B |  |
 
 #### Tales of the Abyss (PS2)
-Great story, props to the scriptwriter for having the balls to write this kind of story. Luke's development is arguably one of the best in all of JRPGs. The other cast goes from decent to great (Anise can kindly fk off tho). The combat is a direct upgrade from Symphonia and is so so much better with the addition of Free Run. I loved the FoF mechanic. The pacing can be odd, way too many back and forth in between world maps. Guy is in the top 10 dudebros in JRPG history and no one can change my mind. Sadly its OST is all time low, only some important battle themes stand out, and the rest sounding too much like Symphonia or simply forgettable. Shoutouts to the anime, it is a fantastic adaptation and you should watch it.
+Great story, props to the scriptwriter for having the balls to write this kind of story. Luke's development is arguably one of the best in all of JRPGs. The other cast goes from decent to great (Anise can kindly fk off tho). The combat is a direct upgrade from Symphonia and is so so much better with the addition of Free Run. I loved the FoF mechanic. The pacing can be odd, way too many back and forth in between world maps. Guy is in the top 10 dudebros in JRPG history and no one can change my mind (“This may be the real Luke, but my friend is that idiot.” ICANT). Sadly its OST is all time low, only some important battle themes stand out, and the rest sounding too much like Symphonia or simply forgettable. Shoutouts to the anime, it is a fantastic adaptation and you should watch it.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -389,7 +389,7 @@ Best tracks: The Arrow Was Shot, Karma, Meaning of Life
 
 
 #### Final Fantasy VII (PS1)
-Decent story and characters. Having an event driven plot makes the characters feel a bit lacking. And the translation is indeed trash as it is almost impossible to understand the main plot correctly without explanations online. I highly recommend to emulate if you can accept the LEGO block models.
+Great story and characters. Having an event driven plot makes the characters feel a bit lacking. And the translation is indeed trash as it is almost impossible to understand the main plot correctly without explanations online. I highly recommend to emulate if you can accept the LEGO block models.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -411,12 +411,12 @@ A spin off ish game but not. Nice to see some detailed character back story and 
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| A | S | S | A+ |  |
+| A+ | S | S | A+ |  |
 
 Best tracks: Fighting Right On, Cry for Your Eternity, Overdosing Heavenly Bliss 
 
 #### Odin Sphere (PS2) 
-A decent fairy tale with a somewhat elaborate world with a grander plot, multiple characters, everyone have arcs ranging from amazing to OK, decent OST. Combat can be clunky (at least the hit effects is dang satisfying) and alchemy can be a bit confusing. Also challenges resource management quite a bit due to very limited inventory. It features JP and English dub too, which is most rare in PS2 games.
+A decent fairy tale with a somewhat elaborate world with a grander plot, multiple characters, everyone have arcs ranging from amazing to OK, decent OST. Combat can be clunky (at least the hit effects are dang satisfying) and alchemy can be a bit confusing. Also challenges resource management quite a bit due to very limited inventory. It features JP and English dub too, which is most rare in PS2 games.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -725,11 +725,11 @@ Definitely mixed feelings about this one. The main disappointment is that the se
 
 Story/Plot: Your typical RPG story, something's weird going on, and so happens someone's trying to destroy the world and such. It's pretty hard to get attached to the main plot especially after Kid is gone. And you found out that the previous heroes' efforts are sort of wasted, when I already don't feel like caring about anyone other than Serge... Great stuff. But rationally speaking, it is an interesting concept that good endings might have unwanted consequences. A lot of the end game plot should have been shown before as breadcrumbs instead of throwing it all together. Generally, the concept is there, but it left too many blanks and becomes a bit incohesive and didnt really manage to deal the emotional punch, or maybe this is the intention?
 
-Characters: The protagonist is silent, even the character description has nothing to say other than he is a silent protagonist. Kid so far looks like the only developed character with motivation and personality. And you have a bunch of other tag alongs which are just there for necessary reasons or not. Some side stories like Karsh and Riddel is nice.
+Characters: The protagonist is silent, even the character description has nothing to say other than he is a silent protagonist. Kid is the only developed character with motivation and personality. And you have a bunch of other tag alongs which are just there for necessary reasons or not. Some side stories like Karsh and Riddel's is nice.
 
 Gameplay: The basic battle system is pretty fun, but its execution could have been better. Looks confusing at first but completely clear on the second look (no in game tutorial and looking up online). Very unique take on skills/magic and MP systems. The issue is that the progression feels VERY weak, I don't feel like getting stronger at all. While I think the levelling mechanic is kinda smart, it really takes away the sense of levelling up. Also it does not encourage you to use stronger skills, which is really weird. Equipment upgrades are far and few. All this combined and the gameplay feels stale over time.
 
-Music: This is definitely one of my favourite OSTs of all time. The OST probably deserved a better game to go along. It is tempting to just say the music here is superior to CT (they are at least equally great for sure). Maybe it's recency bias I prefer the OST in CC over CT, but we will see in a few years. The OST is THE standard JRPG OST, it may sound generic to some, yes, but because it is so influential. Mitsuda nailed the tropical sounds perfectly. References to Chrono Trigger OST is fantastic. Unstolen Jewel is so beautiful, it ranks right under **Dearly Beloved**, same as **Song of the Ancients** and **To Zanarkand** as of writing. Still not a fan of the battle theme, at least the boss theme and final boss theme is quite decent.
+Music: This is definitely one of my favourite OSTs of all time. The OST probably deserved a better game to go along. It is tempting to just say the music here is superior to CT (they are at least equally great for sure). Maybe it's recency bias I prefer the OST in CC over CT, but we will see in a few years. Mitsuda nailed the tropical sounds perfectly. References to Chrono Trigger OST is fantastic. Unstolen Jewel is so beautiful, it ranks right under **Dearly Beloved**, same as **Song of the Ancients** and **To Zanarkand** as of writing. Still not a fan of the battle theme, at least the boss theme and final boss theme is quite decent.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -780,6 +780,13 @@ Most bosses are just annoying in the first attempts, then boring when you know h
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | C | C | A- | A- |  |
+
+#### Code Vein 
+A very nice bridge between JRPG and Soulslike. Story is your typical post apocalyptic plot, filled with tragic people with tragic backstory... It's not the most interesting thing ever but it works just fine for a gameplay centric game. The flashback system is effective at establishing the many backstories. Gameplay emulates Soulslike well enough but keeping the easy mode accessible.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| B+ | B+ | A+ | B |  |
 
 
 ---
@@ -840,21 +847,22 @@ Quintet RPG is an acquired taste, I thought I am OK with it after Terranigma but
 
 ### **NEXT UP/ONGOING**
 - Code Vein
+- Trails to Azure
 
 ### **INTERESTED IN**
+- Radiata Stories
+- Golden Sun
+- Dragon Quest 8
+- Hi-Fi Rush
 - Ys SEVEN
 - Ys Memories of Celceta
 - Tales of Vesperia
 - Nier Automata
-- Radiata Stories
-- Trails to Azure
-- Golden Sun
-- Dragon Quest 8
-- Hi-Fi Rush
 
 
 #### **INTERESTED but maybe someday**
-- Xenogears/Xenosaga
+- Xenogears
+- Xenosaga
 - Lunar 2: Eternal Blue
 - Ys 1+2 Chronicles
 - Trails of Cold Steel
@@ -864,6 +872,7 @@ Quintet RPG is an acquired taste, I thought I am OK with it after Terranigma but
 - Ys vs Sora no Kiseki
 - Wild Arms
 - Suikoden
+- FF7 Crisis Core
 
 ---
 
