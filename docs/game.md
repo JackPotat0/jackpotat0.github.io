@@ -735,7 +735,23 @@ Music: This is definitely one of my favourite OSTs of all time. The OST probably
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | B- | B- | A | S+ |  |
 
-Best tracks: Scars of Time, Magical Dreamers - Unstolen Jewel, The Girl who Stole the Stars
+Best tracks: Scars of Time, Radical Dreamers - Unstolen Jewel, The Girl who Stole the Stars
+
+#### Radiata Stories (PS2)
+I am not expecting to actually give this game an extended writeup. This may not be the greatest game of all time but I can easily see this as a cult classic as it currently stands. 
+
+Story/Plot: It is just trying to trick players into thinking this is just a silly game. After the first cutscene they really tried to make you forget about it in the next 10+ hours. Then the depressing reality just... hits. It can get surprisingly cruel too when it comes to it. No long speech from even friend turned foe, just fight and done, and you are back to the ever peaceful and funky town, the contrast is too strong to ignore. The ending for human route... then... what is the point? Jack is still only following his impulses, he gets all the revenge he wanted, and leaves Radiata... and? Why? What? Is this just a huge nod to Chrono Cross?? 
+
+Characters: *He shows no tenacity of purpose, and exhibits no fear of death... An intriguing young man.* This is one of the most interesting comment on shounen protagonist kid. Jack is a cocky brat from inside out, he literally interacts with the world by kicking (it is never not hilarious), people or objects. A really great attempt at tying personality to gameplay. Radiata residents are all crafted with care (there are still generic NPCs but very few), with unique faces and names. But Jack is usually seen solo though he is supposed to be familiar with the townspeople. I do hope the game can add some mandatory, permanent and plot relevant characters from time to time into the party.
+
+Gameplay: Radiata is Clock Town but way larger, bigger than TfZ's Crossbell even. This game fully commits to being silly and they mean it, from voice acting to music use to wordings. You can challenge almost anyone to a duel on demand which is just crazy. The combat system is rather clunky, at least it fits the difficulty so it is not very annoying. Without a guide it is hard to recruit the good teammates and you kinda stuck with the mediocre and lame ones.
+
+Music: Half of the OST including the battle themes is joke music and it is glorious. I can't say about Grandia but I think this style really is Iwadare's specialty judging by Lunar and this game. 
+
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| A- | A | B+ | A |  |
 
 ---
 
@@ -846,11 +862,12 @@ Quintet RPG is an acquired taste, I thought I am OK with it after Terranigma but
 - Legend of Mana (PS1) (Combat is too unbearable, non linear layout is too uncomfortable for me. This is Yoko Shimomura's single best standalone OST. It captured the magical fantasy world like no other, not even her future works has this degree of raw imagination. I will die on this hill.)
 
 ### **NEXT UP/ONGOING**
-- Code Vein
+- Radiata Stories
 - Trails to Azure
+- Ys 1+2 Chronicles
+
 
 ### **INTERESTED IN**
-- Radiata Stories
 - Golden Sun
 - Dragon Quest 8
 - Hi-Fi Rush
@@ -864,7 +881,6 @@ Quintet RPG is an acquired taste, I thought I am OK with it after Terranigma but
 - Xenogears
 - Xenosaga
 - Lunar 2: Eternal Blue
-- Ys 1+2 Chronicles
 - Trails of Cold Steel
 - Final Fantasy VI 2nd attempt
 - Sakuna Rice and Ruin
@@ -890,7 +906,7 @@ Based on overall enjoyment. Order may be different based on different aspects.
 `2FM > 1 >> Days >> BBS`
 
 #### **Persona**
-`4 = 5 Royal > 3 >> 2:IS > Q`
+`4 > 5 Royal > 3 >> 2:IS > Q`
 
 #### **Ys**
 `Lacrimosa of Dana >> Origin > Oath in Felghana > Ark of Napishtim`
