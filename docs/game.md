@@ -751,7 +751,7 @@ Music: Half of the OST including the battle themes is joke music and it is glori
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| A- | A | B+ | A |  |
+| A- | A | B | A |  |
 
 ---
 
@@ -803,6 +803,18 @@ A very nice bridge between JRPG and Soulslike. Story is your typical post apocal
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | B+ | B+ | A+ | B |  |
+
+#### Ys I+II Chronicles
+Yay I am legally a Ys fan. Bump combat is slightly more acceptable than I thought and only really fun when overlevelled. But the soundtrack is fantastic as usual. They really should have slip in Feena's theme anywhere they can in the future games and not just logo screen, actually just promote this melody more like Aria of the Soul, lest Dana becomes the best girl of Ys. 
+
+Bat boss is doable with pause buffering. The two shitheads are barely possible with pause buffering. Dark Fact is almost impossible with pause buffering. Is this seriously their idea of fun??
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| C | C | C | A+ |  |
+
+
+Best tracks: Feena
 
 
 ---
@@ -862,7 +874,6 @@ Quintet RPG is an acquired taste, I thought I am OK with it after Terranigma but
 - Legend of Mana (PS1) (Combat is too unbearable, non linear layout is too uncomfortable for me. This is Yoko Shimomura's single best standalone OST. It captured the magical fantasy world like no other, not even her future works has this degree of raw imagination. I will die on this hill.)
 
 ### **NEXT UP/ONGOING**
-- Radiata Stories
 - Trails to Azure
 - Ys 1+2 Chronicles
 
@@ -875,6 +886,7 @@ Quintet RPG is an acquired taste, I thought I am OK with it after Terranigma but
 - Ys Memories of Celceta
 - Tales of Vesperia
 - Nier Automata
+- Hollow Knight
 
 
 #### **INTERESTED but maybe someday**
@@ -885,10 +897,10 @@ Quintet RPG is an acquired taste, I thought I am OK with it after Terranigma but
 - Final Fantasy VI 2nd attempt
 - Sakuna Rice and Ruin
 - Final Fantasy Tactics
-- Ys vs Sora no Kiseki
 - Wild Arms
 - Suikoden
 - FF7 Crisis Core
+- FF7 Remake
 
 ---
 
@@ -909,10 +921,10 @@ Based on overall enjoyment. Order may be different based on different aspects.
 `4 > 5 Royal > 3 >> 2:IS > Q`
 
 #### **Ys**
-`Lacrimosa of Dana >> Origin > Oath in Felghana > Ark of Napishtim`
+`Lacrimosa of Dana >> Origin > Oath in Felghana > Ark of Napishtim > Ys I+II`
 
 #### **Zelda**
-`The Wind Waker > Twilight Princess > A Link to the Past > Minish Cap > Ocarina of Time > Majora's Mask`
+`The Wind Waker > Twilight Princess > A Link to the Past > The Minish Cap > Ocarina of Time > Majora's Mask`
 
 #### **Trails**
 `Sky FC = Sky SC > Zero > Sky 3rd`
