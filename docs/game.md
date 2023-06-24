@@ -560,7 +560,7 @@ Characters: Similiar to D2's approach but even more gimmicky. Focusing on a sele
 </details>
 <details>
   <summary>Kaede</summary>
-  She wins as the series Best Girl (sorry Kyoko it is a very close match I swear). I just love when she is on screen. She has wonderful interactions with everyone, a very compelling motive and most importantly a strong agency only paralled by a handful of characters. 
+  She wins as the series Best Girl (sorry Kyoko it is a very close match I swear). I just love when she is on screen. She has wonderful interactions with everyone, a very compelling motive and most importantly a strong agency only parallel ed by a handful of characters. 
 </details>
 <details>
   <summary>Kaito</summary>
@@ -805,16 +805,16 @@ A very nice bridge between JRPG and Soulslike. Story is your typical post apocal
 | B+ | B+ | A+ | B |  |
 
 #### Ys I+II Chronicles
-Yay I am legally a Ys fan. Bump combat is slightly more acceptable than I thought and only really fun when overlevelled. But the soundtrack is fantastic as usual. They really should have slip in Feena's theme anywhere they can in the future games and not just logo screen, actually just promote this melody more like Aria of the Soul, lest Dana becomes the best girl of Ys. 
+Yay I am legally a Ys fan. Bump combat is slightly more acceptable than I thought and only really fun when overlevelled. The soundtrack is fantastic as usual. They really should have slip in Feena's theme anywhere they can in the future games and not just logo screen, actually just promote this melody more like Aria of the Soul, lest Dana becomes the best girl of Ys. Bat boss is doable with pause buffering. The two shitheads are barely possible with pause buffering. Dark Fact is impossible without pause buffering. Is this seriously their idea of fun??
 
-Bat boss is doable with pause buffering. The two shitheads are barely possible with pause buffering. Dark Fact is almost impossible with pause buffering. Is this seriously their idea of fun??
+Ys 2 is a lot more acceptable, no wonder this is not talked as much.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | C | C | C | A+ |  |
 
 
-Best tracks: Feena
+Best tracks: Feena, First Step Towards Wars, Tension
 
 
 ---
