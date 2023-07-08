@@ -252,7 +252,7 @@ Music: There is *Welcome to DANGAN Island* in this OST and it is automatically t
 Best tracks: Ikoroshia, Welcome to DANGAN Island, Beautiful Ruin (Summer Salt)
 
 #### **Trails from Zero (PC)**
-It is worth the wait. 
+It is worth the wait. This is the game that gets better the more you think about.
 
 Story/plot: The title is literally PERFECT for this game, this is all about the SSS's trails from zero to hero (The Legend of Heroes: Trails to Hero would be very goofy). Crossbell is shaped to be the perfect stage for a perfect shitstorm. All the politics hit too real in the modern world. The story of passionate and just people struggling in a corrupted world is just done so so well. Good thing this DOES NOT end on a cliffhanger, but many plot threads still left unfinished for Azure (this is some high quality sequel bait that doesn't trip your feelings but you still want to play the next anyway, I guess this model is not as profitable as ending it on a dramatic cliffhanger). The conclusion to that Sky side plot is also great. Not involving Ouroboros is a smart move, but the new villain is not really that good either. The overall plot is very grounded for the most part, which also means there are not too many dramatic moments to talk about, but with a lot to think about and analyse. 
 
@@ -268,8 +268,25 @@ Music: Two new composers definitely shake things up and added a lot of identity 
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | S | S- | S | S+ | Lloyd/Elie/Tio/Randy |
 
-
 Best tracks: Inevitable Struggle, Formidable Enemy, Zero No Kiseki
+
+#### **Trails to Azure (PC)**
+
+Story/plot: The prologue and first chapter is a bit slow compared to Zero.
+
+Characters: I did not expect them to take away Randy and Tio at first, how I missed SSS. 
+
+Gameplay: 
+
+Music: 
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| S | S- | S | S+ | Lloyd/Elie/Tio/Randy |
+
+Best tracks: Unfathomed Force, Azure Arbitrator
+
+
 
 ---
 
@@ -807,7 +824,7 @@ A very nice bridge between JRPG and Soulslike. Story is your typical post apocal
 #### Ys I+II Chronicles
 Yay I am legally a Ys fan. Bump combat is slightly more acceptable than I thought and only really fun when overlevelled. The soundtrack is fantastic as usual. They really should have slip in Feena's theme anywhere they can in the future games and not just logo screen, actually just promote this melody more like Aria of the Soul, lest Dana becomes the best girl of Ys. Bat boss is doable with pause buffering. The two shitheads are barely possible with pause buffering. Dark Fact is impossible without pause buffering. Is this seriously their idea of fun??
 
-Ys 2 is a lot more acceptable, no wonder this is not talked as much.
+Ys 2 is a lot more acceptable in every way possible, no wonder this is not talked as much. But how did the goddesses end up in the credits? Now I am interested to go back to Ys itself and that Roda tree forest will look absolutely gorgeous.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
