@@ -271,20 +271,19 @@ Music: Two new composers definitely shake things up and added a lot of identity 
 Best tracks: Inevitable Struggle, Formidable Enemy, Zero No Kiseki
 
 #### **Trails to Azure (PC)**
+Story/plot: The characters' personal influence may fall a bit shorter, it is all made up with a much stronger main plot. The politics is even better with higher stakes than before, diving into diplomatic relationship and national security etc. Beach episode is kinda nice... only thing is massaging the girls is really disturbing, even if it is Elie. Groping scenes are horrible, not even P4 has the guts to do that. The twist is worth everything. It is quite slow at the beginning but when it gets going, it DOES NOT stop. Now I will be sure to suspect everyone, even the guy who gets a freaking title theme epic speech. I was played like a fiddle, good job Falcom. In essence, this is a brilliantly executed mystery in its core, and you will only realize how tightly knit it is near the end, giving that satisfying feeling of realization. This game is one of the very few that made me care about the evil plan. But at the same time it is still a great journey for the SSS. Combined with all that and the worldbuilding, you get a duology with incredible substance and depth. Though there are still flaws but the good definitely outweighs the bad.
 
-Story/plot: The prologue and first chapter is a bit slow compared to Zero.
+Characters: I did not expect them to take away Randy and Tio at first, how I missed SSS. Randy finally got his arc, but actually it's just ok, not disappointing but not groundbreaking. Wazy on the other hand is ~~the Crossbell best girl all along~~ very interesting, but the bromance with Wald kinda gets in the way. I should have known coming from Tokyo Xanadu, it should not even have surprised me. Noel is just vanilla and boring, the only high point of her character is when she decided to side with CDF, it would be a lot more dramatic if she stuck with it, but anime will be anime. Elie  is just there... even Tio too. And for the love of Aidios, stop thirsting for Lloyd my girls, and this actually got worse in CS?! Rixia is whatever ~~thicc thighs saves lives~~, she looks like anything but a jaded assassin as claimed, her arc with Shirley is a bit forced too. I still don't understand why this has to be revealed in Zero, it just kills every suspension. So ironically Lloyd is the best character in this game. Cameos are great as usual, Ries actually looks better in Crossbell artstyle. And they didn't forget about Kevin! and they won't, right... Dieter is quite fine as a character, motivations and actions and all, just the back story about magic is a bit eh. Mariabell's character fully revolves around that, so it's quite lame, lamer than that is her witch outfit which looks like a bad cosplay.
 
-Characters: I did not expect them to take away Randy and Tio at first, how I missed SSS. 
+Gameplay: Same old as Zero. Nothing too innovative. Master Quartz takes a bit too long to level for customization in first playthough. For some reason I am still running low on sepith even near late game, until there are no more quartz upgrades, I still think I don't have enough to fully build every playable member. I like how the game subtly guides you to build Lloyd by taking away Randy. That final "dungeon" is actually as long as Berseria's, luckily it is about twice as bearable.
 
-Gameplay: 
-
-Music: 
+Music: Somehow Zero's vibe is better, maybe because there are so many ambience and generic sounding tracks like Orchis Tower. There are some stand out tracks like Knox forest theme but replacing Afternoon in Crossbell for an objectively inferior one is not it. Special Support Section is only used once iirc. In exchange we get some of the greatest battle and boss themes in the entire series.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| S | S- | S | S+ | Lloyd/Elie/Tio/Randy |
+| S+ | S- | S- | S- | Lloyd/Elie/Tio/Randy/Wazy |
 
-Best tracks: Unfathomed Force, Azure Arbitrator
+Best tracks: Seize the Truth, Unfathomed Force, The Azure Arbitrator
 
 
 
@@ -463,7 +462,7 @@ Yeah it's a genre defining classic, with endless supplies of hope and despair. G
 <details>
   <summary>1-1</summary>
   Pretty decent introductory case, simple and effective character arc for Sayaka and a nice warmup to the game's mechanics with a really easy murder. </br>
-  [2nd playthough] This case is really well executed. Other than too easy solve I cannot find anywhere to complain.
+  [2nd playthough] This case is really well executed. Other than too easy solve I cannot find anything else to complain.
 </details>
 <details>
   <summary>1-2</summary>
@@ -523,8 +522,7 @@ Yeah it's a genre defining classic, with endless supplies of hope and despair. G
 </details>
 <details>
   <summary>Byakuya</summary>
-   
-  Actually an interesting character with defining strengths, weakness and little growth. All in the hangouts though. Serves as an insert point for slightly smarter players.  
+  Actually an interesting character with distinctive strength, weakness and little growth. All in the hangouts though. Serves as an insert point for slightly smarter players.  
 </details>
 <details>
   <summary>Chihiro</summary>
@@ -577,7 +575,7 @@ Characters: Similiar to D2's approach but even more gimmicky. Focusing on a sele
 </details>
 <details>
   <summary>Kaede</summary>
-  She wins as the series Best Girl (sorry Kyoko it is a very close match I swear). I just love when she is on screen. She has wonderful interactions with everyone, a very compelling motive and most importantly a strong agency only parallel ed by a handful of characters. 
+  She wins as the series Best Girl (sorry Kyoko it is a very close match I swear). I just love when she is on screen. She has wonderful interactions with everyone, a very compelling motive and most importantly a strong agency only paralleled by a handful of characters in the entire series. 
 </details>
 <details>
   <summary>Kaito</summary>
@@ -630,7 +628,7 @@ Trying to be a blind player when you know the story beats so well is ... hard ye
 
 Story/Plot: If there is any shortcoming from this game it is probably the main plot. Simply put, the script takes on a much bigger question it can handle and handled it mediocrely. The villains are painted as absolute evil with no humanity whatsoever, Sae is one of the exception as she has a better build up. Though I am not satisfied with its depth, I am happy they still handled the "easier and safer" alternative well i.e. making punishing evil fun and gratifying. Another big theme is about being "rebellious", which has no major issue or surprises, it is just the topic is not approached from many different angles through party members, like P3 did on the themes of living and death and P4 did on the theme of true self.
 
-Third semester is better than I remembered. It being tacked on like an afterthought certainly ruins its execution a bit but the presentation is still great despite all that. Akechi finally becomes a real character (ironic huh) and fleshed out through interactions, goes from C tier character to B+ tier easily. It is so sad this is the best arc yet still nowhere close to the bests in previous games.
+Third semester is better than I remembered. It being tacked on like an afterthought certainly ruins its execution a bit but the presentation is still great despite all that. Akechi finally becomes a real character (ironic huh) and fleshed out through interactions, goes from C tier character to B+ tier easily. It is so sad this is the best arc yet still is just about average compared to most of the arcs in previous games.
 
 Characters: The party dynamic is fine I guess, the big shortcoming is that everyone are only mutual friends with MC but no deep relationship with each other. It is not as unique as P3 or has fantastic chemistry like P4, but I can see this being some people's favourite party. Also these guys definitely chat on the phone too much. The confidants aka SL has two very distinctive purposes, for non party members is all kinds of oppressed people in all walks of life. The side characters arc often involves a villain which has the same issue as above section. For the party members, mostly is their extension of their arc or get involved in their circle, their growth in them feels somewhat trivial to me. Maruki's confidant is definitely one of the more interesting ones. Remade Akechi link is also pretty fine, but still not quite enough to be a compelling rival. Kasumi is handled a lot better than Marie, but there ae still a lot of traces of shoehorning.
 
@@ -643,8 +641,6 @@ Music: This is one of my gateways to video game music so definitely have special
 | A- | A+ | S+ | S+ | Morgana/Ann/Makoto/Kasumi |
 
 Best tracks: Beneath the Mask, Sunset Bridge, Blooming Villain, Take Over, Throw Away Your Mask, Ideal and the Real
-
-
 
 ---
 
@@ -891,9 +887,7 @@ Quintet RPG is an acquired taste, I thought I am OK with it after Terranigma but
 - Legend of Mana (PS1) (Combat is too unbearable, non linear layout is too uncomfortable for me. This is Yoko Shimomura's single best standalone OST. It captured the magical fantasy world like no other, not even her future works has this degree of raw imagination. I will die on this hill.)
 
 ### **NEXT UP/ONGOING**
-- Trails to Azure
-- Ys 1+2 Chronicles
-
+- Hollow Knight
 
 ### **INTERESTED IN**
 - Golden Sun
@@ -903,8 +897,7 @@ Quintet RPG is an acquired taste, I thought I am OK with it after Terranigma but
 - Ys Memories of Celceta
 - Tales of Vesperia
 - Nier Automata
-- Hollow Knight
-
+- Valkyria Chronicles
 
 #### **INTERESTED but maybe someday**
 - Xenogears
@@ -944,7 +937,7 @@ Based on overall enjoyment. Order may be different based on different aspects.
 `The Wind Waker > Twilight Princess > A Link to the Past > The Minish Cap > Ocarina of Time > Majora's Mask`
 
 #### **Trails**
-`Sky FC = Sky SC > Zero > Sky 3rd`
+`Sky FC = Sky SC > Azure >= Zero > Sky 3rd`
 
 #### **Danganronpa**
 `2 > UDG > 1 > V3`
