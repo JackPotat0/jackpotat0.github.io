@@ -829,6 +829,12 @@ Ys 2 is a lot more acceptable in every way possible, no wonder this is not talke
 
 Best tracks: Feena, First Step Towards Wars, Tension
 
+#### Golden Sun
+It feels like a Tales game, but only the base structure and nothing else. Dungeon and puzzles are actually good unlike most of Tales games. Job system has just the right amount of customization for me, every member has their own archetype but is flexible enough to branch out a bit by swapping Djinns, very cool system. Sakuraba had definitely peaked around late 90s and early 00s. But sadly I cannot find a good reason to finish it when I feel like there are no more new experience towards later half of the game.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| C | C | A+ | A |  |
 
 ---
 
@@ -890,7 +896,6 @@ Quintet RPG is an acquired taste, I thought I am OK with it after Terranigma but
 - Hollow Knight
 
 ### **INTERESTED IN**
-- Golden Sun
 - Dragon Quest 8
 - Hi-Fi Rush
 - Ys SEVEN
@@ -898,6 +903,7 @@ Quintet RPG is an acquired taste, I thought I am OK with it after Terranigma but
 - Tales of Vesperia
 - Nier Automata
 - Valkyria Chronicles
+- Final Fantasy Tactics
 
 #### **INTERESTED but maybe someday**
 - Xenogears
@@ -906,7 +912,6 @@ Quintet RPG is an acquired taste, I thought I am OK with it after Terranigma but
 - Trails of Cold Steel
 - Final Fantasy VI 2nd attempt
 - Sakuna Rice and Ruin
-- Final Fantasy Tactics
 - Wild Arms
 - Suikoden
 - FF7 Crisis Core
