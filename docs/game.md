@@ -160,7 +160,7 @@ Best tracks: The Edge of Green, The Garden where Celestites Lies, Where the Wind
 #### **Danganronpa 2: Goodbye Despair**
 Who is drunk on hope and despair cuz I sure am. It improved in almost every aspect of DR1.
 
-Story/Plot: With all the groundwork set up in DR1, they get to expand on the themes of the series and they definitely nailed it. Hope and despair. Believe and suspect. Cold hard truths and blissful ignorance. Logic and luck. The dynamics between Hajime and Nagito is super well written and the events of the game clearly showed their clash of ideals. This entry also has a more engaging overarching plot that DR1 where you are mostly waiting for the next murder to happen in between, as compared to the mystery of Monomi and ... other chaotic factors. That ending sequence is just so well executed, with all the twists and connections from previous game tied together. I genuinely felt despair during it. It does get a bit cheesy near the end but who actually cares. If there is ever one Danganronpa game worth a deep analysis, it is probably this one.
+Story/Plot: With all the groundwork set up in DR1, they get to expand on the themes of the series and they definitely nailed it. Hope and despair. Believe and suspect. Cold hard truths and blissful ignorance. Logic and luck. This entry also has a more engaging overarching plot that DR1 where you are mostly waiting for the next murder to happen in between, as compared to the mystery of Monomi and ... other chaotic factors. There is a very clear flow on how a case impact the flow of the story. That ending sequence is just so well executed, with all the twists and connections from previous game tied together. I genuinely felt despair during it. It does get a bit cheesy near the end but who actually cares. If there is ever one Danganronpa game worth a deep analysis, it is probably this one.
 
  <details>
   <summary>2-1</summary>
@@ -172,11 +172,13 @@ Story/Plot: With all the groundwork set up in DR1, they get to expand on the the
 </details>
  <details>
   <summary>2-3</summary>
-  Too many things go unexplained even after the reveal (ultimate despairs have physical buff i guess). Its significance only ties to the endgame and does not really make a lot of sense at first. But it is a great hint to the endgame reveal that leads to an aha moment. People say Hiyoko's arc got cut short there and is bad, but I think that is precisely the irony.
+  Too many things go unexplained even after the reveal (ultimate despairs have physical buff i guess). Its significance only ties to the endgame and does not really make a lot of sense at first. But it is a great hint to the endgame reveal that leads to an aha moment. People say Hiyoko's arc got cut short there and is bad, but I think that is precisely the irony.  
+  [2nd playthough] She really did just teleport to music venue without Hajime noticing, then run back inside the hospital. Other than this bug, the story execution for this trial is actually really good, tying in the themes of belief and doubt naturally. I am not sure if Hiyoko even deserve an arc now, based on her attitude after case 2.
 </details>
  <details>
   <summary>2-4</summary>
-  Gundham... I don't even have a reason to start caring about him. I guess his character is just executed poorly. But the case itself is great and it is almost a perfect crime if not for one uncontrollable factor.
+  Gundham... I don't even have a reason to start caring about him. I guess his character is just executed poorly. But the case itself is great and it is almost a perfect crime if not for one uncontrollable factor.  
+  [2nd playthough] This case acts as a prologue to case 5 narratively, with how Nagito emphasizes on this case being the opening act. He even goes as far as trying to hijack Closing Argument to end this faster. This case just becomes even better with this fact.
 </details>
  <details>
   <summary>2-5</summary>
@@ -191,7 +193,7 @@ Characters: They seems to be less tropey but less deep as well. It's like DR1 ha
 
  <details>
   <summary>Hajime</summary>
-  I initially didn't like him as a protagonist because he feels very tense as compared to Makoto. But there is a huge significance to that, to show his lack of confidence and inferiority complex. Later on with the talentless student reveal further enhances that. This fact let him become his own character than Makoto ever will be. During the last chapter he sort of becomes like Roxas (So Makoto is Sora? He sure acts like the anime protagonist in this game) where he seems to be doomed no matter what, except he has a way out but not Roxas. And that is probably the first time I really felt a sense of despair in the series.
+  I initially didn't like him as a protagonist because he feels very tense as compared to Makoto. But there is a huge significance to that, to show his lack of confidence and inferiority complex. Later on with the talentless student reveal further enhances that. This fact let him become his own character than Makoto ever will be. During the last chapter he sort of becomes like Roxas (So Makoto is Sora? He sure acts like the anime protagonist in this game) where he seems to be doomed no matter what, except he has a way out but not Roxas. And that is probably the first time I really felt a sense of despair in the series. JP VA just feels not right.
 </details>
  <details>
   <summary>Nagito</summary>
@@ -230,11 +232,11 @@ Characters: They seems to be less tropey but less deep as well. It's like DR1 ha
 </details>
 <details>
   <summary>Mahiru</summary>
-  The team mom but never actually get to do a lot. She is too plain imo.
+  The team mom but never actually get to do a lot. She is too plain imo. (2nd playthrough: I got her character)
 </details>
  <details>
   <summary>Mikan</summary>
-  I knew she had major major mental issues the second I lay eyes on her. Stay away from crazy. I simply cannot sympathize with her especially after what she did.
+  I knew she had major major mental issues the second I lay eyes on her. Stay away from crazy. I simply cannot sympathize with her especially after what she did. (2nd playthrough: Okay she is pretty cute when you actually ignore that part of her. She didn't do anything exactly wrong either before case 3. JP voice is absolutely perfect.)
 </details>
  <details>
   <summary>Junko (since Monokuma is there so you should know)</summary>
@@ -247,7 +249,7 @@ Music: There is *Welcome to DANGAN Island* in this OST and it is automatically t
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| S+ | S- | S | S | Hajime/Chiaki/Sonia |
+| S+ | S- | S | S | Hajime/Nagito/Chiaki/Sonia |
 
 Best tracks: Ikoroshia, Welcome to DANGAN Island, Beautiful Ruin (Summer Salt)
 
@@ -273,7 +275,9 @@ Best tracks: Inevitable Struggle, Formidable Enemy, Zero No Kiseki
 #### **Trails to Azure (PC)**
 Story/plot: The characters' personal influence may fall a bit shorter, it is all made up with a much stronger main plot. The politics is even better with higher stakes than before, diving into diplomatic relationship and national security etc. Beach episode is kinda nice... only thing is massaging the girls is really disturbing, even if it is Elie. Groping scenes are horrible, not even P4 has the guts to do that. The twist is worth everything. It is quite slow at the beginning but when it gets going, it DOES NOT stop. Now I will be sure to suspect everyone, even the guy who gets a freaking title theme epic speech. I was played like a fiddle, good job Falcom. In essence, this is a brilliantly executed mystery in its core, and you will only realize how tightly knit it is near the end, giving that satisfying feeling of realization. This game is one of the very few that made me care about the evil plan. But at the same time it is still a great journey for the SSS. Combined with all that and the worldbuilding, you get a duology with incredible substance and depth. Though there are still flaws but the good definitely outweighs the bad.
 
-Characters: I did not expect them to take away Randy and Tio at first, how I missed SSS. Randy finally got his arc, but actually it's just ok, not disappointing but not groundbreaking. Wazy on the other hand is ~~the Crossbell best girl all along~~ very interesting, but the bromance with Wald kinda gets in the way. I should have known coming from Tokyo Xanadu, it should not even have surprised me. Noel is just vanilla and boring, the only high point of her character is when she decided to side with CDF, it would be a lot more dramatic if she stuck with it, but anime will be anime. Elie  is just there... even Tio too. And for the love of Aidios, stop thirsting for Lloyd my girls, and this actually got worse in CS?! Rixia is whatever ~~thicc thighs saves lives~~, she looks like anything but a jaded assassin as claimed, her arc with Shirley is a bit forced too. I still don't understand why this has to be revealed in Zero, it just kills every suspension. So ironically Lloyd is the best character in this game. Cameos are great as usual, Ries actually looks better in Crossbell artstyle. And they didn't forget about Kevin! and they won't, right... Dieter is quite fine as a character, motivations and actions and all, just the back story about magic is a bit eh. Mariabell's character fully revolves around that, so it's quite lame, lamer than that is her witch outfit which looks like a bad cosplay.
+Characters: I did not expect them to take away Randy and Tio at first, how I missed SSS. Randy finally got his arc, but actually it's just ok, not disappointing but not groundbreaking. Wazy on the other hand is ~~the Crossbell best girl all along~~ very interesting, but the bromance with Wald kinda gets in the way. I should have known coming from Tokyo Xanadu, it should not even have surprised me. Noel is just vanilla and boring, the only high point of her character is when she decided to side with CDF, it would be a lot more dramatic if she stuck with it, but anime will be anime. Elie  is just there... even Tio too. And for the love of Aidios, stop thirsting for Lloyd my girls, and this actually got worse in CS?! Rixia is whatever ~~thicc thighs saves lives~~, she looks like anything but a jaded assassin as claimed, her arc with Shirley is a bit forced too. I still don't understand why this has to be revealed in Zero, it just kills every suspension. So ironically Lloyd is the best character in this game. But SSS as a unit is what really shines and makes everything worthwhile.
+
+Cameos are great as usual, Ries actually looks better in Crossbell artstyle. And they didn't forget about Kevin! and they won't, right... Dieter is quite fine as a character, motivations and actions and all, just the back story about magic is a bit eh. Mariabell's character fully revolves around that, so it's quite lame, lamer than that is her witch outfit which looks like a bad cosplay.
 
 Gameplay: Same old as Zero. Nothing too innovative. Master Quartz takes a bit too long to level for customization in first playthough. For some reason I am still running low on sepith even near late game, until there are no more quartz upgrades, I still think I don't have enough to fully build every playable member. I like how the game subtly guides you to build Lloyd by taking away Randy. That final "dungeon" is actually as long as Berseria's, luckily it is about twice as bearable.
 
@@ -281,11 +285,16 @@ Music: Somehow Zero's vibe is better, maybe because there are so many ambience a
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| S+ | S- | S- | S- | Lloyd/Elie/Tio/Randy/Wazy |
+| S+ | S- | S- | S- | Old SSS/Wazy |
 
 Best tracks: Seize the Truth, Unfathomed Force, The Azure Arbitrator
 
+#### **Hollow Knight (PC)**
+Truly one of the classics. The hit effects is one of the best in video games, probably better than KH2 if not for the lesser variety of attacks. The details that goes into one nail swing is so intricate and made the combat experience reach another level of satisfaction. Controls are snappy and weighty, movement is so fun even the walk to boss is easily bearable. Bosses are fantastic and reminded me that I do like boss fights and keep trying. Subtle storytelling works really well for a gameplay focus game like this. 
 
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| A | A | S+ | S+ |  |
 
 ---
 
@@ -522,7 +531,7 @@ Yeah it's a genre defining classic, with endless supplies of hope and despair. G
 </details>
 <details>
   <summary>Byakuya</summary>
-  Actually an interesting character with distinctive strength, weakness and little growth. All in the hangouts though. Serves as an insert point for slightly smarter players.  
+  Actually an interesting character with distinct strength, weakness and little growth. All in the hangouts though. Serves as an insert point for slightly smarter players.  
 </details>
 <details>
   <summary>Chihiro</summary>
@@ -530,7 +539,7 @@ Yeah it's a genre defining classic, with endless supplies of hope and despair. G
 </details>
 <details>
 	<summary>Sakura</summary>
-	Probably the most upright and and respectable character in the game. The actual Ultimate Moral Compass. RIP.`
+	Probably the most upright and and respectable character in the game. The actual Ultimate Moral Compass. RIP.
 </details>
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
@@ -543,31 +552,31 @@ Best tracks: DANGANRONPA, Box 15, Discussion -HEAT UP-
 Story/Plot: I like the story structure where only selected few are focused instead of similar screentime for almost everyone. But generally I am conflicted about the whole plot and progression especially the ending. I only really enjoyed the first case and Shuichi's arc. This time we can also see the face of MC on the side, fully defining him as his own character.
 
 <details>
-  <summary>3-1</summary>
+  <summary>V3-1</summary>
   The best opening chapter in the series. Kaede is super delightful, also gives Shuichi a character arc to begin with. I can see this as 1-1 remake and unlike last time it is actually effective. Brilliant. 
 </details>
 <details>
-  <summary>3-2</summary>
+  <summary>V3-2</summary>
   What the heck is that motive???? Can you at least even try??? Junko's action makes even more sense because there are real life parallels but not this one. The murder operation is starting to get a bit Conan ridiculous from here on.
 </details>
 <details>
-  <summary>3-3</summary>
+  <summary>V3-3</summary>
   I was hoping to not see a double kill and my disappointment was immeasurable when it happened. Kiyo is a creep with another rather outlandish motive. Dude could have graduated if not for the second murder.
 </details>
 <details>
-  <summary>3-4</summary>
+  <summary>V3-4</summary>
   I am sure this is all set up to make Gonta a murderer, and only for the shock value. I guess it had some effect on Kokichi but I am not sure. It does create a decent conflict between Shuichi and Kaito so it is not all bad I suppose.
 </details>
 <details>
-  <summary>3-5</summary>
+  <summary>V3-5</summary>
   Pretty good case but feels like copying 2-5 in concept and still not as great as 2-5. 
 </details>
 <details>
-  <summary>3-6</summary>
+  <summary>V3-6</summary>
   <b>"And I will avenge Kaede! I swear on her kindness and her love... and her grave that I will avenge her!"</b> and <b>"The pain in my heart is real! The pain I feel when I lose the people I love is real!"</b> got to me real good. Okay you want to end the series I get it. But what did we do to deserve such a passive agressive ending? Also Shuichi is such a gigachad here.
 </details>
 
-Characters: Similiar to D2's approach but even more gimmicky. Focusing on a selected few means that if you hate some of them, the game becomes insufferable. My guy is done being the weakest or the outlier, instead the strongest asset in class trials. I liked Shuichi-Kaito-Maki as a trio, very sweet. Judging from the number of notable mentions you can see I don't care about this cast that much.
+Characters: Similiar to DR2's approach but even more gimmicky. Focusing on a selected few means that if you hate some of them, the game becomes insufferable. My guy is done being the weakest or the outlier, instead the strongest asset in class trials. I liked Shuichi-Kaito-Maki as a trio, very sweet. Judging from the number of notable mentions you can see I don't care about this cast that much.
 
 <details>
   <summary>Shuichi</summary>
@@ -757,7 +766,7 @@ Story/Plot: It is just trying to trick players into thinking this is just a sill
 
 Characters: *He shows no tenacity of purpose, and exhibits no fear of death... An intriguing young man.* This is one of the most interesting comment on shounen protagonist kid. Jack is a cocky brat from inside out, he literally interacts with the world by kicking (it is never not hilarious), people or objects. A really great attempt at tying personality to gameplay. Radiata residents are all crafted with care (there are still generic NPCs but very few), with unique faces and names. But Jack is usually seen solo though he is supposed to be familiar with the townspeople. I do hope the game can add some mandatory, permanent and plot relevant characters from time to time into the party.
 
-Gameplay: Radiata is Clock Town but way larger, bigger than TfZ's Crossbell even. This game fully commits to being silly and they mean it, from voice acting to music use to wordings. You can challenge almost anyone to a duel on demand which is just crazy. The combat system is rather clunky, at least it fits the difficulty so it is not very annoying. Without a guide it is hard to recruit the good teammates and you kinda stuck with the mediocre and lame ones.
+Gameplay: Radiata is Clock Town but way larger, bigger than Crossbell city even. This game fully commits to being silly and they mean it, from voice acting to music use to wordings. You can challenge almost anyone to a duel on demand which is just crazy. The combat system is rather clunky, at least it fits the difficulty so it is not very annoying. Without a guide it is hard to recruit the good teammates and you kinda stuck with the mediocre and lame ones.
 
 Music: Half of the OST including the battle themes is joke music and it is glorious. I can't say about Grandia but I think this style really is Iwadare's specialty judging by Lunar and this game. 
 
@@ -781,7 +790,7 @@ Meh Persona fanfic. All the characters you love become one dimensional and are u
 Best tracks: Light the Fire Up in the Night, Lazer Beam, Friends
 
 #### Lunar: Silver Star Story (PSX)
-A cult classic within the JRPG circle. But I think it really needs that nostalgia and era factor to become a great game. It feels like the FMA:B of JRPGs, but without that extra kick that makes it a real classic. Only recommended to JRPG fans for historical purposes.
+A cult classic within the JRPG circle. But I think it really needs that nostalgia and era factor to become a great game. It feels like the FMA:B of JRPGs, but without that extra kick that makes it a real classic. Only recommended to JRPG fans for historical purposes. Coming back from Golden Sun and DQ8 which I have dropped: Is it just me or Lunar SSS is really THAT good? How can this tropey 1998 video game beat so many games after in terms of story telling?
 
 Story: The most standard RPG story I have experienced so far. It can be summed up as "Hero saves the Damsel in Distress with power of love and friendship", there are no big twist too (Wow that weird looking dude who acts like your ally is definitely not a villian). Tons of animated cutscenes and voice acting adds a lot to the story. What it does great is tying its theme tightly to the main plot, although it can feel forced. For a love story, your main party consists of three (more like 2.5) couples with different dynamics and really make its point across clearly and strongly. 
 
@@ -802,9 +811,9 @@ tldr: Non linear progression is cool, grinding is not cool, boss design is very 
 
 This game has the design philosophy of most retro games, with progression hidden out of the main path and the player has to work to discover for themselves. There are also a lot of optional and missable stuff too. This is not present in any of the future Ys games where key items and progress are just put in front of you. It is pretty amazing that the Teleport item is not even mandatory. 
 
-The level scaling is too strict, even stricter than later games. You really do 0 damage to anything that is slightly above your level and you are forced to grind up to the level floor. You are punished too much for being underleveled until running through dungeons becomes a problem, making the game very very grindy. Leveling equipments is probably required too and those costs a lot. It's great that they balanced all of that in the Felghana and Origin. 
+The level scaling is too strict, even stricter than later games. You really do 0 damage to anything that is slightly above your level and you are forced to grind up to the level floor. You are punished too much for being underleveled until running through dungeons becomes a problem, making the game very very grindy. Levelling equipments is probably required too and those costs a lot. It's great that they balanced all of that in the Felghana and Origin. 
 
-Most bosses are just annoying in the first attempts, then boring when you know how to damage it. The ability to use items in battle makes the bosses feels much less brutal with this system, though comes with a cost of bloated HP. Ernst is pretty damn hard and annoying and does deserve the hype theme, actually he is the only exciting boss in the entire game. Dash jump is pretty unintuitive but interesting to use you know how, at least better than extended jumps in Felghana which is unintended. I am pretty sure this is where Dana's Light form is referenced with Adol's Yellow blade here.
+Most bosses are just annoying in the first attempts, then boring when you know how to damage it. The ability to use items in battle makes the bosses feels much less brutal with this system, though comes with a cost of bloated HP. Ernst is pretty damn hard and annoying and does deserve the hype theme, actually he is the only exciting boss in the entire game. Dash jump is pretty unintuitive but interesting to use if you know how, at least better than extended jumps in Felghana which is unintended. I am pretty sure this is where Dana's Light form is referenced with Adol's Yellow blade here.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -829,12 +838,12 @@ Ys 2 is a lot more acceptable in every way possible, no wonder this is not talke
 
 Best tracks: Feena, First Step Towards Wars, Tension
 
-#### Golden Sun
-It feels like a Tales game, but only the base structure and nothing else. Dungeon and puzzles are actually good unlike most of Tales games. Job system has just the right amount of customization for me, every member has their own archetype but is flexible enough to branch out a bit by swapping Djinns, very cool system. Sakuraba had definitely peaked around late 90s and early 00s. But sadly I cannot find a good reason to finish it when I feel like there are no more new experience towards later half of the game.
+#### Golden Sun (GBA)
+It feels like a Tales game, but only the base structure and nothing else. Dungeon and puzzles are actually good unlike most of Tales games. Job system has just the right amount of customization for me, every member has their own archetype but is flexible enough to branch out a bit by swapping Djinns, very cool system. Sakuraba had definitely peaked around late 90s and early 00s. But sadly I cannot find a good reason to finish it as it feels like there are no more new experience towards later half of the game. I would have loved this game if it had more going on for characterization and writing.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| C | C | A+ | A |  |
+| C | D | A+ | A |  |
 
 ---
 
@@ -883,6 +892,19 @@ Quintet RPG is an acquired taste, I thought I am OK with it after Terranigma but
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | C | C | B | C |  |
 
+
+#### Dragon Quest VIII: Journey of the Cursed King (PS2)
+What kind of JRPG fan that has never played a DQ game? Time to fix that. I know full well I will not like the narrative  aspects of the game, just here to experience the "original" RPG vibes. Just as expected I cannot endure to the end.
+
+The director really be like "You and I know the deal, so I will not even bother to explain and off you go". There is only one cutscene without dialogue to explain the reason of this "journey". The worst part is that that really is all there's to it, no plot twist no nothing. The characters are all rather one dimensional, which would have been fine if their dialogue is not as bland and dry as it is. 
+
+The series is known for raiding houses and breaking pots, but I never expected the items are so nice that it is very worth to do it everywhere. I used to think that I will find something nice to say about the music once I played but that did not happen. The only good thing about the music is that it sounded inoffensive. The style is so plain it feels like AI can generate the soundtrack. Sometimes I just feel like listen to literally any other battle theme from other games. It made Gust from Chrono Cross sound awesome, at least it was catchy! There are a lot of tracks but feels like there are only 5 tracks in total.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| C | B | A | C |  |
+
+
 ---
 
 ### **DROPPED**
@@ -892,18 +914,28 @@ Quintet RPG is an acquired taste, I thought I am OK with it after Terranigma but
 - Star Ocean: First Departure (PSP) (combat is too barebones, lack of real control, also Sakuraba I just don't like you that much)
 - Legend of Mana (PS1) (Combat is too unbearable, non linear layout is too uncomfortable for me. This is Yoko Shimomura's single best standalone OST. It captured the magical fantasy world like no other, not even her future works has this degree of raw imagination. I will die on this hill.)
 
+### **NOT ROLLED CREDITS**
+Spent a substantial amount of time but did not feel like finishing them.
+- Illusion of Gaia (60%) (I dont even know how I made it that far)
+- Golden Sun (75%) (I feel like I have seen enough and nothing to keep me going on)
+- Dragon Quest VIII 
+- Valkyrie Profile (50%) (Again, non linear storytelling rarely works for me)
+- Super Mario RPG (SNES) (Forgot too much of it, it is good though)
+- Shadow Hearts (Emulator decides to erase heal/shop point right before final boss, not that I really care about the ending at that point)
+- I am Setsuna (90%) (Difficulty spike when I just want to finish? No thanks)
+
 ### **NEXT UP/ONGOING**
-- Hollow Knight
+- Dragon Quest VIII: Journey of the Cursed King (PS2)
+- Ys Memories of Celceta
 
 ### **INTERESTED IN**
-- Dragon Quest 8
 - Hi-Fi Rush
 - Ys SEVEN
-- Ys Memories of Celceta
 - Tales of Vesperia
 - Nier Automata
 - Valkyria Chronicles
 - Final Fantasy Tactics
+- Portal duology
 
 #### **INTERESTED but maybe someday**
 - Xenogears
