@@ -279,7 +279,7 @@ Characters: I did not expect them to take away Randy and Tio at first, how I mis
 
 Cameos are great as usual, Ries actually looks better in Crossbell artstyle. And they didn't forget about Kevin! and they won't, right... Dieter is quite fine as a character, motivations and actions and all, just the back story about magic is a bit eh. Mariabell's character fully revolves around that, so it's quite lame, lamer than that is her witch outfit which looks like a bad cosplay.
 
-Gameplay: Same old as Zero. Nothing too innovative. Master Quartz takes a bit too long to level for customization in first playthough. For some reason I am still running low on sepith even near late game, until there are no more quartz upgrades, I still think I don't have enough to fully build every playable member. I like how the game subtly guides you to build Lloyd by taking away Randy. That final "dungeon" is actually as long as Berseria's, luckily it is about twice as bearable.
+Gameplay: Same old as Zero. Nothing too innovative. Master Quartz takes a bit too long to level for customization in first playthough. For some reason I am still running low on sepith even near late game, until there are no more quartz upgrades, I still think I don't have enough to fully build every playable member (this was written at the start of Azure Tree by the way, I knew nothing...). I like how the game subtly guides you to build Lloyd by taking away Randy. That final "dungeon" is actually as long as Berseria's, luckily it is about twice as bearable.
 
 Music: Somehow Zero's vibe is better, maybe because there are so many ambience and generic sounding tracks like Orchis Tower. There are some stand out tracks like Knox forest theme but replacing Afternoon in Crossbell for an objectively inferior one is not it. Special Support Section is only used once iirc. In exchange we get some of the greatest battle and boss themes in the entire series.
 
@@ -651,6 +651,14 @@ Music: This is one of my gateways to video game music so definitely have special
 
 Best tracks: Beneath the Mask, Sunset Bridge, Blooming Villain, Take Over, Throw Away Your Mask, Ideal and the Real
 
+
+#### Ys: Memories of Celceta
+
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| A- | A | S- | S |  |
+
 ---
 
 ### **INTERESTING titles**
@@ -790,7 +798,7 @@ Meh Persona fanfic. All the characters you love become one dimensional and are u
 Best tracks: Light the Fire Up in the Night, Lazer Beam, Friends
 
 #### Lunar: Silver Star Story (PSX)
-A cult classic within the JRPG circle. But I think it really needs that nostalgia and era factor to become a great game. It feels like the FMA:B of JRPGs, but without that extra kick that makes it a real classic. Only recommended to JRPG fans for historical purposes. Coming back from Golden Sun and DQ8 which I have dropped: Is it just me or Lunar SSS is really THAT good? How can this tropey 1998 video game beat so many games after in terms of story telling?
+A cult classic within the JRPG circle. But I think it really needs that nostalgia and era factor to become a great game. It feels like the FMA:B of JRPGs, but without that extra kick that makes it a real classic. Only recommended to JRPG fans for historical purposes. Coming back from Golden Sun and DQ8 which I have dropped: Is it just me or Lunar SSS is really THAT good? How can this tropey 1998 video game beat so many games after in terms of story telling? Why do I keep thinking about and use this game as a baseline whenever I play a truly traditional RPG?
 
 Story: The most standard RPG story I have experienced so far. It can be summed up as "Hero saves the Damsel in Distress with power of love and friendship", there are no big twist too (Wow that weird looking dude who acts like your ally is definitely not a villian). Tons of animated cutscenes and voice acting adds a lot to the story. What it does great is tying its theme tightly to the main plot, although it can feel forced. For a love story, your main party consists of three (more like 2.5) couples with different dynamics and really make its point across clearly and strongly. 
 
@@ -896,7 +904,7 @@ Quintet RPG is an acquired taste, I thought I am OK with it after Terranigma but
 #### Dragon Quest VIII: Journey of the Cursed King (PS2)
 What kind of JRPG fan that has never played a DQ game? Time to fix that. I know full well I will not like the narrative  aspects of the game, just here to experience the "original" RPG vibes. Just as expected I cannot endure to the end.
 
-The director really be like "You and I know the deal, so I will not even bother to explain and off you go". There is only one cutscene without dialogue to explain the reason of this "journey". The worst part is that that really is all there's to it, no plot twist no nothing. The characters are all rather one dimensional, which would have been fine if their dialogue is not as bland and dry as it is. 
+The director really be like "You and I know the deal, so I will not even bother to explain and off you go". There is only one cutscene without dialogue to explain the reason of this "journey". The worst part is that that really is all there's to it, no plot twist no nothing (Ok I am sure there will be more but it wont be mind breaking). The characters are all rather one dimensional, which would have been fine if their dialogue is not as bland and dry as it is. Funny accents and voice acting cannot replace good writing, as Chrono Cross have proven.
 
 The series is known for raiding houses and breaking pots, but I never expected the items are so nice that it is very worth to do it everywhere. I used to think that I will find something nice to say about the music once I played but that did not happen. The only good thing about the music is that it sounded inoffensive. The style is so plain it feels like AI can generate the soundtrack. Sometimes I just feel like listen to literally any other battle theme from other games. It made Gust from Chrono Cross sound awesome, at least it was catchy! There are a lot of tracks but feels like there are only 5 tracks in total.
 
@@ -908,24 +916,48 @@ The series is known for raiding houses and breaking pots, but I never expected t
 ---
 
 ### **DROPPED**
-- Bravely Default (Job system hurts my brain, love the OST though)
-- Rogue Galaxy (Generally clunky, boring dungeons and OST)
-- Final Fantasy VI (SNES) (on hold, just didn't grab me...?)
-- Star Ocean: First Departure (PSP) (combat is too barebones, lack of real control, also Sakuraba I just don't like you that much)
-- Legend of Mana (PS1) (Combat is too unbearable, non linear layout is too uncomfortable for me. This is Yoko Shimomura's single best standalone OST. It captured the magical fantasy world like no other, not even her future works has this degree of raw imagination. I will die on this hill.)
+Dropped within the first few hours. Not qualified to give any valid opinions.
+
+#### Bravely Default 
+Job system hurts my brain, love the OST though
+
+#### Rogue Galaxy 
+Generally clunky, boring dungeons and OST
+
+#### Final Fantasy VI (SNES) 
+On hold, just didn't grab me...?
+
+####  Star Ocean: First Departure (PSP) 
+combat is too barebones, lack of real control, also Sakuraba I just don't like you that much
+
+#### Legend of Mana (PS1) 
+Combat is too clunky, non linear layout is too uncomfortable for me. This is Yoko Shimomura's single best standalone OST. It captured the magical fantasy world like no other, not even her future works has this degree of raw imagination. I will die on this hill.
+
+---
 
 ### **NOT ROLLED CREDITS**
-Spent a substantial amount of time but did not feel like finishing them.
-- Illusion of Gaia (60%) (I dont even know how I made it that far)
-- Golden Sun (75%) (I feel like I have seen enough and nothing to keep me going on)
-- Dragon Quest VIII 
-- Valkyrie Profile (50%) (Again, non linear storytelling rarely works for me)
-- Super Mario RPG (SNES) (Forgot too much of it, it is good though)
-- Shadow Hearts (Emulator decides to erase heal/shop point right before final boss, not that I really care about the ending at that point)
-- I am Setsuna (90%) (Difficulty spike when I just want to finish? No thanks)
+Spent a substantial amount of time but did not feel like finishing them. The estimate completion is roughly based on guide lengths.
+
+#### Illusion of Gaia (Progress before dropped: 60%) 
+I dont even know how I made it that far. I was waiting for that same magical moment to click, like what Terranigma did to me. But it seems like it is not going to happen for this game.
+
+#### Golden Sun (Progress before dropped: 75%)
+I feel like I have seen enough and there is nothing to keep me going on.
+
+#### Dragon Quest VIII (Progress before dropped: 45%)
+I tried.
+
+#### Valkyrie Profile (Progress before dropped: 50%)
+Again, non linear storytelling rarely works for me.
+
+#### Shadow Hearts (Progress before dropped: 95%)
+Emulator decides to erase heal/shop point right before final boss, not that I really care about the ending at that point.
+
+#### I am Setsuna (Progress before dropped: 90%) 
+Difficulty spike when I just want to finish the game? No thanks.
+
 
 ### **NEXT UP/ONGOING**
-- Dragon Quest VIII: Journey of the Cursed King (PS2)
 - Ys Memories of Celceta
 
 ### **INTERESTED IN**
@@ -948,6 +980,7 @@ Spent a substantial amount of time but did not feel like finishing them.
 - Suikoden
 - FF7 Crisis Core
 - FF7 Remake
+- Xenoblade series 
 
 ---
 
