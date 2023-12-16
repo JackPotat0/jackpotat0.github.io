@@ -273,7 +273,7 @@ Music: Two new composers definitely shake things up and added a lot of identity 
 Best tracks: Inevitable Struggle, Formidable Enemy, Zero No Kiseki
 
 #### **Trails to Azure (PC)**
-Story/plot: The characters' personal influence may fall a bit shorter, it is all made up with a much stronger main plot. The politics is even better with higher stakes than before, diving into diplomatic relationship and national security etc. Beach episode is kinda nice... only thing is massaging the girls is really disturbing, even if it is Elie. Groping scenes are horrible, not even P4 has the guts to do that. The twist is worth everything. It is quite slow at the beginning but when it gets going, it DOES NOT stop. Now I will be sure to suspect everyone, even the guy who gets a freaking title theme epic speech. I was played like a fiddle, good job Falcom. In essence, this is a brilliantly executed mystery in its core, and you will only realize how tightly knit it is near the end, giving that satisfying feeling of realization. This game is one of the very few that made me care about the evil plan. But at the same time it is still a great journey for the SSS. Combined with all that and the worldbuilding, you get a duology with incredible substance and depth. Though there are still flaws but the good definitely outweighs the bad.
+Story/plot: The characters' personal influence may fall a bit shorter, it is all made up with a much stronger main plot. The politics is even better with higher stakes than before, diving into diplomatic relationship and national security etc. Beach episode is kinda nice... only thing is massaging the girls is really disturbing, even if it is Elie. Groping scenes are horrible. The twist is worth everything. It is quite slow at the beginning but when it gets going, it DOES NOT stop. Now I will be sure to suspect everyone, even the guy who gets a freaking title theme epic speech. I was played like a fiddle, good job Falcom. In essence, this is a brilliantly executed mystery in its core, and you will only realize how tightly knit it is near the end, giving that satisfying feeling of realization. This game is one of the very few that made me care about the evil plan. But at the same time it is still a great journey for the SSS. Combined with all that and the worldbuilding, you get a duology with incredible substance and depth. Though there are still flaws but the good definitely outweighs the bad.
 
 Characters: I did not expect them to take away Randy and Tio at first, how I missed SSS. Randy finally got his arc, but actually it's just ok, not disappointing but not groundbreaking. Wazy on the other hand is ~~the Crossbell best girl all along~~ very interesting, but the bromance with Wald kinda gets in the way. I should have known coming from Tokyo Xanadu, it should not even have surprised me. Noel is just vanilla and boring, the only high point of her character is when she decided to side with CDF, it would be a lot more dramatic if she stuck with it, but anime will be anime. Elie  is just there... even Tio too. And for the love of Aidios, stop thirsting for Lloyd my girls, and this actually got worse in CS?! Rixia is whatever ~~thicc thighs saves lives~~, she looks like anything but a jaded assassin as claimed, her arc with Shirley is a bit forced too. I still don't understand why this has to be revealed in Zero, it just kills every suspension. So ironically Lloyd is the best character in this game. But SSS as a unit is what really shines and makes everything worthwhile.
 
@@ -544,7 +544,7 @@ Yeah it's a genre defining classic, with endless supplies of hope and despair. G
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| S- | S- | S- | A+ | Kyoko |
+| S- | S- | S- | A+ | Kyoko/Hina |
 
 Best tracks: DANGANRONPA, Box 15, Discussion -HEAT UP- 
 
@@ -653,11 +653,20 @@ Best tracks: Beneath the Mask, Sunset Bridge, Blooming Villain, Take Over, Throw
 
 
 #### Ys: Memories of Celceta
+Story/Plot: The premise is a twist on the cliche amnesia trope and is actually quite interesting. Going into a new town only to be blamed is surprisingly funny and fits Adol's character well. This is the third best design for Adol after 8 and 9, the character full sprite looks really good. The weird thing is that all the towns are supposed to be secluded from other population but no one acts like so. I can see why people complaint about how this entry breaks the Ys lore, but at least there really is no major issues about the story. The ending is the laziest in the entire series for sure. But nothing is going to top Ys VIII anyways so it's alright.
+
+Characters: Adol's backstory is a great addition for the entire series, building him as a simply a guy with too much curiousity. Before this he feels like just a boring adventuring machine without a mind of his own. Karna is best Ys girl after Dana, is the best status effects applicator and has good early grouping skills. She is simply too powerful for a love interest in Ys, before Dana appeared at least. I like Duren quite a bit, what a clown. I am also sure someone in the company has a serious gap moe fetish starting from the Sky era until today...
+
+Gameplay: Ys 8 beta with fixed camera. Most of the time I am just fighting with camera and bad targetting. It is totally fair when the huge boss decides to stand in front of the camera. The target is just a marker but you still attack straight ahead anyways. Boss design is pretty mediocre as a result. Feels like they only updated half of the battle system and assumed the rest would work the same in the Napishtim engine games. Unlike 8, you are forced to stand still while guarding, this adds a lot more risk-reward interaction. Flash guard is still a bit janky, but there is normal guard in this game which is nice. For some reason Falcom's classic EXP rubberbanding is not working all that well in Hard mode (not sure if they even implemented that). The two final bosses are actually pretty hard without items.
+
+Music: This is why I will always want more Falcom (and hopefully not robbed in the process). At this point it just feels so right to hear jdk band's style. The opening track sounds even better than usual after hearing the uninspired music in DQ8 for hours. Although this might be one of the weaker soundtracks compared to all other Falcom games out there, but still a really decent OST. 
 
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| A- | A | S- | S |  |
+| A- | A | A | S | Karna |
+
+Best tracks: Gust of Wind, The Foliage Ocean in Celceta, Black Wings
 
 ---
 
@@ -723,7 +732,7 @@ Story/Plot: I really cannot tell if there is any deep and powerful message under
 
 Characters: Yuri is pretty interesting, a very sincere and honest dude, both to himself and others. He almost feels like a prototype Noel from FFXIII-2. Alice is a bit boring of a princess archetype. Well actually they do a little of Noel-Serah dynamic in FFXIII-2. The rest has some interesting quirks but nothing noteworthy. 
 
-This game has its ways to do humour, like Margarete's skill is calling a phone Hououin Kyouma style then use a wacky item like toilet flush to enchant a target with Water spell??? (This sentence is really weird to type out). And her "I need some help here" followed by "Sore! (Take this)", like hey just decide if you want to be American or Japanese already. 
+This game has its ways to do humour, like Margarete's skill is calling a phone Hououin Kyouma style then use a wacky item like toilet flush to enchant a target with Water spell??? (This sentence is really weird to type out). And her "I need some help here" followed by "Sore! (Take this)", like hey just decide if you want to be American or Japanese already (apparently it's just that they forgot to dub that line). 
 
 Gameplay: Judgement Ring is really fun. I really wished there is some in-universe explanation for this system. (spoiler: there is, albeit short) In turn enemies can inflict status on the ring, which is really creative. But the skill system is just meh, spamming the strongest appropriate skill is always the best strategy. SP system is really cool as well, using up your "turns" to speed up a fight (but Yuri always has the most SP even after a fusion). There is that one dungeon that seals skills and items, that is NOT VERY COOL, especially banning a black and white mage from using skills is a very annoying and questionable move.
 
@@ -959,28 +968,29 @@ Difficulty spike when I just want to finish the game? No thanks.
 
 ### **NEXT UP/ONGOING**
 - Ys Memories of Celceta
+- Portal duology
+- Valkyria Chronicles
+- Final Fantasy VI 2nd attempt
 
 ### **INTERESTED IN**
 - Hi-Fi Rush
 - Ys SEVEN
 - Tales of Vesperia
 - Nier Automata
-- Valkyria Chronicles
 - Final Fantasy Tactics
-- Portal duology
+- Ace Attorney series
 
 #### **INTERESTED but maybe someday**
 - Xenogears
 - Xenosaga
-- Lunar 2: Eternal Blue
 - Trails of Cold Steel
-- Final Fantasy VI 2nd attempt
 - Sakuna Rice and Ruin
 - Wild Arms
 - Suikoden
 - FF7 Crisis Core
 - FF7 Remake
-- Xenoblade series 
+- Xenoblade series (switch someday?)
+- The Legend of Zelda: A Link Between Worlds
 
 ---
 
@@ -1001,7 +1011,7 @@ Based on overall enjoyment. Order may be different based on different aspects.
 `4 > 5 Royal > 3 >> 2:IS > Q`
 
 #### **Ys**
-`Lacrimosa of Dana >> Origin > Oath in Felghana > Ark of Napishtim > Ys I+II`
+`Lacrimosa of Dana >> Origin > Oath in Felghana >= Memories of Celceta > Ark of Napishtim > Ys I+II`
 
 #### **Zelda**
 `The Wind Waker > Twilight Princess > A Link to the Past > The Minish Cap > Ocarina of Time > Majora's Mask`
