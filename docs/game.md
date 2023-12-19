@@ -668,6 +668,15 @@ Music: This is why I will always want more Falcom (and hopefully not robbed in t
 
 Best tracks: Gust of Wind, The Foliage Ocean in Celceta, Black Wings
 
+#### Portal
+Yes. It is as good as people claimed, up there with Chrono Trigger and other true classics (though I will argue only game design enthusiasts will get its brilliance in current day, I also dont think any post Gen Z will play this game without some passion for video games). It is dry but witty, puzzle designs are top notch. Simply perfect.
+
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| A | A | S+ | B | Weighted Companion Cube |
+
+
 ---
 
 ### **INTERESTING titles**
@@ -980,7 +989,7 @@ Difficulty spike when I just want to finish the game? No thanks.
 - Final Fantasy Tactics
 - Ace Attorney series
 
-#### **INTERESTED but maybe someday**
+### **INTERESTED but maybe someday**
 - Xenogears
 - Xenosaga
 - Trails of Cold Steel
