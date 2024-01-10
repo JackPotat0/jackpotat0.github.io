@@ -976,10 +976,8 @@ Difficulty spike when I just want to finish the game? No thanks.
 
 
 ### **NEXT UP/ONGOING**
-- Ys Memories of Celceta
-- Portal duology
+- Portal 2
 - Valkyria Chronicles
-- Final Fantasy VI 2nd attempt
 
 ### **INTERESTED IN**
 - Hi-Fi Rush
@@ -988,9 +986,13 @@ Difficulty spike when I just want to finish the game? No thanks.
 - Nier Automata
 - Final Fantasy Tactics
 - Ace Attorney series
+- Vagrant Story
+- Lufia 2
+- Xenogears
+- Final Fantasy VI 2nd attempt
+
 
 ### **INTERESTED but maybe someday**
-- Xenogears
 - Xenosaga
 - Trails of Cold Steel
 - Sakuna Rice and Ruin
@@ -1000,6 +1002,7 @@ Difficulty spike when I just want to finish the game? No thanks.
 - FF7 Remake
 - Xenoblade series (switch someday?)
 - The Legend of Zelda: A Link Between Worlds
+
 
 ---
 
