@@ -5,7 +5,7 @@
 ### **ALL TIME favourites**
 *The games that changed my gaming view (i.e. ruin other games) in one way or another. Feel free to debate with me on these games.*
 
-#### **Kingdom Hearts 2 Final Mix (PS2)**
+#### Kingdom Hearts 2 Final Mix (PS2)
 This game serves as my first experience to speedrunning. I found [Bl00dyBizkit's AGDQ2017 run](https://www.youtube.com/watch?v=PVjf3bc3Noo&t=4588s) when looking for Roxas strats and the rest is history. This is still my favourite speedrun of all time. I play the randomizer a lot and learnt some speedrun strats. Everything about combat in this game (aside from some questionable boss designs) is just perfect. 
 
 Story/Plot: The prologue is amazing. In just a few hours you are connected to one of the best written character in the series, then it's all downhill from there. Disney worlds are meh, didnt really teach Sora anything personally. Nobody lore is alright. Organization XIII works just enough for evil corporation but nothing memorable. The ending execution is pretty good though. ~~They could have ended KH right there~~. The only three story beats in the game I cared are the prologue, battle with Roxas and the ending. 
@@ -22,7 +22,7 @@ Music: One of Yoko Shimomura's magnum opus. Other than Disney world related trac
 
 Best tracks: Darkness of the Unknown, Dearly Beloved, The Other Promise
 
-#### **Persona 4 (PS2/Golden PC)**
+#### Persona 4 (PS2/Golden PC) 
 My first Persona game. Immediately started NG+ right after NG, almost 100% except fighting Margaret, learnt speedrun routes for P4G.
 
 Story/Plot: The main plot itself is actually just fine. It manages to convey its theme but nothing groundbreaking. It excels at character centric arcs which takes up most of the game. This game captures the feeling of living a (not so) simple student life in a small town and just hanging out with friends. The Golden addition is nice just for more team bonding moments but the new plotline is really forgettable and adds nothing to the already complete story. 
@@ -39,8 +39,8 @@ Music: Really good. The 4 town themes just stuck with me ever since and probably
 
 Best tracks: I'll Face Myself (Battle Version), Heartbeat Heartbreak, Snowflakes
 
-#### **Final Fantasy X (PC)** 
-My first Final Fantasy game. Absolutely love the characters, the world and the plot. But I suck at this game, can't even finish a guided speedrun. 
+#### Final Fantasy X (PC) 
+My first Final Fantasy game. Absolutely love the characters, the world and the plot. 
 
 Story/Plot: It is an epic yet emotional journey. In the end you are really convinced that this IS Tidus's story. The first video game ending that made me almost cried real tears. The romance is developed naturally and perfectly justified without being forceful. **Any and all FFX sequels do not exist.**
 
@@ -56,7 +56,7 @@ Music: The OST is definitely not the greatest FF OST despite having two of the b
 
 Best tracks: To Zanarkand, Suteki da ne, Assault
 
-#### **The Legend of Zelda: The Wind Waker (GC)** 
+#### The Legend of Zelda: The Wind Waker (GC) 
 My first Zelda game. The game aged like fine wine. It is overflowing with charm with its cutesy and colourful designs. The perfect introductory Zelda IMO. I also invested quite a lot of time in the randomizer to become semi proficient.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
@@ -65,7 +65,7 @@ My first Zelda game. The game aged like fine wine. It is overflowing with charm 
 
 Best tracks: Dragon Roost Island, Great Sea, Molgera
 
-#### **Tales of Berseria (PC)** 
+#### Tales of Berseria (PC) 
 The plot is refreshing and engaging and heavily theme/character driven. Almost every main character ties heavily into the main plot from the beginning to the end and brings out the theme in various different angles. The story execution and the ending is next to perfect. My eyes are definitely sweating during the sequence. The cast also has strong personality and have fantastic interaction with each other. Completed most sidequests and I am normally a no-sidequest player. The things that drags it down are the bad dungeons(literal hallways) and less memorable OST. 
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
@@ -75,7 +75,7 @@ The plot is refreshing and engaging and heavily theme/character driven. Almost e
 Best tracks: Shout Your Soul, True Will, Eleanor's Theme
 
 
-#### **Bug Fables: The Everlasting Sapling (PC)**
+#### Bug Fables: The Everlasting Sapling (PC) 
 A simple story does not mean that it is not meaningful or bad. The main cast only consists of three characters and the story is their adventure to obtain a treasure. But this gives substantial development and attachment for all three of them. Their conversation feels like real people are role playing the characters and NPCs. Paper Mario style gameplay is great, giving an easy way to wreck the game is great for turn based noob like me (All hail Weak Stomach). The OST is definitely inspired from Mario and similiar genres, a composer that should be watched with great interest. Done some runs before.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
@@ -84,7 +84,7 @@ A simple story does not mean that it is not meaningful or bad. The main cast onl
 
 Best tracks: Team, This One's Stronger!, FIGHT!, Team, It's Getting Serious!
 
-#### **Trails in the Sky FC+SC (PSP)** (I consider as one story split into two games) 
+#### Trails in the Sky FC+SC (PSP) (I consider as one story split into two games)  
 - Elaborate world building
 - Great cast chemistry. Not just Estelle between others, but other party members among each other too. Makes you forget they are really not that unique within their archetypes.
 - Natural character growth. You spent about 80 hours with Estelle and seeing her growing from a naive girl to a matured and competent Bracer is simply inspiring.
@@ -100,7 +100,7 @@ Best tracks: Team, This One's Stronger!, FIGHT!, Team, It's Getting Serious!
 
 Best tracks: Confessions, Sophiscated Fight, Whereabouts of Stars, The Fate of the Fairies, Whereabouts of Hope, Shine of Aidios
 
-#### **Final Fantasy IX (PS1)**
+#### Final Fantasy IX (PS1) 
 I am struggling to decide whether to put this here or the next category initially but it deserves to be here. I had been blinded by the internet that this is not for me, and is that WRONG. This could easily be my favourite FF if I had played this before FFX (though FFX is still the better introductory FF imo). This is a really solid game without a lot to complain.
 
 Garnet/Dagger is written wonderfully and acts like a real 16 year old girl under the circumstances. Zidane is a refreshing protagonist as he is a largely developed character at the beginning and has a nice arc wrapping up his character near the end. The other characters also stayed as relevant for as long as possible (maybe not Amarant, he is definitely the weakest in the narative, only act as a foil to Zidane's ideals). **Vivi is precious and must be protected.** The theme of life and its purpose is quite timeless and thought provoking.
@@ -115,7 +115,7 @@ Soundtrack wise I still prefer FFVII and FFVIII's OST but still a slight win ove
 
 Best tracks: Battle 1, Freya's Theme, Rose of May, Melodies of Life
 
-#### **Ys VIII: Lacrimosa of Dana (PC)**
+#### Ys VIII: Lacrimosa of Dana (PC) 
 Ys series has come a long way.
 
 Story/plot: The plot is to provide the setting mostly as one should expect from Ys games. Events on the island is nothing too noteworthy, just to lead up to finding Dana. But I still like how the survivors bonded under this extreme circumstance. To be fair, Dana's backstory is also quite simple but it is presented so masterfully I never thought I will see this in a Ys game. The way her mystery unfolds is captivating and the truth is satisfying to watch.
@@ -140,7 +140,7 @@ This is the first game I had officially completed to 100% !!
 
 Best tracks: Sunshine Coastline, Iclucian Dance, Dana
 
-#### **Radiant Historia (DS)**
+#### Radiant Historia (DS) 
 One of the best definitions of a solid game and well-executed, novel ideas put together. This game is going down into the history as one of the best DS games and JRPGs.
 
 Story/plot: Warring nations is used as the backdrop for time travelling as many decisions will need to be made, it could not be more appropriate than this. It really feels like you are participating in a war personally especially in the beginning chapters. The design of choices and the responses are brilliant, most of the time both options make sense and are equally valid, but you never know if something unknown may influence the result down the line, encouraging players to make a choice without worrying too much. In the end it is still the same old save the world plot but does not really affect the experience. The pacing is tight and the writer is good at setting up and subverting expectations. The lore around time travelling is not that watertight at all so do not expect Steins;Gate out of this.
@@ -157,7 +157,7 @@ Music: Ah yes it is Yoko Shimomura [insert fanboy screams here]. This is probabl
 
 Best tracks: The Edge of Green, The Garden where Celestites Lies, Where the Winds and Feathers Return
 
-#### **Danganronpa 2: Goodbye Despair**
+#### Danganronpa 2: Goodbye Despair 
 Who is drunk on hope and despair cuz I sure am. It improved in almost every aspect of DR1.
 
 Story/Plot: With all the groundwork set up in DR1, they get to expand on the themes of the series and they definitely nailed it. Hope and despair. Believe and suspect. Cold hard truths and blissful ignorance. Logic and luck. This entry also has a more engaging overarching plot that DR1 where you are mostly waiting for the next murder to happen in between, as compared to the mystery of Monomi and ... other chaotic factors. There is a very clear flow on how a case impact the flow of the story. That ending sequence is just so well executed, with all the twists and connections from previous game tied together. I genuinely felt despair during it. It does get a bit cheesy near the end but who actually cares. If there is ever one Danganronpa game worth a deep analysis, it is probably this one.
@@ -253,7 +253,7 @@ Music: There is *Welcome to DANGAN Island* in this OST and it is automatically t
 
 Best tracks: Ikoroshia, Welcome to DANGAN Island, Beautiful Ruin (Summer Salt)
 
-#### **Trails from Zero (PC)**
+#### Trails from Zero (PC) 
 It is worth the wait. This is the game that gets better the more you think about.
 
 Story/plot: The title is literally PERFECT for this game, this is all about the SSS's trails from zero to hero (The Legend of Heroes: Trails to Hero would be very goofy). Crossbell is shaped to be the perfect stage for a perfect shitstorm. All the politics hit too real in the modern world. The story of passionate and just people struggling in a corrupted world is just done so so well. Good thing this DOES NOT end on a cliffhanger, but many plot threads still left unfinished for Azure (this is some high quality sequel bait that doesn't trip your feelings but you still want to play the next anyway, I guess this model is not as profitable as ending it on a dramatic cliffhanger). The conclusion to that Sky side plot is also great. Not involving Ouroboros is a smart move, but the new villain is not really that good either. The overall plot is very grounded for the most part, which also means there are not too many dramatic moments to talk about, but with a lot to think about and analyse. 
@@ -272,12 +272,12 @@ Music: Two new composers definitely shake things up and added a lot of identity 
 
 Best tracks: Inevitable Struggle, Formidable Enemy, Zero No Kiseki
 
-#### **Trails to Azure (PC)**
+#### Trails to Azure (PC) 
 Story/plot: The characters' personal influence may fall a bit shorter, it is all made up with a much stronger main plot. The politics is even better with higher stakes than before, diving into diplomatic relationship and national security etc. Beach episode is kinda nice... only thing is massaging the girls is really disturbing, even if it is Elie. Groping scenes are horrible. The twist is worth everything. It is quite slow at the beginning but when it gets going, it DOES NOT stop. Now I will be sure to suspect everyone, even the guy who gets a freaking title theme epic speech. I was played like a fiddle, good job Falcom. In essence, this is a brilliantly executed mystery in its core, and you will only realize how tightly knit it is near the end, giving that satisfying feeling of realization. This game is one of the very few that made me care about the evil plan. But at the same time it is still a great journey for the SSS. Combined with all that and the worldbuilding, you get a duology with incredible substance and depth. Though there are still flaws but the good definitely outweighs the bad.
 
 Characters: I did not expect them to take away Randy and Tio at first, how I missed SSS. Randy finally got his arc, but actually it's just ok, not disappointing but not groundbreaking. Wazy on the other hand is ~~the Crossbell best girl all along~~ very interesting, but the bromance with Wald kinda gets in the way. I should have known coming from Tokyo Xanadu, it should not even have surprised me. Noel is just vanilla and boring, the only high point of her character is when she decided to side with CDF, it would be a lot more dramatic if she stuck with it, but anime will be anime. Elie  is just there... even Tio too. And for the love of Aidios, stop thirsting for Lloyd my girls, and this actually got worse in CS?! Rixia is whatever ~~thicc thighs saves lives~~, she looks like anything but a jaded assassin as claimed, her arc with Shirley is a bit forced too. I still don't understand why this has to be revealed in Zero, it just kills every suspension. So ironically Lloyd is the best character in this game. But SSS as a unit is what really shines and makes everything worthwhile.
 
-Cameos are great as usual, Ries actually looks better in Crossbell artstyle. And they didn't forget about Kevin! and they won't, right... Dieter is quite fine as a character, motivations and actions and all, just the back story about magic is a bit eh. Mariabell's character fully revolves around that, so it's quite lame, lamer than that is her witch outfit which looks like a bad cosplay.
+Cameos are great as usual, Ries actually looks better in Crossbell artstyle. And they didn't forget about Kevin! and they won't, right... Dieter is quite fine as a character, motivations and actions and all, just the back story about magic is a bit eh. Mariabell's character fully revolves around that, so it's quite lame, lamer than that is her witch outfit which looks like a bad cosplay. I can agree that Grimwood as a villain feels like a twist for the sake of it but you have to admit that it is funny how he change his mind from just one anime speech.
 
 Gameplay: Same old as Zero. Nothing too innovative. Master Quartz takes a bit too long to level for customization in first playthough. For some reason I am still running low on sepith even near late game, until there are no more quartz upgrades, I still think I don't have enough to fully build every playable member (this was written at the start of Azure Tree by the way, I knew nothing...). I like how the game subtly guides you to build Lloyd by taking away Randy. That final "dungeon" is actually as long as Berseria's, luckily it is about twice as bearable.
 
@@ -289,12 +289,31 @@ Music: Somehow Zero's vibe is better, maybe because there are so many ambience a
 
 Best tracks: Seize the Truth, Unfathomed Force, The Azure Arbitrator
 
-#### **Hollow Knight (PC)**
+#### Hollow Knight (PC) 
 Truly one of the classics. The hit effects is one of the best in video games, probably better than KH2 if not for the lesser variety of attacks. The details that goes into one nail swing is so intricate and made the combat experience reach another level of satisfaction. Controls are snappy and weighty, movement is so fun even the walk to boss is easily bearable. Bosses are fantastic and reminded me that I do like boss fights and keep trying. Subtle storytelling works really well for a gameplay focus game like this. 
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A | A | S+ | S+ |  |
+
+#### Xenogears (PSX) 
+I had a great time reading a synopsis of a game. I may never revisit but it deserves to be here just for being one of the greatest video game stories alone.
+
+Story/Plot: This game uses symbolism very well. IMO a story should not depend so much on other materials such that it is almost impossible to understand without deep knowledge of the referenced materials or just "get the vibes" (there are many "cult classics" that do this). This game has a lot of symbolisms, but they never get into the way of the main story and can be enjoyed easily as a perfectly decent sci-fi story. Symbolisms are only used to further bring out the themes and increase players' appreciation for the story. The story is almost like NGE, but at a much slower pace. ~~Get inside the Gear, Fei!~~ About disc 2, it is such a pity that it had to be this way, some of the scenes will be simply mindblowing if acted out. Despite all of the limitations presentation-wise, the impact from its payoff never pales in comparison with other good games, and it's all thanks to the masterfully crafted narrative in its core. Now I will wait for the dream remake like everyone else...
+
+Characters: The characters are very fleshed out and feels very human. Fei's writing is just great. All of them are like chess pieces on a chess board, playing off against each other and creating some very interesting scenarios. Very good cast of villains, there are multiple factions with different goals that also fight against one another, but it can get confusing very fast. Fei and Elly's character arcs are simply perfect.
+
+Gameplay: The combo system is pretty cool. The Gear gameplay is a lot more than expected but oddly removed from the core RPG gameplay as the Gear stats does not grow with experience, which is logical but affects the game dynamics. Most of the money goes into upgrading the gear instead of the characters themselves. Platforming is an ambitious attempt, even though it does not really work out. 
+
+Music: Now I am really liking Mitsuda's style too. I still prefer CC but this is a very solid OST overall. He is really a versatile composer. 
+
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| S+ | S | B | S- | Fei/Elly |
+
+Best tracks: Shevat ~ The Wind is Calling, Shattering Egg of Dreams, The Treasure Which Cannot Be Stolen
+
 
 ---
 
@@ -677,6 +696,7 @@ Yes. It is as good as people claimed, up there with Chrono Trigger and other tru
 | A | A | S+ | B | Weighted Companion Cube |
 
 
+
 ---
 
 ### **INTERESTING titles**
@@ -781,7 +801,7 @@ Music: This is definitely one of my favourite OSTs of all time. The OST probably
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| B- | B- | A | S+ |  |
+| B | C | A | S+ |  |
 
 Best tracks: Scars of Time, Radical Dreamers - Unstolen Jewel, The Girl who Stole the Stars
 
@@ -801,6 +821,7 @@ Music: Half of the OST including the battle themes is joke music and it is glori
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A- | A | B | A |  |
 
+
 ---
 
 ### **PRETTY nice but skippable**
@@ -816,7 +837,7 @@ Meh Persona fanfic. All the characters you love become one dimensional and are u
 Best tracks: Light the Fire Up in the Night, Lazer Beam, Friends
 
 #### Lunar: Silver Star Story (PSX)
-A cult classic within the JRPG circle. But I think it really needs that nostalgia and era factor to become a great game. It feels like the FMA:B of JRPGs, but without that extra kick that makes it a real classic. Only recommended to JRPG fans for historical purposes. Coming back from Golden Sun and DQ8 which I have dropped: Is it just me or Lunar SSS is really THAT good? How can this tropey 1998 video game beat so many games after in terms of story telling? Why do I keep thinking about and use this game as a baseline whenever I play a truly traditional RPG?
+A cult classic within the JRPG circle. But I think it really needs that nostalgia and era factor to become a great game. It feels like the FMA:B of JRPGs, but without that extra kick that makes it a real classic. Only recommended to JRPG fans for historical purposes. Coming back from Golden Sun and DQ8: Is it just me or Lunar SSS is really THAT good? How can this tropey 1998 video game beat so many games after in terms of story telling? Why do I keep thinking about and use this game as a baseline whenever I play a truly traditional RPG?
 
 Story: The most standard RPG story I have experienced so far. It can be summed up as "Hero saves the Damsel in Distress with power of love and friendship", there are no big twist too (Wow that weird looking dude who acts like your ally is definitely not a villian). Tons of animated cutscenes and voice acting adds a lot to the story. What it does great is tying its theme tightly to the main plot, although it can feel forced. For a love story, your main party consists of three (more like 2.5) couples with different dynamics and really make its point across clearly and strongly. 
 
@@ -922,7 +943,7 @@ Quintet RPG is an acquired taste, I thought I am OK with it after Terranigma but
 #### Dragon Quest VIII: Journey of the Cursed King (PS2)
 What kind of JRPG fan that has never played a DQ game? Time to fix that. I know full well I will not like the narrative  aspects of the game, just here to experience the "original" RPG vibes. Just as expected I cannot endure to the end.
 
-The director really be like "You and I know the deal, so I will not even bother to explain and off you go". There is only one cutscene without dialogue to explain the reason of this "journey". The worst part is that that really is all there's to it, no plot twist no nothing (Ok I am sure there will be more but it wont be mind breaking). The characters are all rather one dimensional, which would have been fine if their dialogue is not as bland and dry as it is. Funny accents and voice acting cannot replace good writing, as Chrono Cross have proven.
+The director really be like "You and I know the deal, so I will not even bother to explain and off you go". There is only one cutscene without dialogue to explain the reason of this "journey". The worst part is that that really is all there's to it, no plot twist no nothing (Ok I am sure there will be more but it wont be mind breaking). The characters are all rather one dimensional, which would have been fine if their dialogue is not as bland and dry as it is. Funny accents and voice acting cannot replace good writing.
 
 The series is known for raiding houses and breaking pots, but I never expected the items are so nice that it is very worth to do it everywhere. I used to think that I will find something nice to say about the music once I played but that did not happen. The only good thing about the music is that it sounded inoffensive. The style is so plain it feels like AI can generate the soundtrack. Sometimes I just feel like listen to literally any other battle theme from other games. It made Gust from Chrono Cross sound awesome, at least it was catchy! There are a lot of tracks but feels like there are only 5 tracks in total.
 
@@ -978,31 +999,39 @@ Difficulty spike when I just want to finish the game? No thanks.
 ### **NEXT UP/ONGOING**
 - Portal 2
 - Valkyria Chronicles
+- Ys SEVEN
 
 ### **INTERESTED IN**
 - Hi-Fi Rush
-- Ys SEVEN
 - Tales of Vesperia
 - Nier Automata
 - Final Fantasy Tactics
 - Ace Attorney series
 - Vagrant Story
 - Lufia 2
-- Xenogears
+- Xenosaga
 - Final Fantasy VI 2nd attempt
 
 
 ### **INTERESTED but maybe someday**
-- Xenosaga
 - Trails of Cold Steel
-- Sakuna Rice and Ruin
 - Wild Arms
 - Suikoden
-- FF7 Crisis Core
-- FF7 Remake
-- Xenoblade series (switch someday?)
+- FF7 Remake trilogy
 - The Legend of Zelda: A Link Between Worlds
+- Tales of Arise
+- Legend of Dragoon
+- Sekiro
+- Atelier Sophie
 
+### SWITCH wishlist
+- Xenoblade Chronicles
+- 13 Sentinels: Aegis Rim
+- Breath/Tears/Skyward Sword
+- Astral Chain
+- Metroid Dread?
+- FE3H?
+- Rain Code?
 
 ---
 
@@ -1017,7 +1046,7 @@ Based on overall enjoyment. Order may be different based on different aspects.
 `Berseria > Abyss > Symphonia`
 
 #### **Kingdom Hearts**
-`2FM > 1 >> Days >> BBS`
+`2FM >> 1 >> Days >> BBS`
 
 #### **Persona**
 `4 > 5 Royal > 3 >> 2:IS > Q`
