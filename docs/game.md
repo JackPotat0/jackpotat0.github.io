@@ -696,6 +696,12 @@ Yes. It is as good as people claimed, up there with Chrono Trigger and other tru
 | A | A | S+ | B | Weighted Companion Cube |
 
 
+#### Portal 2
+Literal art. The redemption arc of GlaDOS brought me to tears.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| A+ | A | S+ | B |  |
 
 ---
 
@@ -992,9 +998,6 @@ Again, non linear storytelling rarely works for me.
 #### Shadow Hearts (Progress before dropped: 95%)
 Emulator decides to erase heal/shop point right before final boss, not that I really care about the ending at that point.
 
-#### I am Setsuna (Progress before dropped: 90%) 
-Difficulty spike when I just want to finish the game? No thanks.
-
 
 ### **NEXT UP/ONGOING**
 - Portal 2
@@ -1011,16 +1014,14 @@ Difficulty spike when I just want to finish the game? No thanks.
 - Lufia 2
 - Xenosaga
 - Final Fantasy VI 2nd attempt
-
+- Grandia
 
 ### **INTERESTED but maybe someday**
 - Trails of Cold Steel
-- Wild Arms
-- Suikoden
+- Old school classics: Wild Arms, Suikoden, Breath of Fire, Legend of Dragoon, Legend of Legaia
 - FF7 Remake trilogy
 - The Legend of Zelda: A Link Between Worlds
 - Tales of Arise
-- Legend of Dragoon
 - Sekiro
 - Atelier Sophie
 
