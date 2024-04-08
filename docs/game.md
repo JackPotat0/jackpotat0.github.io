@@ -3,7 +3,7 @@
 ** Scores are ranked based on personal preferences. Very subjective.
 
 ### **ALL TIME favourites**
-*The games that changed my gaming view (i.e. ruin other games) in one way or another. Feel free to debate with me on these games.*
+*The games that changed my gaming view (i.e. ruin other games) in one way or another. *
 
 #### Kingdom Hearts 2 Final Mix (PS2)
 This game serves as my first experience to speedrunning. I found [Bl00dyBizkit's AGDQ2017 run](https://www.youtube.com/watch?v=PVjf3bc3Noo&t=4588s) when looking for Roxas strats and the rest is history. This is still my favourite speedrun of all time. I play the randomizer a lot and learnt some speedrun strats. Everything about combat in this game (aside from some questionable boss designs) is just perfect. 
@@ -315,6 +315,24 @@ Music: Now I am really liking Mitsuda's style too. I still prefer CC but this is
 Best tracks: Shevat ~ The Wind is Calling, Shattering Egg of Dreams, The Treasure Which Cannot Be Stolen
 
 
+#### Final Fantasy VI (GBA)
+The real reason I dropped my first playthrough is probably because I cannot stand the walking speed without sprint shoes. Also used a guide to get more secrets, and it actually made the game more fun.
+
+Story/Plot: What happens if the heroes fail their quest, yet the world does not end like the villains claimed? What happens to their hopes and dreams? It certainly has depth and great moments, but it does not really hit all that hard, for the first part of the setup. Then I am floored by the first sequence of World of Ruin. This story beat still has untapped potential even 30 years later. Also this has probably the second best final dungeon escape sequence of JRPGs (first is still Sky SC), and plays off with its ensemble cast. The ending is just simple and clean yet emotional. Wow. 
+
+Characters: Ensemble cast does hurt the depth a bit but the average quality is still up to standard. At least the most important characters (Terra, Locke, Edgar, Sabin, Celes, Cyan) are well developed. Locke and Cyan's stories can be a bit over imo.
+
+Gameplay: Esper system paired with fixed jobs is great. This is the kind of system that hits the right balance of set roles and customization for me. I like the custom skills for each job, we really should see more creative stuff like Blitz and Sketch. And for whatever reason this game just feels better to play for me as compared to 7 or 8. 
+
+Music: Yet another stepping stone for Uematsu's future masterpieces (and his very best up to that point). There are bangers and ok tracks. It is pretty good.
+
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| S- | A+ | A+ | S- | Terra/Celes/Sabin |
+
+Best tracks: Decisive Battle, Awakening, Celes theme 
+
 ---
 
 ### **REALLY good**
@@ -567,75 +585,6 @@ Yeah it's a genre defining classic, with endless supplies of hope and despair. G
 
 Best tracks: DANGANRONPA, Box 15, Discussion -HEAT UP- 
 
-#### Danganronpa V3: Killing Harmony
-Story/Plot: I like the story structure where only selected few are focused instead of similar screentime for almost everyone. But generally I am conflicted about the whole plot and progression especially the ending. I only really enjoyed the first case and Shuichi's arc. This time we can also see the face of MC on the side, fully defining him as his own character.
-
-<details>
-  <summary>V3-1</summary>
-  The best opening chapter in the series. Kaede is super delightful, also gives Shuichi a character arc to begin with. I can see this as 1-1 remake and unlike last time it is actually effective. Brilliant. 
-</details>
-<details>
-  <summary>V3-2</summary>
-  What the heck is that motive???? Can you at least even try??? Junko's action makes even more sense because there are real life parallels but not this one. The murder operation is starting to get a bit Conan ridiculous from here on.
-</details>
-<details>
-  <summary>V3-3</summary>
-  I was hoping to not see a double kill and my disappointment was immeasurable when it happened. Kiyo is a creep with another rather outlandish motive. Dude could have graduated if not for the second murder.
-</details>
-<details>
-  <summary>V3-4</summary>
-  I am sure this is all set up to make Gonta a murderer, and only for the shock value. I guess it had some effect on Kokichi but I am not sure. It does create a decent conflict between Shuichi and Kaito so it is not all bad I suppose.
-</details>
-<details>
-  <summary>V3-5</summary>
-  Pretty good case but feels like copying 2-5 in concept and still not as great as 2-5. 
-</details>
-<details>
-  <summary>V3-6</summary>
-  <b>"And I will avenge Kaede! I swear on her kindness and her love... and her grave that I will avenge her!"</b> and <b>"The pain in my heart is real! The pain I feel when I lose the people I love is real!"</b> got to me real good. Okay you want to end the series I get it. But what did we do to deserve such a passive agressive ending? Also Shuichi is such a gigachad here.
-</details>
-
-Characters: Similiar to DR2's approach but even more gimmicky. Focusing on a selected few means that if you hate some of them, the game becomes insufferable. My guy is done being the weakest or the outlier, instead the strongest asset in class trials. I liked Shuichi-Kaito-Maki as a trio, very sweet. Judging from the number of notable mentions you can see I don't care about this cast that much.
-
-<details>
-  <summary>Shuichi</summary>
-  My favourite protagonist in the series, Hajime is still the best protag though. His arc is just solid and has a character on its own. I find myself sometimes disagreeing with what he does.
-</details>
-<details>
-  <summary>Kaede</summary>
-  She wins as the series Best Girl (sorry Kyoko it is a very close match I swear). I just love when she is on screen. She has wonderful interactions with everyone, a very compelling motive and most importantly a strong agency only paralleled by a handful of characters in the entire series. 
-</details>
-<details>
-  <summary>Kaito</summary>
-  Actually one of the strongest portrayals of typical shounen protagonist dudebro because there is a competent rival and foil aka Kokichi. Also generally positive for character development of others.
-</details>
-<details>
-  <summary>Kokichi</summary>
-  I respect his role and importance in the story but I just cannot enjoy his character in any way. 
-</details>
-<details>
-  <summary>Maki</summary>
-  She cute. I don't think she is as bad as the fandom describes but there are definitely lots of room for improvement.
-</details>
-<details>
-  <summary>Kiibo</summary>
-  Funny guy haha. He could be so much more than he actually is. 
-</details>
-<details>
-  <summary>Kirumi</summary>
-  I expected great things. I expected Peko but improved. And it all goes down the drain. This is probably the most disappointing DR character out there. But shoutouts to trying to escape an execution. 
-</details>
-
-Gameplay: I don't like any of the new addition or changes at all except Scrum Debate, way too many gimmicks and stray away from gamifying a debate into debating with minigames. Lying bullet is interesting but can get in the way of story (another proof that Shuichi is not a self insert), having 2 solutions is also a cool addition but can be ignored really easily.
-
-Music: It is not as good as D2. Finally we have a good sad theme (Heartless Journey) for once though.
-
-| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
-| ------------- | ------------- | --------- | ------------ | --------------- |
-| A+ | A | A+ | A+ | Kaede/Shuichi/Maki |
-
-Best tracks: DANGANRONPA v3, Beautiful Lie, Discussion Space Edition
-
 #### Danganronpa Another Episode: Ultra Despair Girls
 I came for more Danganronpa, I almost left because of the antagonists, I stayed for funni Byakuya slander, then I was moved by the wholesome friendship between two girls.
 
@@ -699,9 +648,12 @@ Yes. It is as good as people claimed, up there with Chrono Trigger and other tru
 #### Portal 2
 Literal art. The redemption arc of GlaDOS brought me to tears.
 
+Portal 1 or 2: Portal 1 has the simple elegance and charm that you can only experience once. But 2 is objectively more complete and improves on everything. Both are one of a kind experiences that should not be missed. 
+
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A+ | A | S+ | B |  |
+
 
 ---
 
@@ -776,6 +728,76 @@ Music: Very atmospheric and suitable for this horror setting, but not too nice t
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | B | B | A+ | C |  |
+
+#### Danganronpa V3: Killing Harmony
+Story/Plot: I like the story structure where only selected few are focused instead of similar screentime for almost everyone. But generally I am conflicted about the whole plot and progression especially the ending. I only really enjoyed the first case and Shuichi's arc. This time we can also see the face of MC on the side, fully defining him as his own character.
+
+<details>
+  <summary>V3-1</summary>
+  The best opening chapter in the series. Kaede is super delightful, also gives Shuichi a character arc to begin with. I can see this as 1-1 remake and unlike last time it is actually effective. Brilliant. 
+</details>
+<details>
+  <summary>V3-2</summary>
+  What the heck is that motive???? Can you at least even try??? Junko's action makes even more sense because there are real life parallels but not this one. The murder operation is starting to get a bit Conan ridiculous from here on.
+</details>
+<details>
+  <summary>V3-3</summary>
+  I was hoping to not see a double kill and my disappointment was immeasurable when it happened. Kiyo is a creep with another rather outlandish motive. Dude could have graduated if not for the second murder.
+</details>
+<details>
+  <summary>V3-4</summary>
+  I am sure this is all set up to make Gonta a murderer, and only for the shock value. I guess it had some effect on Kokichi but I am not sure. It does create a decent conflict between Shuichi and Kaito so it is not all bad I suppose.
+</details>
+<details>
+  <summary>V3-5</summary>
+  Pretty good case but feels like copying 2-5 in concept and still not as great as 2-5. 
+</details>
+<details>
+  <summary>V3-6</summary>
+  <b>"And I will avenge Kaede! I swear on her kindness and her love... and her grave that I will avenge her!"</b> and <b>"The pain in my heart is real! The pain I feel when I lose the people I love is real!"</b> got to me real good. Okay you want to end the series I get it. But what did we do to deserve such a passive agressive ending? Also Shuichi is such a gigachad here.
+</details>
+
+Characters: Similiar to DR2's approach but even more gimmicky. Focusing on a selected few means that if you hate some of them, the game becomes insufferable. My guy is done being the weakest or the outlier, instead the strongest asset in class trials. I liked Shuichi-Kaito-Maki as a trio, very sweet. Judging from the number of notable mentions you can see I don't care about this cast that much.
+
+<details>
+  <summary>Shuichi</summary>
+  My favourite protagonist in the series, Hajime is still the best protag though. His arc is just solid and has a character on its own. I find myself sometimes disagreeing with what he does.
+</details>
+<details>
+  <summary>Kaede</summary>
+  She wins as the series Best Girl (sorry Kyoko it is a very close match I swear). I just love when she is on screen. She has wonderful interactions with everyone, a very compelling motive and most importantly a strong agency only paralleled by a handful of characters in the entire series. 
+</details>
+<details>
+  <summary>Kaito</summary>
+  Actually one of the strongest portrayals of typical shounen protagonist dudebro because there is a competent rival and foil aka Kokichi. Also generally positive for character development of others.
+</details>
+<details>
+  <summary>Kokichi</summary>
+  I respect his role and importance in the story but I just cannot enjoy his character in any way. 
+</details>
+<details>
+  <summary>Maki</summary>
+  She cute. I don't think she is as bad as the fandom describes but there are definitely lots of room for improvement.
+</details>
+<details>
+  <summary>Kiibo</summary>
+  Funny guy haha. He could be so much more than he actually is. 
+</details>
+<details>
+  <summary>Kirumi</summary>
+  I expected great things. I expected Peko but improved. And it all goes down the drain. This is probably the most disappointing DR character out there. But shoutouts to trying to escape an execution. 
+</details>
+
+Gameplay: I don't like any of the new addition or changes at all except Scrum Debate, way too many gimmicks and stray away from gamifying a debate into debating with minigames. Lying bullet is interesting but can get in the way of story (another proof that Shuichi is not a self insert), having 2 solutions is also a cool addition but can be ignored really easily.
+
+Music: It is not as good as D2. Finally we have a good sad theme (Heartless Journey) for once though.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| A+ | A | A+ | A+ | Kaede/Shuichi/Maki |
+
+Best tracks: DANGANRONPA v3, Beautiful Lie, Discussion Space Edition
+
 
 #### Valkyrie Profile (PS1)
 A very experimental game and a breath of fresh air into the typical JRPG scene. A one-of-a-kind experience we might not ever seen again. I expected to like this game a lot more but in the end it is just pretty good. However it deserves to be one of the JRPG classics due to its uniqueness.
@@ -1000,9 +1022,9 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 
 
 ### **NEXT UP/ONGOING**
-- Portal 2
 - Valkyria Chronicles
 - Ys SEVEN
+- Impostor Factory
 
 ### **INTERESTED IN**
 - Hi-Fi Rush
@@ -1013,7 +1035,6 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 - Vagrant Story
 - Lufia 2
 - Xenosaga
-- Final Fantasy VI 2nd attempt
 - Grandia
 
 ### **INTERESTED but maybe someday**
@@ -1024,11 +1045,12 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 - Tales of Arise
 - Sekiro
 - Atelier Sophie
+- Final Fantasy IV
 
 ### SWITCH wishlist
 - Xenoblade Chronicles
 - 13 Sentinels: Aegis Rim
-- Breath/Tears/Skyward Sword
+- Breath/Tears/Skyward Sword/LA remake
 - Astral Chain
 - Metroid Dread?
 - FE3H?
@@ -1041,7 +1063,7 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 Based on overall enjoyment. Order may be different based on different aspects.
 
 #### **Final Fantasy**
-`X > IX > VII > VIII`
+`X > IX = VI > VII > VIII`
 
 #### **Tales of**
 `Berseria > Abyss > Symphonia`
