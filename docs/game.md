@@ -318,7 +318,7 @@ Best tracks: Shevat ~ The Wind is Calling, Shattering Egg of Dreams, The Treasur
 #### Final Fantasy VI (GBA)
 The real reason I dropped my first playthrough is probably because I cannot stand the walking speed without sprint shoes. Also used a guide to get more secrets, and it actually made the game more fun.
 
-Story/Plot: What happens if the heroes fail their quest, yet the world does not end like the villains claimed? What happens to their hopes and dreams? It certainly has depth and great moments, but it does not really hit all that hard, for the first part of the setup. Then I am floored by the first sequence of World of Ruin. This story beat still has untapped potential even 30 years later. Also this has probably the second best final dungeon escape sequence of JRPGs (first is still Sky SC), and plays off with its ensemble cast. The ending is just simple and clean yet emotional. Wow. 
+Story/Plot: What happens if the heroes fail their quest, yet the world does not end like the villains claimed? What happens to their hopes and dreams? It certainly has depth and great moments, but it does not really hit all that hard, for the first part of the setup. Then I am floored by the first sequence of World of Ruin. This story beat still has untapped potential even 30 years later. Also this has probably the second best final dungeon escape sequence of JRPGs (Sky SC's is still the best), and plays off with its ensemble cast. The ending is just simple and clean yet emotional. Wow. 
 
 Characters: Ensemble cast does hurt the depth a bit but the average quality is still up to standard. At least the most important characters (Terra, Locke, Edgar, Sabin, Celes, Cyan) are well developed. Locke and Cyan's stories can be a bit over imo.
 
@@ -621,7 +621,7 @@ Best tracks: Beneath the Mask, Sunset Bridge, Blooming Villain, Take Over, Throw
 
 
 #### Ys: Memories of Celceta
-Story/Plot: The premise is a twist on the cliche amnesia trope and is actually quite interesting. Going into a new town only to be blamed is surprisingly funny and fits Adol's character well. This is the third best design for Adol after 8 and 9, the character full sprite looks really good. The weird thing is that all the towns are supposed to be secluded from other population but no one acts like so. I can see why people complaint about how this entry breaks the Ys lore, but at least there really is no major issues about the story. The ending is the laziest in the entire series for sure. But nothing is going to top Ys VIII anyways so it's alright.
+Story/Plot: The premise is a twist on the cliche amnesia trope and is actually quite interesting. Going into a new town only to be blamed is surprisingly funny and fits Adol's character well. This is the third best design for Adol after 8 and 9, the character full sprite looks really good. The weird thing is that all the towns are supposed to be secluded from other population but no one acts like so. I can see why people complaint about how this entry breaks the Ys lore, but at least there really is no major issues about the story. The ending is the laziest in the entire series for sure (Azure is only released a year before, is this a coincidence?). But nothing is going to top Ys VIII anyways so it's alright.
 
 Characters: Adol's backstory is a great addition for the entire series, building him as a simply a guy with too much curiousity. Before this he feels like just a boring adventuring machine without a mind of his own. Karna is best Ys girl after Dana, is the best status effects applicator and has good early grouping skills. She is simply too powerful for a love interest in Ys, before Dana appeared at least. I like Duren quite a bit, what a clown. I am also sure someone in the company has a serious gap moe fetish starting from the Sky era until today...
 
@@ -654,6 +654,19 @@ Portal 1 or 2: Portal 1 has the simple elegance and charm that you can only expe
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A+ | A | S+ | B |  |
 
+#### Valkyria Chronicles (PC)
+
+Story/Plot: The cutscenes are short and concise, with a lot of breaks. Good for gameplay but a bit choppy for storytelling. Ultimately, this is still a gameplay centric game than a story centric one. It is a typical war story so far in typical JRPG fashion, for example unusually talented MC that is good at unrelated field (high school training) and love interest. K drama romance is nice once in a while. The big issue is that there is very very little tension and the presentation is not helping either. The protagonist just keeps winning (cuz gameplay, even I would think twice to have forced defeat after many turns of gameplay for plot reasons. Maybe do a forced combat segment/cutscene is better), even the losses only occurs offscreen. The cutscene structure is actively hurting one of the emotional moments. But it still tells a decent and complete story.
+
+Characters: Welkin is pretty funny when he is not doing anime MC things. All the characters are pretty grounded and normal (read 2 dimensional). There are character arcs for the squad but all are quite lacking in depth. I really like Alicia's design.
+
+Gameplay: Save scumming is godsave and scouts are OP. The artstyle and aesthetic is great. Trying to play the game as intended is the real challenge, which is ironic to say the least.
+
+Music: It is Sakimoto and his typical orchestra. Not to diss on his other higher profile works but this is pretty generic.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| A- | A- | A | B+ | Alicia |
 
 ---
 
@@ -1022,13 +1035,12 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 
 
 ### **NEXT UP/ONGOING**
-- Valkyria Chronicles
 - Ys SEVEN
-- Impostor Factory
+- Yakuza: Like A Dragon
+- Tales of Vesperia
 
 ### **INTERESTED IN**
 - Hi-Fi Rush
-- Tales of Vesperia
 - Nier Automata
 - Final Fantasy Tactics
 - Ace Attorney series
@@ -1036,6 +1048,8 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 - Lufia 2
 - Xenosaga
 - Grandia
+- Earthbound
+- Grandblue Fantasy Relink
 
 ### **INTERESTED but maybe someday**
 - Trails of Cold Steel
