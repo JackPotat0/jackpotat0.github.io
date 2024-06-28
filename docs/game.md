@@ -632,7 +632,7 @@ Music: This is why I will always want more Falcom (and hopefully not robbed in t
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| A- | A | A | S | Karna |
+| B | A | A | S | Karna |
 
 Best tracks: Gust of Wind, The Foliage Ocean in Celceta, Black Wings
 
@@ -642,7 +642,7 @@ Yes. It is as good as people claimed, up there with Chrono Trigger and other tru
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| A | A | S+ | B | Weighted Companion Cube |
+| B | A | S+ | B | Weighted Companion Cube |
 
 
 #### Portal 2
@@ -933,6 +933,16 @@ It feels like a Tales game, but only the base structure and nothing else. Dungeo
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | C | D | A+ | A |  |
 
+#### Ys SEVEN
+Instead of Ys 8 beta, this game feels more like Napishtim 3D. Once you accept this fact and accept all its quirk including but not limited to: all the annoying stuff in Celceta, semi-reliable guard and strict level scaling, very stingy SP; you can just play this like the Napishtim engine games but jankier, though this does add extra layer of strategy that doesnt exist in later entries. For example since it is so easy to get stunlocked, you need to switch character just to distract the boss so the stunned person doesnt get deleted. You also need to carefully plan and use skills instead of spamming like in the later games.
+But overall I really regret picking Hard for first playthrough, it is simply not rewarding. The amount of polish in Ys VIII is truly a miracle coming from SEVEN and Celceta. 
+
+They chose not to have a definitive love interest which is fine, but they dont even try to make the new guests become too  likable, that is just weird. Music wise is rather meh for Falcom imo. As the first game with playable Dogi, he deserved a better sprite art and kit than this. One interesting thing about this game is its FF9-like weapon skills system, though that can prove to be annoying as now I am "forced" to buy weapons when I see to not lose out on possible kit improvements.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| C | C | A | A+ |  |
+
 ---
 
 ### **MEH**
@@ -1089,7 +1099,7 @@ Based on overall enjoyment. Order may be different based on different aspects.
 `4 > 5 Royal > 3 >> 2:IS > Q`
 
 #### **Ys**
-`Lacrimosa of Dana >> Origin > Oath in Felghana >= Memories of Celceta > Ark of Napishtim > Ys I+II`
+`Lacrimosa of Dana >> Origin > Oath in Felghana >= Memories of Celceta > SEVEN > Ark of Napishtim > Ys I+II`
 
 #### **Zelda**
 `The Wind Waker > Twilight Princess > A Link to the Past > The Minish Cap > Ocarina of Time > Majora's Mask`
