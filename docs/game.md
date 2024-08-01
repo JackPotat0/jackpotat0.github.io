@@ -318,7 +318,7 @@ Best tracks: Shevat ~ The Wind is Calling, Shattering Egg of Dreams, The Treasur
 #### Final Fantasy VI (GBA)
 The real reason I dropped my first playthrough is probably because I cannot stand the walking speed without sprint shoes. Also used a guide to get more secrets, and it actually made the game more fun.
 
-Story/Plot: What happens if the heroes fail their quest, yet the world does not end like the villains claimed? What happens to their hopes and dreams? It certainly has depth and great moments, but it does not really hit all that hard, for the first part of the setup. Then I am floored by the first sequence of World of Ruin. This story beat still has untapped potential even 30 years later. Also this has probably the second best final dungeon escape sequence of JRPGs (Sky SC's is still the best), and plays off with its ensemble cast. The ending is just simple and clean yet emotional. Wow. 
+Story/Plot: What happens if the heroes fail their quest to save the world, yet the world does not end like the villains claimed? What happens to their hopes and dreams? It certainly has depth and great moments, but it does not really hit all that hard, for the first part of the setup. Then I am floored by the first sequence of World of Ruin. This story beat still has untapped potential even 30 years later. Also this has probably the second best final dungeon escape sequence of JRPGs (Sky SC's is still the best), and plays off with its ensemble cast. The ending is just simple and clean yet emotional. Wow. 
 
 Characters: Ensemble cast does hurt the depth a bit but the average quality is still up to standard. At least the most important characters (Terra, Locke, Edgar, Sabin, Celes, Cyan) are well developed. Locke and Cyan's stories can be a bit over imo.
 
@@ -332,6 +332,17 @@ Music: Yet another stepping stone for Uematsu's future masterpieces (and his ver
 | S- | A+ | A+ | S- | Terra/Celes/Sabin |
 
 Best tracks: Decisive Battle, Awakening, Celes theme 
+
+#### Granblue Fantasy Relink
+The triple A Ys game I always wanted. This may be the game that tops KH2 combat for me. Story is impressive in its own way - it simply keeps all the good parts and cut out all the fat in a JRPG. We are here for the cheese and action. No time is wasted on characterization; there is a damsel and there are her knights, and that is enough, sometimes no reason is required. Somehow this clicked but not DQ, maybe presentation played a big part here.
+
+Almost all characters are fun to play in their own way, even they may have similiar base mechanics, every character is still quite different. Combat is fluid and simple to understand with surprising depth and variety. Music is by Tsutomu Narita, one of the veteran FF arrangers. The OST is a good balance of traditional JRPG sound and cinematic sound. 
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| A+ | B | S+ | S- | Katalina/Zeta |
+
+Best tracks: Vow and Promise, Main Theme - Part 2, Final Judgement
 
 ---
 
@@ -934,7 +945,7 @@ It feels like a Tales game, but only the base structure and nothing else. Dungeo
 | C | D | A+ | A |  |
 
 #### Ys SEVEN
-Instead of Ys 8 beta, this game feels more like Napishtim 3D. Once you accept this fact and accept all its quirk including but not limited to: all the annoying stuff in Celceta, semi-reliable guard and strict level scaling, very stingy SP; you can just play this like the Napishtim engine games but jankier, though this does add extra layer of strategy that doesnt exist in later entries. For example since it is so easy to get stunlocked, you need to switch character just to distract the boss so the stunned person doesnt get deleted. You also need to carefully plan and use skills instead of spamming like in the later games.
+Instead of Ys 8 beta, this game feels more like Napishtim 3D. Once you accept this fact and accept all its quirk including but not limited to: all the annoying stuff in Celceta, semi-reliable guard, strict level scaling and very stingy SP; you can just play this like the Napishtim engine games but jankier, though this does add extra layer of strategy that doesnt exist in later entries. For example since it is so easy to get stunlocked, you need to switch character just to distract the boss so the stunned person doesnt get deleted. You also need to carefully plan and use skills instead of spamming like in the later games.
 But overall I really regret picking Hard for first playthrough, it is simply not rewarding. The amount of polish in Ys VIII is truly a miracle coming from SEVEN and Celceta. 
 
 They chose not to have a definitive love interest which is fine, but they dont even try to make the new guests become too  likable, that is just weird. Music wise is rather meh for Falcom imo. As the first game with playable Dogi, he deserved a better sprite art and kit than this. One interesting thing about this game is its FF9-like weapon skills system, though that can prove to be annoying as now I am "forced" to buy weapons when I see to not lose out on possible kit improvements.
@@ -1045,13 +1056,14 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 
 
 ### **NEXT UP/ONGOING**
-- Ys SEVEN
 - Yakuza: Like A Dragon
 - Tales of Vesperia
+- Nier Automata
+- Disco Elysium
+- Final Fantasy IV
 
 ### **INTERESTED IN**
 - Hi-Fi Rush
-- Nier Automata
 - Final Fantasy Tactics
 - Ace Attorney series
 - Vagrant Story
@@ -1059,17 +1071,15 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 - Xenosaga
 - Grandia
 - Earthbound
-- Grandblue Fantasy Relink
 
 ### **INTERESTED but maybe someday**
 - Trails of Cold Steel
-- Old school classics: Wild Arms, Suikoden, Breath of Fire, Legend of Dragoon, Legend of Legaia
+- Breath of Fire II
 - FF7 Remake trilogy
 - The Legend of Zelda: A Link Between Worlds
 - Tales of Arise
 - Sekiro
 - Atelier Sophie
-- Final Fantasy IV
 
 ### SWITCH wishlist
 - Xenoblade Chronicles
