@@ -6,7 +6,7 @@
 *The games that changed my gaming view (i.e. ruin other games) in one way or another. *
 
 #### Kingdom Hearts 2 Final Mix (PS2)
-This game serves as my first experience to speedrunning. I found [Bl00dyBizkit's AGDQ2017 run](https://www.youtube.com/watch?v=PVjf3bc3Noo&t=4588s) when looking for Roxas strats and the rest is history. This is still my favourite speedrun of all time. I play the randomizer a lot and learnt some speedrun strats. Everything about combat in this game (aside from some questionable boss designs) is just perfect. 
+This game serves as my first experience to speedrunning. I found [Bl00dyBizkit's AGDQ2017 run](https://www.youtube.com/watch?v=PVjf3bc3Noo) when looking for Roxas strats and the rest is history. This is still my favourite speedrun of all time. I play the randomizer a lot and learnt some speedrun strats. Everything about combat in this game (aside from some questionable boss designs) is just perfect. 
 
 Story/Plot: The prologue is amazing. In just a few hours you are connected to one of the best written character in the series, then it's all downhill from there. Disney worlds are meh, didnt really teach Sora anything personally. Nobody lore is alright. Organization XIII works just enough for evil corporation but nothing memorable. The ending execution is pretty good though. ~~They could have ended KH right there~~. The only three story beats in the game I cared are the prologue, battle with Roxas and the ending. 
 
@@ -873,6 +873,16 @@ Music: Half of the OST including the battle themes is joke music and it is glori
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A- | A | B | A |  |
 
+#### Final Fantasy IV (PSP)
+The plot is actually super fast paced, feels like a lot has happened in only a few hours. It is very plain compared to anything even FFVI but it is a huge improvement over FFIII. All the party members has some kind of relevance to the story and that is really good (@ Gogo and Umaro and Amarant). Sacrifice plot is used too much that it loses meaning as the game goes on. 
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| A- | B | B | A | Rydia |
+
+Best tracks: Theme of Love, Battle Theme 2, Airship theme
+
+
 
 ---
 
@@ -953,6 +963,7 @@ They chose not to have a definitive love interest which is fine, but they dont e
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | C | C | A | A+ |  |
+
 
 ---
 
@@ -1060,32 +1071,34 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 - Tales of Vesperia
 - Nier Automata
 - Disco Elysium
-- Final Fantasy IV
 
 ### **INTERESTED IN**
 - Hi-Fi Rush
 - Final Fantasy Tactics
 - Ace Attorney series
 - Vagrant Story
-- Lufia 2
-- Xenosaga
 - Grandia
 - Earthbound
+- Valkyrie Profile 2nd attempt
+- Breath of Fire II
 
 ### **INTERESTED but maybe someday**
 - Trails of Cold Steel
-- Breath of Fire II
 - FF7 Remake trilogy
 - The Legend of Zelda: A Link Between Worlds
 - Tales of Arise
 - Sekiro
 - Atelier Sophie
+- Lufia 2
+- Xenosaga
 
 ### SWITCH wishlist
 - Xenoblade Chronicles
 - 13 Sentinels: Aegis Rim
+- Odin Sphere Leifthrasir
 - Breath/Tears/Skyward Sword/LA remake
 - Astral Chain
+- TWEWY Final Remix
 - Metroid Dread?
 - FE3H?
 - Rain Code?
@@ -1097,7 +1110,7 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 Based on overall enjoyment. Order may be different based on different aspects.
 
 #### **Final Fantasy**
-`X > IX = VI > VII > VIII`
+`X > IX = VI > VII > VIII > IV`
 
 #### **Tales of**
 `Berseria > Abyss > Symphonia`
