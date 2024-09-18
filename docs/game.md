@@ -874,7 +874,7 @@ Music: Half of the OST including the battle themes is joke music and it is glori
 | A- | A | B | A |  |
 
 #### Final Fantasy IV (PSP)
-The plot is actually super fast paced, feels like a lot has happened in only a few hours. It is very plain compared to anything even FFVI but it is a huge improvement over FFIII. All the party members has some kind of relevance to the story and that is really good (@ Gogo and Umaro and Amarant). Sacrifice plot is used too much that it loses meaning as the game goes on. 
+The plot is actually super fast paced, feels like a lot has happened in only a few hours. It is very plain compared to anything even FFVI but it is a huge improvement over FFIII. All the party members has some kind of relevance to the story and that is really good (@ Gogo and Umaro and Amarant). Sacrifice plot is used too much that it loses meaning as the game goes on. The main plot is probably a subversion of the crystal collecting trope from the previous games, instead of collect them all the protagonist loses them all.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -882,8 +882,16 @@ The plot is actually super fast paced, feels like a lot has happened in only a f
 
 Best tracks: Theme of Love, Battle Theme 2, Airship theme
 
+#### Disco Elysium
+This game is a hit or miss. The game makes it more than it actually is. The process is fun, but the "open" ending basically denied all my assumptions about this game. I really thought I would need to pick a side and see how my stance affects the case and there was a time limit before the town goes down. I can accept the ending, just not how it played out. Kim is trying to end the case and literally trying to frame the guy, which I feel like it is another red herring but is actually not. In the end this game is more free and sandboxy than suggested and I should have fooled around more? But I would not have known this in the first playthrough.
 
+Maybe I am just too busy trying to minmax and getting pass checks. Who knows maybe I am playing this game wrong.
 
+There are so many interesting lore to explore, it does feel like a waste but if it is all a backdrop to the main quest then sure whatever. it is hard to believe that all this effort is only used as a background and treasure for those lorehunters. The voice acting is top notch. The writing is immersive and believable and it is the game's greatest strength. I also think this kind of prerendered background style (?) is a great artistic choice, just a bit hard to see where to walk. Allowing softlocking i.e. not having money to sleep at night is just illegal, no modern game should do that other than for artistic purpose and not by player's inaction. 
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| S | S | A- | A+ | Kim |
 ---
 
 ### **PRETTY nice but skippable**
@@ -1070,7 +1078,6 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 - Yakuza: Like A Dragon
 - Tales of Vesperia
 - Nier Automata
-- Disco Elysium
 
 ### **INTERESTED IN**
 - Hi-Fi Rush
@@ -1091,6 +1098,7 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 - Atelier Sophie
 - Lufia 2
 - Xenosaga
+- Sakuna
 
 ### SWITCH wishlist
 - Xenoblade Chronicles
