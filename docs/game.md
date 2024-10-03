@@ -336,7 +336,7 @@ Best tracks: Decisive Battle, Awakening, Celes theme
 #### Granblue Fantasy Relink
 The triple A Ys game I always wanted. This may be the game that tops KH2 combat for me. Story is impressive in its own way - it simply keeps all the good parts and cut out all the fat in a JRPG. We are here for the cheese and action. No time is wasted on characterization; there is a damsel and there are her knights, and that is enough, sometimes no reason is required. Somehow this clicked but not DQ, maybe presentation played a big part here.
 
-Almost all characters are fun to play in their own way, even they may have similiar base mechanics, every character is still quite different. Combat is fluid and simple to understand with surprising depth and variety. Music is by Tsutomu Narita, one of the veteran FF arrangers. The OST is a good balance of traditional JRPG sound and cinematic sound. 
+Almost all characters are fun to play in their own way, even they may have similiar base mechanics, every character is still quite different. Combat is fluid and simple to understand with surprising depth and variety. Music is by Tsutomu Narita, one of the veteran FF arrangers. The OST is a good balance of traditional JRPG sound and cinematic sound. Vow and Promise tickled all the right places in my Falcom fanboy brain in the first second.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -892,6 +892,14 @@ There are so many interesting lore to explore, it does feel like a waste but if 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | S | S | A- | A+ | Kim |
+
+#### EarthBound
+Trippy, wacky and charming in one.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| B | B | C | A+ |  |
+
 ---
 
 ### **PRETTY nice but skippable**
@@ -1078,16 +1086,16 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 - Yakuza: Like A Dragon
 - Tales of Vesperia
 - Nier Automata
+- Final Fantasy Tactics
 
 ### **INTERESTED IN**
 - Hi-Fi Rush
-- Final Fantasy Tactics
 - Ace Attorney series
 - Vagrant Story
 - Grandia
-- Earthbound
 - Valkyrie Profile 2nd attempt
 - Breath of Fire II
+- Alundra
 
 ### **INTERESTED but maybe someday**
 - Trails of Cold Steel
@@ -1104,7 +1112,7 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 - Xenoblade Chronicles
 - 13 Sentinels: Aegis Rim
 - Odin Sphere Leifthrasir
-- Breath/Tears/Skyward Sword/LA remake
+- Breath/Tears/Skyward Sword/LA remake/Echoes
 - Astral Chain
 - TWEWY Final Remix
 - Metroid Dread?
