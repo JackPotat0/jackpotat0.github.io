@@ -893,7 +893,7 @@ There are so many interesting lore to explore, it does feel like a waste but if 
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | S | S | A- | A+ | Kim |
 
-#### EarthBound
+#### EarthBound (SNES)
 Trippy, wacky and charming in one.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
@@ -1041,6 +1041,14 @@ The series is known for raiding houses and breaking pots, but I never expected t
 | C | B | A | C |  |
 
 
+#### Mother (GBA)
+Map is way too big for walking speed, had to hold turbo for the entire game. GBA ported audio is extra crappy. Great to see all the source of callbacks in EarthBound though. EarthBound is more like a remix of this game. Only recommended playing for research purposes or completion's sake.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| B | B | C | A+ |  |
+
+
 ---
 
 ### **DROPPED**
@@ -1087,6 +1095,8 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 - Tales of Vesperia
 - Nier Automata
 - Final Fantasy Tactics
+- Mother (GBA)
+- Mother 3 (GBA)
 
 ### **INTERESTED IN**
 - Hi-Fi Rush
@@ -1095,7 +1105,7 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 - Grandia
 - Valkyrie Profile 2nd attempt
 - Breath of Fire II
-- Alundra
+- Lunar: Eternal Blue
 
 ### **INTERESTED but maybe someday**
 - Trails of Cold Steel
@@ -1149,3 +1159,5 @@ Based on overall enjoyment. Order may be different based on different aspects.
 #### **Danganronpa**
 `2 > UDG > 1 > V3`
 
+#### **Mother**
+`EarthBound >> Mother 1`
