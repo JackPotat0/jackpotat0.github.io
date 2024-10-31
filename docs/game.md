@@ -679,6 +679,13 @@ Music: It is Sakimoto and his typical orchestra. Not to diss on his other higher
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A- | A- | A | B+ | Alicia |
 
+#### Indivisible (PC)
+Cartoonish plotline. I like all the south eastern influences. The Tales-like opening is actually really good. Ajna's arc is a lot like Luke's (his is probably still better), and I am all for it. I am not expecting Hiroki Kikota as the composer at all (no wonder the soundtrack is so melodic for a western game).
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| A- | A- | S- | A |  |
+
 ---
 
 ### **INTERESTING titles**
@@ -1042,7 +1049,7 @@ The series is known for raiding houses and breaking pots, but I never expected t
 
 
 #### Mother (GBA)
-Map is way too big for walking speed, had to hold turbo for the entire game. GBA ported audio is extra crappy. Great to see all the source of callbacks in EarthBound though. EarthBound is more like a remix of this game. Only recommended playing for research purposes or completion's sake.
+Map is way too big for walking speed, had to hold turbo for the entire game. GBA ported audio is extra crappy. Great to see all the source of callbacks in EarthBound though. EarthBound is more like a remix of this game. Only recommended for research purposes or completion's sake.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -1095,8 +1102,8 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 - Tales of Vesperia
 - Nier Automata
 - Final Fantasy Tactics
-- Mother (GBA)
 - Mother 3 (GBA)
+- Indivisible
 
 ### **INTERESTED IN**
 - Hi-Fi Rush
@@ -1117,6 +1124,9 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 - Lufia 2
 - Xenosaga
 - Sakuna
+- Metal Gear Solid
+- Castlevania: Symphony of the Night
+- Super Metroid
 
 ### SWITCH wishlist
 - Xenoblade Chronicles
