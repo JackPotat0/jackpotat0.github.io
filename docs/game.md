@@ -344,6 +344,25 @@ Almost all characters are fun to play in their own way, even they may have simil
 
 Best tracks: Vow and Promise, Main Theme - Part 2, Final Judgement
 
+#### Mother 3 (GBA)
+Magical. This is why I play video games. Also obligatory fuck capitalism.
+
+Story/Plot: The first hour already blew me away with its concise, effective writing and subversion of expectations (from EarthBound). Its presentation is way better than most GBA games. A bit less wacky compared to EarthBound. Overall still very charming. All the well crafted scenarios really help me fill in the emotional gaps myself. Act 3 started a bit abruptly, but that is a very minor complaint. The final sequence is great.
+
+Characters: Flint is quite fitting as a silent protagonist with the usual stoic dad archetype. Though for self insertion sake Lucas had to be silent, but I really want him to emote more and talk more. 
+
+Gameplay: Autorun is fantastic, more games should have this. Early chapter boss fights are all decently hard due to not having reliable healing methods. Rhythm combat is very vague, but it is actually important to master so fights dont take forever. Unlike the previous games, boss fights actually requires strategy and rewards good strategy very well. Rolling HP adds another layer of decision making of whether to get to the next actions quicker or spend time hitting combos doing extra damage. Difficulty spikes are everywhere, sometimes require hardcore grinding to get past bosses with lesser pain.
+
+Music: Wow GBA can actually have good sound. So far it is not as immediately memorable like the earlier titles but all are quite chill. Rhythm combat really forces you to listen to the battle themes carefully, and easily immerse you into combat. Some tunes are easier than others, at least the boss themes are quite catchy. 
+
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| S- | A | S- | S- | Lucas |
+
+Best tracks: Mother 3 Love Theme, Unfounded Revenge, Happy Town?
+
+
 ---
 
 ### **REALLY good**
@@ -1102,8 +1121,6 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 - Tales of Vesperia
 - Nier Automata
 - Final Fantasy Tactics
-- Mother 3 (GBA)
-- Indivisible
 
 ### **INTERESTED IN**
 - Hi-Fi Rush
@@ -1121,12 +1138,12 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 - Tales of Arise
 - Sekiro
 - Atelier Sophie
-- Lufia 2
 - Xenosaga
-- Sakuna
+- Sakuna: Of Rice and Ruin
 - Metal Gear Solid
 - Castlevania: Symphony of the Night
 - Super Metroid
+- Mass Effect Trilogy
 
 ### SWITCH wishlist
 - Xenoblade Chronicles
@@ -1170,4 +1187,4 @@ Based on overall enjoyment. Order may be different based on different aspects.
 `2 > UDG > 1 > V3`
 
 #### **Mother**
-`EarthBound >> Mother 1`
+`Mother 3 > EarthBound >> Mother 1`
