@@ -75,13 +75,6 @@ The plot is refreshing and engaging and heavily theme/character driven. Almost e
 Best tracks: Shout Your Soul, True Will, Eleanor's Theme
 
 
-#### Bug Fables: The Everlasting Sapling (PC) 
-A simple story does not mean that it is not meaningful or bad. The main cast only consists of three characters and the story is their adventure to obtain a treasure. But this gives substantial development and attachment for all three of them. Their conversation feels like real people are role playing the characters and NPCs. Paper Mario style gameplay is great, giving an easy way to wreck the game is great for turn based noob like me (All hail Weak Stomach). The OST is definitely inspired from Mario and similiar genres, a composer that should be watched with great interest. Done some runs before.
-
-| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
-| ------------- | ------------- | --------- | ------------ | --------------- |
-| A | S+ | S | S | Vi/Kabbu/Leif |
-
 Best tracks: Team, This One's Stronger!, FIGHT!, Team, It's Getting Serious!
 
 #### Trails in the Sky FC+SC (PSP) (I consider as one story split into two games)  
@@ -100,20 +93,6 @@ Best tracks: Team, This One's Stronger!, FIGHT!, Team, It's Getting Serious!
 
 Best tracks: Confessions, Sophiscated Fight, Whereabouts of Stars, The Fate of the Fairies, Whereabouts of Hope, Shine of Aidios
 
-#### Final Fantasy IX (PS1) 
-I am struggling to decide whether to put this here or the next category initially but it deserves to be here. I had been blinded by the internet that this is not for me, and is that WRONG. This could easily be my favourite FF if I had played this before FFX (though FFX is still the better introductory FF imo). This is a really solid game without a lot to complain.
-
-Garnet/Dagger is written wonderfully and acts like a real 16 year old girl under the circumstances. Zidane is a refreshing protagonist as he is a largely developed character at the beginning and has a nice arc wrapping up his character near the end. The other characters also stayed as relevant for as long as possible (maybe not Amarant, he is definitely the weakest in the narative, only act as a foil to Zidane's ideals). **Vivi is precious and must be protected.** The theme of life and its purpose is quite timeless and thought provoking.
-
-I liked how everyone has a fixed role that cannot be changed. Getting new equipments is exciting with the weapon ability system. The slow load times and long animations are real but can be easily solved with emulator speedups (and I believe the battle theme is synced to the long battle loads). The world map is easy to navigate and the encounter rate is really acceptable. Quina is the first blue mage I used extensively (7=I don't like Cait Sith, 8=I don't do encounters after getting No-Enc from Diablos, 10=Kimahri and blue magic is just useless most of the time.). The only complaint about it is the Trance system with too much randomness (I didn't even see Eiko Trance once, at this point just remove it lol).
-
-Soundtrack wise I still prefer FFVII and FFVIII's OST but still a slight win over FFX OST overall. And I like some dungeon music (Mount Gulug), which is a rare case for me. Melodies of Life is also a great motif and used with a lot of care. 
-
-| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
-| ------------- | ------------- | --------- | ------------ | --------------- |
-| S | S | S- | S | Zidane/Garnet/Vivi |
-
-Best tracks: Battle 1, Freya's Theme, Rose of May, Melodies of Life
 
 #### Ys VIII: Lacrimosa of Dana (PC) 
 Ys series has come a long way.
@@ -253,6 +232,81 @@ Music: There is *Welcome to DANGAN Island* in this OST and it is automatically t
 
 Best tracks: Ikoroshia, Welcome to DANGAN Island, Beautiful Ruin (Summer Salt)
 
+
+#### Final Fantasy VI (GBA)
+The real reason I dropped my first playthrough is probably because I cannot stand the walking speed without sprint shoes. Also used a guide to get more secrets, and it actually made the game more fun.
+
+Story/Plot: What happens if the heroes fail their quest to save the world, yet the world does not end like the villains claimed? What happen to their hopes and dreams? It certainly has depth and great moments, but it does not really hit all that hard, for the first part of the setup. Then I am floored by the first sequence of World of Ruin. This story beat still has untapped potential even 30 years later. Also this has probably the second best final dungeon escape sequence of JRPGs (Sky SC's is still the best), and plays off with its ensemble cast. The ending is just simple and clean yet emotional. Wow. 
+
+Characters: Ensemble cast does hurt the depth a bit but the average quality is still up to standard. At least the most important characters (Terra, Locke, Edgar, Sabin, Celes, Cyan) are well developed. Locke and Cyan's stories can be a bit over imo.
+
+Gameplay: Esper system paired with fixed jobs is great. This is the kind of system that hits the right balance of set roles and customization for me. I like the custom skills for each job, we really should see more creative stuff like Blitz and Sketch. And for whatever reason this game just feels better to play for me as compared to 7 or 8. 
+
+Music: Yet another stepping stone for Uematsu's future masterpieces (and his very best up to that point). There are bangers and ok tracks. It is pretty good.
+
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| S- | A+ | A+ | S- | Terra/Celes/Sabin |
+
+Best tracks: Decisive Battle, Awakening, Celes theme 
+
+
+#### Mother 3 (GBA)
+Magical. This is why I play video games. Also obligatory fuck capitalism.
+
+Story/Plot: The first hour already blew me away with its concise, effective writing and subversion of expectations (from EarthBound). Its presentation is way better than most GBA games. A bit less wacky compared to EarthBound. Overall still very charming. All the well crafted scenarios really help me fill in the emotional gaps myself. Act 3 started a bit abruptly, but that is a very minor complaint. The final sequence is great.
+
+Characters: Flint is quite fitting as a silent protagonist with the usual stoic dad archetype. Though for self insertion sake Lucas had to be silent, but I really want him to emote more and talk more. 
+
+Gameplay: Autorun is fantastic, more games should have this. Early chapter boss fights are all decently hard due to not having reliable healing methods. Rhythm combat is very vague, but it is actually important to master so fights dont take forever. Unlike the previous games, boss fights actually requires strategy and rewards good strategy very well. Rolling HP adds another layer of decision making of whether to get to the next actions quicker or spend time hitting combos doing extra damage. Difficulty spikes are everywhere, sometimes require hardcore grinding to get past bosses with lesser pain.
+
+Music: Wow GBA can actually have good sound. So far it is not as immediately memorable like the earlier titles but all are quite chill. Rhythm combat really forces you to listen to the battle themes carefully, and easily immerse you into combat. Some tunes are easier than others, at least the boss themes are quite catchy. 
+
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| S- | A | S- | S- | Lucas |
+
+Best tracks: Monkey Delivery Service, Unfounded Revenge, Happy Town?
+
+---
+
+### **MAN**
+*The exceptional games that did not change my world, but I will always remember these games fondly*
+
+#### Bug Fables: The Everlasting Sapling (PC) 
+A simple story does not mean that it is not meaningful or bad. The main cast only consists of three characters and the story is their adventure to obtain a treasure. But this gives substantial development and attachment for all three of them. Their conversation feels like real people are role playing the characters and NPCs. Paper Mario style gameplay is great, giving an easy way to wreck the game is great for turn based noob like me (All hail Weak Stomach). The OST is definitely inspired from Mario and similiar genres, a composer that should be watched with great interest. Done some runs before.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| A | S+ | S | S | Vi/Kabbu/Leif |
+
+
+#### Final Fantasy IX (PS1) 
+I am struggling to decide whether to put this here or the next category initially but it deserves to be here. I had been blinded by the internet that this is not for me, and is that WRONG. This could easily be my favourite FF if I had played this before FFX (though FFX is still the better introductory FF imo). This is a really solid game without a lot to complain.
+
+Garnet/Dagger is written wonderfully and acts like a real 16 year old girl under the circumstances. Zidane is a refreshing protagonist as he is a largely developed character at the beginning and has a nice arc wrapping up his character near the end. The other characters also stayed as relevant for as long as possible (maybe not Amarant, he is definitely the weakest in the narative, only act as a foil to Zidane's ideals). **Vivi is precious and must be protected.** The theme of life and its purpose is quite timeless and thought provoking.
+
+I liked how everyone has a fixed role that cannot be changed. Getting new equipments is exciting with the weapon ability system. The slow load times and long animations are real but can be easily solved with emulator speedups (and I believe the battle theme is synced to the long battle loads). The world map is easy to navigate and the encounter rate is really acceptable. Quina is the first blue mage I used extensively (7=I don't like Cait Sith, 8=I don't do encounters after getting No-Enc from Diablos, 10=Kimahri and blue magic is just useless most of the time.). The only complaint about it is the Trance system with too much randomness (I didn't even see Eiko Trance once, at this point just remove it lol).
+
+Soundtrack wise I still prefer FFVII and FFVIII's OST but still a slight win over FFX OST overall. And I like some dungeon music (Mount Gulug), which is a rare case for me. Melodies of Life is also a great motif and used with a lot of care. 
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| S | S | S- | S | Zidane/Garnet/Vivi |
+
+Best tracks: Battle 1, Freya's Theme, Rose of May, Melodies of Life
+
+
+#### Hollow Knight (PC) 
+Truly one of the classics. The hit effects is one of the best in video games, probably better than KH2 if not for the lesser variety of attacks. The details that goes into one nail swing is so intricate and made the combat experience reach another level of satisfaction. Controls are snappy and weighty, movement is so fun even the walk to boss is easily bearable. Bosses are fantastic and reminded me that I do like boss fights and keep trying. Subtle storytelling works really well for a gameplay focus game like this. 
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| A | A | S+ | S+ |  |
+
+
 #### Trails from Zero (PC) 
 It is worth the wait. This is the game that gets better the more you think about.
 
@@ -264,13 +318,14 @@ The other cast are just as fleshed out, especially all the other allies. The ant
 
 Gameplay: I lost at the first boss fight, the kids die in 3 hits. The game can be ass at times and force you to retry with correct gears, but it has no weird difficulty spikes like in Sky SC. Generally good balancing, Combo Craft is a nice rework from Sky SC, adds a lot of identity. Max Advantage Preemptive speeds up mob fights a lot faster. 
 
-Music: Two new composers definitely shake things up and added a lot of identity to this OST, maybe this OST is the more "Falcom"-ey one as compared to Sky's jazzy vibes (I need more Saki Momiyama but too bad she left after CSII). Way of Life motif is very addicting. Possibly has the best collection of battle themes in the series (too bad Arrival Existence is nowhere close to masterpiece, else there would be no doubt).
+Music: Two new composers definitely shake things up and added a lot of identity to this OST, maybe this OST is the more "Falcom"-ey one as compared to Sky's jazzy vibes (I need more Saki Momiyama but too bad she left after CSII). Way of Life motif is very addicting. Possibly has the best collection of battle themes in the series (too bad Arrival Existence is nowhere close to masterpiece, else there would be no doubt). 
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | S | S- | S | S+ | Lloyd/Elie/Tio/Randy |
 
 Best tracks: Inevitable Struggle, Formidable Enemy, Zero No Kiseki
+
 
 #### Trails to Azure (PC) 
 Story/plot: The characters' personal influence may fall a bit shorter, it is all made up with a much stronger main plot. The politics is even better with higher stakes than before, diving into diplomatic relationship and national security etc. Beach episode is kinda nice... only thing is massaging the girls is really disturbing, even if it is Elie. Groping scenes are horrible. The twist is worth everything. It is quite slow at the beginning but when it gets going, it DOES NOT stop. Now I will be sure to suspect everyone, even the guy who gets a freaking title theme epic speech. I was played like a fiddle, good job Falcom. In essence, this is a brilliantly executed mystery in its core, and you will only realize how tightly knit it is near the end, giving that satisfying feeling of realization. This game is one of the very few that made me care about the evil plan. But at the same time it is still a great journey for the SSS. Combined with all that and the worldbuilding, you get a duology with incredible substance and depth. Though there are still flaws but the good definitely outweighs the bad.
@@ -288,13 +343,6 @@ Music: Somehow Zero's vibe is better, maybe because there are so many ambience a
 | S+ | S- | S- | S- | Old SSS/Wazy |
 
 Best tracks: Seize the Truth, Unfathomed Force, The Azure Arbitrator
-
-#### Hollow Knight (PC) 
-Truly one of the classics. The hit effects is one of the best in video games, probably better than KH2 if not for the lesser variety of attacks. The details that goes into one nail swing is so intricate and made the combat experience reach another level of satisfaction. Controls are snappy and weighty, movement is so fun even the walk to boss is easily bearable. Bosses are fantastic and reminded me that I do like boss fights and keep trying. Subtle storytelling works really well for a gameplay focus game like this. 
-
-| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
-| ------------- | ------------- | --------- | ------------ | --------------- |
-| A | A | S+ | S+ |  |
 
 #### Xenogears (PSX) 
 I had a great time reading a synopsis of a game. I may never revisit but it deserves to be here just for being one of the greatest video game stories alone.
@@ -315,24 +363,6 @@ Music: Now I am really liking Mitsuda's style too. I still prefer CC but this is
 Best tracks: Shevat ~ The Wind is Calling, Shattering Egg of Dreams, The Treasure Which Cannot Be Stolen
 
 
-#### Final Fantasy VI (GBA)
-The real reason I dropped my first playthrough is probably because I cannot stand the walking speed without sprint shoes. Also used a guide to get more secrets, and it actually made the game more fun.
-
-Story/Plot: What happens if the heroes fail their quest to save the world, yet the world does not end like the villains claimed? What happens to their hopes and dreams? It certainly has depth and great moments, but it does not really hit all that hard, for the first part of the setup. Then I am floored by the first sequence of World of Ruin. This story beat still has untapped potential even 30 years later. Also this has probably the second best final dungeon escape sequence of JRPGs (Sky SC's is still the best), and plays off with its ensemble cast. The ending is just simple and clean yet emotional. Wow. 
-
-Characters: Ensemble cast does hurt the depth a bit but the average quality is still up to standard. At least the most important characters (Terra, Locke, Edgar, Sabin, Celes, Cyan) are well developed. Locke and Cyan's stories can be a bit over imo.
-
-Gameplay: Esper system paired with fixed jobs is great. This is the kind of system that hits the right balance of set roles and customization for me. I like the custom skills for each job, we really should see more creative stuff like Blitz and Sketch. And for whatever reason this game just feels better to play for me as compared to 7 or 8. 
-
-Music: Yet another stepping stone for Uematsu's future masterpieces (and his very best up to that point). There are bangers and ok tracks. It is pretty good.
-
-
-| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
-| ------------- | ------------- | --------- | ------------ | --------------- |
-| S- | A+ | A+ | S- | Terra/Celes/Sabin |
-
-Best tracks: Decisive Battle, Awakening, Celes theme 
-
 #### Granblue Fantasy Relink
 The triple A Ys game I always wanted. This may be the game that tops KH2 combat for me. Story is impressive in its own way - it simply keeps all the good parts and cut out all the fat in a JRPG. We are here for the cheese and action. No time is wasted on characterization; there is a damsel and there are her knights, and that is enough, sometimes no reason is required. Somehow this clicked but not DQ, maybe presentation played a big part here.
 
@@ -344,47 +374,6 @@ Almost all characters are fun to play in their own way, even they may have simil
 
 Best tracks: Vow and Promise, Main Theme - Part 2, Final Judgement
 
-#### Mother 3 (GBA)
-Magical. This is why I play video games. Also obligatory fuck capitalism.
-
-Story/Plot: The first hour already blew me away with its concise, effective writing and subversion of expectations (from EarthBound). Its presentation is way better than most GBA games. A bit less wacky compared to EarthBound. Overall still very charming. All the well crafted scenarios really help me fill in the emotional gaps myself. Act 3 started a bit abruptly, but that is a very minor complaint. The final sequence is great.
-
-Characters: Flint is quite fitting as a silent protagonist with the usual stoic dad archetype. Though for self insertion sake Lucas had to be silent, but I really want him to emote more and talk more. 
-
-Gameplay: Autorun is fantastic, more games should have this. Early chapter boss fights are all decently hard due to not having reliable healing methods. Rhythm combat is very vague, but it is actually important to master so fights dont take forever. Unlike the previous games, boss fights actually requires strategy and rewards good strategy very well. Rolling HP adds another layer of decision making of whether to get to the next actions quicker or spend time hitting combos doing extra damage. Difficulty spikes are everywhere, sometimes require hardcore grinding to get past bosses with lesser pain.
-
-Music: Wow GBA can actually have good sound. So far it is not as immediately memorable like the earlier titles but all are quite chill. Rhythm combat really forces you to listen to the battle themes carefully, and easily immerse you into combat. Some tunes are easier than others, at least the boss themes are quite catchy. 
-
-
-| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
-| ------------- | ------------- | --------- | ------------ | --------------- |
-| S- | A | S- | S- | Lucas |
-
-Best tracks: Mother 3 Love Theme, Unfounded Revenge, Happy Town?
-
-
----
-
-### **REALLY good**
-*I would highly suggest you to give these a try.*
-
-#### Ys: Oath in Felghana (PC)
-Makes you wonder if you are playing a bullet hell or an ARPG. Chester 2 fight gave the same feeling as Roxas in KH2, overwhelming, epic and the great feeling of finally defeating him.
-
-| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
-| ------------- | ------------- | --------- | ------------ | --------------- |
-| B | B | A | A |  |
-
-Best tracks: Chop!, The Boy who had Wings, Valenstein Castle
-
-#### Ys Origin (PC)
-Similiar to Ys:OiF, but you get to play with three characters on the same map, it can get repetitive but overall a major upgrade from it. One minor gripe is that you can cheese most fights with Yunica Phoenix once you get it, rendering melee moves almost useless. Toal gameplay is the best.
-
-| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
-| ------------- | ------------- | --------- | ------------ | --------------- |
-| A- | A | A+ | A+|  |
-
-Best tracks: Believing, Oboro, Tension
 
 #### Persona 3 FES (PS2) / Persona 3 Portable (PSP)
 A very theme driven game and successfully brings out the message of facing death and living in a compelling way. The OST though good is not my style. There are some glaring issues like imbalanced pacing, tedious dungeon climbing and questionable social links but still makes for a great experience. The four movies can be an acceptable way to experience the main plot as that is what makes this game shine.
@@ -395,46 +384,6 @@ A very theme driven game and successfully brings out the message of facing death
 
 Best tracks: Memories of You, Memories of the City, Sun
 
-#### Kingdom Hearts (PS2)
-A simple Hero's Journey, but a great one. Unlike the later KH games, the main plot is tied nicely with the Disney worlds, making Sora's journey necessary and important to his character. One of the best executions for "Friendship is Power" trope. It can be cheesy but it is good because it is not baseless. Combat is simple and effective but the camera... did not age too well.
-
-| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
-| ------------- | ------------- | --------- | ------------ | --------------- |
-| S | A | A | S | Sora | 
-
-Best tracks: Dearly Beloved, Night of Fate, Traverse Town
-
-#### The Legend of Zelda: Twilight Princess (GC)
-Actually a better Zelda game than WW in terms of complexity and combat. Midna is a great character and added a lot to the simple plot. Wolf Link is cool and TP Link is my favourite Link in the series.
-
-| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
-| ------------- | ------------- | --------- | ------------ | --------------- |
-| A- | A | A | A | Midna/Link | 
-
-Best tracks: Hyrule Field, Midna's Lament, Lake Hylia
-
-#### The Legend of Zelda: Majora's Mask (N64)
-This game gets full marks in atmosphere and world crafting. Not a fan of non linear gameplay (had to follow a guide from start to end to be able to clear it) but I appreciate it exists.
-
-| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
-| ------------- | ------------- | --------- | ------------ | --------------- |
-| A- | A | B | B |  |
-
-Best tracks: Deku Palace, Clock Town, Song of Healing
-
-#### To the Moon (PC)
-More like an interactive visual novel. An emotional story with a thick plot behind. 
-
-| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
-| ------------- | ------------- | --------- | ------------ | --------------- |
-| A | A | B | A+ |  |
-
-#### Finding Paradise (PC)
-Sequel to *To the Moon*. I prefer TtM's story over this but still equally good. The plot thickens ~~which is definitely not a sequel bait~~  
-
-| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
-| ------------- | ------------- | --------- | ------------ | --------------- |
-| A | A | B | A+ |  |
 
 #### Tales of Symphonia (PC)
 The textbook RPG grand adventure. It contains every trope you have known and expect, yet manages to present itself with all the advantages of the tropes and stand out among others. I thought the plot twist although expected but still as shocking. The weak points being the combat and half of the cast not being relevant after their arcs.
@@ -445,15 +394,6 @@ The textbook RPG grand adventure. It contains every trope you have known and exp
 
 Best tracks: The End of a Thought, Force, A Glint of Light
 
-#### The Legend of Zelda: Ocarina of Time (N64)
-It is a classic alright. Definitely prefer this over MM for linearity.
-
-| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
-| ------------- | ------------- | --------- | ------------ | --------------- |
-| B | B | A | A |  |
-
-Best tracks: Song of Storms, Lost Wood, Title Theme
-
 #### Chrono Trigger (SNES)
 The game that 100% deserves its reputation of all time JRPG classic. Many elements that are ahead of the time like non random encounters and character based sidequests. Highly polished and rich in content for the time. Jets of Time randomizer is sick.
 
@@ -462,13 +402,6 @@ The game that 100% deserves its reputation of all time JRPG classic. Many elemen
 | B | A | S | S+ |  |
 
 Best tracks: Battle 1, Wind Scene, Corridors of Time
-
-#### Ori and the Blind Forest (PC)
-Very good game but metroidvania is not my type. Also not a fan of western atmospheric OSTs, all thanks to Yoko Shimomura the Leitmotif Queen, influencing my music taste forever. 
-
-| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
-| ------------- | ------------- | --------- | ------------ | --------------- |
-| B | B | A | B |  |
 
 #### Tales of the Abyss (PS2)
 Great story, props to the scriptwriter for having the balls to write this kind of story. Luke's development is arguably one of the best in all of JRPGs. The other cast goes from decent to great (Anise can kindly fk off tho). The combat is a direct upgrade from Symphonia and is so so much better with the addition of Free Run. I loved the FoF mechanic. The pacing can be odd, way too many back and forth in between world maps. Guy is in the top 10 dudebros in JRPG history and no one can change my mind (“This may be the real Luke, but my friend is that idiot.” ICANT). Sadly its OST is all time low, only some important battle themes stand out, and the rest sounding too much like Symphonia or simply forgettable. Shoutouts to the anime, it is a fantastic adaptation and you should watch it.
@@ -515,6 +448,125 @@ A decent fairy tale with a somewhat elaborate world with a grander plot, multipl
 | A+ | S | A | A | Gwendolyn/Mercedes/Cornelius |
 
 Best tracks: Battle in the Witch Forest 2, Attic Archive, Hope Followed by a Difficult Battle
+
+#### Portal
+Yes. It is as good as people claimed, up there with Chrono Trigger and other true classics (though I will argue only game design enthusiasts will get its brilliance in current day, I also dont think any post Gen Z will play this game without some passion for video games). It is dry but witty, puzzle designs are top notch. Simply perfect.
+
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| B | A | S+ | B | Weighted Companion Cube |
+
+#### Portal 2
+Literal art. The redemption arc of GlaDOS brought me to tears.
+
+Portal 1 or 2: Portal 1 has the simple elegance and charm that you can only experience once. But 2 is objectively more complete and improves on everything. Both are one of a kind experiences that should not be missed. 
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| A+ | A | S+ | B |  |
+
+
+#### Nier Automata
+I don't know whether to put this here or the highest rank. This game is not as depressing as I imagined, but that is fine I guess.
+
+Story: The story is more on big concepts than character driven, reminds me a lot of FF7 in terms of narrative. The start of Route C is just mindblowing. I am so immersed in the story that I did not even doubt or try to guess the plot twist. The stage is so perfectly designed to tell its story. Amusement Park is one of the most hauntingly beautiful locations in a video game.
+
+Characters: 2B is fine as a protagonist, but the real highlights are 9S and A2, especially A2. Characters generally dont go through huge development arcs, but I still immensely enjoyed all of them.
+
+Gameplay: The action gameplay is actually quite repetitive, just dodge and attack, but they really make perfect dodging easy and satisfying. Hacking is a bit too strong in combat imo. The game is actually really short and most of the time are spent on sidequests. I definitely think some of the quest should be mandatory for the experience.
+
+Music: A somewhat different vibe from Replicant, this soundtrack generally is more hopeful (as the game itself is more hopeful for sure). The tracks are less dramatic compared to tracks like Kaine or Emil. Emi Evans is the GOAT.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| S+ | S | S- | S+ | A2/2B/6O |
+
+Best Tracks: City Ruins/Shade, Vague Hope/Cold Rain, Voice of No Return
+
+---
+
+### **REALLY good**
+*I would highly suggest you to give these a try.*
+
+#### Ys: Oath in Felghana (PC)
+Makes you wonder if you are playing a bullet hell or an ARPG. Chester 2 fight gave the same feeling as Roxas in KH2, overwhelming, epic and the great feeling of finally defeating him.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| B | B | A | A |  |
+
+Best tracks: Chop!, The Boy who had Wings, Valenstein Castle
+
+#### Ys Origin (PC)
+Similiar to Ys:OiF, but you get to play with three characters on the same map, it can get repetitive but overall a major upgrade from it. One minor gripe is that you can cheese most fights with Yunica Phoenix once you get it, rendering melee moves almost useless. Toal gameplay is the best.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| A- | A | A+ | A+|  |
+
+Best tracks: Believing, Oboro, Tension
+
+
+#### Kingdom Hearts (PS2)
+A simple Hero's Journey, but a great one. Unlike the later KH games, the main plot is tied nicely with the Disney worlds, making Sora's journey necessary and important to his character. One of the best executions for "Friendship is Power" trope. It can be cheesy but it is good because it is not baseless. Combat is simple and effective but the camera... did not age too well.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| S | A | A | S | Sora | 
+
+Best tracks: Dearly Beloved, Night of Fate, Traverse Town
+
+#### The Legend of Zelda: Twilight Princess (GC)
+Actually a better Zelda game than WW in terms of complexity and combat. Midna is a great character and added a lot to the simple plot. Wolf Link is cool and TP Link is my favourite Link in the series.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| A- | A | A | A | Midna/Link | 
+
+Best tracks: Hyrule Field, Midna's Lament, Lake Hylia
+
+#### The Legend of Zelda: Majora's Mask (N64)
+This game gets full marks in atmosphere and world crafting. Not a fan of non linear gameplay (had to follow a guide from start to end to be able to clear it) but I appreciate it exists.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| A- | A | B | B |  |
+
+Best tracks: Deku Palace, Clock Town, Song of Healing
+
+#### To the Moon (PC)
+More like an interactive visual novel. An emotional story with a thick plot behind. 
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| A | A | B | A+ |  |
+
+#### Finding Paradise (PC)
+Sequel to *To the Moon*. I prefer TtM's story over this but still equally good. The plot thickens ~~which is definitely not a sequel bait~~  
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| A | A | B | A+ |  |
+
+
+#### The Legend of Zelda: Ocarina of Time (N64)
+It is a classic alright. Definitely prefer this over MM for linearity.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| B | B | A | A |  |
+
+Best tracks: Song of Storms, Lost Wood, Title Theme
+
+
+#### Ori and the Blind Forest (PC)
+Very good game but metroidvania is not my type. Also not a fan of western atmospheric OSTs, all thanks to Yoko Shimomura the Leitmotif Queen, influencing my music taste forever. 
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| B | B | A | B |  |
+
 
 #### Okami HD (PC) 
 The Zelda game that is not named Zelda, feels a lot like Twilight Princess overall (wolf with a small sidekick and cleansing the world part). Running and jumping around as a cool wolf is fun. Beautiful Japanese artstyle. Brush gameplay is cool. Sadly the combat is just about the same as TP - too many tools made the fights too easy. The puzzles are really quite easy but can stuck in some places similar to Wind Waker, some parkours are pretty challenging IMO. The story is the simple save the world plot, but a lot goofier than I imagined. They really should have kept everything in one act instead of having multiple acts that shreds the hype. Boss reuse is pretty bad, not adding anything new even. Music is purely atmospheric. Derpy Ammy is pretty great.
@@ -665,24 +717,6 @@ Music: This is why I will always want more Falcom (and hopefully not robbed in t
 | B | A | A | S | Karna |
 
 Best tracks: Gust of Wind, The Foliage Ocean in Celceta, Black Wings
-
-#### Portal
-Yes. It is as good as people claimed, up there with Chrono Trigger and other true classics (though I will argue only game design enthusiasts will get its brilliance in current day, I also dont think any post Gen Z will play this game without some passion for video games). It is dry but witty, puzzle designs are top notch. Simply perfect.
-
-
-| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
-| ------------- | ------------- | --------- | ------------ | --------------- |
-| B | A | S+ | B | Weighted Companion Cube |
-
-
-#### Portal 2
-Literal art. The redemption arc of GlaDOS brought me to tears.
-
-Portal 1 or 2: Portal 1 has the simple elegance and charm that you can only experience once. But 2 is objectively more complete and improves on everything. Both are one of a kind experiences that should not be missed. 
-
-| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
-| ------------- | ------------- | --------- | ------------ | --------------- |
-| A+ | A | S+ | B |  |
 
 #### Valkyria Chronicles (PC)
 
@@ -1117,19 +1151,22 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 
 
 ### **NEXT UP/ONGOING**
+- Castlevania: Symphony of the Night
+- Final Fantasy Tactics
+- Super Metroid
+- Vagrant Story
 - Yakuza: Like A Dragon
 - Tales of Vesperia
-- Nier Automata
-- Final Fantasy Tactics
+
 
 ### **INTERESTED IN**
 - Hi-Fi Rush
 - Ace Attorney series
-- Vagrant Story
 - Grandia
 - Valkyrie Profile 2nd attempt
 - Breath of Fire II
 - Lunar: Eternal Blue
+- Mass Effect Trilogy
 
 ### **INTERESTED but maybe someday**
 - Trails of Cold Steel
@@ -1141,9 +1178,6 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 - Xenosaga
 - Sakuna: Of Rice and Ruin
 - Metal Gear Solid
-- Castlevania: Symphony of the Night
-- Super Metroid
-- Mass Effect Trilogy
 
 ### SWITCH wishlist
 - Xenoblade Chronicles
