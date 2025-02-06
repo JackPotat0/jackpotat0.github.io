@@ -270,6 +270,24 @@ Music: Wow GBA can actually have good sound. So far it is not as immediately mem
 
 Best tracks: Monkey Delivery Service, Unfounded Revenge, Happy Town?
 
+
+#### Final Fantasy Tactics: War of the Lions (PSP)
+This is my first Matsuno game and I am very impressed by the narrative quality and depth. This game has definitely set up some high expectations for Vagrant Story. I get how this game allows creative expression and respect every bit of it, but this is simply not my favourite combat system. Thinking back, Valkyria Chronicles has a similiar cutscene structure as this game, but it really requires a script as good as this to work. 
+
+Story/Plot: The main plot can get a bit confusing, but it is ok to just know what are the actions on screen. This is mostly due to the protagonist not aware of the bigger picture, and the scenes only shows bits and pieces to a grander scheme. The essence is in the dialogue exchange. I cannot get enough of this modern Old English. The main plot does not sound so interesting on paper but it is intriguing enough to keep going. I really like how the truth is layered. The animated cutscenes are great, adds a lot of weight to those sequences as compared to the PSX version. There is maybe one plot convenience that stands out (Alma being the chosen one), but it simply shows how everything else are tied together so perfectly. The ending is very surprising,  it managed to poetically tie up the overall themes of the story. Brilliant. This is the kind of ending that I will think and reintepret over a long time. It is a shame that Ramza never get to face off Delita at the very end.
+
+Characters: The characters are defined by their action and opinions, even though there are many characters, everyone is distinguished by their ideals, yet never feel too much like just a symbol. Most of them are very compelling with short amounts of screen time due to the concise dialogues. Show don't tell is done so well here. Ramza is pretty cool, reminds me of Lloyd from Trails a lot (actually they are archetypical as heck, it's just me liking the cool and composed and morally upright protagonists). One weak point is the other casts in party, once they become a permanent party member means they are no longer relevant in the main plot. Of course some are better or more relevant than others, not every named party member are treated equally (Rapha/Marach lol).
+
+Gameplay: I am actually playing the two systems I never enjoyed at once (job system and SRPG). Emulator save scumming makes trial and error a lot better. Not to mention all the fine gameplay gimmicks that causes some choice paralysis and paranoia. Putting a gimmick fight after 2 fights is pretty annoying. Due to the mechanics of Job points, grinding can look very silly. That infamous fight is simply unbalanced without prior knowledge, I beat him with legitimate strats after a lot of extra grinding for convenient job skills. I almost spit blood when I realized there is one fight after that one (which also has a gotcha). This 2 fights singlehandedly brought down the quality of this game in terms of balance and fun.
+
+Music: There are a few memorable tracks tied to the big story sequences. Overall is pretty good, never have much comments for orchestra OST. I do feel most of the soundtrack is too short, some can use a longer climax. 
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| S+ | S | A | A | Ramza/Agrias/Ovelia |
+
+Best tracks: Run Past Through the Plain, Tension
+
 ---
 
 ### **MAN**
@@ -739,6 +757,7 @@ Cartoonish plotline. I like all the south eastern influences. The Tales-like ope
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A- | A- | S- | A |  |
 
+
 ---
 
 ### **INTERESTING titles**
@@ -1151,9 +1170,7 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 
 
 ### **NEXT UP/ONGOING**
-- Castlevania: Symphony of the Night
 - Final Fantasy Tactics
-- Super Metroid
 - Vagrant Story
 - Yakuza: Like A Dragon
 - Tales of Vesperia
@@ -1178,6 +1195,7 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 - Xenosaga
 - Sakuna: Of Rice and Ruin
 - Metal Gear Solid
+- Final Fantasy V
 
 ### SWITCH wishlist
 - Xenoblade Chronicles
@@ -1197,7 +1215,7 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 Based on overall enjoyment. Order may be different based on different aspects.
 
 #### **Final Fantasy**
-`X > IX = VI > VII > VIII > IV`
+`X > VI > Tactics > IX > VII > VIII > IV`
 
 #### **Tales of**
 `Berseria > Abyss > Symphonia`
