@@ -276,6 +276,27 @@ This is my first Matsuno game and I am very impressed by the narrative quality a
 
 Story/Plot: The main plot can get a bit confusing, but it is ok to just know what are the actions on screen. This is mostly due to the protagonist not aware of the bigger picture, and the scenes only shows bits and pieces to a grander scheme. The essence is in the dialogue exchange. I cannot get enough of this modern Old English. The main plot does not sound so interesting on paper but it is intriguing enough to keep going. I really like how the truth is layered. The animated cutscenes are great, adds a lot of weight to those sequences as compared to the PSX version. There is maybe one plot convenience that stands out (Alma being the chosen one), but it simply shows how everything else are tied together so perfectly. The ending is very surprising,  it managed to poetically tie up the overall themes of the story. Brilliant. This is the kind of ending that I will think and reintepret over a long time. It is a shame that Ramza never get to face off Delita at the very end.
 
+<details>
+  <summary>My intepretation on the ending</summary>
+	The part where Orran sees Ramza and Alma as he expresses his regret for them. This shows that Ramza still lives on in Orran's mind, and that is what drives Orran to record Ramza's story and even die for it, just so that the truth may be revealed some day. The truly noble one is the one whom people will die for (dying is the key of our comparison here), not the hero on the face level, contrasting Delita. This is why I think it is more beautiful for Ramza and party to die narrative wise (also this can explain his line about his father), he can sacrifice himself because Ramza did for many, even no one knows. At least Orran knows he might be remembered by his works, but Ramza is doing all this out of his kindness for the world. I know a lot of this is mere assumption, but I think this is more romantic.
+	  </br>
+	Fast forward to Delita's sequence. Ovelia at this point is the only person alive who has some genuine connection with Delita from the main story. Due to how Delita has treated others, she simply cannot trust him at all, as much as she wants to. I believe it will help to have one sequence between the graveyard scene and this scene, to show her fear of Delita - or the Delita/Orran/Valmafra scene is meant to do that, since Ovelia leaves in panic after hearing Delita's narcissistic grand plan. I think her reason is that she wanted to know if Delita will put himself before her i.e. the only person he seemed to care about. The only way to test him is to stake her own life, and she probably has an answer in mind. There is no way she can kill Delita like that, even she knows, and that is never the purpose. That is why she did not wound him fatally, and said:
+	</br>
+		<i>How could you? You...you used them, and all the others! And someday you'll cast me aside, just as you did him!</i>
+	</br>
+	In PSX version, the 'him' is Ramza, but in WotL is just 'him'. I wonder if this him can refer to anyone else, maybe Orran from the Delita/Orran/Valmafra scene?
+	</br>
+	And Delita being Delita, retaliates with a fatal blow, fulfilling her words right at that instant. He really could have done anything else with his physical abilities, but the primal sense (which is the truest sense in most cases) takes over and attacks a mostly harmless target. At that moment, she knows she was right all along. But the silver lining is that she finally had agency for the first time in her life, this is her only way to deny not just Delita's, but anyone's manipulation in the future. She wanted to escape from this life of being used, even by death. She died for her own sake, contrasting Orran who died for an unsung hero. Not even Ovelia wants to die for Delita (you can argue that there are probably many soldiers who will die for him as a king, but he is just a symbol not a person at that point). So this is why Ovelia has to die here, otherwise this scene would be quite pointless.
+	</br>
+	And Delita's line afterwards:
+	</br>
+		<i>Did you get your end in all of this, Ramza? I...I got this.<i>
+  	</br>
+	Delita realizes what he has done, and why Ovelia did this. He killed the only person in the world who wanted to genuinely trust him. This is what he reaped from what he sowed - the bitter end of having nothing left to cherish, but only power. He wonders if Ramza, who took a completely opposite path from him, and likely to lack many things with the lack of power, was happy and fulfilled in the end. Ramza was probably happy that he managed to find Alma, but I wish we have some more textual evidence to this, maybe just one line from Ramza after the final boss? That might feel not very Matsuno though.
+	</br>
+	I think this way, this two sequence really drives home the main theme that a man worth respecting is not the one celebrated by history, but the one always choosing to do the right thing. I feel like if this is in novel format, I would have got it better even in the exact same words.
+</details>
+
 Characters: The characters are defined by their action and opinions, even though there are many characters, everyone is distinguished by their ideals, yet never feel too much like just a symbol. Most of them are very compelling with short amounts of screen time due to the concise dialogues. Show don't tell is done so well here. Ramza is pretty cool, reminds me of Lloyd from Trails a lot (actually they are archetypical as heck, it's just me liking the cool and composed and morally upright protagonists). One weak point is the other casts in party, once they become a permanent party member means they are no longer relevant in the main plot. Of course some are better or more relevant than others, not every named party member are treated equally (Rapha/Marach lol).
 
 Gameplay: I am actually playing the two systems I never enjoyed at once (job system and SRPG). Emulator save scumming makes trial and error a lot better. Not to mention all the fine gameplay gimmicks that causes some choice paralysis and paranoia. Putting a gimmick fight after 2 fights is pretty annoying. Due to the mechanics of Job points, grinding can look very silly. That infamous fight is simply unbalanced without prior knowledge, I beat him with legitimate strats after a lot of extra grinding for convenient job skills. I almost spit blood when I realized there is one fight after that one (which also has a gotcha). This 2 fights singlehandedly brought down the quality of this game in terms of balance and fun.
@@ -1170,11 +1191,9 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 
 
 ### **NEXT UP/ONGOING**
-- Final Fantasy Tactics
 - Vagrant Story
 - Yakuza: Like A Dragon
 - Tales of Vesperia
-
 
 ### **INTERESTED IN**
 - Hi-Fi Rush
