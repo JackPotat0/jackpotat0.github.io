@@ -177,7 +177,7 @@ Characters: They seems to be less tropey but less deep as well. It's like DR1 ha
  <details>
   <summary>Nagito</summary>
   This guy might be my favourite Danganronpa character of all time. The hope obsessed freak. Whoever created him deserves a raise. I really thought he is somehow Makoto (disguised as or went insane) or directly related to him for a long time (Nice choice of VA AND the character name, thanks director), since it is not all that surprising to have Makoto go to the other extreme in pursuing hope.
-    <br>
+    <br><br>
   It is hard to write a chaotic neutral character. He helps and confuses the class all at the same time. His ideal is certainly extreme and twisted, but not all incomprehensible. He died to prove his point - be the hope that destroys all despairs remaining on the island. At first I thought he looked down on the rest after the talentless Hajime reveal was simply because Hajime as the talentless one was leading on the other Ultimates (i don't think this is the most accurate explanation after watching the ending, but I don't think this is entirely wrong either). Either way his interaction with Hajime is always the highlight of the game. The hangout do flesh him out a tad bit more but there really could be more since he is integral to the main plot.
   
 </details>
@@ -279,21 +279,21 @@ Story/Plot: The main plot can get a bit confusing, but it is ok to just know wha
 <details>
   <summary>My intepretation on the ending</summary>
 	The part where Orran sees Ramza and Alma as he expresses his regret for them. This shows that Ramza still lives on in Orran's mind, and that is what drives Orran to record Ramza's story and even die for it, just so that the truth may be revealed some day. The truly noble one is the one whom people will die for (dying is the key of our comparison here), not the hero on the face level, contrasting Delita. This is why I think it is more beautiful for Ramza and party to die narrative wise (also this can explain his line about his father), he can sacrifice himself because Ramza did for many, even no one knows. At least Orran knows he might be remembered by his works, but Ramza is doing all this out of his kindness for the world. I know a lot of this is mere assumption, but I think this is more romantic.
-	  </br>
+	  <br><br>
 	Fast forward to Delita's sequence. Ovelia at this point is the only person alive who has some genuine connection with Delita from the main story. Due to how Delita has treated others, she simply cannot trust him at all, as much as she wants to. I believe it will help to have one sequence between the graveyard scene and this scene, to show her fear of Delita - or the Delita/Orran/Valmafra scene is meant to do that, since Ovelia leaves in panic after hearing Delita's narcissistic grand plan. I think her reason is that she wanted to know if Delita will put himself before her i.e. the only person he seemed to care about. The only way to test him is to stake her own life, and she probably has an answer in mind. There is no way she can kill Delita like that, even she knows, and that is never the purpose. That is why she did not wound him fatally, and said:
-	</br>
+	<br><br>
 		<i>How could you? You...you used them, and all the others! And someday you'll cast me aside, just as you did him!</i>
-	</br>
+	<br><br>
 	In PSX version, the 'him' is Ramza, but in WotL is just 'him'. I wonder if this him can refer to anyone else, maybe Orran from the Delita/Orran/Valmafra scene?
-	</br>
+	<br><br>
 	And Delita being Delita, retaliates with a fatal blow, fulfilling her words right at that instant. He really could have done anything else with his physical abilities, but the primal sense (which is the truest sense in most cases) takes over and attacks a mostly harmless target. At that moment, she knows she was right all along. But the silver lining is that she finally had agency for the first time in her life, this is her only way to deny not just Delita's, but anyone's manipulation in the future. She wanted to escape from this life of being used, even by death. She died for her own sake, contrasting Orran who died for an unsung hero. Not even Ovelia wants to die for Delita (you can argue that there are probably many soldiers who will die for him as a king, but he is just a symbol not a person at that point). So this is why Ovelia has to die here, otherwise this scene would be quite pointless.
-	</br>
+	<br><br>
 	And Delita's line afterwards:
-	</br>
-		<i>Did you get your end in all of this, Ramza? I...I got this.<i>
-  	</br>
+	<br><br>
+		<i>Did you get your end in all of this, Ramza? I...I got this.</i>
+  	<br><br>
 	Delita realizes what he has done, and why Ovelia did this. He killed the only person in the world who wanted to genuinely trust him. This is what he reaped from what he sowed - the bitter end of having nothing left to cherish, but only power. He wonders if Ramza, who took a completely opposite path from him, and likely to lack many things with the lack of power, was happy and fulfilled in the end. Ramza was probably happy that he managed to find Alma, but I wish we have some more textual evidence to this, maybe just one line from Ramza after the final boss? That might feel not very Matsuno though.
-	</br>
+	<br><br>
 	I think this way, this two sequence really drives home the main theme that a man worth respecting is not the one celebrated by history, but the one always choosing to do the right thing. I feel like if this is in novel format, I would have got it better even in the exact same words.
 </details>
 
@@ -628,7 +628,7 @@ Yeah it's a genre defining classic, with endless supplies of hope and despair. G
 
 <details>
   <summary>1-1</summary>
-  Pretty decent introductory case, simple and effective character arc for Sayaka and a nice warmup to the game's mechanics with a really easy murder. </br>
+  Pretty decent introductory case, simple and effective character arc for Sayaka and a nice warmup to the game's mechanics with a really easy murder. <br><br>
   [2nd playthough] This case is really well executed. Other than too easy solve I cannot find anything else to complain.
 </details>
 <details>
@@ -638,7 +638,7 @@ Yeah it's a genre defining classic, with endless supplies of hope and despair. G
 <details>
   <summary>1-3</summary>
   Celeste is immediately sus. But if it is enough to fool most of others it works (but why even attempt this when you know there are geniuses like Kyoko and Byakuya around??). As observers it is easy to know she is weird but not for Makoto & co. It would be worse if Makoto somehow get an IQ boost here. Even if I know Celeste is the culprit without needing much hint, I still want to follow Makoto's steps to reach the conclusion. I would agree this whole thing can be executed a lot better. But I can get over with this and get the writer's intention.
-  </br>
+  <br><br>
   [2nd playthough] Watching Celeste's plan fall apart in the trial just makes me wonder why does she even try? 
 </details>
 <details>
@@ -648,13 +648,13 @@ Yeah it's a genre defining classic, with endless supplies of hope and despair. G
 <details>
   <summary>1-5</summary>
   I cannot care about this Mukuro I barely know about. This case's entire purpose is the execution part and leading into Ch 6. Kyoko's backstory honestly is not all that impressing.
-  </br>
+  <br><br>
   [2nd playthough] I should commend that the writer keep the feelings grounded and did not overdramatize this.
 </details>
 <details>
   <summary>1-6</summary>
   It is time for Makoto to become the anime protagonist. Good ending.
-  </br>
+  <br><br>
   [2nd playthough] This is most probably my favourite surviving cast as a whole.
 </details>
 
