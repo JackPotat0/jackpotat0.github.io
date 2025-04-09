@@ -323,7 +323,7 @@ A simple story does not mean that it is not meaningful or bad. The main cast onl
 
 
 #### Final Fantasy IX (PS1) 
-I am struggling to decide whether to put this here or the next category initially but it deserves to be here. I had been blinded by the internet that this is not for me, and is that WRONG. This could easily be my favourite FF if I had played this before FFX (though FFX is still the better introductory FF imo). This is a really solid game without a lot to complain.
+I am struggling to decide whether to put this here or the next category initially but it deserves to be here (This is no longer in the highest ranked category, sorry FF9 but you are stuck being the 'top tier but never anyone's favourite' ). I had been blinded by the internet that this is not for me, and is that WRONG. This could easily be my favourite FF if I had played this before FFX (though FFX is still the better introductory FF imo). This is a really solid game without a lot to complain.
 
 Garnet/Dagger is written wonderfully and acts like a real 16 year old girl under the circumstances. Zidane is a refreshing protagonist as he is a largely developed character at the beginning and has a nice arc wrapping up his character near the end. The other characters also stayed as relevant for as long as possible (maybe not Amarant, he is definitely the weakest in the narative, only act as a foil to Zidane's ideals). **Vivi is precious and must be protected.** The theme of life and its purpose is quite timeless and thought provoking.
 
@@ -357,7 +357,7 @@ The other cast are just as fleshed out, especially all the other allies. The ant
 
 Gameplay: I lost at the first boss fight, the kids die in 3 hits. The game can be ass at times and force you to retry with correct gears, but it has no weird difficulty spikes like in Sky SC. Generally good balancing, Combo Craft is a nice rework from Sky SC, adds a lot of identity. Max Advantage Preemptive speeds up mob fights a lot faster. 
 
-Music: Two new composers definitely shake things up and added a lot of identity to this OST, maybe this OST is the more "Falcom"-ey one as compared to Sky's jazzy vibes (I need more Saki Momiyama but too bad she left after CSII). Way of Life motif is very addicting. Possibly has the best collection of battle themes in the series (too bad Arrival Existence is nowhere close to masterpiece, else there would be no doubt). 
+Music: Two new composers definitely shake things up and added a lot of identity to this OST, maybe this OST is the more "Falcom"-ey one as compared to Sky's jazzy vibes (I need more Saki Momiyama but too bad she left after CSII). Way of Life motif is very addicting. Possibly has the best collection of battle themes in the series (Arrival Existence and Arrest the Criminal made it lose to Azure). It is so mind boggling how the title theme (Zero no Kiseki) evokes a special sense of nostalgia, as if you have already spent a lifetime of adventures with SSS when you dont even know them yet. 
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -369,13 +369,13 @@ Best tracks: Inevitable Struggle, Formidable Enemy, Zero No Kiseki
 #### Trails to Azure (PC) 
 Story/plot: The characters' personal influence may fall a bit shorter, it is all made up with a much stronger main plot. The politics is even better with higher stakes than before, diving into diplomatic relationship and national security etc. Beach episode is kinda nice... only thing is massaging the girls is really disturbing, even if it is Elie. Groping scenes are horrible. The twist is worth everything. It is quite slow at the beginning but when it gets going, it DOES NOT stop. Now I will be sure to suspect everyone, even the guy who gets a freaking title theme epic speech. I was played like a fiddle, good job Falcom. In essence, this is a brilliantly executed mystery in its core, and you will only realize how tightly knit it is near the end, giving that satisfying feeling of realization. This game is one of the very few that made me care about the evil plan. But at the same time it is still a great journey for the SSS. Combined with all that and the worldbuilding, you get a duology with incredible substance and depth. Though there are still flaws but the good definitely outweighs the bad.
 
-Characters: I did not expect them to take away Randy and Tio at first, how I missed SSS. Randy finally got his arc, but actually it's just ok, not disappointing but not groundbreaking. Wazy on the other hand is ~~the Crossbell best girl all along~~ very interesting, but the bromance with Wald kinda gets in the way. I should have known coming from Tokyo Xanadu, it should not even have surprised me. Noel is just vanilla and boring, the only high point of her character is when she decided to side with CDF, it would be a lot more dramatic if she stuck with it, but anime will be anime. Elie  is just there... even Tio too. And for the love of Aidios, stop thirsting for Lloyd my girls, and this actually got worse in CS?! Rixia is whatever ~~thicc thighs saves lives~~, she looks like anything but a jaded assassin as claimed, her arc with Shirley is a bit forced too. I still don't understand why this has to be revealed in Zero, it just kills every suspension. So ironically Lloyd is the best character in this game. But SSS as a unit is what really shines and makes everything worthwhile.
+Characters: I did not expect them to take away Randy and Tio at first, how I missed SSS. Randy finally got his arc, but actually it's just ok, not disappointing but not groundbreaking. Wazy on the other hand is ~~the Crossbell best girl all along~~ very interesting, but the bromance with Wald kinda gets in the way. I should have known coming from Tokyo Xanadu, it should not even have surprised me. Noel is just vanilla and boring, the only high point of her character is when she decided to side with CDF, it would be a lot more dramatic if she stuck with it, but anime will be anime. Elie is just there... even Tio too. And for the love of Aidios, stop thirsting for Lloyd my girls, and this actually got worse in CS?! Rixia is whatever ~~thicc thighs saves lives~~, she looks like anything but a jaded assassin as claimed, her arc with Shirley is a bit forced too. I still don't understand why this has to be revealed in Zero, it just kills every suspension. So ironically Lloyd is the best character in this game. But SSS as a unit is what really shines and makes everything worthwhile.
 
 Cameos are great as usual, Ries actually looks better in Crossbell artstyle. And they didn't forget about Kevin! and they won't, right... Dieter is quite fine as a character, motivations and actions and all, just the back story about magic is a bit eh. Mariabell's character fully revolves around that, so it's quite lame, lamer than that is her witch outfit which looks like a bad cosplay. I can agree that Grimwood as a villain feels like a twist for the sake of it but you have to admit that it is funny how he change his mind from just one anime speech.
 
 Gameplay: Same old as Zero. Nothing too innovative. Master Quartz takes a bit too long to level for customization in first playthough. For some reason I am still running low on sepith even near late game, until there are no more quartz upgrades, I still think I don't have enough to fully build every playable member (this was written at the start of Azure Tree by the way, I knew nothing...). I like how the game subtly guides you to build Lloyd by taking away Randy. That final "dungeon" is actually as long as Berseria's, luckily it is about twice as bearable.
 
-Music: Somehow Zero's vibe is better, maybe because there are so many ambience and generic sounding tracks like Orchis Tower. There are some stand out tracks like Knox forest theme but replacing Afternoon in Crossbell for an objectively inferior one is not it. Special Support Section is only used once iirc. In exchange we get some of the greatest battle and boss themes in the entire series.
+Music: Somehow Zero's vibe is better, maybe because there are so many ambience and generic sounding tracks like Orchis Tower. There are some stand out tracks like Knox forest theme but replacing Afternoon in Crossbell for an objectively inferior one is not it. Special Support Section is only used once iirc. In exchange we get some of the greatest battle and boss themes in the entire series. At this point I will say this game has the best collection of battle themes across all Falcom games, and I know that is a very strong claim.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -724,7 +724,7 @@ Music: Discussion theme as final boss theme is positively funny. Otherwise a pre
 #### Persona 5 Royal (PC)
 Trying to be a blind player when you know the story beats so well is ... hard yet interesting. It's not wrong to compare this entry with the previous ones you liked so much right...
 
-Story/Plot: If there is any shortcoming from this game it is probably the main plot. Simply put, the script takes on a much bigger question it can handle and handled it mediocrely. The villains are painted as absolute evil with no humanity whatsoever, Sae is one of the exception as she has a better build up. Though I am not satisfied with its depth, I am happy they still handled the "easier and safer" alternative well i.e. making punishing evil fun and gratifying. Another big theme is about being "rebellious", which has no major issue or surprises, it is just the topic is not approached from many different angles through party members, like P3 did on the themes of living and death and P4 did on the theme of true self.
+Story/Plot: If there is any shortcoming from this game it is probably the main plot. The script takes on a much bigger question it can handle and handled it mediocrely. The villains are painted as absolute evil with no humanity whatsoever, Sae is one of the exception as she has a better build up. Though I am not satisfied with its depth, I am happy they still handled the "easier and safer" alternative well i.e. making punishing evil fun and gratifying. Another big theme is about being "rebellious", which has no major issue or surprises, it is just the topic is not approached from many different angles through party members, like P3 did on the themes of living and death and P4 did on the theme of true self.
 
 Third semester is better than I remembered. It being tacked on like an afterthought certainly ruins its execution a bit but the presentation is still great despite all that. Akechi finally becomes a real character (ironic huh) and fleshed out through interactions, goes from C tier character to B+ tier easily. It is so sad this is the best arc yet still is just about average compared to most of the arcs in previous games.
 
@@ -1000,6 +1000,21 @@ Trippy, wacky and charming in one.
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | B | B | C | A+ |  |
 
+#### Tales of Vesperia
+This is undeniably the most "complete" Tales experience, scoring slightly above average on every aspect. It is a jack of all trades but master of none. 
+
+Story/Plot: The class discrimination theme is just alright. I do like me some Lelouch/Suzaku dynamic. This entry has one of the weakest hooks in the Tales games. The conflicts are solved too fast and simple, really lacks in stakes and weight. Revealing Yuri being vigilante could be a huge crash out moment and add a lot of drama, but it is just brought over like that. Overall it is a super safe plot.
+
+Characters: What if we put all flavours of tsunderes aka people who cant be honest with themselves into a party? As Tales tradition, they are all very cliche, but the execution is just so solid. But it really lacks the ONE iconic character like other Tales, which makes this party a lot less memorable. There is way too many kids in this party, Karol is consistently annoying, he did get his moment later on, thats pretty cool. Yuri is a bit overhyped by the community, Troy Baker really carried this one. His high pitch voice trying to imitate Karol is damn funny. I like classical tsunderes so Rita is quite good, she is probably one of the grumpiest Tales main characters. Estelle is fun, her victory skits with teammates (a sign of victory with high five) are the ones I will remember - very cute, but her character really is just slightly better than Colette, Natalia is done way better. ~~If I had a nickel for a short haired princess having weird fashion choices, I'd have two nickels. Which isn't a lot, but it's weird that it happened twice. cues Ashe from FFXII~~ Flynn is really boring. If not for the cast, this game would not have been too different from DQ. 
+
+Gameplay: A Tales game that is not overengineered with way too many mechanics? Is this even a Tales game? Why do they regress in the late PS3 era? The weapon system is whatever, not innnovative but works, I just think some essential skills like sidestep should just be part of everyones kit. The 3D model artstyle is great, probably the best iteration of the traditional Tales. Not a fan of the 2D sprites, their face feels a bit twisted. The overall dungeon quality is quite good by Tales standards, which are often either extremely boring or annoying. I finally understand the combat system, the controls only make sense on a controller. This is Tales combat at its best. I really hate that bringing Estelle to any boss fight is pseudo hard mode, I just want her to be good.
+
+Music: This is finally not reminiscent of Symphonia, but I can't say much about this OST either. Some town themes feels different and refreshing from the usual stuff.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| B+ | A- | S- | A- | Estelle/Rita |
+
 ---
 
 ### **PRETTY nice but skippable**
@@ -1107,7 +1122,7 @@ Best tracks: Dearly Beloved, Ventus Theme, Aqua's Theme
 #### I am Setsuna (PC)
 No. You cannot just remake Lunar+Chrono Trigger without something fresh. They remade CT, but they left out the soul of CT and everything that makes it great. In the end it becomes a very bad attempt at imitating CT which is almost embarassing. Even taking away the comparison, it is still a below-average JRPG. It is still worth to know the context of OST that I have been listening since forever though. ** When a game is bad at what it does, you start noticing all the petty things.
 
-Story/Plot: Mostly a rehash of FFX. The plot felt pretty empty and flat as there are no enough background to the "pilgrimage" unlike FFX with elaborate world building. It almost felt random. There are simply not enough to keep me to care about the main plot on an emotional level. They tried to present the theme of "sacrifice", but fails to present it in a meaningful way, in other words, amateurish. To be fair the concept is not bad and can definitely shine but it fell into the wrong hands. The ending is a mess, it just comes up at nowhere and reveals more plot points that's never referenced before and expects player to care. But luckily for how little there is, the main quest is really short, so players can end this snorefest quicker.
+Story/Plot: Mostly a rehash of FFX. The plot felt pretty empty and flat as there is not enough background to the "pilgrimage" unlike FFX with elaborate world building. It almost felt random. There are simply not enough to keep me to care about the main plot on an emotional level. They tried to present the theme of "sacrifice", but fails to present it in a meaningful way, in other words, amateurish. To be fair the concept is not bad and can definitely shine but it fell into the wrong hands. The ending is a mess, it just comes up at nowhere and reveals more plot points that's never referenced before and expects player to care. But luckily for how little there is, the main quest is really short, so players can end this snorefest quicker.
 
 Characters: The cast almost collected all the weaknesses in different casts in various JRPGs and put them together. Lack of relevancy after own arc (and their arcs are as generic as it gets!), no memorable exchanges, one beat personality, you name it. It is like Lunar SSS, but the cast is now boring. I tried very hard but it is impossible to be attached to any of the characters. We have: the silent protagonist that gets no interesting options and just there for plot reasons, Setsuna a.k.a Mary Sue, the plot dumper, the annoying kid, and a bunch of others. A character looking like Auron does not automatically makes him cool like Auron.
 
@@ -1193,7 +1208,7 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 ### **NEXT UP/ONGOING**
 - Vagrant Story
 - Yakuza: Like A Dragon
-- Tales of Vesperia
+
 
 ### **INTERESTED IN**
 - Hi-Fi Rush
@@ -1203,6 +1218,7 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 - Breath of Fire II
 - Lunar: Eternal Blue
 - Mass Effect Trilogy
+- Hyper Light Drifter
 
 ### **INTERESTED but maybe someday**
 - Trails of Cold Steel
@@ -1225,7 +1241,6 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 - TWEWY Final Remix
 - Metroid Dread?
 - FE3H?
-- Rain Code?
 
 ---
 
@@ -1237,7 +1252,7 @@ Based on overall enjoyment. Order may be different based on different aspects.
 `X > VI > Tactics > IX > VII > VIII > IV`
 
 #### **Tales of**
-`Berseria > Abyss > Symphonia`
+`Berseria > Abyss > Symphonia > Vesperia`
 
 #### **Kingdom Hearts**
 `2FM >> 1 >> Days >> BBS`
