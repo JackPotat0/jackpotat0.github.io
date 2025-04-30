@@ -779,6 +779,33 @@ Cartoonish plotline. I like all the south eastern influences. The Tales-like ope
 | A- | A- | S- | A |  |
 
 
+#### Lunar 2: Eternal Blue (PSX)
+Campy fun adventure done to perfection. It is simply a more enjoyable game than SSS with the QoLs. If I had played this game when it first released this could very well be my favourite game. Now I can finally say Lunar is genuinely great and deserves to be the baseline of traditional JPRGs. They know what they are aiming for and achieve their goals expertly, which many developers struggle to deliver, as basic as it sounds.
+
+Story: The main motive is just to find Althena, it is an ok motivation. Characters from the previous game appears in the most intersting ways instead of simple cameos, very cool. This time they use the trope where everyone in the party has some beef with each member of the evil organization. The payoffs in the second act are really good. I am a bit bummed that the church is now actually evil, but the fun twist is when you find out some statues started charging money (they did not commit to this completely though). SSS's focus on romance is still more interesting, but EB has a stronger execution overall.
+
+<details>
+  <summary>Ending + Epilogue</summary>
+	<i>Lucia's Pendant - I'd rather just have Lucia.</i> This is some peak writing.
+  
+   The original ending can totally work as a very bittersweet ending with a different setup and framing, and I can guarantee it will be absolutely heart wrenching. But instead we get the Epilogue to change the fate. Fantastic.
+   
+   This reminds me a lot of FF6 where you collect your friends around the world and start another "adventure", but there is no extra story tied to them. Gameplay wise there is just a lot of dungeons, not very exciting. The final fight is quite anticlimatic also. I am not sure if the simple ending cutscene is worth the grinding needed. I was lowkey expecting an epic love confession. The credit song is nice, but boat song is still the best vocal track in the duology.
+</details>
+
+Characters: The sauce to this series is the character chemistry. I would even go as far to say they are at least on par with or better than the Tales series. The only issue is you need to actively look for the interactions by talking to NPCs. The approach this round is to get all the party then explore their arcs. Their arcs are much stronger than the SSS cast. Ruby is so much better than Nall, it is not even a competition - she is actually likable and has a character arc. She is kind of like Morgana, but without the narcissistic part. Hiro has more dialogue and more fleshed out than Alex, he actually is a real character on his own. Lucia does not get kidnapped for most of the game and has a lot of interactions with Hiro throughout the journey. She even flirts with Hiro later which is cuuuuute. Lemina is fun, I just don't like the forgiving act for her arc as it is not well built up, but it is so typical it is whatever (it is not P5 kind of bad). Ronfar's character really surprised me, his payoff really stands out from the rest. Jean is fine ~~the first side ponytail character I am not into~~, her powerup is a good enough compensation for being the weakest character in the narrative.
+
+Gameplay: Huge improvement to SSS. No more split inventory, tactics setup and field positioning all made the game a lot more enjoyable already. The crest system is pretty neat. The bosses are also more well designed with mechanics and also harder, cannot really just spam the strongest attack and heal (it does become that in the late game). Dashing with a cooldown is also pretty fun to use optimally. They amped up the anime cutscene and damn they look so good with that 90s style. ~~I want that Lucia maid costume in game so bad reeeee~~. The first 3 bosses are the some of the hardest bosses in the game. It is a bit weird the game has really few bosses with its playtime. The final difficulty spike is quite brutal, it is barely possible thanks to team invincibility skill, and why no one mentioned to not override saves?
+ 
+Music: Really good, feels like a natural progression from SSS. But some instant classics e.g. Althena's theme and Towards the Horizon are too hard to beat. One track that is better than SSS is the boss theme for sure. Aaand you didnt bother to make a final boss theme, again.
+
+
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| B+ | A+ | B+ | A | Lucia/Lemina/Ruby |
+
+
 ---
 
 ### **INTERESTING titles**
@@ -1005,7 +1032,7 @@ This is undeniably the most "complete" Tales experience, scoring slightly above 
 
 Story/Plot: The class discrimination theme is just alright. I do like me some Lelouch/Suzaku dynamic. This entry has one of the weakest hooks in the Tales games. The conflicts are solved too fast and simple, really lacks in stakes and weight. Revealing Yuri being vigilante could be a huge crash out moment and add a lot of drama, but it is just brought over like that. Overall it is a super safe plot.
 
-Characters: What if we put all flavours of tsunderes aka people who cant be honest with themselves into a party? As Tales tradition, they are all very cliche, but the execution is just so solid. But it really lacks the ONE iconic character like other Tales, which makes this party a lot less memorable. There is way too many kids in this party, Karol is consistently annoying, he did get his moment later on, thats pretty cool. Yuri is a bit overhyped by the community, Troy Baker really carried this one. His high pitch voice trying to imitate Karol is damn funny. I like classical tsunderes so Rita is quite good, she is probably one of the grumpiest Tales main characters. Estelle is fun, her victory skits with teammates (a sign of victory with high five) are the ones I will remember - very cute, but her character really is just slightly better than Colette, Natalia is done way better. ~~If I had a nickel for a short haired princess having weird fashion choices, I'd have two nickels. Which isn't a lot, but it's weird that it happened twice. cues Ashe from FFXII~~ Flynn is really boring. If not for the cast, this game would not have been too different from DQ. 
+Characters: What if we put all flavours of tsunderes aka people who cant be honest with themselves into a party? As Tales tradition, they are all very cliche, but the execution is just so solid. But it really lacks the ONE iconic character like other Tales, which makes this party a lot less memorable. There is way too many kids in this party, Karol is consistently annoying, he did get his moment later on, thats pretty cool. Yuri is a bit overhyped by the community, Troy Baker really carried this one. His high pitch voice trying to imitate Karol is damn funny. I like classical tsunderes so Rita is quite good, she is probably one of the grumpiest Tales main characters. Estelle is fun, her victory skits with teammates (a sign of victory with high five) are the ones I will remember - very cute, but her character really is just slightly better than Colette, Natalia is done way better. ~~If I had a nickel for a short haired princess having weird fashion choices, I'd have two nickels. Which isn't a lot, but it's weird that it happened twice. cues Ashe from FFXII~~ Flynn is really boring. If not for the quality of the cast, this game would not have been too different from DQ. 
 
 Gameplay: A Tales game that is not overengineered with way too many mechanics? Is this even a Tales game? Why do they regress in the late PS3 era? The weapon system is whatever, not innnovative but works, I just think some essential skills like sidestep should just be part of everyones kit. The 3D model artstyle is great, probably the best iteration of the traditional Tales. Not a fan of the 2D sprites, their face feels a bit twisted. The overall dungeon quality is quite good by Tales standards, which are often either extremely boring or annoying. I finally understand the combat system, the controls only make sense on a controller. This is Tales combat at its best. I really hate that bringing Estelle to any boss fight is pseudo hard mode, I just want her to be good.
 
@@ -1014,6 +1041,7 @@ Music: This is finally not reminiscent of Symphonia, but I can't say much about 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | B+ | A- | S- | A- | Estelle/Rita |
+
 
 ---
 
@@ -1042,7 +1070,7 @@ Music: There are some bangers here and there. The battle theme is pretty catchy 
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| B- | B | C | A |  |
+| B- | B | C | A | Jessica |
 
 Best Tracks: Towards the Horizon, Wind's Nocturne, Fighting Spirits
 
@@ -1216,7 +1244,6 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 - Grandia
 - Valkyrie Profile 2nd attempt
 - Breath of Fire II
-- Lunar: Eternal Blue
 - Mass Effect Trilogy
 - Hyper Light Drifter
 
