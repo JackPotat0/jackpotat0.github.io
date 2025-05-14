@@ -523,6 +523,22 @@ Music: A somewhat different vibe from Replicant, this soundtrack generally is mo
 
 Best Tracks: City Ruins/Shade, Vague Hope/Cold Rain, Voice of No Return
 
+#### OPUS: Echo of Starsong
+Just play this game already. We have Freebird Games from the west, and SIGONO from the east.
+ 
+Story: To chase the childish dream or to seize the moment, which one is the way to live as yourself? This game will present you with a very compelling answer that might defy your expectations. Eda's arc is tightly tied to the main theme, making it a solid narrative throughout and manages to explore the themes from many angles. A very elaborate sci-fi world, meant to support the very character driven main plot, so probably not everything is as water tight as it is presented. The acts are very distinct yet flows naturally. There are a lot of repetitive cutscenes, but I think most are used pretty well without getting too annoying, especially when used to recontextualize some scenes. The emotional setup is fantastic, ready for a impactful payoff. The payoff is undeniably predictable and effective, though a bit short to my liking. 
+ 
+Characters: The casts are all deeply flawed and humane characters. The MC (somehow Li Mo becomes Jun Lee in the translation) is a very classic Exiled Prince, with a pleasant character development. Remi's bratty attitude is very justified and well handled. Eda is just great all around, not a Mary Sue, and still a strong willed person. All three main casts relates to one another, but expressed as very different arcs and ends on different resolutions, creating this cohesion with interesting interactions. I do think the game is intentionally toning down the romance subtexts, to give more focus on the character themselves. I played on Mandarin sub and dub, as the game is originally produced in. All the ancient text are well done and immersive. The dialogues flows naturally without being too theatrical or cringy (is this a Chinese game problem? This game is written by Taiwanese). The VAs' delivery are on point. 
+ 
+Gameplay: It is on the easier side. The musical element did not play a huge role. Puzzle solving is very elementary. The DnD style space exploration with resource management is the more fun part, often giving some room for role playing.
+ 
+Music: It is a standard cinematic storytelling soundtrack, with emotional bursts and ambience, helps a lot in immersion. 
+ 
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| S | S | A | A+ | Eda |
+
 ---
 
 ### **REALLY good**
