@@ -130,6 +130,8 @@ Gameplay: The best part of the game. The main gimmick revolves around travelling
 
 Music: Ah yes it is Yoko Shimomura [insert fanboy screams here]. This is probably her shortest OST. Due to the game's structure, the music needs to be reusable enough in many cases and she nailed it as usual. You can hear a lot of KH style in it, with one track calling back to Legend of Mana (i think). Once a violin slut, always a violin slut.
 
+Perfect Chronology: The extended lore is nice but does not really add too much to the main themes. the Perfect ending definitely reduced the emotional impact from True Ending. The game is entirely "rebalanced" and it might be for the worse. At this point the combat designer is out of ideas to utilize this system any further so we got Apocrypha clone a.k.a Singularity as the final boss (and sidenote I really appreciate Apocrypha's design when I see Singularity). The Vault of Time is a solution for underleveled characters like Rosch to be useful, but it just becomes the default grinding spot and obsoletes the main dungeons. I really don't like the sound effect changes, the book flipping sound is much more meaningful. I can understand the attack animations is faster for sanity sake, but it is not very visually appealing. Voice acting is fine for the most part, only Raynie and Rosch sounds different from my imagination. Aht feels more lively with her voice, great work. It is a dead horse to beat, but the distinct original artstyle was so immaculate that they should have designed the new characters in that style instead of using a simpler anime style (I want to think that it's just the original artist could not work with them anymore, but who knows), the portraits are fine, the sprite arts are a bit off (why the long face Stocke??). Menu cursor sometimes drifts too fast. Did they just remove cutscene skip just to emulate games of the time like SMT4/4A? Well the only issue is that I have played the original for 3+ years straight at this point, it is too hard to adapt to this almost same but new game.
+
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | S- | A+ | S+ | S | Stocke/Raynie |
@@ -309,6 +311,32 @@ Music: There are a few memorable tracks tied to the big story sequences. Overall
 
 Best tracks: Run Past Through the Plain, Tension
 
+
+#### OPUS: Echo of Starsong
+Just play this game already. We have Freebird Games from the west, and SIGONO from the east. The execution is near perfect. They have proved themselves as master storytellers.
+ 
+Edit: This is the first time I bumped up a game to the highest category. The more I think about this game the better it gets. This game reminds me of all the things I loved from my all time favourites: The depth of its main theme and the tight writing in FFX, the bittersweet ending in Sky FC, the fantastic writing of the female lead in Ys 8 and Tales of Berseria (Yes I know I am biased for bittersweet endings).
+ 
+Story: To chase the childish dream or to live in the present, which one is the way to live as yourself? This game will present you with a very compelling answer that might defy your expectations. Eda's arc is tightly tied to the main theme, making it a solid narrative throughout and manages to explore the themes from many angles. A very elaborate sci-fi world, meant to support the very character driven main plot, ~~so probably not everything is as water tight as it is presented~~ apparently the writers spent a great deal on building a grounded mythology and history. One thing that intrigued me are the "mandalas" around the world, very symbolic. All the ancient text are well done and immersive. The acts are very distinct yet flows naturally. There are a lot of repetitive cutscenes, but I think most are used pretty well without getting too annoying, especially when used to recontextualize some scenes (let's talk about YLIA some other day). The emotional setup is fantastic, ready for a impactful payoff. The payoff is undeniably predictable and effective, though a bit short to my liking, ranking just a bit lower than my perfect ending that is FFX's ending. 
+
+<details>
+  <summary>Ending spoilers</summary>
+	<i>Please forgive me.</i> I can already tell when Eda told Jun to search for the flower seed. My guess was "I am sorry", I was not so off if I am just trying to guess Eda's last words. Though the former makes more sense as Red was redeeming herself from her past as a witch by raising up a girl. They pulled off a great deception before the send off, making you think Eda was going to give up. They even let you leave the planet! This is the kind of thing that can be done only in a video game format, and they certainly seized the opportunity.
+</details>
+
+Characters: The casts are all deeply flawed and humane characters. The MC (somehow Li Mo becomes Jun Lee in the translation) is a very classic Exiled Prince, with a pleasant character development. Remi's bratty attitude is very justified and well handled. Eda is just great all around, not a Mary Sue, and still a strong willed person. All three main casts relates to one another, but expressed as very different arcs and ends on different resolutions, creating this cohesion with interesting interactions. I do think the game is intentionally toning down the romance subtexts, to give more focus on the character themselves. I played on Mandarin sub and dub, as the game is originally produced in. The dialogues flows naturally without being too theatrical or cringy (is this a Chinese game problem? This game is written by Taiwanese). The VAs' delivery are on point. 
+ 
+Gameplay: It is on the easier side. The musical element did not play a huge role (or more accurately, there are puzzles with music elements but not musical puzzles). Puzzle solving is very elementary. The DnD style space exploration with resource management is the more fun part, often giving some room for role playing. I just wished that we can complete the achievements without doing multiple playthoughs because I kind of want to keep the magic of my first run.
+ 
+Music: It is a standard cinematic storytelling soundtrack, with emotional bursts and ambience, helps a lot in immersion. The ending themes might sound generic without context; but in that scene, it hits like a truck and in some ways, helps to express and relieve the complex emotions felt throughout the scene. Absolutely brilliant. 
+ 
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| S | S | A | A+ | Eda |
+ 
+Best tracks: The Flowers There… Are Always in Full Bloom, Echo of Starsong, The Name has a Special Meaning
+ 
 ---
 
 ### **MAN**
@@ -522,22 +550,6 @@ Music: A somewhat different vibe from Replicant, this soundtrack generally is mo
 | S+ | S | S- | S+ | A2/2B/6O |
 
 Best Tracks: City Ruins/Shade, Vague Hope/Cold Rain, Voice of No Return
-
-#### OPUS: Echo of Starsong
-Just play this game already. We have Freebird Games from the west, and SIGONO from the east.
- 
-Story: To chase the childish dream or to seize the moment, which one is the way to live as yourself? This game will present you with a very compelling answer that might defy your expectations. Eda's arc is tightly tied to the main theme, making it a solid narrative throughout and manages to explore the themes from many angles. A very elaborate sci-fi world, meant to support the very character driven main plot, so probably not everything is as water tight as it is presented. The acts are very distinct yet flows naturally. There are a lot of repetitive cutscenes, but I think most are used pretty well without getting too annoying, especially when used to recontextualize some scenes. The emotional setup is fantastic, ready for a impactful payoff. The payoff is undeniably predictable and effective, though a bit short to my liking. 
- 
-Characters: The casts are all deeply flawed and humane characters. The MC (somehow Li Mo becomes Jun Lee in the translation) is a very classic Exiled Prince, with a pleasant character development. Remi's bratty attitude is very justified and well handled. Eda is just great all around, not a Mary Sue, and still a strong willed person. All three main casts relates to one another, but expressed as very different arcs and ends on different resolutions, creating this cohesion with interesting interactions. I do think the game is intentionally toning down the romance subtexts, to give more focus on the character themselves. I played on Mandarin sub and dub, as the game is originally produced in. All the ancient text are well done and immersive. The dialogues flows naturally without being too theatrical or cringy (is this a Chinese game problem? This game is written by Taiwanese). The VAs' delivery are on point. 
- 
-Gameplay: It is on the easier side. The musical element did not play a huge role. Puzzle solving is very elementary. The DnD style space exploration with resource management is the more fun part, often giving some room for role playing.
- 
-Music: It is a standard cinematic storytelling soundtrack, with emotional bursts and ambience, helps a lot in immersion. 
- 
-
-| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
-| ------------- | ------------- | --------- | ------------ | --------------- |
-| S | S | A | A+ | Eda |
 
 ---
 
