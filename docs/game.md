@@ -1069,6 +1069,12 @@ Music: This is finally not reminiscent of Symphonia, but I can't say much about 
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | B+ | A- | S- | A- | Estelle/Rita |
 
+#### Final Fantasy V (GBA)
+My motivation to play this game is mainly so that I can say I finished 4-10 without saying except 5. I definitely enjoyed the game more than I expected, there is something about the writing that makes it not dreadful even nothing special is going on. The more I play other retro JRPGs the more I don't understand why DQ8 annoys me so much, there does not seems to be a huge difference, maybe because Bartz is not a complete mute? So here's the origin story for the certain job based JRPG to have a cast of teen + amnesiac + princess + pirate. I think this is the most I can take for a job class game. BD simply has too many options and require too much planning ahead. The game was easier than expected too, granted I grind a lot, until it amps up on the last world. Surprisingly not too many classes are terribly required, it is ok to stick with one archetype all the way with minimal modifications. Also o7 to my dude Gilgamesh because he has to be mentioned somewhere.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| B | B | A+ | B |  |
 
 ---
 
@@ -1239,6 +1245,9 @@ combat is too barebones, lack of real control, also Sakuraba I just don't like y
 #### Legend of Mana (PS1) 
 Combat is too clunky, non linear layout is too uncomfortable for me. This is Yoko Shimomura's single best standalone OST. It captured the magical fantasy world like no other, not even her future works has this degree of raw imagination. I will die on this hill.
 
+#### Vagrant Story (PS1)
+Not my kind of thing. The story sure is intriguing, will be sure to check out.
+
 ---
 
 ### **NOT ROLLED CREDITS**
@@ -1261,9 +1270,7 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 
 
 ### **NEXT UP/ONGOING**
-- Vagrant Story
 - Yakuza: Like A Dragon
-
 
 ### **INTERESTED IN**
 - Hi-Fi Rush
@@ -1273,6 +1280,7 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 - Breath of Fire II
 - Mass Effect Trilogy
 - Hyper Light Drifter
+- Steins;Gate
 
 ### **INTERESTED but maybe someday**
 - Trails of Cold Steel
@@ -1284,7 +1292,6 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 - Xenosaga
 - Sakuna: Of Rice and Ruin
 - Metal Gear Solid
-- Final Fantasy V
 
 ### SWITCH wishlist
 - Xenoblade Chronicles
@@ -1303,7 +1310,7 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 Based on overall enjoyment. Order may be different based on different aspects.
 
 #### **Final Fantasy**
-`X > VI > Tactics > IX > VII > VIII > IV`
+`X > VI > Tactics > IX > VII > VIII > V = IV`
 
 #### **Tales of**
 `Berseria > Abyss > Symphonia > Vesperia`
