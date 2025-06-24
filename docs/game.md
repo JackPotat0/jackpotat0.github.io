@@ -337,6 +337,53 @@ Music: It is a standard cinematic storytelling soundtrack, with emotional bursts
  
 Best tracks: The Flowers There… Are Always in Full Bloom, Echo of Starsong, The Name has a Special Meaning
  
+ 
+#### Steins;Gate
+I suppose not putting the original game of one of my top 5 anime in the highest category just isnt right. The TV show did change my view on anime, story telling and character writing after all.
+
+The pacing is a lot lot slower than the anime. There are lot of banters that doesnt help with the plot that adds a lot of flavour to these characters I already love. The setups in this game is just phenomenal, knowing the final twists. The game exposes Okabe's mental space clearly at all times, so it is very easy to tell his chuuni facade. The anime requires viewers to intepret deeper into his actions to get his POV. The portraits have a lot of style, especially Kurisu has a lot of edge that is not present in the anime artstyle. ~~Kurisu's tsundere moments are cuuuuuuute. She is just so perfect. It's not like she is my first and definitive waifu or something. ~~ The option system is very unique, the plot branches off the timing to take certain calls or reply to certain messages, it is almost like a hidden QTE. The script goes all in with the weeb references; anyone can be a 4chan expert if you study the tips section. The game introduces two different concepts which are D-mail and time leap gradually. This is a lot easier to grasp compared to anime (or maybe cuz this is my 3rd time hearing the explanation). 
+
+ <details>
+  <summary>S;G story structure is art</summary>
+	The story in S;G is very structured. It is like toppling dominoes. The writer and lays down the pieces one by one, sometimes slipping in odd tiles in between the normal tiles. You follow his movements step by step, oblivious to the greater picture or any deception. In the end the domino run is completed, and it is time to knock it over, not from the starting point, but the end point. Only then you realize how everything is connected - why a certain piece is laid this way and how it relates to the next piece in the run. As the normal tiles falls, you noticed how the boring looking pieces plays their part. In between you get to choose to put pieces to decide the direction, but those are not the final destination. Nearing the end, the writer reveals a hidden path he has built long ago and suddenly the domino falls over to this entirely new path you never thought had existed, the writer has achieved the Prestige. The writer invites you to take a step back, only then you see the full picture.
+	<br><br>
+	<i>It was the path to Steins Gate.</i>
+	<br><br>
+	The dominoes represent story beats, a lot of normal slice of life moments, and some hooks like IBN5100 and SERN. The trick is to obscure the reasons of sending D-mails, which leads to a payoff whenever Okabe learns the truth. As Okabe undoes the D-Mails, he deconstructs those normal yet irreplacable moments, and we as the readers feel the pain together. I am glad S;G is probably one of the first stories in anime space that executes this structure so well.
+</details>
+
+ <details>
+  <summary>Suzuha</summary>
+  I think this is the first available character ending? I like her so I started hers first. It is a classic Groundhog Day scenario, but the framing and atmosphere is so good, and things goes differently with Suzuha and her time machine. This is a route in a VN in the realest sense, there is something meta here. Maybe I can explain better once I play more of these endings. 
+</details>
+ <details>
+  <summary>Faris</summary>
+   I fell for this 2D girl's spell, line hook and sinker. Her voice is cute and she has the second best sprite arts after Kurisu. She is not even close to my favourite archetypes but I find her really charming (ok that is a lie, my P4 best girl is Rise). Just as you think she is all talk, she shows a serious side. Her reveal arc also hits very hard. She is just a girl in the end. 
+   <br><br>
+   The transition into alternate ending is even more natural. Wow. This reminds me a lot of Radiant Historia's bad endings, where MC tries to find another way, just to get screwed even harder unexpectedly, but you would not know until you try. And now I get it, the endings are where you actually "romance" the girl (or not girls), making this game a de facto traditional visual novel. The ending is actually really good, it's just the price is too much to pay, but Okabe can probably find happiness there, much better than the ending of losing all memories together with Suzuha.
+</details>
+<details>
+  <summary>Luka</summary>
+   The best part about this arc is revealing how Kurisu is also hopeless at real conversations and romance. This ending is just uninspired and out of character. One interesting thing is that they were bound together by the loss of Mayuri but not her presence, it is an ironic outcome. 
+</details>
+<details>
+  <summary>Moeka</summary>
+   Kurisu is designed to be always at the perfect position for him at all the timelines (my thesis on why Kurisu is the perfectly engineered waifu will come out someday). And damn she suggests some very dangerous things. You thought I am going to talk about Moeka and this is where you are mistaken - I dont really care about her at all. Nae's plot is kind of dumb also, how do you keep track of the machine's location for 15 years? Well they pulled this again in 0 as an actual plot point, so welp.
+</details>
+<details>
+  <summary>True End Stuff</summary>
+   There is no way to even get the first flag without a guide or dumb luck, not to say reaching True End. So that's how the devs ensure you to reach the Mayuri ending on first playthrough. The scenes with Kurisu are great. The key is to pay attention to her messages as you are advancing with other girls. Very fitting for the true girl in the game.
+	<br><br>   
+	The story would be pretty good if it ended at Beta worldline, it is a tragedy in the core - a story about the transience of precious memories, just like the summer that never was. But it is set up so that you feel something still falls short and there is supposed to be a victory at the end. This allows True Ending to be something anticipated, not something that might ruin the original ending. TE is still somewhat bittersweet as none of the lab mems remember their time in Alpha, but it is the best outcome.
+	<br><br>
+	TE is still fantastic; the realization, the despair still hits all the same. I am surprised the Worldline Fixing Slap did not have a CG. 
+</details>
+
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| S+ | S+ | A | A | Kurisu/Okabe/Suzuha/Faris |
+
 ---
 
 ### **MAN**
