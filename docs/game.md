@@ -341,7 +341,7 @@ Best tracks: The Flowers There… Are Always in Full Bloom, Echo of Starsong, Th
 #### Steins;Gate
 I suppose not putting the original game of one of my top 5 anime in the highest category just isnt right. The TV show did change my view on anime, story telling and character writing after all.
 
-The pacing is a lot lot slower than the anime. There are lot of banters that doesnt help with the plot that adds a lot of flavour to these characters I already love. The setups in this game is just phenomenal, knowing the final twists. The game exposes Okabe's mental space clearly at all times, so it is very easy to tell his chuuni facade. The anime requires viewers to intepret deeper into his actions to get his POV. The portraits have a lot of style, especially Kurisu has a lot of edge that is not present in the anime artstyle. ~~Kurisu's tsundere moments are cuuuuuuute. She is just so perfect. It's not like she is my first and definitive waifu or something. ~~ The option system is very unique, the plot branches off the timing to take certain calls or reply to certain messages, it is almost like a hidden QTE. The script goes all in with the weeb references; anyone can be a 4chan expert if you study the tips section. The game introduces two different concepts which are D-mail and time leap gradually. This is a lot easier to grasp compared to anime (or maybe cuz this is my 3rd time hearing the explanation). 
+The pacing is a lot lot slower than the anime. There are lot of banters that doesnt help with the plot that adds a lot of flavour to these characters I already love. The setups in this game is just phenomenal, knowing the final twists. The game exposes Okabe's mental space clearly at all times, so it is very easy to tell his chuuni facade. The anime requires viewers to intepret deeper into his actions to get his POV. The portraits have a lot of style, especially Kurisu has a lot of edge that is not present in the anime artstyle. ~~Kurisu's tsundere moments are cuuuuuuute. She is just so perfect. It's not like she is my first and definitive waifu or something.~~ The option system is very unique, the plot branches off the timing to take certain calls or reply to certain messages, it is almost like a hidden QTE. The script goes all in with the weeb references; anyone can be a 4chan expert if you study the tips section. The game introduces two different concepts which are D-mail and time leap gradually. This is a lot easier to grasp compared to anime (or maybe cuz this is my 3rd time hearing the explanation). 
 
  <details>
   <summary>S;G story structure is art</summary>
@@ -372,7 +372,7 @@ The pacing is a lot lot slower than the anime. There are lot of banters that doe
 </details>
 <details>
   <summary>True End Stuff</summary>
-   There is no way to even get the first flag without a guide or dumb luck, not to say reaching True End. So that's how the devs ensure you to reach the Mayuri ending on first playthrough. The scenes with Kurisu are great. The key is to pay attention to her messages as you are advancing with other girls. Very fitting for the true girl in the game.
+   There is no way to even get the first flag without a guide or dumb luck, not to say reaching True End. So that's how the devs ensure you to reach the Mayuri ending on first playthrough. The scenes with Kurisu are great. The key is to pay attention to her messages as you are advancing with other girls. Very fitting for the one true girl of the game.
 	<br><br>   
 	The story would be pretty good if it ended at Beta worldline, it is a tragedy in the core - a story about the transience of precious memories, just like the summer that never was. But it is set up so that you feel something still falls short and there is supposed to be a victory at the end. This allows True Ending to be something anticipated, not something that might ruin the original ending. TE is still somewhat bittersweet as none of the lab mems remember their time in Alpha, but it is the best outcome.
 	<br><br>
@@ -432,7 +432,7 @@ The other cast are just as fleshed out, especially all the other allies. The ant
 
 Gameplay: I lost at the first boss fight, the kids die in 3 hits. The game can be ass at times and force you to retry with correct gears, but it has no weird difficulty spikes like in Sky SC. Generally good balancing, Combo Craft is a nice rework from Sky SC, adds a lot of identity. Max Advantage Preemptive speeds up mob fights a lot faster. 
 
-Music: Two new composers definitely shake things up and added a lot of identity to this OST, maybe this OST is the more "Falcom"-ey one as compared to Sky's jazzy vibes (I need more Saki Momiyama but too bad she left after CSII). Way of Life motif is very addicting. Possibly has the best collection of battle themes in the series (Arrival Existence and Arrest the Criminal made it lose to Azure). It is so mind boggling how the title theme (Zero no Kiseki) evokes a special sense of nostalgia, as if you have already spent a lifetime of adventures with SSS when you dont even know them yet. 
+Music: Two new composers definitely shake things up and added a lot of identity to this OST, maybe this OST is the more "Falcom"-ey one as compared to Sky's jazzy vibes (I need more Saki Momiyama but too bad she left after CSII). Way of Life motif is very addicting. Possibly has the best collection of battle themes in the series (Arrival Existence and Arrest the Criminal made it lose to Azure). It is so mind boggling how the title theme (Zero no Kiseki) evokes a special sense of nostalgia, as if you have already spent a lifetime of adventures with SSS when you dont even know them yet. Edit: I can safely say Inevitable Struggle is my favourite boss theme in all video game.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -853,6 +853,7 @@ Cartoonish plotline. I like all the south eastern influences. The Tales-like ope
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A- | A- | S- | A |  |
 
+Best Tracks: Indivisible, Ajna, Enter the Evil
 
 #### Lunar 2: Eternal Blue (PSX)
 Campy fun adventure done to perfection. It is simply a more enjoyable game than SSS with the QoLs. If I had played this game when it first released this could very well be my favourite game. Now I can finally say Lunar is genuinely great and deserves to be the baseline of traditional JPRGs. They know what they are aiming for and achieve their goals expertly, which many developers struggle to deliver, as basic as it sounds.
@@ -879,6 +880,35 @@ Music: Really good, feels like a natural progression from SSS. But some instant 
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | B+ | A+ | B+ | A | Lucia/Lemina/Ruby |
 
+#### Steins;Gate 0 
+There are many things I liked about 0 as a sequel, but there are even more things that are executed poorly or even undermines the original that makes this entry being ranked much lower. I really dont remember much about 0, the anime was not the best at describing what's going on. All I remember is the revival of Kyouma and Maho (bless Maho). This game is actually really difficult to adapt due to how very different routes intersect with each other to form a complete story. And I only learnt about the Mozart-Salieri trope from this show, so thats cool. Using different POV and having a narrator makes this game feels much different from S;G's singular perspective of Okabe. I am quite sure the writer prefers to spend a lot of time setting up without having any major stakes before going ham with the plot. This works really well for a VN and probably for VN only. 
+
+<details>
+  <summary>Kagari</summary>
+	I still dont like Kagari's role in the story, in fact this is all part of the necessary retcon from S;G to add more story (what do you mean you lied about the amount of fuel in the time machine). She is nothing much more than a sequel bait (OMG she looks like Kurisu). Her best contribution is enabling RMG route. We do not talk about what happens to her in V&A route.
+</details>
+<details>
+  <summary>Suzuha</summary>
+	She is quite different from the spunky Suzuha in Alpha WL but she is still pretty cool here. Daru-Suzuha dynamic is very fun - probably one of the best parts of the game, it's so funny that she should have known her birth is a convergence event in both attractor fields but she is still worried about it. 
+</details>
+<details>
+  <summary>Maho</summary>
+	Maho is undoubtedly the best written character in the game, not as perfect as Kurisu, but much more human and ground to earth. In V&A route, the purpose of Maho's role and position around Kurisu and Okabe becomes much clearer. The writer just knows how to design and execute a thematically significant character. Twin Automata route is quite the bittersweet route. I got baited so hard by that one line from her (iykyk).
+</details>
+<details>
+  <summary>Kurisu</summary>
+	AI or not, Kurisu remains as the perfect waifu. The brief shift to Alpha WL is the deserved goodbye we didnt get in S;G, I also like the explanation of why Okabe should choose Beta in any case. I only realized the reason of having new Kurisu sprites is because there are not much friendly and polite faces for her in the original game, it is always the shy or smug faces, and that's why Okabe knows about an entirely different Kurisu from Maho. 
+</details>
+<details>
+  <summary>Main plot and routes</summary>
+	There are only 2 choices in a row that can lead to the bad ending and I got both of them on the first run, I am so good at VNs. The choices does not really correlate to anything obvious really cuz timelines can just change without Okabes control. The routes are wildly different from each other. Recursive Mother Goose is a very interesting scenario. Vega and Altair route is perfect except for Operation Arclight. Past Mayuri is perfectly capable and in character to perform the slap herself (and actually did before SG0 is created), and that is such a powerful moment for her, the operation just robs her maturity she is meant to have in the original. 
+</details>
+ 
+
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| A+ | S- | A | A | Maho/Suzuha |
 
 ---
 
@@ -1295,6 +1325,9 @@ Combat is too clunky, non linear layout is too uncomfortable for me. This is Yok
 #### Vagrant Story (PS1)
 Not my kind of thing. The story sure is intriguing, will be sure to check out.
 
+#### Secret of Mana (SNES)
+Beautiful sprites and world and music. Hindered a lot by janky combat system and boss design. Full attack is the only thing worth using, which is a real wasted potential cuz the animations and controls clearly allows for a fluid combo, instead the best way to damage is to hit attack once then wait for a few seconds, making any kind of combos obsolete. I would rather play Terranigma than this one.
+
 ---
 
 ### **NOT ROLLED CREDITS**
@@ -1327,7 +1360,7 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 - Breath of Fire II
 - Mass Effect Trilogy
 - Hyper Light Drifter
-- Steins;Gate
+
 
 ### **INTERESTED but maybe someday**
 - Trails of Cold Steel
