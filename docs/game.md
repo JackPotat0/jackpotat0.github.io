@@ -897,7 +897,7 @@ There are many things I liked about 0 as a sequel, but there are even more thing
 </details>
 <details>
   <summary>Kurisu</summary>
-	AI or not, Kurisu remains as the perfect waifu. The brief shift to Alpha WL is the deserved goodbye we didnt get in S;G, I also like the explanation of why Okabe should choose Beta in any case. I only realized the reason of having new Kurisu sprites is because there are not much friendly and polite faces for her in the original game, it is always the shy or smug faces, and that's why Okabe knows about an entirely different Kurisu from Maho. 
+	AI or not, Kurisu remains as the perfect waifu. The brief shift to Alpha WL is the deserved goodbye we didnt get in S;G. I also like her explanation of why Okabe should choose Beta in any case. I only realized the reason of having new Kurisu sprites is because there are not much friendly and polite faces for her in the original game, it is always the shy or smug faces, and that's why Okabe knows about an entirely different Kurisu from Maho. 
 </details>
 <details>
   <summary>Main plot and routes</summary>
@@ -1153,6 +1153,7 @@ My motivation to play this game is mainly so that I can say I finished 4-10 with
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | B | B | A+ | B |  |
 
+
 ---
 
 ### **PRETTY nice but skippable**
@@ -1233,6 +1234,12 @@ They chose not to have a definitive love interest which is fine, but they dont e
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | C | C | A | A+ |  |
 
+#### Gurumin: A Monstrous Adventure
+Falcom what are you still doing with Trails/TX if you are bored with it. Get on with Gurumin sequel/remake already. I have seen some bad bosses by Falcom but holy Blackbean is something else. The OST has a strong Sky vibes, love it.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| C | C | C | A+ |  |
 
 ---
 
