@@ -6,7 +6,7 @@
 *The games that changed my gaming view (i.e. ruin other games) in one way or another. *
 
 #### Kingdom Hearts 2 Final Mix (PS2)
-This game serves as my first experience to speedrunning. I found [Bl00dyBizkit's AGDQ2017 run](https://www.youtube.com/watch?v=PVjf3bc3Noo) when looking for Roxas strats and the rest is history. This is still my favourite speedrun of all time. I play the randomizer a lot and learnt some speedrun strats. Everything about combat in this game (aside from some questionable boss designs) is just perfect. 
+This game serves as my first experience to speedrunning. I found [Bl00dyBizkit's AGDQ2017 run](https://www.youtube.com/watch?v=PVjf3bc3Noo) when looking for Roxas strats and the rest is history. This is still my favourite speedrun of all time. I play the randomizer a lot and learnt some speedrun strats. Everything about combat in this game (aside from some questionable boss designs) is just perfect. Thanks SE for the PC release, now I can finally play the 2.5 version, Duck Flare is so broken.
 
 Story/Plot: The prologue is amazing. In just a few hours you are connected to one of the best written character in the series, then it's all downhill from there. Disney worlds are meh, didnt really teach Sora anything personally. Nobody lore is alright. Organization XIII works just enough for evil corporation but nothing memorable. The ending execution is pretty good though. ~~They could have ended KH right there~~. The only three story beats in the game I cared are the prologue, battle with Roxas and the ending. 
 
@@ -282,6 +282,8 @@ Story/Plot: The main plot can get a bit confusing, but it is ok to just know wha
   <summary>My intepretation on the ending</summary>
 	The part where Orran sees Ramza and Alma as he expresses his regret for them. This shows that Ramza still lives on in Orran's mind, and that is what drives Orran to record Ramza's story and even die for it, just so that the truth may be revealed some day. The truly noble one is the one whom people will die for (dying is the key of our comparison here), not the hero on the face level, contrasting Delita. This is why I think it is more beautiful for Ramza and party to die narrative wise (also this can explain his line about his father), he can sacrifice himself because Ramza did for many, even no one knows. At least Orran knows he might be remembered by his works, but Ramza is doing all this out of his kindness for the world. I know a lot of this is mere assumption, but I think this is more romantic.
 	  <br><br>
+	(So the remake version confirmed they are alive and living a new life. Good for them I guess. I will keep my reading though)  
+	  <br><br>
 	Fast forward to Delita's sequence. Ovelia at this point is the only person alive who has some genuine connection with Delita from the main story. Due to how Delita has treated others, she simply cannot trust him at all, as much as she wants to. I believe it will help to have one sequence between the graveyard scene and this scene, to show her fear of Delita - or the Delita/Orran/Valmafra scene is meant to do that, since Ovelia leaves in panic after hearing Delita's narcissistic grand plan. I think her reason is that she wanted to know if Delita will put himself before her i.e. the only person he seemed to care about. The only way to test him is to stake her own life, and she probably has an answer in mind. There is no way she can kill Delita like that, even she knows, and that is never the purpose. That is why she did not wound him fatally, and said:
 	<br><br>
 		<i>How could you? You...you used them, and all the others! And someday you'll cast me aside, just as you did him!</i>
@@ -324,7 +326,7 @@ Story: To chase the childish dream or to live in the present, which one is the w
 	<i>Please forgive me.</i> I can already tell when Eda told Jun to search for the flower seed. My guess was "I am sorry", I was not so off if I am just trying to guess Eda's last words. Though the former makes more sense as Red was redeeming herself from her past as a witch by raising up a girl. They pulled off a great deception before the send off, making you think Eda was going to give up. They even let you leave the planet! This is the kind of thing that can be done only in a video game format, and they certainly seized the opportunity.
 </details>
 
-Characters: The casts are all deeply flawed and humane characters. The MC (somehow Li Mo becomes Jun Lee in the translation) is a very classic Exiled Prince, with a pleasant character development. Remi's bratty attitude is very justified and well handled. Eda is just great all around, not a Mary Sue, and still a strong willed person. All three main casts relates to one another, but expressed as very different arcs and ends on different resolutions, creating this cohesion with interesting interactions. I do think the game is intentionally toning down the romance subtexts, to give more focus on the character themselves. I played on Mandarin sub and dub, as the game is originally produced in. The dialogues flows naturally without being too theatrical or cringy (is this a Chinese game problem? This game is written by Taiwanese). The VAs' delivery are on point. 
+Characters: The casts are all deeply flawed and humane characters. The MC (somehow Li Mo becomes Jun Lee in the translation) is a very classic Exiled Prince, with a pleasant character development. Remi's bratty attitude is very justified and well handled. Eda is just great all around, not a Mary Sue, and still a strong willed person. All three main casts relates to one another, but expressed as very different arcs and ends on different resolutions, creating this cohesion with interesting interactions. I do think the game is intentionally toning down the romance subtexts, to give more focus on the character themselves. I played on Mandarin sub and dub, as the game is originally produced in. The dialogues flows naturally without being too soap opera-ish or cringy (is this a Chinese game problem? This game is written by Taiwanese). The VAs' delivery are on point. 
  
 Gameplay: It is on the easier side. The musical element did not play a huge role (or more accurately, there are puzzles with music elements but not musical puzzles). Puzzle solving is very elementary. The DnD style space exploration with resource management is the more fun part, often giving some room for role playing. I just wished that we can complete the achievements without doing multiple playthoughs because I kind of want to keep the magic of my first run.
  
@@ -889,15 +891,15 @@ There are many things I liked about 0 as a sequel, but there are even more thing
 </details>
 <details>
   <summary>Suzuha</summary>
-	She is quite different from the spunky Suzuha in Alpha WL but she is still pretty cool here. Daru-Suzuha dynamic is very fun - probably one of the best parts of the game, it's so funny that she should have known her birth is a convergence event in both attractor fields but she is still worried about it. 
+	She is quite different from the spunky Suzuha in Alpha WL but she is still pretty cool here. Daru-Suzuha dynamic is very fun - probably one of the best parts of the game, it's so funny that she should have known her birth is a convergence event in both attractor fields but she is still worried about it. They even have Suzuha tricking Daru in the anime lol, the anime even utilizes this unique dynamic even further, good stuff, the Daru love episode is just fantastic.
 </details>
 <details>
   <summary>Maho</summary>
-	Maho is undoubtedly the best written character in the game, not as perfect as Kurisu, but much more human and ground to earth. In V&A route, the purpose of Maho's role and position around Kurisu and Okabe becomes much clearer. The writer just knows how to design and execute a thematically significant character. Twin Automata route is quite the bittersweet route. I got baited so hard by that one line from her (iykyk).
+	Maho is undoubtedly the best written character in the game, not as perfect as Kurisu, but much more human and ground to earth. In V&A route, the purpose of Maho's role and position around Kurisu and Okabe becomes much clearer. The writer just knows how to design and execute a thematically significant character. Twin Automata is a tragically beautiful route. I got baited so hard by that one line from her (iykyk).
 </details>
 <details>
   <summary>Kurisu</summary>
-	AI or not, Kurisu remains as the perfect waifu. The brief shift to Alpha WL is the deserved goodbye we didnt get in S;G. I also like her explanation of why Okabe should choose Beta in any case. I only realized the reason of having new Kurisu sprites is because there are not much friendly and polite faces for her in the original game, it is always the shy or smug faces, and that's why Okabe knows about an entirely different Kurisu from Maho. 
+	AI or not, Kurisu remains as the perfect waifu. The brief shift to Alpha WL is the deserved goodbye we didnt get in S;G. We got one whole episode with Kurisu in the anime, but somehow the closure is much stronger in the game. I also like her explanation of why Okabe should choose Beta in any case. I only realized the reason of having new Kurisu sprites is because there are not much friendly and polite faces for her in the original game, it is always the shy or smug faces, and that's why Okabe knows about an entirely different Kurisu from Maho. 
 </details>
 <details>
   <summary>Main plot and routes</summary>
@@ -1147,7 +1149,7 @@ Music: This is finally not reminiscent of Symphonia, but I can't say much about 
 | B+ | A- | S- | A- | Estelle/Rita |
 
 #### Final Fantasy V (GBA)
-My motivation to play this game is mainly so that I can say I finished 4-10 without saying except 5. I definitely enjoyed the game more than I expected, there is something about the writing that makes it not dreadful even nothing special is going on. The more I play other retro JRPGs the more I don't understand why DQ8 annoys me so much, there does not seems to be a huge difference, maybe because Bartz is not a complete mute? So here's the origin story for the certain job based JRPG to have a cast of teen + amnesiac + princess + pirate. I think this is the most I can take for a job class game. BD simply has too many options and require too much planning ahead. The game was easier than expected too, granted I grind a lot, until it amps up on the last world. Surprisingly not too many classes are terribly required, it is ok to stick with one archetype all the way with minimal modifications. Also o7 to my dude Gilgamesh because he has to be mentioned somewhere.
+My motivation to play this game is mainly so that I can say I finished 4-10 without saying except 5. I definitely enjoyed the game more than I expected, there is something about the writing that makes it not dreadful even nothing special is going on. The more I play other retro JRPGs the more I don't understand why DQ8 annoys me so much, there does not seem to be a huge difference, maybe because Bartz is not a complete mute? So here's the origin story for the certain job based JRPG to have a cast of teen + amnesiac + princess + pirate. I think this is the most I can take for a job class game. BD simply has too many options and require too much planning ahead. The game was easier than expected too, granted I grind a lot, until it amps up on the last world. Surprisingly not too many classes are terribly required, it is ok to stick with one archetype all the way with minimal modifications. Also o7 to my dude Gilgamesh because he has to be mentioned somewhere.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -1308,6 +1310,12 @@ Map is way too big for walking speed, had to hold turbo for the entire game. GBA
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | B | B | C | A+ |  |
 
+#### Kingdom Hearts Re:Chain of Memories
+Very creative, never cook this up again. I know you didnt.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| B | D | B | A+ |  |
 
 ---
 
