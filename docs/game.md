@@ -87,6 +87,8 @@ Best tracks: Team, This One's Stronger!, FIGHT!, Team, It's Getting Serious!
 - The ending for both games are just perfect. EVERY SINGLE DETAIL.
 - **Estelle is Bestelle**
 
+The remakes are easily some of the best remakes in all of gaming.
+
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | S+ | S+ | S | S+ | Estelle/Joshua/Kloe/Anelace | 
@@ -625,7 +627,7 @@ Best tracks: Believing, Oboro, Tension
 
 
 #### Kingdom Hearts (PS2)
-A simple Hero's Journey, but a great one. Unlike the later KH games, the main plot is tied nicely with the Disney worlds, making Sora's journey necessary and important to his character. One of the best executions for "Friendship is Power" trope. It can be cheesy but it is good because it is not baseless. Combat is simple and effective but the camera... did not age too well.
+A simple Hero's Journey, but a great one. Unlike the later KH games, the main plot is tied nicely with the Disney worlds, making Sora's journey necessary and important to his character. One of the best executions for "Friendship is Power" trope. It can be cheesy but it is good because it is not baseless. Combat is simple and effective but the camera... did not age too well. Every time I relook into KH I am just impressed by Nomura's creative direction, it might not work every time, but when it does it's magic and this game is full of it. The weird fusion of FF and Disney, the simple fairy tale hidden under all the flashy presentation and complicated lore. I cannot explain the magic, but everything just WORKS and he knows it.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -1140,7 +1142,7 @@ Story/Plot: The class discrimination theme is just alright. I do like me some Le
 
 Characters: What if we put all flavours of tsunderes aka people who cant be honest with themselves into a party? As Tales tradition, they are all very cliche, but the execution is just so solid. But it really lacks the ONE iconic character like other Tales, which makes this party a lot less memorable. There is way too many kids in this party, Karol is consistently annoying, he did get his moment later on, thats pretty cool. Yuri is a bit overhyped by the community, Troy Baker really carried this one. His high pitch voice trying to imitate Karol is damn funny. I like classical tsunderes so Rita is quite good, she is probably one of the grumpiest Tales main characters. Estelle is fun, her victory skits with teammates (a sign of victory with high five) are the ones I will remember - very cute, but her character really is just slightly better than Colette, Natalia is done way better. ~~If I had a nickel for a short haired princess having weird fashion choices, I'd have two nickels. Which isn't a lot, but it's weird that it happened twice. cues Ashe from FFXII~~ Flynn is really boring. If not for the quality of the cast, this game would not have been too different from DQ. 
 
-Gameplay: A Tales game that is not overengineered with way too many mechanics? Is this even a Tales game? Why do they regress in the late PS3 era? The weapon system is whatever, not innnovative but works, I just think some essential skills like sidestep should just be part of everyones kit. The 3D model artstyle is great, probably the best iteration of the traditional Tales. Not a fan of the 2D sprites, their face feels a bit twisted. The overall dungeon quality is quite good by Tales standards, which are often either extremely boring or annoying. I finally understand the combat system, the controls only make sense on a controller. This is Tales combat at its best. I really hate that bringing Estelle to any boss fight is pseudo hard mode, I just want her to be good.
+Gameplay: A Tales game that is not overengineered with way too many mechanics? Is this even a Tales game? Why do they regress in the late PS3 era? The weapon system is whatever, not innnovative but works, I just think some essential skills like sidestep should just be part of everyones kit. The 3D model artstyle is great, probably the best iteration of the traditional Tales. Not a fan of the 2D sprites, their face feels a bit twisted. The overall dungeon quality is quite good by Tales standards, which are often either extremely boring or annoying. I finally understand the combat system, the controls only make sense on a controller. This is Tales combat at its best. I really hate that bringing Estelle to any boss fight is pseudo hard mode, I just want to include her in the big fights.
 
 Music: This is finally not reminiscent of Symphonia, but I can't say much about this OST either. Some town themes feels different and refreshing from the usual stuff.
 
@@ -1173,7 +1175,7 @@ Best tracks: Light the Fire Up in the Night, Lazer Beam, Friends
 #### Lunar: Silver Star Story (PSX)
 A cult classic within the JRPG circle. But I think it really needs that nostalgia and era factor to become a great game. It feels like the FMA:B of JRPGs, but without that extra kick that makes it a real classic. Only recommended to JRPG fans for historical purposes. Coming back from Golden Sun and DQ8: Is it just me or Lunar SSS is really THAT good? How can this tropey 1998 video game beat so many games after in terms of story telling? Why do I keep thinking about and use this game as a baseline whenever I play a truly traditional RPG?
 
-Story: The most standard RPG story I have experienced so far. It can be summed up as "Hero saves the Damsel in Distress with power of love and friendship", there are no big twist too (Wow that weird looking dude who acts like your ally is definitely not a villian). Tons of animated cutscenes and voice acting adds a lot to the story. What it does great is tying its theme tightly to the main plot, although it can feel forced. For a love story, your main party consists of three (more like 2.5) couples with different dynamics and really make its point across clearly and strongly. 
+Story: The most standard RPG story I have experienced so far. It can be summed up as "Hero saves the Damsel in Distress with power of love and friendship", there are no big twist too (Wow that weird looking dude who acts like your ally is definitely not a villain). Tons of animated cutscenes and voice acting adds a lot to the story. What it does great is tying its theme tightly to the main plot, although it can feel forced. For a love story, your main party consists of three (more like 2.5) couples with different dynamics and really make its point across clearly and strongly. 
 
 Characters: The characters are pretty cliche but it should be spared for being an old game. Character development is decent and everyone have just enough of it. It would be nicer if Alex can show more personality because he showed quite some, even if it is typical protagonist personality. The banter between the party is the best part, adds a lot of life and quirkiness to them. 
 
@@ -1363,6 +1365,7 @@ Again, non linear storytelling rarely works for me.
 #### Shadow Hearts (Progress before dropped: 95%)
 Emulator decides to erase heal/shop point right before final boss, not that I really care about the ending at that point.
 
+---
 
 ### **NEXT UP/ONGOING**
 - Yakuza: Like A Dragon
@@ -1399,8 +1402,33 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 - FE3H?
 
 ---
+### **TOP 10 Video Games of All Time**
 
+In no particular order because the order changes based on my mood.
 
+1. Trails in the Sky FC 
+2. Final Fantasy X
+3. Persona 4
+4. Ys VIII: Lacrimosa of Dana
+5. Danganronpa 2: Goodbye Despair
+6. Radiant Historia
+7. The Legend of Zelda: The Wind Waker
+8. Mother 3
+9. Tales of Berseria
+10. Final Fantasy VI 
+
+Top contenders:
+- OPUS: Echoes of Starsong
+- Tales of Berseria
+- Kingdom Hearts II
+- Persona 3
+- Trails from Zero
+- Terranigma
+- Final Fantasy Tactics
+- Final Fantasy IX
+- Lunar 2: Eternal Blue
+
+---
 ### **Series Ranking**
 Based on overall enjoyment. Order may be different based on different aspects.
 
