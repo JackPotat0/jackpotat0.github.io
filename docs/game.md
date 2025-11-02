@@ -349,7 +349,7 @@ The pacing is a lot lot slower than the anime. There are lot of banters that doe
 
  <details>
   <summary>S;G story structure is art</summary>
-	The story in S;G is very structured. It is like toppling dominoes. The writer and lays down the pieces one by one, sometimes slipping in odd tiles in between the normal tiles. You follow his movements step by step, oblivious to the greater picture or any deception. In the end the domino run is completed, and it is time to knock it over, not from the starting point, but the end point. Only then you realize how everything is connected - why a certain piece is laid this way and how it relates to the next piece in the run. As the normal tiles falls, you noticed how the boring looking pieces plays their part. In between you get to choose to put pieces to decide the direction, but those are not the final destination. Nearing the end, the writer reveals a hidden path he has built long ago and suddenly the domino falls over to this entirely new path you never thought had existed, the writer has achieved the Prestige. The writer invites you to take a step back, only then you see the full picture.
+	The story in S;G is very structured. It is like toppling dominoes. The writer and lays down the pieces one by one, sometimes slipping in odd tiles in between the normal tiles. You follow his movements step by step, unaware of the greater picture or any deception. In the end the domino run is completed, and it is time to knock it over, not from the starting point, but the end point. Only then you realize how everything is connected - why a certain piece is laid this way and how it relates to the next piece in the run. As the normal tiles falls, you noticed how the boring looking pieces plays their part. In between you get to choose to put pieces to decide the direction, but those are not the final destination. Nearing the end, the writer reveals a hidden path he has built long ago and suddenly the domino falls over to this entirely new path you never thought had existed, the writer has achieved the Prestige. The writer invites you to take a step back, only then you see the full picture.
 	<br><br>
 	<i>It was the path to Steins Gate.</i>
 	<br><br>
@@ -897,7 +897,7 @@ There are many things I liked about 0 as a sequel, but there are even more thing
 </details>
 <details>
   <summary>Maho</summary>
-	Maho is undoubtedly the best written character in the game, not as perfect as Kurisu, but much more human and ground to earth. In V&A route, the purpose of Maho's role and position around Kurisu and Okabe becomes much clearer. The writer just knows how to design and execute a thematically significant character. Twin Automata is a tragically beautiful route. I got baited so hard by that one line from her (iykyk).
+	Maho is undoubtedly the best written character in the game, not as perfect as Kurisu, but much more human and down to earth. In V&A route, the purpose of Maho's role and position around Kurisu and Okabe becomes much clearer. The writer just knows how to design and execute a thematically significant character. Twin Automata is a tragically beautiful route. I got baited so hard by that one line from her (iykyk).
 </details>
 <details>
   <summary>Kurisu</summary>
@@ -907,12 +907,18 @@ There are many things I liked about 0 as a sequel, but there are even more thing
   <summary>Main plot and routes</summary>
 	There are only 2 choices in a row that can lead to the bad ending and I got both of them on the first run, I am so good at VNs. The choices does not really correlate to anything obvious really cuz timelines can just change without Okabes control. The routes are wildly different from each other. Recursive Mother Goose is a very interesting scenario. Vega and Altair route is perfect except for Operation Arclight. Past Mayuri is perfectly capable and in character to perform the slap herself (and actually did before SG0 is created), and that is such a powerful moment for her, the operation just robs her maturity she is meant to have in the original. 
 </details>
- 
 
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A+ | S- | A | A | Maho/Suzuha |
+
+#### Metal Gear Solid (PSX)
+I really wonder how much was this inspired by older movies and how much had this inspired the media after. It feels like a typical action movie but feels more sombre and mature with the themes and direction. Codec is a fantastic way to have "party members" without anyone physically around. Some characters get good development despite looking like fodder. I really suck at stealth and gun gameplay. I would have soft locked without save states.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| A+ | A+ | A- | A+ |  |
 
 ---
 
@@ -1378,6 +1384,7 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 - Breath of Fire II
 - Mass Effect Trilogy
 - Hyper Light Drifter
+- Expedition 33
 
 
 ### **INTERESTED but maybe someday**
@@ -1389,7 +1396,6 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 - Atelier Sophie
 - Xenosaga
 - Sakuna: Of Rice and Ruin
-- Metal Gear Solid
 
 ### SWITCH wishlist
 - Xenoblade Chronicles
@@ -1419,10 +1425,8 @@ In no particular order because the order changes based on my mood.
 
 Top contenders:
 - OPUS: Echoes of Starsong
-- Tales of Berseria
 - Kingdom Hearts II
 - Persona 3
-- Trails from Zero
 - Terranigma
 - Final Fantasy Tactics
 - Final Fantasy IX
@@ -1451,7 +1455,7 @@ Based on overall enjoyment. Order may be different based on different aspects.
 `The Wind Waker > Twilight Princess > A Link to the Past > The Minish Cap > Ocarina of Time > Majora's Mask`
 
 #### **Trails**
-`Sky FC = Sky SC > Azure >= Zero > Sky 3rd`
+`Sky FC > Sky SC = Azure > Zero > Sky 3rd`
 
 #### **Danganronpa**
 `2 > UDG > 1 > V3`
