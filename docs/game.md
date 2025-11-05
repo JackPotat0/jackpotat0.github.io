@@ -1157,12 +1157,18 @@ Music: This is finally not reminiscent of Symphonia, but I can't say much about 
 | B+ | A- | S- | A- | Estelle/Rita |
 
 #### Final Fantasy V (GBA)
-My motivation to play this game is mainly so that I can say I finished 4-10 without saying except 5. I definitely enjoyed the game more than I expected, there is something about the writing that makes it not dreadful even nothing special is going on. The more I play other retro JRPGs the more I don't understand why DQ8 annoys me so much, there does not seem to be a huge difference, maybe because Bartz is not a complete mute? So here's the origin story for the certain job based JRPG to have a cast of teen + amnesiac + princess + pirate. I think this is the most I can take for a job class game. BD simply has too many options and require too much planning ahead. The game was easier than expected too, granted I grind a lot, until it amps up on the last world. Surprisingly not too many classes are terribly required, it is ok to stick with one archetype all the way with minimal modifications. Also o7 to my dude Gilgamesh because he has to be mentioned somewhere.
+My motivation to play this game is mainly so that I can say I finished 4-10 without saying except 5. I definitely enjoyed the game more than I expected, there is something about the writing that makes it not dreadful even nothing special is going on. The more I play other retro JRPGs the more I don't understand why did DQ8 annoy me so much, there does not seem to be a huge difference, maybe because Bartz is not a complete mute? So here's the origin story for the certain job based JRPG to have a cast of teen + amnesiac + princess + pirate. I think this is the most I can take for a job class game. BD simply has too many options and require too much planning ahead. The game was easier than expected too, granted I grind a lot, until it amps up on the last world. Surprisingly not too many classes are terribly required, it is ok to stick with one archetype all the way with minimal modifications. Also o7 to my dude Gilgamesh because he has to be mentioned somewhere.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | B | B | A+ | B |  |
 
+#### Hyper Light Drifter
+Cool game. Good experience. The story does not really resonate with me which is a shame. Making everything diegetic ie minimal in game text is a good choice for the abstract story and otherworldly vibes.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| A | B | A | A |  |
 
 ---
 
@@ -1383,8 +1389,7 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 - Valkyrie Profile 2nd attempt
 - Breath of Fire II
 - Mass Effect Trilogy
-- Hyper Light Drifter
-- Expedition 33
+- Clair Obscur: Expedition 33
 
 
 ### **INTERESTED but maybe someday**
