@@ -75,8 +75,6 @@ The plot is refreshing and engaging and heavily theme/character driven. Almost e
 Best tracks: Shout Your Soul, True Will, Eleanor's Theme
 
 
-Best tracks: Team, This One's Stronger!, FIGHT!, Team, It's Getting Serious!
-
 #### Trails in the Sky FC+SC (PSP) (I consider as one story split into two games)  
 - Elaborate world building
 - Great cast chemistry. Not just Estelle between others, but other party members among each other too. Makes you forget they are really not that unique within their archetypes.
@@ -305,7 +303,7 @@ Story/Plot: The main plot can get a bit confusing, but it is ok to just know wha
 
 Characters: The characters are defined by their action and opinions, even though there are many characters, everyone is distinguished by their ideals, yet never feel too much like just a symbol. Most of them are very compelling with short amounts of screen time due to the concise dialogues. Show don't tell is done so well here. Ramza is pretty cool, reminds me of Lloyd from Trails a lot (actually they are archetypical as heck, it's just me liking the cool and composed and morally upright protagonists). One weak point is the other casts in party, once they become a permanent party member means they are no longer relevant in the main plot. Of course some are better or more relevant than others, not every named party member are treated equally (Rapha/Marach lol).
 
-Gameplay: I am actually playing the two systems I never enjoyed at once (job system and SRPG). Emulator save scumming makes trial and error a lot better. Not to mention all the fine gameplay gimmicks that causes some choice paralysis and paranoia. Putting a gimmick fight after 2 fights is pretty annoying. Due to the mechanics of Job points, grinding can look very silly. That infamous fight is simply unbalanced without prior knowledge, I beat him with legitimate strats after a lot of extra grinding for convenient job skills. I almost spit blood when I realized there is one fight after that one (which also has a gotcha). This 2 fights singlehandedly brought down the quality of this game in terms of balance and fun.
+Gameplay: I am actually playing the two systems I never enjoyed at once (job system and SRPG). Emulator save scumming makes trial and error a lot better. Not to mention all the finer gameplay gimmicks that causes some choice paralysis and paranoia. Putting a gimmick fight after 2 fights is pretty annoying. Due to the mechanics of Job points, grinding can look very silly. That infamous fight is simply unbalanced without prior knowledge, I beat him with legitimate strats after a lot of extra grinding for convenient job skills. I almost spit blood when I realized there is one fight after that one (which also has a gotcha). This 2 fights singlehandedly brought down the quality of this game in terms of balance and fun.
 
 Music: There are a few memorable tracks tied to the big story sequences. Overall is pretty good, never have much comments for orchestra OST. I do feel most of the soundtrack is too short, some can use a longer climax. 
 
@@ -388,6 +386,25 @@ The pacing is a lot lot slower than the anime. There are lot of banters that doe
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | S+ | S+ | A | A | Kurisu/Okabe/Suzuha/Faris |
 
+
+#### Clair Obscur: Expedition 33
+This is objectively the "best" JRPG of this time so far, this is one of the most important milestone (up there with CT, FF7 and Persona 5) for the genre, and I can say I truly understand how long it had come because I dove deep into the genre. This is the real culmination from all the giants that came before such as FF7, FF10, Xenogears, Chrono Trigger and Nier Automata, just to name a few. It's just so great to see that the essence of JRPG was never obsolete, it just needed a new skin for the new times, and this game is all the reason for one to become a JRPG fan. There are so many things to say about this game it's too difficult to even begin. The game is not perfect, it might not have the same emotional resonance for me, but those are mere personal taste, and hardly worth constrasting with everything it did right.
+
+Story/Plot: A simple, profound theme layered in a fantastic rich way. Top tier world building. Subverted many expectations. The ending suggests one answer over the other, both endings should be viewed together as a final complete narrative. There is way too much to talk about. Pick any plot point and there can be endless discussion.
+
+Characters: This is not a coming of age story as in most JRPGs. But they all still have a nuanced and developed arc. Gustave is a well written nerd, not everyone needs to be suave and confident to be charming. Verso is designed to be in a complex position, creating a dilemma within himself. Maelle is just a realistic 16 year old. Lune and Sciel are clearly the side characters, but they are enjoyable and give different perspective to the events. The best thing is the interaction within the party, they are not BFF, they may be just colleagues, may be enemies with same goals and interacted as such.
+
+Gameplay: Finally something other than PM does the parry/dodge in JRPG (Indivisible does count but its too indie). The balance is too broken towards the late game, interacting with enemies is just a suggestion and there is no reason to. This design choice (or flaw) wastes many interesting boss designs and allowing comically difficult moves. The world is just the right size, improving the old FF/Tales style world maps which may be a bit too empty and tedious to go around. Short dungeons are really nice. The party has still quite a bit to customize despite not looking so. The parry is a perfect positive feedback loop for the combat experience and for the sensation. And stop adding parkour into RPGs.
+
+Music: Good blend of modern cinematic sound and the classical FF styles, with minimal anime and leaning more towards atmospheric sounds. I am also sure this game does not need as much music as it had, for this case less is more. If you are going to pay homage to old JRPGs, why not with the OST too? The only minor complaint is the overuse of motifs everywhere (surely [insert track] does not need to have Alicia/Lumiere here), but this is just yet another of my oddly specific taste conditioned by Yoko Shimomura.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| S+ | S+ | S | S | Gustave/Maelle/Verso/Lune |
+
+Best tracks: Taking Down the Paintress, Alicia, For Those who Come After
+
+
 ---
 
 ### **MAN**
@@ -400,6 +417,7 @@ A simple story does not mean that it is not meaningful or bad. The main cast onl
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A | S+ | S | S | Vi/Kabbu/Leif |
 
+Best tracks: Team, This One's Stronger!, FIGHT!, Team, It's Getting Serious!
 
 #### Final Fantasy IX (PS1) 
 I am struggling to decide whether to put this here or the next category initially but it deserves to be here (This is no longer in the highest ranked category, sorry FF9 but you are stuck being the 'top tier but never anyone's favourite' ). I had been blinded by the internet that this is not for me, and is that WRONG. This could easily be my favourite FF if I had played this before FFX (though FFX is still the better introductory FF imo). This is a really solid game without a lot to complain.
@@ -1389,7 +1407,6 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 - Valkyrie Profile 2nd attempt
 - Breath of Fire II
 - Mass Effect Trilogy
-- Clair Obscur: Expedition 33
 
 
 ### **INTERESTED but maybe someday**
@@ -1413,9 +1430,9 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 - FE3H?
 
 ---
-### **TOP 10 Video Games of All Time**
+### **TOP 10**
 
-In no particular order because the order changes based on my mood.
+In no particular order because the order changes based on my mood and context.
 
 1. Trails in the Sky FC 
 2. Final Fantasy X
@@ -1425,17 +1442,19 @@ In no particular order because the order changes based on my mood.
 6. Radiant Historia
 7. The Legend of Zelda: The Wind Waker
 8. Mother 3
-9. Tales of Berseria
+9. Clair Obscur: Expedition 33
 10. Final Fantasy VI 
 
-Top contenders:
-- OPUS: Echoes of Starsong
+Honourable mentions:
+- OPUS: Echo of Starsong
 - Kingdom Hearts II
 - Persona 3
 - Terranigma
 - Final Fantasy Tactics
 - Final Fantasy IX
 - Lunar 2: Eternal Blue
+- Bug Fables: The Everlasting Sapling
+- Tales of Berseria
 
 ---
 ### **Series Ranking**
