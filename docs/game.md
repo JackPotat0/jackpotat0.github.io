@@ -130,7 +130,7 @@ Gameplay: The best part of the game. The main gimmick revolves around travelling
 
 Music: Ah yes it is Yoko Shimomura [insert fanboy screams here]. This is probably her shortest OST. Due to the game's structure, the music needs to be reusable enough in many cases and she nailed it as usual. You can hear a lot of KH style in it, with one track calling back to Legend of Mana (i think). Once a violin slut, always a violin slut.
 
-Perfect Chronology: The extended lore is nice but does not really add too much to the main themes. the Perfect ending definitely reduced the emotional impact from True Ending. The game is entirely "rebalanced" and it might be for the worse. At this point the combat designer is out of ideas to utilize this system any further so we got Apocrypha clone a.k.a Singularity as the final boss (and sidenote I really appreciate Apocrypha's design when I see Singularity). The Vault of Time is a solution for underleveled characters like Rosch to be useful, but it just becomes the default grinding spot and obsoletes the main dungeons. I really don't like the sound effect changes, the book flipping sound is much more meaningful. I can understand the attack animations is faster for sanity sake, but it is not very visually appealing. Voice acting is fine for the most part, only Raynie and Rosch sounds different from my imagination. Aht feels more lively with her voice, great work. It is a dead horse to beat, but the distinct original artstyle was so immaculate that they should have designed the new characters in that style instead of using a simpler anime style (I want to think that it's just the original artist could not work with them anymore, but who knows), the portraits are fine, the sprite arts are a bit off (why the long face Stocke??). Menu cursor sometimes drifts too fast. Did they just remove cutscene skip just to emulate games of the time like SMT4/4A? Well the only issue is that I have played the original for 3+ years straight at this point, it is too hard to adapt to this almost same but new game.
+Perfect Chronology: The extended lore is nice but does not really add too much to the main themes. the Perfect ending definitely reduced the emotional impact from True Ending. The game is entirely "rebalanced" and it might be for the worse. At this point the combat designer is out of ideas to utilize this system any further so we got Apocrypha clone a.k.a Singularity as the final boss (and sidenote I really appreciate Apocrypha's design when I see Singularity's plain design). The Vault of Time is a solution for underleveled characters like Rosch to be useful, but it just becomes the default grinding spot and obsoletes the main dungeons. I really don't like the sound effect changes, the book flipping sound is much more meaningful. I can understand the attack animations is faster for sanity sake, but it is not very visually appealing. Voice acting is fine for the most part, only Raynie and Rosch sounds different from my imagination. Aht feels more lively with her voice, great work. It is a dead horse to beat, but the distinct original artstyle was so immaculate that they should have designed the new characters in that style instead of using a simpler anime style (I want to think that it's just the original artist could not work with them anymore, but who knows), the portraits are fine, the sprite arts are a bit off (why the long face Stocke??). Menu cursor sometimes drifts too fast. Did they just remove cutscene skip just to emulate games of the time like SMT4/4A? Well the only issue is that I have played the original for 3+ years straight at this point, it is too hard to adapt to this almost same but new game.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -902,6 +902,8 @@ Music: Really good, feels like a natural progression from SSS. But some instant 
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | B+ | A+ | B+ | A | Lucia/Lemina/Ruby |
 
+Best Tracks: Rondo of Light and Dark, The Blue Spire, Promenade
+
 #### Steins;Gate 0 
 There are many things I liked about 0 as a sequel, but there are even more things that are executed poorly or even undermines the original that makes this entry being ranked much lower. I really dont remember much about 0, the anime was not the best at describing what's going on. All I remember is the revival of Kyouma and Maho (bless Maho). This game is actually really difficult to adapt due to how very different routes intersect with each other to form a complete story. And I only learnt about the Mozart-Salieri trope from this show, so thats cool. Using different POV and having a narrator makes this game feels much different from S;G's singular perspective of Okabe. I am quite sure the writer prefers to spend a lot of time setting up without having any major stakes before going ham with the plot. This works really well for a VN and probably for VN only. 
 
@@ -937,6 +939,14 @@ I really wonder how much was this inspired by older movies and how much had this
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A+ | A+ | A- | A+ |  |
+
+#### The Legend of Zelda: A Link Between Worlds
+The reincarnation of ALTTP. Lorule is a very interesting concept. People praises the ending, it's really just fine. Hilda is foreshadowed well enough though. But is reviving Lorule Triforce the best thing to do? One explanation is that this is just part of the curse where Link, Zelda and Ganon will forever fight for the Triforce and Lorule cannot escape from this as well, works well enough for me. The wall merge mechanic takes a bit to get used to, really makes you think in different dimensions. The dungeons feels very well paced, maybe it's that I finally internalized the classic Zelda logic without having to look too much at guides (or the dungeons are just easy). Not a big fan of item rentals, even if the items may be the same, you get the items in different order in different games, the excitement is still there, much better than letting the items sit in the back pocket, not knowing when it will be used. 
+
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| B | C | A+ | A |  |
 
 ---
 
@@ -1412,12 +1422,11 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 ### **INTERESTED but maybe someday**
 - Trails of Cold Steel
 - FF7 Remake trilogy
-- The Legend of Zelda: A Link Between Worlds
 - Tales of Arise
 - Sekiro
 - Atelier Sophie
 - Xenosaga
-- Sakuna: Of Rice and Ruin
+- Ghost Trick
 
 ### SWITCH wishlist
 - Xenoblade Chronicles
@@ -1467,16 +1476,16 @@ Based on overall enjoyment. Order may be different based on different aspects.
 `Berseria > Abyss > Symphonia > Vesperia`
 
 #### **Kingdom Hearts**
-`2FM >> 1 >> Days >> BBS`
+`2FM >> 1 >> Days >> BBS = Re:COM `
 
 #### **Persona**
-`4 > 5 Royal > 3 >> 2:IS > Q`
+`4 > 3 > 5 Royal >> 2:IS > Q`
 
 #### **Ys**
 `Lacrimosa of Dana >> Origin > Oath in Felghana >= Memories of Celceta > SEVEN > Ark of Napishtim > Ys I+II`
 
 #### **Zelda**
-`The Wind Waker > Twilight Princess > A Link to the Past > The Minish Cap > Ocarina of Time > Majora's Mask`
+`The Wind Waker > Twilight Princess > A Link to the Past > A link Between Worlds > The Minish Cap > Ocarina of Time > Majora's Mask`
 
 #### **Trails**
 `Sky FC > Sky SC = Azure > Zero > Sky 3rd`
