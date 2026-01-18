@@ -567,14 +567,6 @@ Truly an ARPG ahead of its time. Great OST to create the mysterious and sombre a
 
 Best tracks: Light and Darkness, Dark Field, Light Overworld
 
-#### Trails in the Sky the 3rd (PC)
-A spin off ish game but not. Nice to see some detailed character back story and future plans. Serviceable main plot compared to FC+SC. Kevin and Ries are great and all but didn't really hit as hard.
-
-| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
-| ------------- | ------------- | --------- | ------------ | --------------- |
-| A+ | S | S | A+ |  |
-
-Best tracks: Fighting Right On, Cry for Your Eternity, Overdosing Heavenly Bliss 
 
 #### Odin Sphere (PS2) 
 A decent fairy tale with a somewhat elaborate world with a grander plot, multiple characters, everyone have arcs ranging from amazing to OK, decent OST. Combat can be clunky (at least the hit effects are dang satisfying) and alchemy can be a bit confusing. Also challenges resource management quite a bit due to very limited inventory. It features JP and English dub too, which is most rare in PS2 games.
@@ -652,6 +644,16 @@ A simple Hero's Journey, but a great one. Unlike the later KH games, the main pl
 | S | A | A | S | Sora | 
 
 Best tracks: Dearly Beloved, Night of Fate, Traverse Town
+
+#### Trails in the Sky the 3rd (PC)
+A spin off ish game but not. Nice to see some detailed character back story and future plans. Serviceable main plot compared to FC+SC. Kevin and Ries are great and all but didn't really hit as hard.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| A+ | S | S | A+ |  |
+
+Best tracks: Fighting Right On, Cry for Your Eternity, Overdosing Heavenly Bliss 
+
 
 #### The Legend of Zelda: Twilight Princess (GC)
 Actually a better Zelda game than WW in terms of complexity and combat. Midna is a great character and added a lot to the simple plot. Wolf Link is cool and TP Link is my favourite Link in the series.
@@ -947,6 +949,67 @@ The reincarnation of ALTTP. Lorule is a very interesting concept. People praises
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | B | C | A+ | A |  |
+
+
+#### Trails of Cold Steel
+I really want to put the Trails games at the Man tier if possible, sadly this is really all the game deserves. As much as I like the vibes and themes, there are way better Trails games in terms of overall quality. This is not the greatest game, but certain parts of the game is just so charming. 
+
+Story/Plot: The game is actually stronger at delivering the themes of self identity using a nobility society as a backdrop. Everyones arc are intentionally tied to this theme, with different levels of depth and POVs. But the Zemurian Etiquette is so annoying, seems like the writer do not know how to start a conversation without that. The school episodes also has a strong thematic coherence, in some ways more successful than Zero. I can see why the ending is arranged in this way, and I like what they are aiming for but they need to be do it either leaner or more evocative.
+
+Characters: One thing I only noticed after playing so many Falcom games is that they generally play their characters very straight, to the point of boring at times. They follow their tropes to a T and never do any kind of reverse e.g. typically in other animes Laura would have some kind of gap moe (that bonding event does not really count). But this really makes them commit and deliver the themes for each character fully when done well, instead of adding more labels for the waifu bait. The class dynamic is executed decently overall. This is very different from Sky and Crossbell where those do not realy go deep into character interplay, despite all having an "ensemble" cast. You just vibe more with some classmates than others, just like in real life. The cast differs from the previous ones where they are not strictly tied to the protagonist. Other characters exists independently without Rean even if Rean is at the center. Unlike Estelle being the reason for adventure or Lloyd being the key 1/4 in SSS, Class VII will work without Rean (the story is designed so Rean brings the best out of everyone, but point is the bulk of the story will still largely work without Rean). Not a big fan of adding Millium and Crow at 3/4 of the game. In the end I really like Class VII in general.
+
+<details>
+  <summary>Rean</summary>
+  He has enough personality to not be a complete self insert. He is fine. The pervert lines is very out of place, but this is a broader narrative design issue.
+</details>
+<details>
+  <summary>Alisa</summary>
+  Tsundere is not and will never be outdated. This is a good example of using a trope to fully flesh out a character. Love that payoff in Roer chapter.
+</details>
+<details>
+  <summary>Elliot</summary>
+  He works well as the normal Erebonian citizen in the bunch of people with big titles, especially starting out for Rean to at least have a buddy to hang out, thus he is necessary.
+</details>
+<details>
+  <summary>Gaius</summary>
+  His presence is to introduce Nord Highlands which is a very interesting locale. Narratively he has the same role as Elliot, you can argue he makes Elliot obsolete. 
+</details>
+<details>
+  <summary>Jusis</summary>
+  I am pleasantly surprised by his character. His episode tells clearly how he come to have his current personality. The change from being a snotty noble to just a kid with high sense of pride (in the positive way) is good to see.
+</details>
+<details>
+  <summary>Machias</summary>
+  He got the shorter end of stick. He has a simple backstory like Elliot and he is mostly used to create the noble-commoner tension. So once that is over his character is pretty much done. Gameplay wise he goes from bottom tier to top tier with just one skill.
+</details>
+<details>
+  <summary>Laura</summary>
+  She is so knightly I love it. The way her arc ties with Fie is very cool, this way she does not require a sad backstory to have an arc (though the execution is not very natural and just screams like oh hey we will talk about them two right now). I really like her portrayal of wrestling with perceived and real maturity in dealing with Fie.
+</details>
+<details>
+  <summary>Fie</summary>
+  Not really into kuuderes. She is ok. Tio is better.
+</details>
+<details>
+  <summary>Emma</summary>
+  Still dont know much about her except that she is not from the church which is actually surprising. A hime is always nice.
+</details>
+<details>
+  <summary>Crow</summary>
+  This is a very on-the-vibes plot twist. I dont really care about him at all, the game did not convince me to do so. I am more concerned about my classmates here.
+</details>
+
+Gameplay: Craft spam is quite different from the older games, but this is just another type of skills to spam. It is very dangerous to get hit but the game allows for near infinite delays. The orbment is much more straightforward but less customization, now you can set only the skills you need for each fight. The dungeons are more simple also. The school life format can be a bit rigid, but nails the atmosphere they are aiming for. I really hate the last 3 final fights somewhat requires cheese and luck on high difficulties. There should only be cinematic bosses allowed after a proper final boss, it is the law. This also sours the ending quite a bit too.
+
+Music: There is a surprising number chill tracks just for normal school life, making it a pretty decent OST album to run through. There are some of the best and most unique battle themes in the series because eurobeat totally works as a normal battle theme. Saki Momiyama still consistently gets the W with all the strongest tracks such Atrocious Raid and Land of Blue Skies. Atrocious Raid the one track I only get after playing this game, and it just sticks in your head after that intro (the intro is definitely the most exciting so far). Hagiuda defined a lot of CS1 vibes, sure worth a shoutout.
+
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| A+ | S- | A+ | S+ | Alisa/Laura/Emma/Jusis/Towa |
+
+Best tracks: The Glint of Cold Steel, Afterschool Hours, Belief
+
 
 ---
 
@@ -1409,6 +1472,7 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 
 ### **NEXT UP/ONGOING**
 - Yakuza: Like A Dragon
+- Tales of Arise
 
 ### **INTERESTED IN**
 - Hi-Fi Rush
@@ -1422,7 +1486,6 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 ### **INTERESTED but maybe someday**
 - Trails of Cold Steel
 - FF7 Remake trilogy
-- Tales of Arise
 - Sekiro
 - Atelier Sophie
 - Xenosaga
@@ -1485,10 +1548,10 @@ Based on overall enjoyment. Order may be different based on different aspects.
 `Lacrimosa of Dana >> Origin > Oath in Felghana >= Memories of Celceta > SEVEN > Ark of Napishtim > Ys I+II`
 
 #### **Zelda**
-`The Wind Waker > Twilight Princess > A Link to the Past > A link Between Worlds > The Minish Cap > Ocarina of Time > Majora's Mask`
+`The Wind Waker > Twilight Princess > A Link to the Past > A Link Between Worlds > The Minish Cap > Ocarina of Time > Majora's Mask`
 
 #### **Trails**
-`Sky FC > Sky SC = Azure > Zero > Sky 3rd`
+`Sky FC > Sky SC = Azure > Zero >= CS1 > Sky 3rd`
 
 #### **Danganronpa**
 `2 > UDG > 1 > V3`
