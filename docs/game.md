@@ -952,11 +952,11 @@ The reincarnation of ALTTP. Lorule is a very interesting concept. People praises
 
 
 #### Trails of Cold Steel
-I really want to put the Trails games at the Man tier if possible, sadly this is really all the game deserves. As much as I like the vibes and themes, there are way better Trails games in terms of overall quality. This is not the greatest game, but certain parts of the game is just so charming. 
+I really want to put the Trails games at the Man tier if possible, sadly this is really all the game deserves. If anything this should be under Interesting Titles. As much as I like the vibes and themes, there are way better Trails games in terms of overall quality such as Zero. 
 
-Story/Plot: The game is actually stronger at delivering the themes of self identity using a nobility society as a backdrop. Everyones arc are intentionally tied to this theme, with different levels of depth and POVs. But the Zemurian Etiquette is so annoying, seems like the writer do not know how to start a conversation without that. The school episodes also has a strong thematic coherence, in some ways more successful than Zero. I can see why the ending is arranged in this way, and I like what they are aiming for but they need to be do it either leaner or more evocative.
+Story/Plot: The game is actually stronger at delivering the themes of self identity using a nobility society as a backdrop. Everyones arc are intentionally tied to this theme, with different levels of depth and POVs. The class conflict themes are handled much stronger than Vesperia. The Zemurian Etiquette is so annoying, seems like the writer do not know how to start a conversation without that. The school episodes also has a strong thematic coherence, in some ways more successful than Zero. I can see why the ending sequences are arranged in this way, and I like what they are aiming for but they need to be do it either leaner or more evocative - it simply feels like a disc transition and there are many PS1 games with stronger disc transitions than this.
 
-Characters: One thing I only noticed after playing so many Falcom games is that they generally play their characters very straight, to the point of boring at times. They follow their tropes to a T and never do any kind of reverse e.g. typically in other animes Laura would have some kind of gap moe (that bonding event does not really count). But this really makes them commit and deliver the themes for each character fully when done well, instead of adding more labels for the waifu bait. The class dynamic is executed decently overall. This is very different from Sky and Crossbell where those do not realy go deep into character interplay, despite all having an "ensemble" cast. You just vibe more with some classmates than others, just like in real life. The cast differs from the previous ones where they are not strictly tied to the protagonist. Other characters exists independently without Rean even if Rean is at the center. Unlike Estelle being the reason for adventure or Lloyd being the key 1/4 in SSS, Class VII will work without Rean (the story is designed so Rean brings the best out of everyone, but point is the bulk of the story will still largely work without Rean). Not a big fan of adding Millium and Crow at 3/4 of the game. In the end I really like Class VII in general.
+Characters: One thing I only noticed after playing so many Falcom games is that they generally play their characters very straight, to the point of boring at times. They follow their tropes to a T and never do any kind of reverse e.g. typically in other animes Laura would have some kind of gap moe. But this really makes them commit and deliver the themes for each character fully when done well, instead of adding more labels for the waifu bait. The class dynamic is executed decently overall. This is very different from Sky and Crossbell where those do not realy go deep into character interplay, despite all having an "ensemble" cast. You just mix better with some classmates than others, just like in real life. The cast differs from the previous ones where they are not strictly tied to the protagonist. Other characters exists independently without Rean even if he is at the center. Unlike Estelle being the reason for adventure or Lloyd being the key 1/4 in SSS, Class VII will work without Rean (the story is designed so he brings the best out of everyone, but point is the bulk of the story will still largely work without him; just imagine Gaius as the MC, he has the drip, is the fish-out-of-water, you get the idea). Not a big fan of adding Millium and Crow at 3/4 of the game. In the end I really like Class VII in general.
 
 <details>
   <summary>Rean</summary>
@@ -976,7 +976,7 @@ Characters: One thing I only noticed after playing so many Falcom games is that 
 </details>
 <details>
   <summary>Jusis</summary>
-  I am pleasantly surprised by his character. His episode tells clearly how he come to have his current personality. The change from being a snotty noble to just a kid with high sense of pride (in the positive way) is good to see.
+  I am pleasantly surprised by his character. His episode tells clearly how he come to have his current personality. The change from being a snotty noble to just a kid with high sense of pride (in the positive way) is good to see. Reminds a lot of Byakuya from DR1.
 </details>
 <details>
   <summary>Machias</summary>
@@ -992,23 +992,23 @@ Characters: One thing I only noticed after playing so many Falcom games is that 
 </details>
 <details>
   <summary>Emma</summary>
-  Still dont know much about her except that she is not from the church which is actually surprising. A hime is always nice.
+  Still dont know much about her except that she is not from the church which is actually surprising. A hime/literature girl is always nice.
 </details>
 <details>
   <summary>Crow</summary>
-  This is a very on-the-vibes plot twist. I dont really care about him at all, the game did not convince me to do so. I am more concerned about my classmates here.
+  This is a very on-the-vibes plot twist. Bro thought he is Lelouch. I dont really care about him at all, the game did not convince me to do so. I am more concerned about my REAL classmates here.
 </details>
 
-Gameplay: Craft spam is quite different from the older games, but this is just another type of skills to spam. It is very dangerous to get hit but the game allows for near infinite delays. The orbment is much more straightforward but less customization, now you can set only the skills you need for each fight. The dungeons are more simple also. The school life format can be a bit rigid, but nails the atmosphere they are aiming for. I really hate the last 3 final fights somewhat requires cheese and luck on high difficulties. There should only be cinematic bosses allowed after a proper final boss, it is the law. This also sours the ending quite a bit too.
+Gameplay: Craft spam is quite different from the older games, but this is just another type of skills to spam. It is very dangerous to get hit but the game allows for near infinite delays. The orbment is much more straightforward but less customization, now you can set only the skills you need for each fight. The dungeons are more simple also. The school life format can be a bit rigid, but nails the atmosphere they are aiming for. I really hate the last 3 final fights somewhat requires cheese and luck on high difficulties. There should only be cinematic bosses allowed after a proper final boss, it is the law. This also sours the ending quite a bit too. 
 
-Music: There is a surprising number chill tracks just for normal school life, making it a pretty decent OST album to run through. There are some of the best and most unique battle themes in the series because eurobeat totally works as a normal battle theme. Saki Momiyama still consistently gets the W with all the strongest tracks such Atrocious Raid and Land of Blue Skies. Atrocious Raid the one track I only get after playing this game, and it just sticks in your head after that intro (the intro is definitely the most exciting so far). Hagiuda defined a lot of CS1 vibes, sure worth a shoutout.
+Music: There is a surprising number chill tracks just for normal school life, making it a pretty decent OST album to run through. There are some of the best and most unique battle themes in the series because eurobeat totally works as a normal battle theme. Saki Momiyama still consistently takes the W with all the strongest tracks such Atrocious Raid and Land of Blue Skies. Atrocious Raid the one track I really get after playing this game, and it just sticks in your head after that intro (the intro is definitely the most exciting so far). Hagiuda defined a lot of CS1 vibes, sure worth a shoutout. Not even the nonexistent music loop can ruin this OST. Actually this is hands down my favourite Trails OST (possibly for the entire Falcom) so far, no filler tracks, every single one are just bangers including all the ambient tracks that I usually hate in other games. Zero and Sky FC came close, but some of them are just not it.
 
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A+ | S- | A+ | S+ | Alisa/Laura/Emma/Jusis/Towa |
 
-Best tracks: The Glint of Cold Steel, Afterschool Hours, Belief
+Best tracks: The Glint of Cold Steel, Afterschool Hours, Atrocious Raid
 
 
 ---
@@ -1054,6 +1054,8 @@ I will always use this phrase to describe this game: *Budget Persona 4 - Made wi
 Coming back from Ys VIII: Flash Roll in here is much more balanced and does not trivialize fights. X Drive is one of the better implementation of a "Limit Break" skill 
 
 Coming back from Trails from Zero: So this game is just a cheap copy of Zero. Kou is discount Lloyd and Asuka is discount Elie, Yuuki is playable Jona, Sora is Chie ripoff, Rion is Rise ripoff (maybe there is Trails equivalent), Shio is 1:1 Agate, Jun looks like kid Wazy, Wazy probably has secret identity like him. Mitsuki is Mitsuru ripoff. Now everything makes sense.
+
+Coming back from Cold Steel 1: I understood EVERYTHING.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -1261,6 +1263,15 @@ Cool game. Good experience. The story does not really resonate with me which is 
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A | B | A | A |  |
 
+#### Trails of Cold Steel II
+If there is anything good about this game, Sky SC did those and just as good if not better, actually this game made me appreciate Sky SC more, given it is always falling a bit short of FC for me. Act 1 is a slog, Act 2 feels largely pointless towards the main conflict and those made up 2/3 of the game. The ending sequence in Finale almost made suffering through the game worth it, and I take all of that back after the real ending. Similiar to CS1, I can see the vision but both are definitely not a good way to arrange the ending sequences, just have one normal ending if you cannot pull this off. At least the final final boss is a real fight (the fight itself sucked though). I still like Class 7 alright but it quickly turns into the typical JRPG party. Crow's backstory and motive is actually quite decent. A big W for not pulling another Akechi, this alone makes this game so much better, while they still mention wanting back Crow here and there, but nowhere egregious as PT, and he got a fitting end (well we all know what happened after but lets ignore that for now). Rean's arc is decent enough, more convincing than most JRPG protagonists solely with the amount of build up. Travelling around the world to find friends is really neat, so is climbing the corporate tower guarded with enemies. Reusing mini boss themes is lame, meh ambient tracks are back (though not as much as Azure), at least there are some tracks to make up for it.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| B+ | A+ | A+ | A+ | Celine |
+
+Best Tracks: Blue Destination, Awakening, Wintry Arrival
+
 ---
 
 ### **PRETTY nice but skippable**
@@ -1399,7 +1410,7 @@ Quintet RPG is an acquired taste, I thought I am OK with it after Terranigma but
 #### Dragon Quest VIII: Journey of the Cursed King (PS2)
 What kind of JRPG fan that has never played a DQ game? Time to fix that. I know full well I will not like the narrative  aspects of the game, just here to experience the "original" RPG vibes. Just as expected I cannot endure to the end.
 
-The director really be like "You and I know the deal, so I will not even bother to explain and off you go". There is only one cutscene without dialogue to explain the reason of this "journey". The worst part is that that really is all there's to it, no plot twist no nothing (Ok I am sure there will be more but it wont be mind breaking). The characters are all rather one dimensional, which would have been fine if their dialogue is not as bland and dry as it is. Funny accents and voice acting cannot replace good writing.
+The director really be like "You and I know the deal, so I will not even bother to explain and off you go". There is only one cutscene without dialogue to explain the reason of this "journey". The worst part is that that really is all there's to it, no plot twist no nothing (Ok I am sure there will be more but it wont be mind breaking). The characters are all rather one dimensional, which would have been fine if their dialogue is not as bland and dry as it is. Funny accents and voice acting cannot replace good writing. One possible explanation for my annoyance is that the cast is too theaticral for my taste.
 
 The series is known for raiding houses and breaking pots, but I never expected the items are so nice that it is very worth to do it everywhere. I used to think that I will find something nice to say about the music once I played but that did not happen. The only good thing about the music is that it sounded inoffensive. The style is so plain it feels like AI can generate the soundtrack. Sometimes I just feel like listen to literally any other battle theme from other games. It made Gust from Chrono Cross sound awesome, at least it was catchy! There are a lot of tracks but feels like there are only 5 tracks in total.
 
@@ -1484,7 +1495,6 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 
 
 ### **INTERESTED but maybe someday**
-- Trails of Cold Steel
 - FF7 Remake trilogy
 - Sekiro
 - Atelier Sophie
@@ -1551,7 +1561,7 @@ Based on overall enjoyment. Order may be different based on different aspects.
 `The Wind Waker > Twilight Princess > A Link to the Past > A Link Between Worlds > The Minish Cap > Ocarina of Time > Majora's Mask`
 
 #### **Trails**
-`Sky FC > Sky SC = Azure > Zero >= CS1 > Sky 3rd`
+`Sky FC > Sky SC = Azure > Zero = CSI > Sky 3rd > CSII`
 
 #### **Danganronpa**
 `2 > UDG > 1 > V3`
