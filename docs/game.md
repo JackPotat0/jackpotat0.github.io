@@ -388,9 +388,9 @@ The pacing is a lot lot slower than the anime. There are lot of banters that doe
 
 
 #### Clair Obscur: Expedition 33
-This is objectively the "best" JRPG of this time so far, this is one of the most important milestone (up there with CT, FF7 and Persona 5) for the genre, and I can say I truly understand how long it had come because I dove deep into the genre. This is the real culmination from all the giants that came before such as FF7, FF10, Xenogears, Chrono Trigger and Nier Automata, just to name a few. It's just so great to see that the essence of JRPG was never obsolete, it just needed a new skin for the new times, and this game is all the reason for one to become a JRPG fan. There are so many things to say about this game it's too difficult to even begin. The game is not perfect, it might not have the same emotional resonance for me, but those are mere personal taste, and hardly worth constrasting with everything it did right.
+This is objectively the "best" JRPG of this time so far, one of the most important milestone (up there with CT, FF7 and Persona 5) for the genre, and I can say I truly understand how long it had come because I dove deep into the genre. This is the real culmination from all the giants that came before such as FF7, FF10, Xenogears, Chrono Trigger and Nier Automata, just to name a few. It's just so great to see that the essence of JRPG was never obsolete, it just needed a new skin for the new times, and this game is all the reason for one to become a JRPG fan. There are so many things to say about this game it's too difficult to even begin. The game is not perfect, it might not have the same emotional resonance for me, but those are mere personal taste, and hardly worth constrasting with everything it did right.
 
-Story/Plot: A simple, profound theme layered in a fantastic rich way. Top tier world building. Subverted many expectations. The ending suggests one answer over the other, both endings should be viewed together as a final complete narrative. There is way too much to talk about. Pick any plot point and there can be endless discussion.
+Story/Plot: An essential and profound theme layered in a fantastic rich way. Top tier world building. Subverted many expectations. The ending suggests one answer over the other, both endings should be viewed together as a final complete narrative. There is way too much to talk about. Pick any plot point and there can be endless discussion.
 
 Characters: This is not a coming of age story as in most JRPGs. But they all still have a nuanced and developed arc. Gustave is a well written nerd, not everyone needs to be suave and confident to be charming. Verso is designed to be in a complex position, creating a dilemma within himself. Maelle is just a realistic 16 year old. Lune and Sciel are clearly the side characters, but they are enjoyable and give different perspective to the events. The best thing is the interaction within the party, they are not BFF, they may be just colleagues, may be enemies with same goals and interacted as such.
 
@@ -952,7 +952,7 @@ The reincarnation of ALTTP. Lorule is a very interesting concept. People praises
 
 
 #### Trails of Cold Steel
-I really want to put the Trails games at the Man tier if possible, sadly this is really all the game deserves. If anything this should be under Interesting Titles. As much as I like the vibes and themes, there are way better Trails games in terms of overall quality such as Zero. 
+I really want to put the Trails games at the Man tier if possible, sadly this is really all the game deserves. If anything this should be under Interesting Titles. As much as I like the vibes and themes, there are way better Trails games in terms of overall quality such as Zero. This is the Lunar 1 of Trails for me (Lunar's spot used to be TX, which is even more appropriate), what matters is not the quality but the heart.
 
 Story/Plot: The game is actually stronger at delivering the themes of self identity using a nobility society as a backdrop. Everyones arc are intentionally tied to this theme, with different levels of depth and POVs. The class conflict themes are handled much stronger than Vesperia. The Zemurian Etiquette is so annoying, seems like the writer do not know how to start a conversation without that. The school episodes also has a strong thematic coherence, in some ways more successful than Zero. I can see why the ending sequences are arranged in this way, and I like what they are aiming for but they need to be do it either leaner or more evocative - it simply feels like a disc transition and there are many PS1 games with stronger disc transitions than this.
 
@@ -1001,14 +1001,14 @@ Characters: One thing I only noticed after playing so many Falcom games is that 
 
 Gameplay: Craft spam is quite different from the older games, but this is just another type of skills to spam. It is very dangerous to get hit but the game allows for near infinite delays. The orbment is much more straightforward but less customization, now you can set only the skills you need for each fight. The dungeons are more simple also. The school life format can be a bit rigid, but nails the atmosphere they are aiming for. I really hate the last 3 final fights somewhat requires cheese and luck on high difficulties. There should only be cinematic bosses allowed after a proper final boss, it is the law. This also sours the ending quite a bit too. 
 
-Music: There is a surprising number chill tracks just for normal school life, making it a pretty decent OST album to run through. There are some of the best and most unique battle themes in the series because eurobeat totally works as a normal battle theme. Saki Momiyama still consistently takes the W with all the strongest tracks such Atrocious Raid and Land of Blue Skies. Atrocious Raid the one track I really get after playing this game, and it just sticks in your head after that intro (the intro is definitely the most exciting so far). Hagiuda defined a lot of CS1 vibes, sure worth a shoutout. Not even the nonexistent music loop can ruin this OST. Actually this is hands down my favourite Trails OST (possibly for the entire Falcom) so far, no filler tracks, every single one are just bangers including all the ambient tracks that I usually hate in other games. Zero and Sky FC came close, but some of them are just not it.
+Music: There is a surprising number chill tracks just for normal school life, making it a pretty decent OST album to run through. There are some of the best and most unique battle themes in the series because eurobeat totally works as a normal battle theme. Saki Momiyama still consistently takes the W with all the strongest tracks such Atrocious Raid and Land of Blue Skies. Atrocious Raid is the one track I only really get after playing this game, and it just sticks in your head after that intro (the intro is definitely the most exciting so far). Hagiuda defined a lot of CS1 vibes, sure worth a shoutout. Not even the nonexistent music loop can ruin this OST. Actually this is hands down my favourite Trails OST (possibly for the entire Falcom) so far, no filler tracks, every single one are just bangers including all the ambient tracks that I usually hate in other games. Zero and Sky FC came close, but some of them are just not it.
 
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A+ | S- | A+ | S+ | Alisa/Laura/Emma/Jusis/Towa |
 
-Best tracks: The Glint of Cold Steel, Afterschool Hours, Atrocious Raid
+Best tracks: The Glint of Cold Steel, Afterschool Hours, Legram the Lakeside Town
 
 
 ---
@@ -1264,13 +1264,28 @@ Cool game. Good experience. The story does not really resonate with me which is 
 | A | B | A | A |  |
 
 #### Trails of Cold Steel II
-If there is anything good about this game, Sky SC did those and just as good if not better, actually this game made me appreciate Sky SC more, given it is always falling a bit short of FC for me. Act 1 is a slog, Act 2 feels largely pointless towards the main conflict and those made up 2/3 of the game. The ending sequence in Finale almost made suffering through the game worth it, and I take all of that back after the real ending. Similiar to CS1, I can see the vision but both are definitely not a good way to arrange the ending sequences, just have one normal ending if you cannot pull this off. At least the final final boss is a real fight (the fight itself sucked though). I still like Class 7 alright but it quickly turns into the typical JRPG party. Crow's backstory and motive is actually quite decent. A big W for not pulling another Akechi, this alone makes this game so much better, while they still mention wanting back Crow here and there, but nowhere egregious as PT, and he got a fitting end (well we all know what happened after but lets ignore that for now). Rean's arc is decent enough, more convincing than most JRPG protagonists solely with the amount of build up. Travelling around the world to find friends is really neat, so is climbing the corporate tower guarded with enemies. Reusing mini boss themes is lame, meh ambient tracks are back (though not as much as Azure), at least there are some tracks to make up for it.
+If there is anything good about this game, Sky SC did those and just as good if not better, actually this game made me appreciate Sky SC more, given it is always falling a bit short of FC for me. Act 1 is a slog, Act 2 feels largely pointless towards the main conflict and those made up 2/3 of the game. The ending sequence in Finale almost made suffering through the game worth it, and I take all of that back after the real ending. Similiar to CS1, I can see the vision but both are definitely not a good way to arrange the ending sequences, just have one normal ending if you cannot pull this off. At least the final final boss is a real fight (the fight itself sucked though). I still like Class 7 alright but it quickly turns into the typical JRPG party. Crow's backstory and motive is actually quite decent. A big W for not pulling another Akechi, this alone makes this game so much better, while they still mention wanting back Crow here and there, but nowhere egregious as PT, and he got a fitting end (well we all know what happened after but lets ignore that for now). Rean's arc is decent enough, more convincing than most JRPG protagonists solely with the amount of build up. Travelling around the world to find friends is really neat, so is climbing the corporate tower guarded with enemies. Reusing mini boss themes is lame, meh ambient tracks are back (not as much as Azure), at least there are some tracks to make up for it.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| B+ | A+ | A+ | A+ | Celine |
+| B+ | A+ | A+ | A+ | Celine/Valimar |
 
 Best Tracks: Blue Destination, Awakening, Wintry Arrival
+
+#### Tales of Arise
+This is a game that tries to please everyone, but in the end pleases no one in particular.
+
+Story: The overall plot is nowhere as bad as the internet implies. The first arc is pretty standard JRPG business. The second act is still standard stuff, the plot and cast dynamics actually feels even more retro where Shionne opens up to the party with the help of power of friendship and love. The villain and the truth are thematically coherent which I respect. However the writers really failed when they also choose to dive into the rabbit hole of racism when the thing they really want to talk is actually oppression (Marxist much? and free will problem is mentioned? Oh boy this topic is way out of their league). The plot point where the villain are also the victim is getting old. Maybe they should take some notes from Persona 4 on how to write a theme focused "force of nature" villain without redeeming the villains unintentionally. The real issue in second act is the long plot dump, it is just another 10 hours with expositions and resolutions compressed into 2, maybe this is their reaction to others not liking their very mid Act 2s, but this is also very mid, just in a different form.
+
+Characters: Alphen is quite decent compared to the average MC, him being voiced by Ray Chase helped a lot. Shionne is such an eye candy I cannot help but to stare at her, the last character model I am attracted to this much is probably Zeta from GBF Relink. She is the classic tsundere and I love it. And did I mention Shionne is hot and her design is fire (all puns intended)? Rinwell is cute. Kisara is just fine. Law and Dohalim are made to be morally flawed and unlikable on first impression, it is certainly a controversial choice, but I will take them compared to some nothingburger characters. The dynamics is very tame but saved by generally enjoyable characters (cues Vesperia again, seriously why is it so beloved). This cast is when players ask for a "mature" cast and the writers delivered, but the players are not ready for well adjusted and boring people in their shounen JRPG. Not to say it is impossible to write mature and fun characters but it is simply the artistic choice here, introducing a Magilou here will probably just break any kind of seriousness the plot is going for. This just further shows that Tales team knows how to design a cast based on the needs, and not just always depend on quirky characters e.g Jade/Magilou/Zelos for a cast to work.
+
+Gameplay: The original Tales battle systems work by chaining long combos and flashy moves, staggering enemies for a long period of time. But this entry with fast pace action requires constant dodging and low commitment to attacks. The two ideas are mostly conflicting design philosophies. There is no 1+1>2 rather a sad compromise on both ends. The subpar balancing only made things even worse. Every encounter relies on boost attack to down things to deal bearable damage. Counterattacks are very underwhelming.
+
+Music: Sakuraba embraces his inner Dark Souls and gives up the traditional JRPG sound, probably to make the game feel grander. I can count the memorable melodic tracks with maybe 1 hand. Flames of Hope is fantastic, this time they only replaced it with an inferior version of the same thing in Act 2, which is a huge improvement. Usually I prefer rock for battle themes, but this track is just not the same with that violin.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| A | A | A- | B | Shionne/Rinwell |
 
 ---
 
@@ -1317,7 +1332,7 @@ Most bosses are just annoying in the first attempts, then boring when you know h
 | C | C | A- | A- |  |
 
 #### Code Vein 
-A very nice bridge between JRPG and Soulslike. Story is your typical post apocalyptic plot, filled with tragic people with tragic backstory... It's not the most interesting thing ever but it works just fine for a gameplay centric game. The flashback system is effective at establishing the many backstories. Gameplay emulates Soulslike well enough but keeping the easy mode accessible.
+A very nice bridge between JRPG and Soulslike. Story is your typical post apocalyptic plot, filled with tragic people with tragic backstory. It's not the most interesting thing ever but it works just fine for a gameplay centric game. The flashback system is effective at establishing the many backstories. Gameplay emulates Soulslike well enough but keeping the easy mode accessible.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -1477,19 +1492,18 @@ I tried.
 Again, non linear storytelling rarely works for me.
 
 #### Shadow Hearts (Progress before dropped: 95%)
-Emulator decides to erase heal/shop point right before final boss, not that I really care about the ending at that point.
+Emulator decides to erase heal/shop point right before final boss, not that I really care about the ending at that point. I watched it, it was ok.
 
 ---
 
 ### **NEXT UP/ONGOING**
 - Yakuza: Like A Dragon
-- Tales of Arise
+
 
 ### **INTERESTED IN**
 - Hi-Fi Rush
 - Ace Attorney series
 - Grandia
-- Valkyrie Profile 2nd attempt
 - Breath of Fire II
 - Mass Effect Trilogy
 
@@ -1561,7 +1575,7 @@ Based on overall enjoyment. Order may be different based on different aspects.
 `The Wind Waker > Twilight Princess > A Link to the Past > A Link Between Worlds > The Minish Cap > Ocarina of Time > Majora's Mask`
 
 #### **Trails**
-`Sky FC > Sky SC = Azure > Zero = CSI > Sky 3rd > CSII`
+`Sky FC > Sky SC = Azure > Zero = CS1 > Sky 3rd >> CS2`
 
 #### **Danganronpa**
 `2 > UDG > 1 > V3`
