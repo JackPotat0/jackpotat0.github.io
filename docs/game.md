@@ -923,7 +923,8 @@ There are many things I liked about 0 as a sequel, but there are even more thing
 </details>
 <details>
   <summary>Kurisu</summary>
-	AI or not, Kurisu remains as the perfect waifu. The brief shift to Alpha WL is the deserved goodbye we didnt get in S;G. We got one whole episode with Kurisu in the anime, but somehow the closure is much stronger in the game. I also like her explanation of why Okabe should choose Beta in any case. I only realized the reason of having new Kurisu sprites is because there are not much friendly and polite faces for her in the original game, it is always the shy or smug faces, and that's why Okabe knows about an entirely different Kurisu from Maho. 
+	AI or not, Kurisu remains as the perfect waifu. The brief shift to Alpha WL is the deserved goodbye we didnt get in S;G. We got one whole episode with Kurisu in the anime, but somehow the closure is much stronger in the game. I also like her explanation of why Okabe should choose Beta in any case.  
+	AI or not, Kurisu remains as the perfect waifu. The brief shift to Alpha WL is the deserved goodbye we didnt get in S;G. We got one whole episode with Kurisu in the anime, but somehow the closure is much stronger in the game. I also like her explanation of why Okabe should choose Beta in any case.  
 </details>
 <details>
   <summary>Main plot and routes</summary>
@@ -1287,6 +1288,21 @@ Music: Sakuraba embraces his inner Dark Souls and gives up the traditional JRPG 
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A | A | A- | B | Shionne/Rinwell |
 
+#### 买个可乐饼吧！ (Buy a Croquette!) (PC)
+Free indie puzzle adventure game with light horror elements. Just recording here cuz it is really really good for a completely free game. This is how to do a parallel world story. Every story element has some sort of setup and is just very tightly knit together.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| A+ | A+ | A | B | 千绪/小满 |
+
+
+#### Steins;Gate: Linear Bounded Phenogram
+The world of SG is very restrictive yet surprisingly expansive. The timeframe is only August 2010 and certain things have to happen in order, yet the how seems to be infinite. Different details are imagined, new dynamics are explored, what-ifs are asked. Not all stories are equal in quality, but all of them contain the spirit of SG just the same.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| A+ | A+ | B | A | Kurisu/Suzuha |
+
 ---
 
 ### **PRETTY nice but skippable**
@@ -1560,7 +1576,7 @@ Based on overall enjoyment. Order may be different based on different aspects.
 `X > VI > Tactics > IX > VII > VIII > V = IV`
 
 #### **Tales of**
-`Berseria > Abyss > Symphonia > Vesperia`
+`Berseria > Abyss > Symphonia > Arise > Vesperia`
 
 #### **Kingdom Hearts**
 `2FM >> 1 >> Days >> BBS = Re:COM `
