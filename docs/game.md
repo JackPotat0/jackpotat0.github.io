@@ -612,6 +612,24 @@ Music: A somewhat different vibe from Replicant, this soundtrack generally is mo
 
 Best Tracks: City Ruins/Shade, Vague Hope/Cold Rain, Voice of No Return
 
+
+#### Trails of Cold Steel III
+I am a willing prisoner of Falcom, I hate that I am so easily manipulated.
+
+Story: This is a good balance between character driven arcs in Sky and the action heavy plot in Crossbell, all without sacrificing the quality of each part. The thing about forcing OC7's split in CS2 makes more sense now, but doesnt change that it is not well handled in CS2. At this point I will just close my eyes to the Zemurian Etiquette if I want to continue enjoy this series. Chapter 1 is a great callback to CS1. Chapter 2 is simply amazing in every way, definitely a top contender for best chapter in the series. Chapter 3 and 4 have their own merits as well, even if Ch 4 is just an extension into final chapter. The smaller mysteries such as the Gnomes and Hexen Clan and Reinford are pretty well delivered, but the largest one is where things go down and even at risk of undermining any layer left of this arc. I am fine with the idea of history repeats itself, but fate is no reason to allow evil. Hoo boy did Falcom finally pull off another worthy ending after so many flops, even if it's not as smart, it's an easy win and they know it.
+
+Characters: Rean as teacher was probably the best idea Falcom had come up with. Juna is very fun, it really is been a while since we have a normal genki girl in Trails, her struggle as a Crossbellian is perfectly done in Chapter 2. The way Lloyd is shaped to be the mythical hero is just great, it is really funny when we as players know that he really is just a guy doing his absolute best. Kurt is enjoyable, mature in lots of ways but still having much room to grow. Musse and Ash are great additions to the class, their directions feel quite refreshing compared to the usual stuff. I would have wanted their arcs to get resolved this entry but well. Altina's arc is very promising, but just fails to land as hard when her arc is not integrated well into the main plot, at least she is a worthy foe against Tio. Old Class 7 is there I guess, I should shout out to Millium here, I dont how she becomes so much more likeable in just one game. I also really like how the new campus has only 20 students including NC7 and Tita, much easier to get know the school. Old Thors has done well too especially the payoffs in CS2 and seeing familiar faces in CS3, just that it is still a bit too large to remember most side NPCs, and CS3 fixed that almost completely. Claire and Sara's backstories are good too. Rufus's reveal as another blind follower of Osborne is straight up disappointing. As the series goes on it is literally impossible to put every opinion here.
+
+Gameplay: Brave order makes BP much more interesting. With the addition of break and order, infinites are very easy now. Some boss designs heavily depends on gimmicks so they appear just as broken as the cast, sometimes require thinking and setup to get pass fights safely. This is much better than just Arc Slash the way through the game like CS1/2. Vantage Master is good. Sub master quartz gives a lot of potential to the rather limited ARCUS orbment system. Divine Song and Bells are just game breaking.
+
+Music: Sometimes it tries too hard to be CS1 version 2 instead of itself, but otherwise it gave us some of the best tracks in the series (well every entry does, but I am talking top 10 materials here). Theres very little oomph to most of the town themes (other than Parm and Heimdallr and Ordis maybe) and this is really rare for Falcom. The battle themes are all good. Not reusing motifs for Crossbell town is such a crime, throw in a bit of Get Over the Barrier or something at least. Spiral of Erebos is easily the best final dungeon theme in Trails so far, only if Mystic Core is the final dungeon in Azure. Sword of Biting Gale wraps around from annoying to a legendary meme.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| S- | S | S- | S | New Class 7 |
+
+Best Tracks: Spiral of Erebos, Step Ahead, Beyond the Beginning (instrumental)
+
 ---
 
 ### **REALLY good**
@@ -923,7 +941,6 @@ There are many things I liked about 0 as a sequel, but there are even more thing
 </details>
 <details>
   <summary>Kurisu</summary>
-	AI or not, Kurisu remains as the perfect waifu. The brief shift to Alpha WL is the deserved goodbye we didnt get in S;G. We got one whole episode with Kurisu in the anime, but somehow the closure is much stronger in the game. I also like her explanation of why Okabe should choose Beta in any case.  
 	AI or not, Kurisu remains as the perfect waifu. The brief shift to Alpha WL is the deserved goodbye we didnt get in S;G. We got one whole episode with Kurisu in the anime, but somehow the closure is much stronger in the game. I also like her explanation of why Okabe should choose Beta in any case.  
 </details>
 <details>
@@ -1591,7 +1608,7 @@ Based on overall enjoyment. Order may be different based on different aspects.
 `The Wind Waker > Twilight Princess > A Link to the Past > A Link Between Worlds > The Minish Cap > Ocarina of Time > Majora's Mask`
 
 #### **Trails**
-`Sky FC > Sky SC = Azure > Zero = CS1 > Sky 3rd >> CS2`
+`Sky FC > Sky SC = Azure = CS3 > Zero = CS1 > Sky 3rd >> CS2`
 
 #### **Danganronpa**
 `2 > UDG > 1 > V3`
