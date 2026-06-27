@@ -1320,6 +1320,14 @@ The world of SG is very restrictive yet surprisingly expansive. The timeframe is
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A+ | A+ | B | A | Kurisu/Suzuha |
 
+
+#### OneShot
+One of THE games of 2016 and one of the OGs for popularizing meta elements in video games. Finally got to play this, might be a bit too late as this is no longer very novel though. All the OS interactions is still very cool but I am sure it did mess up my keyboard controls unintentionally.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| A+ | A | A | A | Niko |
+
 ---
 
 ### **PRETTY nice but skippable**
