@@ -1328,6 +1328,7 @@ One of THE games of 2016 and one of the OGs for popularizing meta elements in vi
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A+ | A | A | A | Niko |
 
+
 ---
 
 ### **PRETTY nice but skippable**
@@ -1414,6 +1415,15 @@ Falcom what are you still doing with Trails/TX if you are bored with it. Get on 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | C | C | C | A+ |  |
+
+
+#### Narcissu 1&2
+Holds up pretty well despite being very old school. Very effective short stories with good imagery and concise pacing. Not as melodramatic as it implies. It's actually very good material for Mandarin exams LUL. The Christian ideas seen from the eyes of a non Christian writer are sure interesting, even if frustrating for an actual Christian at times. I prefer 1st as it has stronger brevity but both are good.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| A | A | - | A |  |
+
 
 ---
 
