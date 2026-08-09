@@ -311,7 +311,7 @@ Music: There are a few memorable tracks tied to the big story sequences. Overall
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | S+ | S | A | A | Ramza/Agrias/Ovelia |
 
-Best tracks: Run Past Through the Plain, Tension
+Best tracks: Run Past Through the Plain, Tension, Decisive Battle
 
 
 #### OPUS: Echo of Starsong
@@ -500,9 +500,9 @@ Best tracks: Shevat ~ The Wind is Calling, Shattering Egg of Dreams, The Treasur
 
 
 #### Granblue Fantasy Relink
-The triple A Ys game I always wanted. This may be the game that tops KH2 combat for me. Story is impressive in its own way - it simply keeps all the good parts and cut out all the fat in a JRPG. We are here for the cheese and action. No time is wasted on characterization; there is a damsel and there are her knights, and that is enough, sometimes no reason is required. Somehow this clicked but not DQ, maybe presentation played a big part here.
+The AAA Ys game I always wanted. This may be the game that tops KH2 combat for me. Story is impressive in its own way - it simply keeps all the good parts and cut out all the fat in a JRPG. We are here for the cheese and action. No time is wasted on characterization; there is a damsel and there are her knights, and that is enough, sometimes no reason is required. Somehow this clicked but not DQ, maybe presentation played a big part here.
 
-Almost all characters are fun to play in their own way, even they may have similiar base mechanics, every character is still quite different. Combat is fluid and simple to understand with surprising depth and variety. Music is by Tsutomu Narita, one of the veteran FF arrangers. The OST is a good balance of traditional JRPG sound and cinematic sound. Vow and Promise tickled all the right places in my Falcom fanboy brain in the first second.
+Almost all characters are fun to play in their own way, even they may have similiar base mechanics (gauges, perfects, charge attacks), every character is still quite different. Combat is fluid and simple to understand with surprising depth and variety. Music is by Tsutomu Narita, one of the veteran FF arrangers. The OST is a good balance of traditional JRPG sound and cinematic sound. Vow and Promise tickled all the right places in my Falcom fanboy brain in the first second.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -618,7 +618,7 @@ I am a willing prisoner of Falcom, I hate that I am so easily manipulated.
 
 Story: This is a good balance between character driven arcs in Sky and the action heavy plot in Crossbell, all without sacrificing the quality of each part. The thing about forcing OC7's split in CS2 makes more sense now, but doesnt change that it is not well handled in CS2. At this point I will just close my eyes to the Zemurian Etiquette if I want to continue enjoy this series. Chapter 1 is a great callback to CS1. Chapter 2 is simply amazing in every way, definitely a top contender for best chapter in the series. Chapter 3 and 4 have their own merits as well, even if Ch 4 is just an extension into final chapter. The smaller mysteries such as the Gnomes and Hexen Clan and Reinford are pretty well delivered, but the largest one is where things go down and even at risk of undermining any layer left of this arc. I am fine with the idea of history repeats itself, but fate is no reason to allow evil. Hoo boy did Falcom finally pull off another worthy ending after so many flops, even if it's not as smart, it's an easy win and they know it.
 
-Characters: Rean as teacher was probably the best idea Falcom had come up with. Juna is very fun, it really is been a while since we have a normal genki girl in Trails, her struggle as a Crossbellian is perfectly done in Chapter 2. The way Lloyd is shaped to be the mythical hero is just great, it is really funny when we as players know that he really is just a guy doing his absolute best. Kurt is enjoyable, mature in lots of ways but still having much room to grow. Musse and Ash are great additions to the class, their directions feel quite refreshing compared to the usual stuff. I would have wanted their arcs to get resolved this entry but well. Altina's arc is very promising, but just fails to land as hard when her arc is not integrated well into the main plot, at least she is a worthy foe against Tio. Old Class 7 is there I guess, I should shout out to Millium here, I dont how she becomes so much more likeable in just one game. I also really like how the new campus has only 20 students including NC7 and Tita, much easier to get know the school. Old Thors has done well too especially the payoffs in CS2 and seeing familiar faces in CS3, just that it is still a bit too large to remember most side NPCs, and CS3 fixed that almost completely. Claire and Sara's backstories are good too. Rufus's reveal as another blind follower of Osborne is straight up disappointing. As the series goes on it is literally impossible to put every opinion here.
+Characters: Rean as teacher was probably the best idea Falcom had come up with. Juna is very fun, it really is been a while since we have a normal genki girl in Trails, her struggle as a Crossbellian is perfectly done in Chapter 2. The way Lloyd is shaped to be the mythical hero is just great, it is really funny when we as players know that he really is just a guy doing his absolute best. Kurt is enjoyable, mature in lots of ways but still having much room to grow. Musse and Ash are great additions to the class, their directions feel quite refreshing compared to the usual stuff. I would have wanted their arcs to get resolved this entry but well. Altina's arc is very promising, but just fails to land as hard when her arc is not integrated well into the main plot, at least she is a worthy foe against Tio. Old Class 7 is there I guess, I should shout out to Millium here, I dont know how she becomes so much more likeable in just one game. I also really like how the new campus has only 20 students including NC7 and Tita, much easier to get know the school. Old Thors has done well too especially the payoffs in CS2 and seeing familiar faces in CS3, just that it is still a bit too large to remember most side NPCs, and CS3 fixed that almost completely. Claire and Sara's backstories are good too. Rufus's reveal as another blind follower of Osborne is straight up disappointing. As the series goes on it is literally impossible to put every opinion here.
 
 Gameplay: Brave order makes BP much more interesting. With the addition of break and order, infinites are very easy now. Some boss designs heavily depends on gimmicks so they appear just as broken as the cast, sometimes require thinking and setup to get pass fights safely. This is much better than just Arc Slash the way through the game like CS1/2. Vantage Master is good. Sub master quartz gives a lot of potential to the rather limited ARCUS orbment system. Divine Song and Bells are just game breaking.
 
@@ -1303,7 +1303,7 @@ Music: Sakuraba embraces his inner Dark Souls and gives up the traditional JRPG 
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| A | A | A- | B | Shionne/Rinwell |
+| A- | A | A- | B | Shionne/Rinwell |
 
 #### 买个可乐饼吧！ (Buy a Croquette!) (PC)
 Free indie puzzle adventure game with light horror elements. Just recording here cuz it is really really good for a completely free game. This is how to do a parallel world story. Every story element has some sort of setup and is just very tightly knit together.
@@ -1424,6 +1424,12 @@ Holds up pretty well despite being very old school. Very effective short stories
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A | A | - | A |  |
 
+#### Evoland Legendary Edition 
+Cute game. The devs clearly have a lot of love for gaming. Funny references everywhere. Some segments can be annoying like bullet hell.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| B | B | A+ | B |  |
 
 ---
 
@@ -1474,7 +1480,7 @@ Quintet RPG is an acquired taste, I thought I am OK with it after Terranigma but
 
 
 #### Dragon Quest VIII: Journey of the Cursed King (PS2)
-What kind of JRPG fan that has never played a DQ game? Time to fix that. I know full well I will not like the narrative  aspects of the game, just here to experience the "original" RPG vibes. Just as expected I cannot endure to the end.
+What kind of JRPG fan that has never played a DQ game? Time to fix that. I know full well I will not like the narrative aspects of the game, just here to experience the "original" RPG vibes. Just as expected I cannot endure to the end.
 
 The director really be like "You and I know the deal, so I will not even bother to explain and off you go". There is only one cutscene without dialogue to explain the reason of this "journey". The worst part is that that really is all there's to it, no plot twist no nothing (Ok I am sure there will be more but it wont be mind breaking). The characters are all rather one dimensional, which would have been fine if their dialogue is not as bland and dry as it is. Funny accents and voice acting cannot replace good writing. One possible explanation for my annoyance is that the cast is too theaticral for my taste.
 
@@ -1490,14 +1496,14 @@ Map is way too big for walking speed, had to hold turbo for the entire game. GBA
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| B | B | C | A+ |  |
+| C | C | C | A+ |  |
 
 #### Kingdom Hearts Re:Chain of Memories
 Very creative, never cook this up again. I know you didnt.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
-| B | D | B | A+ |  |
+| B | B | B | A+ |  |
 
 ---
 
@@ -1549,15 +1555,16 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 
 ### **NEXT UP/ONGOING**
 - Yakuza: Like A Dragon
+- Cold Steel 4
+- Grandia
+- Mass Effect Trilogy
 
 
 ### **INTERESTED IN**
 - Hi-Fi Rush
 - Ace Attorney series
-- Grandia
 - Breath of Fire II
-- Mass Effect Trilogy
-
+- Stella Glow
 
 ### **INTERESTED but maybe someday**
 - FF7 Remake trilogy
