@@ -974,7 +974,7 @@ I really want to put the Trails games at the Man tier if possible, sadly this is
 
 Story/Plot: The game is actually stronger at delivering the themes of self identity using a nobility society as a backdrop. Everyones arc are intentionally tied to this theme, with different levels of depth and POVs. The class conflict themes are handled much stronger than Vesperia. The Zemurian Etiquette is so annoying, seems like the writer do not know how to start a conversation without that. The school episodes also has a strong thematic coherence, in some ways more successful than Zero. I can see why the ending sequences are arranged in this way, and I like what they are aiming for but they need to be do it either leaner or more evocative - it simply feels like a disc transition and there are many PS1 games with stronger disc transitions than this.
 
-Characters: One thing I only noticed after playing so many Falcom games is that they generally play their characters very straight, to the point of boring at times. They follow their tropes to a T and never do any kind of reverse e.g. typically in other animes Laura would have some kind of gap moe. But this really makes them commit and deliver the themes for each character fully when done well, instead of adding more labels for the waifu bait. The class dynamic is executed decently overall. This is very different from Sky and Crossbell where those do not realy go deep into character interplay, despite all having an "ensemble" cast. You just mix better with some classmates than others, just like in real life. The cast differs from the previous ones where they are not strictly tied to the protagonist. Other characters exists independently without Rean even if he is at the center. Unlike Estelle being the reason for adventure or Lloyd being the key 1/4 in SSS, Class VII will work without Rean (the story is designed so he brings the best out of everyone, but point is the bulk of the story will still largely work without him; just imagine Gaius as the MC, he has the drip, is the fish-out-of-water, you get the idea). Not a big fan of adding Millium and Crow at 3/4 of the game. In the end I really like Class VII in general.
+Characters: One thing I only noticed after playing so many Falcom games is that they generally play their characters very straight, to the point of boring at times. They follow their tropes to a T and never do any kind of reverse e.g. typically in other animes Laura would have some kind of gap moe (now I see that is their attempt at gap moe, well what can I say). But this really makes them commit and deliver the themes for each character fully when done well, instead of adding more labels for the waifu bait. The class dynamic is executed decently overall. This is very different from Sky and Crossbell where those do not realy go deep into character interplay, despite all having an "ensemble" cast. You just mix better with some classmates than others, just like in real life. The cast differs from the previous ones where they are not strictly tied to the protagonist. Other characters exists independently without Rean even if he is at the center. Unlike Estelle being the reason for adventure or Lloyd being the key 1/4 in SSS, Class VII will work without Rean (the story is designed so he brings the best out of everyone, but point is the bulk of the story will still largely work without him; just imagine Gaius as the MC, he has the drip, is the fish-out-of-water, you get the idea). Not a big fan of adding Millium and Crow at 3/4 of the game. In the end I really like Class VII in general.
 
 <details>
   <summary>Rean</summary>
@@ -1028,6 +1028,22 @@ Music: There is a surprising number chill tracks just for normal school life, ma
 
 Best tracks: The Glint of Cold Steel, Afterschool Hours, Legram the Lakeside Town
 
+#### Trails of Cold Steel IV
+Everything in this game can be described as "This could be worse". CS as a series is so infuriating, but also endearing enough that it's hard to truly hate it. Perhaps this is the real Falcom charm, even at their lowest you cannot help but to pray for them to redeem themselves.
+
+Story/Plot: Cold Steel 2 remake, but actually kind of OK. Act 1 and 2 is trimmed down and edited to be a lot more hype than CS2. Black Workshop sequence is the best executed sequence in all of CS. Airship sequence is good, I was grinning like an idiot with everyone on board the entire time. The events after the multi fight really shows the issue of too many people having 1 liners, and way too many things happening at once. All of this is what they reaped from the previous 3 games. This game is at least successful at creating hype, even if the substance might be questionable. The curse thingy is as bad as expected, just blame everything to the curse. It seems that they still got something in them with that plot twist. The finale is just all anime, this feels like KH2 all over again.
+
+Characters: NC7's arc is quickly wrapped up in Act 1, Juna remains enjoyable, Altina's emotions is good to see, Kurt is alright(i do like him a lot tho, just chillin), Ash's story got tied to the curse, Musse is the best one out of all of them, though if they tried a bit too hard. Cedric is surprisingly well done. They certainly did not hesitate to milk Millium every time they could. The game forces romance on all the female characters including freaking Juna, Altina, Alfin and Elise, why Falcom why, you could have copied Persona easily. I really dont know how to feel about Rean as a character. He is a good and a bad character at once. At least most of the returning characters are not ruined, except Agate and Tita. 
+
+Gameplay: The amount of playable characters reaches a point where you can play nuzlocke in Act 2 and honestly that might be fun. I can see the fun in messing with different combos of Brave Orders and crafts. This system is deep enough where you can genuinely use different strategies to achieve the same goals. Allowing sharing sub MQ opens up so much, but does not really fix the bad MQs.
+
+Music: The OST is painfully mid, even worse than CS2 which has some masterpieces (I know a lot of people love CS2 OST though), a real shame. A lot of really odd tracks, or just downright kind of bad (Blue Stardust hello??), and most of the bad ones are battle themes which is just insulting. I am definitely not a Singa hater but I can see this is where music quality really goes downhill. The good ones are mostly forgettable by Falcom standards, I want to say Sonoda also is a bit burnt out at this point. I cannot recall a CS4 track from the epic airship sequence. "Bonds -Relations-" and "Behind the Lore" are definitely way overused. Ashita e no Kiseki is the same as CS2 OP - the best part is the first few seconds.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| A+ | S- | S | A | Musse |
+
+Best tracks: Seductive Shudder, Bonds -Relations-, Burning Throb
 
 ---
 
@@ -1201,7 +1217,7 @@ Characters: The protagonist is silent, even the character description has nothin
 
 Gameplay: The basic battle system is pretty fun, but its execution could have been better. Looks confusing at first but completely clear on the second look (no in game tutorial and looking up online). Very unique take on skills/magic and MP systems. The issue is that the progression feels VERY weak, I don't feel like getting stronger at all. While I think the levelling mechanic is kinda smart, it really takes away the sense of levelling up. Also it does not encourage you to use stronger skills, which is really weird. Equipment upgrades are far and few. All this combined and the gameplay feels stale over time.
 
-Music: This is definitely one of my favourite OSTs of all time. The OST probably deserved a better game to go along. It is tempting to just say the music here is superior to CT (they are at least equally great for sure). Maybe it's recency bias I prefer the OST in CC over CT, but we will see in a few years. Mitsuda nailed the tropical sounds perfectly. References to Chrono Trigger OST is fantastic. Unstolen Jewel is so beautiful, it ranks right under **Dearly Beloved**, same as **Song of the Ancients** and **To Zanarkand** as of writing. Still not a fan of the battle theme, at least the boss theme and final boss theme is quite decent.
+Music: This is definitely one of my favourite OSTs of all time. The OST probably deserved a better game to go along. It is tempting to just say the music here is superior to CT (they are at least equally great for sure). Maybe it's recency bias I prefer the OST in CC over CT, but we will see in a few years (few years has passed, CC is still my #1 OST). Mitsuda nailed the tropical sounds perfectly. References to Chrono Trigger OST is fantastic. Unstolen Jewel is so beautiful, it ranks right under **Dearly Beloved**, same as **Song of the Ancients** and **To Zanarkand** as of writing. Still not a fan of the battle theme, at least the boss theme and final boss theme is quite decent.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -1322,7 +1338,7 @@ The world of SG is very restrictive yet surprisingly expansive. The timeframe is
 
 
 #### OneShot
-One of THE games of 2016 and one of the OGs for popularizing meta elements in video games. Finally got to play this, might be a bit too late as this is no longer very novel though. All the OS interactions is still very cool but I am sure it did mess up my keyboard controls unintentionally.
+One of THE games of 2016 and one of the OGs for popularizing meta elements in video games. Finally got to play this, might be a bit too late as this is no longer very novel though. All the OS interactions is still very cool.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -1403,7 +1419,7 @@ It feels like a Tales game, but only the base structure and nothing else. Dungeo
 Instead of Ys 8 beta, this game feels more like Napishtim 3D. Once you accept this fact and accept all its quirk including but not limited to: all the annoying stuff in Celceta, semi-reliable guard, strict level scaling and very stingy SP; you can just play this like the Napishtim engine games but jankier, though this does add extra layer of strategy that doesnt exist in later entries. For example since it is so easy to get stunlocked, you need to switch character just to distract the boss so the stunned person doesnt get deleted. You also need to carefully plan and use skills instead of spamming like in the later games.
 But overall I really regret picking Hard for first playthrough, it is simply not rewarding. The amount of polish in Ys VIII is truly a miracle coming from SEVEN and Celceta. 
 
-They chose not to have a definitive love interest which is fine, but they dont even try to make the new guests become too  likable, that is just weird. Music wise is rather meh for Falcom imo. As the first game with playable Dogi, he deserved a better sprite art and kit than this. One interesting thing about this game is its FF9-like weapon skills system, though that can prove to be annoying as now I am "forced" to buy weapons when I see to not lose out on possible kit improvements.
+They chose not to have a definitive love interest which is fine, but they dont even try to make the new guests become too likable, that is just weird. Music wise is rather meh for Falcom imo. As the first game with playable Dogi, he deserved a better sprite art and kit than this. One interesting thing about this game is its FF9-like weapon skills system, though that can prove to be annoying as now I am "forced" to buy weapons when I see to not lose out on possible kit improvements.
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -1555,7 +1571,6 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 
 ### **NEXT UP/ONGOING**
 - Yakuza: Like A Dragon
-- Cold Steel 4
 - Grandia
 - Mass Effect Trilogy
 
@@ -1633,7 +1648,7 @@ Based on overall enjoyment. Order may be different based on different aspects.
 `The Wind Waker > Twilight Princess > A Link to the Past > A Link Between Worlds > The Minish Cap > Ocarina of Time > Majora's Mask`
 
 #### **Trails**
-`Sky FC > Sky SC = Azure = CS3 > Zero = CS1 > Sky 3rd >> CS2`
+`Sky FC > Sky SC = Azure > CS3 >= Zero = CS1 > CS4 > Sky 3rd >> CS2`
 
 #### **Danganronpa**
 `2 > UDG > 1 > V3`
