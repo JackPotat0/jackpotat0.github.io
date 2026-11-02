@@ -596,7 +596,7 @@ Portal 1 or 2: Portal 1 has the simple elegance and charm that you can only expe
 
 
 #### Nier Automata
-I don't know whether to put this here or the highest rank. This game is not as depressing as I imagined, but that is fine I guess.
+I don't know whether to put this here or the highest rank. This game is not as depressing as I imagined, but that is fine I guess. I really don't vibe that much with Yoko Taro, as much as I wanted to.
 
 Story: The story is more on big concepts than character driven, reminds me a lot of FF7 in terms of narrative. The start of Route C is just mindblowing. I am so immersed in the story that I did not even doubt or try to guess the plot twist. The stage is so perfectly designed to tell its story. Amusement Park is one of the most hauntingly beautiful locations in a video game.
 
@@ -1031,7 +1031,7 @@ Best tracks: The Glint of Cold Steel, Afterschool Hours, Legram the Lakeside Tow
 #### Trails of Cold Steel IV
 Everything in this game can be described as "This could be worse". CS as a series is so infuriating, but also endearing enough that it's hard to truly hate it. Perhaps this is the real Falcom charm, even at their lowest you cannot help but to pray for them to redeem themselves.
 
-Story/Plot: Cold Steel 2 remake, but actually kind of OK. Act 1 and 2 is trimmed down and edited to be a lot more hype than CS2. Black Workshop sequence is the best executed sequence in all of CS. Airship sequence is good, I was grinning like an idiot with everyone on board the entire time. The events after the multi fight really shows the issue of too many people having 1 liners, and way too many things happening at once. All of this is what they reaped from the previous 3 games. This game is at least successful at creating hype, even if the substance might be questionable. The curse thingy is as bad as expected, just blame everything to the curse. It seems that they still got something in them with that plot twist. The finale is just all anime, this feels like KH2 all over again.
+Story/Plot: Cold Steel 2 remake, but actually kind of OK. Act 1 and 2 is trimmed down and edited to be a lot more hype than CS2. Black Workshop sequence is the best executed sequence in all of CS. Airship sequence is good, I was grinning like an idiot with everyone on board the entire time. The events after the multi fight really shows the issue of too many people having 1 liners, and way too many things happening at once. All of this is what they reaped from the previous 3 games. This game is at least successful at creating hype, even if the substance might be questionable. The curse thingy is as bad as expected, just blame everything to the curse. It seems that they still got something in them with that plot twist. The finale is just all anime. Well this game is literally KH3 for KH series.
 
 Characters: NC7's arc is quickly wrapped up in Act 1, Juna remains enjoyable, Altina's emotions is good to see, Kurt is alright(i do like him a lot tho, just chillin), Ash's story got tied to the curse, Musse is the best one out of all of them, though if they tried a bit too hard. Cedric is surprisingly well done. They certainly did not hesitate to milk Millium every time they could. The game forces romance on all the female characters including freaking Juna, Altina, Alfin and Elise, why Falcom why, you could have copied Persona easily. I really dont know how to feel about Rean as a character. He is a good and a bad character at once. At least most of the returning characters are not ruined, except Agate and Tita. 
 
@@ -1044,6 +1044,8 @@ Music: The OST is painfully mid, even worse than CS2 which has some masterpieces
 | A+ | S- | S | A | Musse |
 
 Best tracks: Seductive Shudder, Bonds -Relations-, Burning Throb
+
+
 
 ---
 
@@ -1297,14 +1299,6 @@ Cool game. Good experience. The story does not really resonate with me which is 
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A | B | A | A |  |
 
-#### Trails of Cold Steel II
-If there is anything good about this game, Sky SC did those and just as good if not better, actually this game made me appreciate Sky SC more, given it is always falling a bit short of FC for me. Act 1 is a slog, Act 2 feels largely pointless towards the main conflict and those made up 2/3 of the game. The ending sequence in Finale almost made suffering through the game worth it, and I take all of that back after the real ending. Similiar to CS1, I can see the vision but both are definitely not a good way to arrange the ending sequences, just have one normal ending if you cannot pull this off. At least the final final boss is a real fight (the fight itself sucked though). I still like Class 7 alright but it quickly turns into the typical JRPG party. Crow's backstory and motive is actually quite decent. A big W for not pulling another Akechi, this alone makes this game so much better, while they still mention wanting back Crow here and there, but nowhere egregious as PT, and he got a fitting end (well we all know what happened after but lets ignore that for now). Rean's arc is decent enough, more convincing than most JRPG protagonists solely with the amount of build up. Travelling around the world to find friends is really neat, so is climbing the corporate tower guarded with enemies. Reusing mini boss themes is lame, meh ambient tracks are back (not as much as Azure), at least there are some tracks to make up for it.
-
-| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
-| ------------- | ------------- | --------- | ------------ | --------------- |
-| B+ | A+ | A+ | A+ | Celine/Valimar |
-
-Best Tracks: Blue Destination, Awakening, Wintry Arrival
 
 #### Tales of Arise
 This is a game that tries to please everyone, but in the end pleases no one in particular.
@@ -1344,6 +1338,20 @@ One of THE games of 2016 and one of the OGs for popularizing meta elements in vi
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | A+ | A | A | A | Niko |
 
+#### Grandia (PS1)
+This looks like Lunar, plays like Lunar, feels like Lunar; but this just does not hit like Lunar, unfortunately.
+
+Story/Plot: Since when every adventure needs to rescue the princess, or collect 4 crystals, or achieve anything at the end? Since when did we forget the journey itself is the adventure? This is the journey only (mostly) driven by the intrinsic belief that something is out there, and going out there is the purpose itself. All the cutscenes are quite short and there is almost no downtime at all. I forgot if Lunar is similiar in this way. Wow and there is the romance, I hoped more in Lunar 2, Justin/Feena sort of fills that itch. The writing is clumsy but sincere. I can see why Sue is removed from the story but it's just not the same after she left. The endgame feels like a slog.
+
+Characters: Finally there is a game that compares with Sky sprites in terms of expressiveness and variety. Everyone is just so full of life. Justin is kind of the Alex I wanted. Feena is cute, her sprites are so good, sorry Feena from Ys but you are not even the best Feena. Sue is endearing where her personality would be annoying in other games.
+
+Gameplay: No random encounters, decent dungeon sizes, the compass is quite bad. Skill level system encourages using the entire kit but feels very grindy and forced. The action bar system is probably the inspiration for Child of Light. The game is definitely a bit too easy. It has gotten so easy that doing encounters is just a chore.
+
+Music: It's not bad but nothing too impressive. 
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| B | A- | A | B | Feena |
 
 ---
 
@@ -1368,7 +1376,7 @@ Characters: The characters are pretty cliche but it should be spared for being a
 
 Gameplay: Very standard, old school turn based system without anything notable. The inventory system is quite annoying. A lot more enjoyable on emulator to dodge encounters. No random encounter is great as usual. Surprising difficulty spike in the final dungeon? It did exactly different things compared to other RPG of the same age which are linear world maps, saving anywhere and giving lots of free heals, which I am sure is a big surprise to people played on release. 
 
-Music: There are some bangers here and there. The battle theme is pretty catchy and addicting. The final boss not having a unique theme is a huge letdown. The main theme - Althena's Song is quite emotional too. But overall it is a OST just above average for me. 
+Music: There are some bangers here and there. The battle theme is pretty catchy and addicting. The main theme - Althena's Song is quite emotional too. But overall it is a OST just above average for me. 
 
 | Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
 | ------------- | ------------- | --------- | ------------ | --------------- |
@@ -1521,6 +1529,15 @@ Very creative, never cook this up again. I know you didnt.
 | ------------- | ------------- | --------- | ------------ | --------------- |
 | B | B | B | A+ |  |
 
+#### Trails of Cold Steel II
+If there is anything good about this game, Sky SC did those and just as good if not better, actually this game made me appreciate Sky SC more, given it is always falling a bit short of FC for me. Act 1 is a slog, Act 2 feels largely pointless towards the main conflict and those made up 2/3 of the game. The ending sequence in Finale almost made suffering through the game worth it, and I take all of that back after the real ending. Similiar to CS1, I can see the vision but both are definitely not a good way to arrange the ending sequences, just have one normal ending if you cannot pull this off. At least the final final boss is a real fight (the fight itself sucked though). I still like Class 7 alright but it quickly turns into the typical JRPG party. Crow's backstory and motive is actually quite decent. A big W for not pulling another Akechi, this alone makes this game so much better, while they still mention wanting back Crow here and there, but nowhere egregious as PT, and he got a fitting end (well we all know what happened after but lets ignore that for now). Rean's arc is decent enough, more convincing than most JRPG protagonists solely with the amount of build up. Travelling around the world to find friends is really neat, so is climbing the corporate tower guarded with enemies. Reusing mini boss themes is lame, meh ambient tracks are back (not as much as Azure), at least there are some tracks to make up for it.
+
+| Story/Plot    | Characters    | Gameplay  | Music        | Best Girls/Boys |
+| ------------- | ------------- | --------- | ------------ | --------------- |
+| B+ | A+ | A+ | A+ | Celine/Valimar |
+
+Best Tracks: Blue Destination, Awakening, Wintry Arrival
+
 ---
 
 ### **DROPPED**
@@ -1571,15 +1588,14 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 
 ### **NEXT UP/ONGOING**
 - Yakuza: Like A Dragon
-- Grandia
 - Mass Effect Trilogy
-
 
 ### **INTERESTED IN**
 - Hi-Fi Rush
 - Ace Attorney series
 - Breath of Fire II
 - Stella Glow
+- Zero Escape
 
 ### **INTERESTED but maybe someday**
 - FF7 Remake trilogy
@@ -1587,6 +1603,7 @@ Emulator decides to erase heal/shop point right before final boss, not that I re
 - Atelier Sophie
 - Xenosaga
 - Ghost Trick
+- Blue Reflection
 
 ### SWITCH wishlist
 - Xenoblade Chronicles
